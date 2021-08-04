@@ -1,0 +1,645 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs35198068-<b>T</b>,"4 x 10-28",,0.71,'-,'-,'-,'-,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,"Mapping not available"
+rs429358-<b>T</b>,"1 x 10-126",,0.8533,'-,'-,'-,'-,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,"Mapping not available"
+rs4970836-<b>G</b>,"3 x 10-8",,0.2367,'-,'-,'-,"CELSR2, PSRC1","Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,1:109279175
+rs1230666-<b>G</b>,"2 x 10-9",,0.8533,'-,'-,'-,MAGI3,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,1:113630788
+rs1275922-<b>G</b>,"2 x 10-8",,0.74,'-,'-,'-,KCNK3,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,2:26710019
+rs700635-<b>A</b>,"2 x 10-8",,0.7233,'-,'-,'-,FLACC1,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,2:201288502
+rs2643826-<b>C</b>,"4 x 10-8",,0.5533,'-,'-,'-,"Y_RNA, RNU1-96P","Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,3:27521497
+rs61348208-<b>T</b>,"3 x 10-8",,0.3967,'-,'-,'-,HTT,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,4:3087837
+rs17499404-<b>A</b>,"4 x 10-8",,0.5367,'-,'-,'-,LINC02513,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,4:38383858
+rs12203592-<b>C</b>,"8 x 10-26",,0.81,'-,'-,'-,IRF4,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,6:396321
+rs34831921-<b>A</b>,"6 x 10-13",,0.1,'-,'-,'-,"HLA-DRB1, HLA-DQA1","Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,6:32622991
+rs1159806-<b>T</b>,"1 x 10-8",,0.3467,'-,'-,'-,"LINC00222, FOXO3","Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,6:108685635
+rs10455872-<b>A</b>,"4 x 10-30",,0.9267,'-,'-,'-,LPA,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,6:160589086
+rs7859727-<b>C</b>,"4 x 10-18",,0.51,'-,'-,'-,CDKN2B-AS1,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,9:22102166
+rs1126809-<b>G</b>,"8 x 10-13",,0.7133,'-,'-,'-,TYR,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,11:89284793
+rs61905747-<b>A</b>,"4 x 10-10",,0.8167,'-,'-,'-,ZW10,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,11:113769120
+rs12830425-<b>G</b>,"8 x 10-9",,0.0733,'-,'-,'-,FGD6,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,12:95187042
+rs7137828-<b>T</b>,"5 x 10-12",,0.5167,'-,'-,'-,ATXN2,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,12:111494996
+rs8042849-<b>T</b>,"1 x 10-24",,0.64,'-,'-,'-,HYKK,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,15:78525587
+rs6224-<b>G</b>,"2 x 10-9",,0.53,'-,'-,'-,FURIN,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,15:90880313
+rs4783780-<b>A</b>,"1 x 10-8",,0.5333,'-,'-,'-,TOX3,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,16:52537524
+rs4268748-<b>T</b>,"7 x 10-12",,0.7067,'-,'-,'-,DEF8,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,16:89960104
+rs6511720-<b>T</b>,"4 x 10-9",,0.12,'-,'-,'-,LDLR,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,19:11091630
+rs159428-<b>T</b>,"4 x 10-8",,0.4633,'-,'-,'-,NOL4L,"Aging traits (healthspan, parental lifespan or longevity) (multivariate analysis)","longevity, healthspan, parental longevity",GCST011100,20:32511508
+rs1356888-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,NRXN1,Longevity,longevity,GCST000785,2:50288880
+rs9616906-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,"ARSA, Y_RNA",Longevity,longevity,GCST000785,22:50666252
+rs3212335-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,GABRB3,Longevity,longevity,GCST000785,15:26766994
+rs2031577-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,MIR6078,Longevity,longevity,GCST000785,10:4007811
+rs6489785-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,'-,Longevity,longevity,GCST000785,"Mapping not available"
+rs3847687-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,ADGRD1,Longevity,longevity,GCST000785,12:131040508
+rs4891159-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,ZNF516,Longevity,longevity,GCST000785,18:76389985
+rs4745062-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,TRPM3,Longevity,longevity,GCST000785,9:71169348
+rs2024714-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,CDH4,Longevity,longevity,GCST000785,20:61637438
+rs2882281-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,PEX12P1,Longevity,longevity,GCST000785,13:89970201
+rs9876781-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,"ATRIP, TMA7",Longevity,longevity,GCST000785,3:48445934
+rs9517320-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,STK24,Longevity,longevity,GCST000785,13:98474049
+rs4148546-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,ABCC4,Longevity,longevity,GCST000785,13:95028031
+rs739401-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,CARS1,Longevity,longevity,GCST000785,11:3015094
+rs4721135-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,MAD1L1,Longevity,longevity,GCST000785,7:1872586
+rs432203-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,TGFA,Longevity,longevity,GCST000785,2:70537556
+rs7315621-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,LINC02414,Longevity,longevity,GCST000785,12:131600651
+rs16975963-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,WDR87BP,Longevity,longevity,GCST000785,19:37834896
+rs4732038-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,AKR1B15,Longevity,longevity,GCST000785,7:134565570
+rs4468878-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,CDH4,Longevity,longevity,GCST000785,20:61353181
+rs13008689-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,LINC00299,Longevity,longevity,GCST000785,2:8390126
+rs10256972-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,C7orf50,Longevity,longevity,GCST000785,7:999367
+rs3106598-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,LINC00378,Longevity,longevity,GCST000785,13:61104778
+rs13053175-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,"SSTR3, RAC2",Longevity,longevity,GCST000785,22:37217269
+rs5766691-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,TBC1D22A,Longevity,longevity,GCST000785,22:47136753
+rs13118159-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,UVSSA,Longevity,longevity,GCST000785,4:1371339
+rs7168365-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,WDR72,Longevity,longevity,GCST000785,15:53513628
+rs7493138-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,"RPL26P3, LINC02300",Longevity,longevity,GCST000785,14:28552722
+rs6813479-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,LINC02511,Longevity,longevity,GCST000785,4:136739228
+rs1327533-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,SVEP1,Longevity,longevity,GCST000785,9:110368883
+rs2826891-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,NCAM2,Longevity,longevity,GCST000785,21:21537795
+rs2282032-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,NRDE2,Longevity,longevity,GCST000785,14:90292547
+rs6568433-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,CRYBG1,Longevity,longevity,GCST000785,6:106381662
+rs9592783-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,RABEPKP1,Longevity,longevity,GCST000785,13:71309082
+rs6915183-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,"GNG5P1, PRR18",Longevity,longevity,GCST000785,6:166292681
+rs2516739-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,NTHL1,Longevity,longevity,GCST000785,16:2047157
+rs7874142-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,COL5A1,Longevity,longevity,GCST000785,9:134812936
+rs2273-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,SDAD1,Longevity,longevity,GCST000785,4:75968235
+rs10445407-<b>?</b>,"1 x 10-6","(less than or equal to)",NR,'-,'-,'-,SLC38A10,Longevity,longevity,GCST000785,17:81288009
+rs12643325-<b>A</b>,"9 x 10-6",,NR,'-,"0.01937 unit increase",[0.011-0.028],"ANKRD50, LINC02516",Longevity,longevity,GCST009448,4:124576758
+rs12929740-<b>A</b>,"8 x 10-6",,NR,'-,"0.02144 unit increase",[0.012-0.031],TMEM114,Longevity,longevity,GCST009448,16:8490729
+rs17113092-<b>A</b>,"4 x 10-6",,NR,'-,"0.0312 unit increase",[0.018-0.044],LINC01755,Longevity,longevity,GCST009448,1:55894081
+rs799605-<b>A</b>,"2 x 10-6",,NR,'-,"0.05627 unit increase",[0.033-0.079],SDHAF3,Longevity,longevity,GCST009448,7:97257123
+rs12949468-<b>?</b>,"5 x 10-20",(females),0.157,'-,"9.226 unit decrease",[NR],TLK2,Lifespan,longevity,GCST002846,17:62516455
+rs4639950-<b>?</b>,"2 x 10-16",(females),0.1455,'-,"7.619 unit decrease",[NR],MFRP,Lifespan,longevity,GCST002846,11:119345845
+rs7894051-<b>?</b>,"3 x 10-10",(females),0.203,'-,"3.525 unit decrease",[NR],ECHS1,Lifespan,longevity,GCST002846,10:133370917
+rs2292664-<b>?</b>,"1 x 10-8",(females),0.081,'-,"5.828 unit decrease",[NR],RIMBP2,Lifespan,longevity,GCST002846,12:130437119
+rs2229188-<b>?</b>,"2 x 10-8",(females),0.087,'-,"5.445 unit decrease",[NR],CYP51A1,Lifespan,longevity,GCST002846,7:92134309
+rs11574358-<b>?</b>,"6 x 10-8",(females),0.074,'-,"5.584 unit increase",[NR],WRN,Lifespan,longevity,GCST002846,8:31147066
+rs4904670-<b>?</b>,"2 x 10-9",(females),0.13,'-,"5.026 unit decrease",'-,NRDE2,Lifespan,longevity,GCST002846,14:90303866
+rs602633-<b>T</b>,"3 x 10-8",,0.217,'-,"0.015 unit decrease",[0.0097-0.0203],"CELSR2, PSRC1","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,1:109278889
+rs55730499-<b>C</b>,"2 x 10-18",,0.92,'-,"0.0361 unit decrease",[0.028-0.044],LPA,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:160584578
+rs1556516-<b>G</b>,"5 x 10-16",,0.502,'-,"0.0181 unit decrease",[0.014-0.022],CDKN2B-AS1,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,9:22100177
+rs7137828-<b>C</b>,"3 x 10-14",,0.483,'-,"0.017 unit increase",[0.013-0.021],ATXN2,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:111494996
+rs1317286-<b>A</b>,"1 x 10-26",,0.668,'-,"0.0254 unit decrease",[0.021-0.03],CHRNA3,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,15:78603787
+rs17514846-<b>C</b>,"7 x 10-10",,0.53,'-,"0.0139 unit decrease",[0.0094-0.0184],FURIN,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,15:90873320
+rs429358-<b>T</b>,"1 x 10-74",,0.845,'-,"0.0566 unit decrease",[0.051-0.063],'-,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,"Mapping not available"
+rs7844965-<b>G</b>,"8 x 10-9",,0.768,'-,"0.0154 unit increase",[0.01-0.021],GULOP,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,8:27584547
+rs61978928-<b>T</b>,"2 x 10-8",,0.688,'-,"0.0136 unit increase",[0.0089-0.0183],"YLPM1, PROX2","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,14:74855011
+rs28926173-<b>G</b>,"6 x 10-6",,NR,'-,'-,[NR],MC2R,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,18:13886720
+rs3130507-<b>G</b>,"4 x 10-6",,NR,'-,'-,[NR],POU5F1,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:31179699
+rs3131621-<b>A</b>,"9 x 10-8",,NR,'-,'-,[NR],"LINC01149, HCP5","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:31457722
+rs74011415-<b>G</b>,"7 x 10-6",,NR,'-,'-,[NR],SEMA6D,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,15:47367997
+rs2273500-<b>T</b>,"4 x 10-7",,NR,'-,'-,[NR],CHRNA4,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,20:63355597
+rs9456508-<b>T</b>,"4 x 10-8",,0.978225,'-,"0.0425855 unit decrease",[0.028-0.058],SLC22A2,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:160177564
+rs9295128-<b>G</b>,"2 x 10-11",,0.983087,'-,"0.0594745 unit decrease",[0.042-0.077],"SLC22A2, SLC22A3","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:160330499
+rs1510224-<b>T</b>,"4 x 10-11",,0.981542,'-,"0.0553182 unit decrease",[0.039-0.072],LPAL2,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:160473846
+rs186696265-<b>C</b>,"8 x 10-18",,0.985233,'-,"0.0802938 unit decrease",[0.062-0.099],"LPA, PLG","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:160690668
+rs143843429-<b>A</b>,"4 x 10-9",,0.983804,'-,"0.0549336 unit decrease",[0.037-0.073],MAP3K4-AS1,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:160962047
+rs4426183-<b>T</b>,"2 x 10-11",,0.428782,'-,"0.0153237 unit increase",[0.011-0.02],LINC01405,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:110935600
+rs1265564-<b>A</b>,"6 x 10-9",,0.557672,'-,"0.0133386 unit decrease",[0.0088-0.0178],CUX2,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:111270654
+rs11065979-<b>C</b>,"2 x 10-12",,0.562141,'-,"0.0158643 unit decrease",[0.011-0.02],"BRAP, ATXN2-AS","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:111621753
+rs11513729-<b>C</b>,"4 x 10-11",,0.588045,'-,"0.015227 unit decrease",[0.011-0.02],"ALDH2, MAPKAPK5-AS1","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:111835695
+rs17696736-<b>A</b>,"1 x 10-10",,0.571276,'-,"0.0145323 unit decrease",[0.01-0.019],NAA25,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:112049014
+rs28383322-<b>C</b>,"4 x 10-9",,NR,'-,'-,'-,"HLA-DRB1, HLA-DQA1","Parental longevity (mother's attained age)","parental longevity",GCST006696,6:32625019
+rs55730499-<b>C</b>,"6 x 10-10",,NR,'-,'-,'-,LPA,"Parental longevity (mother's attained age)","parental longevity",GCST006696,6:160584578
+rs7137828-<b>C</b>,"2 x 10-7",,NR,'-,'-,'-,ATXN2,"Parental longevity (mother's attained age)","parental longevity",GCST006696,12:111494996
+rs1317286-<b>A</b>,"2 x 10-7",,NR,'-,'-,'-,CHRNA3,"Parental longevity (mother's attained age)","parental longevity",GCST006696,15:78603787
+rs429358-<b>T</b>,"1 x 10-68",,NR,'-,'-,'-,'-,"Parental longevity (mother's attained age)","parental longevity",GCST006696,"Mapping not available"
+rs3130507-<b>G</b>,"2 x 10-10",,0.72,'-,"0.0155 unit decrease",[0.011-0.02],POU5F1,"Parental longevity (mother's attained age)","parental longevity",GCST006696,6:31179699
+chr13:31871514-<b>T</b>,"5 x 10-8",,0.995,'-,"0.0979 unit increase",[0.063-0.133],'-,"Parental longevity (mother's attained age)","parental longevity",GCST006696,"Mapping not available"
+rs61949650-<b>T</b>,"3 x 10-8",,0.938,'-,"0.0251 unit increase",[0.016-0.034],'-,"Parental longevity (mother's attained age)","parental longevity",GCST006696,13:64262356
+rs429358-<b>T</b>,"9 x 10-13",,0.842,'-,"0.0262 unit increase",[0.019-0.033],'-,"Parental longevity (father's age at death)","parental longevity",GCST006700,"Mapping not available"
+rs10455872-<b>A</b>,"5 x 10-7",,0.92,'-,"0.0247 unit increase",[0.015-0.034],LPA,"Parental longevity (father's age at death)","parental longevity",GCST006700,6:160589086
+rs3184504-<b>T</b>,"4 x 10-8",,0.483,'-,"0.0145 unit decrease",[0.0094-0.0196],"SH2B3, ATXN2","Parental longevity (father's age at death)","parental longevity",GCST006700,12:111446804
+rs1556516-<b>G</b>,"7 x 10-9",,0.503,'-,"0.0153 unit increase",[0.01-0.02],CDKN2B-AS1,"Parental longevity (father's age at death)","parental longevity",GCST006700,9:22100177
+rs951266-<b>G</b>,"6 x 10-14",,0.670568,'-,"0.0213 unit increase",[0.016-0.027],CHRNA5,"Parental longevity (father's age at death)","parental longevity",GCST006700,15:78586199
+rs602633-<b>T</b>,"4 x 10-9",,NR,'-,'-,'-,"CELSR2, PSRC1","Parental longevity (father's attained age)","parental longevity",GCST006701,1:109278889
+rs55730499-<b>C</b>,"6 x 10-17",,NR,'-,'-,'-,LPA,"Parental longevity (father's attained age)","parental longevity",GCST006701,6:160584578
+rs1556516-<b>G</b>,"1 x 10-20",,NR,'-,'-,'-,CDKN2B-AS1,"Parental longevity (father's attained age)","parental longevity",GCST006701,9:22100177
+rs7137828-<b>C</b>,"3 x 10-12",,NR,'-,'-,'-,ATXN2,"Parental longevity (father's attained age)","parental longevity",GCST006701,12:111494996
+rs1317286-<b>A</b>,"2 x 10-31",,NR,'-,'-,'-,CHRNA3,"Parental longevity (father's attained age)","parental longevity",GCST006701,15:78603787
+rs17514846-<b>C</b>,"1 x 10-7",,NR,'-,'-,'-,FURIN,"Parental longevity (father's attained age)","parental longevity",GCST006701,15:90873320
+rs429358-<b>T</b>,"2 x 10-28",,NR,'-,'-,'-,'-,"Parental longevity (father's attained age)","parental longevity",GCST006701,"Mapping not available"
+rs7844965-<b>G</b>,"2 x 10-7",,NR,'-,'-,'-,GULOP,"Parental longevity (father's attained age)","parental longevity",GCST006701,8:27584547
+rs61978928-<b>T</b>,"2 x 10-7",,NR,'-,'-,'-,"YLPM1, PROX2","Parental longevity (father's attained age)","parental longevity",GCST006701,14:74855011
+rs3131621-<b>A</b>,"4 x 10-8",,0.629,'-,"0.0124 unit decrease",[0.0081-0.0167],"LINC01149, HCP5","Parental longevity (father's attained age)","parental longevity",GCST006701,6:31457722
+rs13262617-<b>A</b>,"3 x 10-8",,0.97,'-,"0.036 unit increase",[0.023-0.049],TOX,"Parental longevity (father's attained age)","parental longevity",GCST006701,8:58925574
+rs61905747-<b>A</b>,"6 x 10-9",,0.809,'-,"0.016 unit decrease",[0.011-0.021],ZW10,"Parental longevity (father's attained age)","parental longevity",GCST006701,11:113769120
+rs17630235-<b>G</b>,"8 x 10-11",,0.592473,'-,"0.0147919 unit decrease",[0.01-0.019],"TRAFD1, HECTD4","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:112153882
+rs11066309-<b>G</b>,"1 x 10-10",,0.592058,'-,"0.0146423 unit decrease",[0.01-0.019],PTPN11,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,12:112445672
+rs72738736-<b>G</b>,"1 x 10-23",,0.672115,'-,"0.0239366 unit decrease",[0.019-0.029],IREB2,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,15:78472780
+rs11552449-<b>C</b>,"6 x 10-6",,0.826,'-,"0.0134 unit decrease",[0.0075-0.0193],DCLRE1B,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,1:113905767
+rs6689306-<b>A</b>,"2 x 10-6",,0.419,'-,"0.0111 unit increase",[0.0066-0.0156],IL6R,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,1:154423470
+rs11126666-<b>G</b>,"5 x 10-6",,0.745,'-,"0.0117 unit decrease",[0.0066-0.0168],KCNK3,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,2:26705943
+rs7593947-<b>A</b>,"1 x 10-6",,0.526,'-,"0.011 unit decrease",[0.0065-0.0155],BCL11A,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,2:60477798
+rs1986734-<b>C</b>,"7 x 10-6",,0.476,'-,"0.0101 unit increase",[0.0058-0.0144],SHROOM3,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,4:76499631
+rs806794-<b>A</b>,"5 x 10-6",,0.728,'-,"0.0115 unit increase",[0.0066-0.0164],H2BC7,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:26200449
+rs4014195-<b>C</b>,"4 x 10-6",,0.656,'-,"0.0108 unit decrease",[0.0061-0.0155],"AP5B1, KRT8P26","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,11:65739351
+rs633185-<b>G</b>,"9 x 10-6",,0.285,'-,"0.0112 unit decrease",[0.0063-0.0161],ARHGAP42,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,11:100722807
+rs6511720-<b>G</b>,"2 x 10-6",,0.881,'-,"0.0165 unit increase",[0.0096-0.0234],LDLR,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,19:11091630
+rs17724992-<b>A</b>,"9 x 10-7",,0.733,'-,"0.0124 unit increase",[0.0075-0.0173],PGPEP1,"Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,19:18344015
+rs1627804-<b>C</b>,"5 x 10-6",,NR,'-,'-,'-,BEND3,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,6:107079224
+rs10455872-<b>A</b>,"2 x 10-8",,0.92,'-,"0.0202 unit increase",[0.013-0.027],LPA,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,6:160589086
+rs1333042-<b>A</b>,"2 x 10-8",,0.502,'-,"0.0112 unit increase",[0.0073-0.0151],CDKN2B-AS1,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,9:22103814
+rs139137459-<b>G</b>,"3 x 10-8",,0.996,'-,"0.0906 unit decrease",[0.059-0.122],USP2-AS1,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,11:119399248
+rs7137828-<b>C</b>,"3 x 10-6",,NR,'-,'-,'-,ATXN2,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,12:111494996
+rs61978928-<b>T</b>,"3 x 10-7",,NR,'-,'-,'-,"YLPM1, PROX2","Parental longevity (both parents in top 10%)","parental longevity",GCST006698,14:74855011
+rs951266-<b>G</b>,"1 x 10-9",,0.670568,'-,"0.0128 unit increase",[0.0087-0.0169],CHRNA5,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,15:78586199
+rs28926173-<b>G</b>,"2 x 10-8",,0.953,'-,"0.0264 unit decrease",[0.017-0.036],MC2R,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,18:13886720
+rs429358-<b>T</b>,"7 x 10-46",,0.842,'-,"0.0388 unit increase",[0.034-0.044],'-,"Parental longevity (both parents in top 10%)","parental longevity",GCST006698,"Mapping not available"
+rs429358-<b>T</b>,"7 x 10-19",,0.842,'-,"0.0336 unit increase",[0.026-0.041],'-,"Parental longevity (mother's age at death)","parental longevity",GCST006699,"Mapping not available"
+rs10455872-<b>A</b>,"2 x 10-7",,0.92,'-,"0.0265 unit increase",[0.017-0.036],LPA,"Parental longevity (mother's age at death)","parental longevity",GCST006699,6:160589086
+rs1333045-<b>T</b>,"6 x 10-6",,0.484993,'-,"0.0126 unit increase",[0.0071-0.0181],CDKN2B-AS1,"Parental longevity (mother's age at death)","parental longevity",GCST006699,9:22119196
+rs74011415-<b>G</b>,"1 x 10-8",,0.881,'-,"0.0192 unit decrease",[0.013-0.026],SEMA6D,"Parental longevity (father's attained age)","parental longevity",GCST006701,15:47367997
+rs12461964-<b>A</b>,"8 x 10-9",,0.504,'-,"0.0126 unit decrease",[0.0083-0.0169],"CYP2F2P, CYP2A6","Parental longevity (father's attained age)","parental longevity",GCST006701,19:40835324
+rs74444983-<b>T</b>,"9 x 10-9",,0.741,'-,"0.0143 unit decrease",[0.0094-0.0192],"EXOC3L2, MARK4","Parental longevity (father's attained age)","parental longevity",GCST006701,19:45242349
+rs6108784-<b>T</b>,"1 x 10-10",,0.586,'-,"0.0143 unit decrease",[0.01-0.0186],"LINC02871, FAT1P1","Parental longevity (father's attained age)","parental longevity",GCST006701,20:10983718
+rs2273500-<b>T</b>,"2 x 10-8",,0.856,'-,"0.0176 unit decrease",[0.012-0.024],CHRNA4,"Parental longevity (father's attained age)","parental longevity",GCST006701,20:63355597
+rs55730499-<b>C</b>,"5 x 10-11",,NR,'-,'-,'-,LPA,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,6:160584578
+rs1556516-<b>G</b>,"2 x 10-10",,0.503198,'-,"0.021 unit increase",[0.015-0.027],CDKN2B-AS1,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,9:22100177
+rs7137828-<b>C</b>,"3 x 10-8",,NR,'-,'-,'-,ATXN2,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,12:111494996
+rs951266-<b>G</b>,"1 x 10-11",,0.670568,'-,"0.0236 unit increase",[0.017-0.03],CHRNA5,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,15:78586199
+rs17514846-<b>C</b>,"7 x 10-7",,NR,'-,'-,'-,FURIN,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,15:90873320
+rs429358-<b>T</b>,"5 x 10-22",,0.842077,'-,"0.0436 unit increase",[0.035-0.052],'-,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,"Mapping not available"
+rs1627804-<b>C</b>,"4 x 10-8",,0.684,'-,"0.0197 unit increase",[0.013-0.027],BEND3,"Parental longevity (combined parental age at death)","parental longevity",GCST006702,6:107079224
+rs146254978-<b>T</b>,"5 x 10-8",,0.98,'-,"0.0692 unit decrease",[0.045-0.094],"TNNI3K, FPGT-TNNI3K","Parental longevity (combined parental age at death)","parental longevity",GCST006702,1:74402115
+rs4420638-<b>?</b>,"2 x 10-16",,0.81,'-,'-,'-,"APOC1, APOC1P1",Longevity,longevity,GCST001131,19:44919689
+rs10491334-<b>C</b>,"2 x 10-6",,0.82,1.82,'-,[1.43-2.33],CAMK4,Longevity,longevity,GCST001081,5:111436706
+rs2075650-<b>?</b>,"3 x 10-17",,0.855,1.41,'-,[1.30-1.54],TOMM40,Longevity,longevity,GCST001013,19:44892362
+rs1950902-<b>?</b>,"1 x 10-7",(male),0.37,1.595,'-,[1.34-1.90],MTHFD1,Longevity,longevity,GCST006658,14:64415662
+rs1157755-<b>?</b>,"2 x 10-6",(male),0.08,2.468,'-,[1.70-3.58],"KCNA1, KCNA5",Longevity,longevity,GCST006658,12:4987675
+rs11136774-<b>?</b>,"3 x 10-6",(male),0.3,1.56,'-,[1.30-1.88],CSMD1,Longevity,longevity,GCST006658,8:4787267
+rs6453914-<b>?</b>,"4 x 10-6",(male),0.23,1.624,'-,[1.32-2.00],LINC02540,Longevity,longevity,GCST006658,6:76553461
+rs6740706-<b>?</b>,"2 x 10-7",(male),0.8,1.6393442,'-,[1.35-1.96],LRRFIP1,Longevity,longevity,GCST006658,2:237719866
+rs12199884-<b>?</b>,"4 x 10-6",(male),0.96,2.3364484,'-,[1.64-3.33],PKHD1,Longevity,longevity,GCST006658,6:51918480
+rs79072042-<b>?</b>,"7 x 10-6",(male),0.91,1.8115942,'-,[1.39-2.33],LINC02163,Longevity,longevity,GCST006658,5:104014771
+rs200536623-<b>?</b>,"9 x 10-6",(male),0.04,4.527,'-,[2.33-8.81],"MIR4423, SYDE2",Longevity,longevity,GCST006658,1:85148733
+rs9894443-<b>?</b>,"8 x 10-6",(male),0.42,1.45,'-,[1.23-1.70],SLC39A11,Longevity,longevity,GCST006658,17:72777970
+rs73329622-<b>?</b>,"9 x 10-6",(male),0.82,1.5625,'-,[1.28-1.89],STK10,Longevity,longevity,GCST006658,5:172151290
+rs12568089-<b>?</b>,"3 x 10-6",(female),0.23,1.352,'-,[1.19-1.53],ZFP69B,Longevity,longevity,GCST006658,1:40455566
+rs3805586-<b>?</b>,"9 x 10-6",(female),0.35,1.275,'-,[1.15-1.42],PGGT1B,Longevity,longevity,GCST006658,5:115231330
+rs1027238-<b>?</b>,"3 x 10-6",(female),0.93,1.5337424,'-,[1.28-1.82],TAFA1,Longevity,longevity,GCST006658,3:68280902
+rs12711357-<b>?</b>,"9 x 10-6",(female),0.8,1.310616,'-,[1.16-1.47],"FSTL5, MTHFD2P4",Longevity,longevity,GCST006658,4:162239967
+rs2161877-<b>?</b>,"3 x 10-6",(female),0.61,1.285347,'-,[1.16-1.43],"LINC02463, RN7SL865P",Longevity,longevity,GCST006658,12:115735182
+rs4972778-<b>?</b>,"5 x 10-6",(female),0.8,1.317523,'-,[1.18-1.49],'-,Longevity,longevity,GCST006658,2:175619153
+rs118113034-<b>?</b>,"9 x 10-6",(female),0.99,3.125,'-,[1.89-5.26],LINC02534,Longevity,longevity,GCST006658,6:115573532
+rs12472681-<b>?</b>,"6 x 10-6",(female),0.05,2.004,'-,[1.49-2.70],CHMP4AP1,Longevity,longevity,GCST006658,2:81407638
+rs35715456-<b>?</b>,"2 x 10-7",,NR,'-,"0.3 unit increase",[0.20-0.40],SMAD7,"Parental longevity (at least one long-lived parent)","parental longevity",GCST003882,18:48938978
+rs28383322-<b>C</b>,"5 x 10-11",,0.783,'-,"0.0182 unit increase",[0.013-0.024],"HLA-DRB1, HLA-DQA1","Parental longevity (combined parental attained age, Martingale residuals)","parental longevity",GCST006697,6:32625019
+rs34614969-<b>?</b>,"4 x 10-6",,NR,'-,"0.02395 unit decrease",[0.014-0.034],"LRRC75A, ZNF287","Parental longevity (mother's age at death)","parental longevity",GCST003393,17:16497441
+rs10049467-<b>?</b>,"3 x 10-6",,NR,'-,"0.11324 unit decrease",[0.066-0.16],DLG1-AS1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,3:197348872
+rs4731367-<b>?</b>,"9 x 10-6",,NR,'-,"0.023252 unit increase",[0.013-0.033],GCC1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,7:127538108
+rs55922727-<b>?</b>,"1 x 10-6",,NR,'-,"0.10643 unit decrease",[0.064-0.149],"RNU6-1148P, FAM13B","Parental longevity (mother's age at death)","parental longevity",GCST003393,5:138066323
+rs10919022-<b>?</b>,"7 x 10-6",,NR,'-,"0.023967 unit increase",[0.013-0.034],LINC00970,"Parental longevity (mother's age at death)","parental longevity",GCST003393,1:168939483
+rs79941005-<b>?</b>,"3 x 10-6",,NR,'-,"0.08241 unit decrease",[0.048-0.117],PCSK5,"Parental longevity (mother's age at death)","parental longevity",GCST003393,9:75888073
+rs371025208-<b>?</b>,"6 x 10-6",,NR,'-,"0.027963 unit increase",[0.016-0.04],MATN4,"Parental longevity (mother's age at death)","parental longevity",GCST003393,20:45299963
+chr3:185383797-<b>?</b>,"8 x 10-6",,NR,'-,"0.06102 unit decrease",[0.034-0.088],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,"Mapping not available"
+rs56213767-<b>?</b>,"3 x 10-6",,NR,'-,"0.028136 unit increase",[0.016-0.04],NPIPA5,"Parental longevity (mother's age at death)","parental longevity",GCST003393,16:15285715
+rs80126911-<b>?</b>,"7 x 10-6",,NR,'-,"0.05584 unit decrease",[0.032-0.08],"NFIA-AS2, NFIA","Parental longevity (mother's age at death)","parental longevity",GCST003393,1:60989462
+rs2974238-<b>?</b>,"6 x 10-7",,NR,'-,"0.029561 unit increase",[0.018-0.041],BICRA,"Parental longevity (mother's age at death)","parental longevity",GCST003393,19:47613804
+rs76108901-<b>?</b>,"2 x 10-6",,NR,'-,"0.05207 unit decrease",[0.031-0.074],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,7:118034752
+rs145583025-<b>?</b>,"3 x 10-6",,NR,'-,"0.03888 unit decrease",[0.023-0.055],"LONRF2P1, FEM1AP2","Parental longevity (mother's age at death)","parental longevity",GCST003393,18:14443242
+rs1634726-<b>?</b>,"6 x 10-6",,NR,'-,"0.032105 unit increase",[0.018-0.046],MUC22,"Parental longevity (mother's age at death)","parental longevity",GCST003393,6:31018051
+rs3132541-<b>?</b>,"5 x 10-6",,NR,'-,"0.032324 unit increase",[0.018-0.046],PSORS1C1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,6:31130957
+rs7844919-<b>?</b>,"3 x 10-6",,NR,'-,"0.02941 unit decrease",[0.017-0.042],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,8:2280098
+chr9:83163200-<b>?</b>,"3 x 10-6",,NR,'-,"0.02921 unit decrease",[0.017-0.042],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,"Mapping not available"
+chr9:83308288-<b>?</b>,"9 x 10-6",,NR,'-,"0.02762 unit decrease",[0.015-0.04],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,"Mapping not available"
+rs35806161-<b>?</b>,"9 x 10-6",,NR,'-,"0.038168 unit increase",[0.021-0.055],"CCSER2, LINC00858","Parental longevity (mother's age at death)","parental longevity",GCST003393,10:84319433
+rs55962025-<b>?</b>,"2 x 10-6",,NR,'-,"0.02542 unit decrease",[0.015-0.036],HTT,"Parental longevity (mother's age at death)","parental longevity",GCST003393,4:3110382
+rs145455367-<b>?</b>,"2 x 10-6",,NR,'-,"0.049273 unit increase",[0.029-0.069],FASTKD2,"Parental longevity (mother's age at death)","parental longevity",GCST003393,2:206789597
+rs362296-<b>?</b>,"4 x 10-6",,NR,'-,"0.02414 unit decrease",[0.014-0.034],MSANTD1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,4:3245280
+rs150432060-<b>?</b>,"3 x 10-6",,NR,'-,"0.12172 unit decrease",[0.071-0.173],CSMD1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,8:4229513
+rs148369819-<b>?</b>,"5 x 10-6",,NR,'-,"0.02334 unit decrease",[0.013-0.033],LRP1B,"Parental longevity (mother's age at death)","parental longevity",GCST003393,2:142115458
+rs118142265-<b>?</b>,"9 x 10-7",,NR,'-,"0.11033 unit decrease",[0.066-0.154],"RN7SL159P, LINC00963","Parental longevity (mother's age at death)","parental longevity",GCST003393,9:129431754
+rs350245-<b>?</b>,"6 x 10-6",,NR,'-,"0.023651 unit increase",[0.013-0.034],SNX29,"Parental longevity (mother's age at death)","parental longevity",GCST003393,16:12106258
+rs112059289-<b>?</b>,"7 x 10-6",,NR,'-,"0.10177 unit decrease",[0.057-0.146],RBFOX2,"Parental longevity (mother's age at death)","parental longevity",GCST003393,22:35902814
+rs1455213-<b>?</b>,"4 x 10-7",,NR,'-,"0.02659 unit increase",[0.016-0.037],C1QTNF7-AS1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,4:15181573
+rs116924021-<b>?</b>,"7 x 10-6",,NR,'-,"0.07186 unit decrease",[0.041-0.103],NEK5,"Parental longevity (mother's age at death)","parental longevity",GCST003393,13:52084324
+rs4709783-<b>?</b>,"5 x 10-8",,NR,'-,"0.028085 unit increase",[0.018-0.038],RN7SL366P,"Parental longevity (mother's age at death)","parental longevity",GCST003393,6:163874119
+rs113568918-<b>?</b>,"5 x 10-6",,NR,'-,"0.05672 unit decrease",[0.032-0.081],CD226,"Parental longevity (mother's age at death)","parental longevity",GCST003393,18:69879454
+rs13439915-<b>?</b>,"8 x 10-6",,NR,'-,"0.028313 unit increase",[0.016-0.041],SUSD1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,9:112155890
+rs375820810-<b>?</b>,"1 x 10-6",,NR,'-,"0.0522 unit decrease",[0.031-0.073],SERPINB9P1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,6:2860991
+rs34602589-<b>?</b>,"2 x 10-6",,NR,'-,"0.031763 unit increase",[0.019-0.045],"PI3, WFDC12","Parental longevity (mother's age at death)","parental longevity",GCST003393,20:45140093
+rs6707813-<b>?</b>,"3 x 10-7",,NR,'-,"0.031952 unit increase",[0.02-0.044],"MAP3K20, RAPGEF4","Parental longevity (mother's age at death)","parental longevity",GCST003393,2:173058409
+rs570662154-<b>?</b>,"7 x 10-6",,NR,'-,"0.03359 unit decrease",[0.019-0.048],RAMP1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,2:237908411
+rs242402-<b>?</b>,"9 x 10-7",,NR,'-,"0.03245 unit decrease",[0.019-0.045],PELI2,"Parental longevity (mother's age at death)","parental longevity",GCST003393,14:56197042
+rs73231764-<b>?</b>,"6 x 10-6",,NR,'-,"0.03228 unit decrease",[0.018-0.046],RBM47,"Parental longevity (mother's age at death)","parental longevity",GCST003393,4:40468019
+rs4972539-<b>?</b>,"1 x 10-6",,NR,'-,"0.03089 unit decrease",[0.018-0.043],"MAP3K20-AS1, MAP3K20","Parental longevity (mother's age at death)","parental longevity",GCST003393,2:173242571
+rs201250103-<b>?</b>,"1 x 10-6",,NR,'-,"0.03058 unit decrease",[0.018-0.043],STON1-GTF2A1L,"Parental longevity (mother's age at death)","parental longevity",GCST003393,2:48761584
+rs8092234-<b>?</b>,"7 x 10-6",,NR,'-,"0.037948 unit increase",[0.021-0.055],TWSG1,"Parental longevity (mother's age at death)","parental longevity",GCST003393,18:9371335
+rs60461555-<b>?</b>,"6 x 10-6",,NR,'-,"0.02598 unit decrease",[0.015-0.037],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,8:59686772
+rs7349694-<b>?</b>,"2 x 10-6",,NR,'-,"0.045909 unit increase",[0.027-0.065],LINC02495,"Parental longevity (mother's age at death)","parental longevity",GCST003393,4:6208569
+rs2013140-<b>?</b>,"4 x 10-6",,NR,'-,"0.02448 unit decrease",[0.014-0.035],LINC01108,"Parental longevity (mother's age at death)","parental longevity",GCST003393,6:14337549
+chr3:81524690-<b>?</b>,"4 x 10-7",,NR,'-,"0.049498 unit increase",[0.03-0.069],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,"Mapping not available"
+rs964714-<b>?</b>,"5 x 10-6",,NR,'-,"0.064337 unit increase",[0.037-0.092],PCLO,"Parental longevity (mother's age at death)","parental longevity",GCST003393,7:82753308
+rs73030679-<b>?</b>,"7 x 10-6",,NR,'-,"0.075113 unit increase",[0.042-0.108],"IMPDH1P8, SLC9A9","Parental longevity (mother's age at death)","parental longevity",GCST003393,3:15895620
+rs148909372-<b>?</b>,"7 x 10-6",,NR,'-,"0.076213 unit increase",[0.043-0.109],"COLQ, HACL1","Parental longevity (mother's age at death)","parental longevity",GCST003393,3:15534597
+rs75169866-<b>?</b>,"2 x 10-6",,NR,'-,"0.080943 unit increase",[0.048-0.114],ANKRD28,"Parental longevity (mother's age at death)","parental longevity",GCST003393,3:15777998
+rs62227724-<b>?</b>,"3 x 10-8",,NR,'-,"0.092149 unit increase",[0.059-0.125],PARVB,"Parental longevity (mother's age at death)","parental longevity",GCST003393,22:44128027
+rs78539969-<b>?</b>,"2 x 10-6",,NR,'-,"0.01453 unit decrease",[0.0086-0.0205],LINC02694,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,15:39054845
+rs41269672-<b>?</b>,"8 x 10-6",,NR,'-,"0.01399 unit decrease",[0.0079-0.0201],FMO9P,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,1:166625264
+rs141603042-<b>?</b>,"9 x 10-6",,NR,'-,"0.01376 unit decrease",[0.0077-0.0198],GRHL2,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,8:101655139
+rs115257454-<b>?</b>,"8 x 10-6",,NR,'-,"0.0137 unit decrease",[0.0077-0.0197],PRR27,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,4:70142648
+rs113290458-<b>?</b>,"3 x 10-6",,NR,'-,"0.01353 unit decrease",[0.0079-0.0192],MAPKAP1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:125693721
+rs2232063-<b>?</b>,"2 x 10-6",,NR,'-,"0.01336 unit decrease",[0.0079-0.0189],"C3P1, SHFL","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,19:10085674
+rs75824829-<b>?</b>,"4 x 10-8",,NR,'-,"0.01326 unit decrease",[0.0085-0.018],"C9orf62, SOCS5P2","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:135376756
+rs11216843-<b>?</b>,"1 x 10-6",,NR,'-,"0.0128 unit decrease",[0.0076-0.018],"CD3E, MPZL2","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:118280614
+rs117260820-<b>?</b>,"2 x 10-6",,NR,'-,"0.01279 unit decrease",[0.0076-0.018],PKD2L1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,10:100288886
+rs3800007-<b>?</b>,"4 x 10-6",,NR,'-,"0.01239 unit decrease",[0.0071-0.0177],PRIM2,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,6:57372179
+rs138847126-<b>?</b>,"7 x 10-6",,NR,'-,"0.01176 unit decrease",[0.0066-0.0169],HLA-A,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,6:29941502
+rs11944781-<b>?</b>,"4 x 10-6",,NR,'-,"0.01169 unit decrease",[0.0067-0.0167],LINC02172,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,4:137618163
+rs116489739-<b>?</b>,"9 x 10-6",,NR,'-,"0.01099 unit decrease",[0.0061-0.0159],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,13:64379393
+rs60589809-<b>?</b>,"6 x 10-7",,NR,'-,"0.01051 unit decrease",[0.0064-0.0146],"IL6RP1, OR7E31P","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:90175444
+rs75672964-<b>?</b>,"1 x 10-6",,NR,'-,"0.01042 unit decrease",[0.0062-0.0147],"PODXL, EEF1B2P6","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:131636251
+rs149794440-<b>?</b>,"6 x 10-6",,NR,'-,"0.01023 unit decrease",[0.0058-0.0147],SCN2B,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:118171025
+rs113690667-<b>?</b>,"3 x 10-6",,NR,'-,"0.00977 unit decrease",[0.0057-0.0139],"SLN, SLC35F2","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:107788727
+rs60525454-<b>?</b>,"9 x 10-6",,NR,'-,"0.00941 unit decrease",[0.0053-0.0136],IQCE,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:2612588
+rs12420856-<b>?</b>,"1 x 10-6",,NR,'-,"0.00876 unit decrease",[0.0052-0.0123],PAMR1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:35510763
+rs149930776-<b>?</b>,"6 x 10-6",,NR,'-,"0.00813 unit decrease",[0.0046-0.0117],"CDNF, FAM107B","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,10:14814669
+rs72698044-<b>?</b>,"4 x 10-6",,NR,'-,"0.0077 unit decrease",[0.0044-0.011],MGST3,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,1:165658303
+rs809367-<b>?</b>,"3 x 10-6",,NR,'-,"0.00687 unit decrease",[0.004-0.0097],"PTEN, MED6P1","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,10:87982049
+rs73185805-<b>?</b>,"7 x 10-6",,NR,'-,"0.00656 unit decrease",[0.0037-0.0094],ADAMTS1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,21:26769491
+chr6:119996196-<b>?</b>,"1 x 10-6",,NR,'-,"0.00649 unit decrease",[0.0039-0.0091],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,"Mapping not available"
+rs35750876-<b>?</b>,"8 x 10-6",,NR,'-,"0.00636 unit decrease",[0.0036-0.0091],ROBO2,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,3:76519884
+rs11081417-<b>?</b>,"2 x 10-6",,NR,'-,"0.00557 unit decrease",[0.0033-0.0079],"BOLA2P1, ADCYAP1","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,18:897090
+rs6782422-<b>?</b>,"7 x 10-6",,NR,'-,"0.0054 unit decrease",[0.003-0.0078],NLGN1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,3:174184754
+rs59169624-<b>?</b>,"1 x 10-6",,NR,'-,"0.00535 unit decrease",[0.0032-0.0075],CSRP3-AS1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:19281022
+rs1579834-<b>?</b>,"9 x 10-6",,NR,'-,"0.0052 unit decrease",[0.0029-0.0075],"PAG1, ZNF704","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,8:80901111
+rs137115-<b>?</b>,"8 x 10-6",,NR,'-,"0.00475 unit decrease",[0.0027-0.0068],"RNU12, CYB5R3","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,22:42615397
+rs67940422-<b>?</b>,"7 x 10-6",,NR,'-,"0.00466 unit decrease",[0.0026-0.0067],MTA1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,14:105464979
+rs1443844-<b>?</b>,"9 x 10-7",,NR,'-,"0.00429 unit decrease",[0.0026-0.006],SLC22A1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,6:160153770
+rs10117734-<b>?</b>,"7 x 10-6",,NR,'-,"0.00421 unit decrease",[0.0024-0.006],"SLC1A1, RNU6-694P","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:4404786
+rs372514161-<b>?</b>,"5 x 10-6",,NR,'-,"0.00406 unit decrease",[0.0023-0.0058],SPOCK1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,5:137404576
+rs10801727-<b>?</b>,"9 x 10-6",,NR,'-,"0.00394 unit decrease",[0.0022-0.0057],GBP6,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,1:89379193
+rs370422495-<b>?</b>,"8 x 10-6",,NR,'-,"0.00393 unit decrease",[0.0022-0.0056],TSPAN8,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,12:71156269
+rs6485361-<b>?</b>,"8 x 10-6",,NR,'-,"0.004031 unit increase",[0.0023-0.0058],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:42835318
+rs2346160-<b>?</b>,"3 x 10-6",,NR,'-,"0.004203 unit increase",[0.0024-0.006],"UNC93A, HPAT5","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,6:167261816
+rs34968724-<b>?</b>,"3 x 10-6",,NR,'-,"0.004204 unit increase",[0.0024-0.006],"UMAD1, RPA3","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:7685315
+rs871257-<b>?</b>,"8 x 10-6",,NR,'-,"0.00427 unit increase",[0.0024-0.0061],KSR2,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,12:117556543
+rs80124926-<b>?</b>,"2 x 10-6",,NR,'-,"0.004533 unit increase",[0.0027-0.0064],U3,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,6:92171685
+rs13070407-<b>?</b>,"1 x 10-6",,NR,'-,"0.004701 unit increase",[0.0028-0.0066],RARB,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,3:25451687
+rs58241453-<b>?</b>,"8 x 10-6",,NR,'-,"0.004848 unit increase",[0.0027-0.007],MGAT5,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,2:134112817
+rs7628583-<b>?</b>,"7 x 10-6",,NR,'-,"0.00502 unit increase",[0.0028-0.0072],PRICKLE2,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,3:64109148
+rs1800851-<b>?</b>,"7 x 10-6",,NR,'-,"0.005399 unit increase",[0.003-0.0078],ABCC8,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,11:17414646
+rs6078493-<b>?</b>,"8 x 10-6",,NR,'-,"0.006106 unit increase",[0.0034-0.0088],SNPH,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,20:1296455
+rs72493327-<b>?</b>,"2 x 10-6",,NR,'-,"0.010016 unit increase",[0.0059-0.0141],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,2:5130299
+rs35026592-<b>?</b>,"8 x 10-6",,NR,'-,"0.010441 unit increase",[0.0059-0.015],"PHLPP1, RN7SL705P","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,18:62708462
+rs564698311-<b>?</b>,"1 x 10-6",,NR,'-,"0.018217 unit increase",[0.011-0.026],"TBC1D13, ZER1","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:128779463
+rs814585-<b>?</b>,"8 x 10-6",,NR,'-,"0.018861 unit increase",[0.011-0.027],"LINC02213, ANKRD33B","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,5:10533339
+rs149291579-<b>?</b>,"5 x 10-6",,NR,'-,"0.121682 unit increase",[0.07-0.174],'-,"Parental longevity (mother's age at death)","parental longevity",GCST003393,1:78775197
+rs67947502-<b>?</b>,"2 x 10-6",,NR,'-,"0.15824 unit decrease",[0.093-0.223],HORMAD2,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,22:30091270
+rs71331230-<b>?</b>,"5 x 10-6",,NR,'-,"0.14595 unit decrease",[0.083-0.209],"HORMAD2, LIF-AS1","Parental longevity (combined parental age at death)","parental longevity",GCST003394,22:30213222
+rs146267024-<b>?</b>,"5 x 10-6",,NR,'-,"0.064851 unit increase",[0.037-0.093],PLXNB2,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,22:50284511
+rs12421301-<b>?</b>,"1 x 10-6",,NR,'-,"0.05138 unit decrease",[0.031-0.072],LRRC4C,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,11:41197864
+rs659722-<b>?</b>,"6 x 10-6",,NR,'-,"0.118772 unit increase",[0.067-0.17],GUCY1A2,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,11:106715747
+rs2033794-<b>?</b>,"8 x 10-6",,NR,'-,"0.037198 unit increase",[0.021-0.054],TMTC1,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,12:29731620
+rs111859823-<b>?</b>,"4 x 10-6",,NR,'-,"0.10961 unit decrease",[0.063-0.156],"RN7SKP10, LINC00396","Parental longevity (combined parental age at death)","parental longevity",GCST003394,13:110007843
+rs5809679-<b>?</b>,"6 x 10-6",,NR,'-,"0.037788 unit increase",[0.021-0.054],YLPM1,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,14:74816171
+rs72698726-<b>?</b>,"7 x 10-6",,NR,'-,"0.05109 unit decrease",[0.029-0.073],"DLK1, LINC00523","Parental longevity (combined parental age at death)","parental longevity",GCST003394,14:100722281
+rs12592111-<b>?</b>,"5 x 10-6",,NR,'-,"0.03526 unit increase",[0.02-0.05],IREB2,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,15:78475004
+rs55966621-<b>?</b>,"7 x 10-6",,NR,'-,"0.066907 unit increase",[0.038-0.096],CEMIP,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,15:80844735
+rs17184291-<b>?</b>,"5 x 10-7",,NR,'-,"0.06192 unit decrease",[0.038-0.086],PKD1L2,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,16:81127690
+rs8076336-<b>?</b>,"8 x 10-6",,NR,'-,"0.033873 unit increase",[0.019-0.049],TOP3A,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,17:18309300
+rs144081173-<b>?</b>,"8 x 10-6",,NR,'-,"0.09376 unit increase",[0.053-0.135],"ACAA2, SMUG1P1","Parental longevity (combined parental age at death)","parental longevity",GCST003394,18:49718855
+rs67163261-<b>?</b>,"1 x 10-6",,NR,'-,"0.039406 unit increase",[0.024-0.055],DCC,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,18:53450121
+rs10421328-<b>?</b>,"7 x 10-6",,NR,'-,"0.041309 unit increase",[0.023-0.059],"ATP13A1, ZNF101","Parental longevity (combined parental age at death)","parental longevity",GCST003394,19:19666005
+rs113690530-<b>?</b>,"2 x 10-6",,NR,'-,"0.136498 unit increase",[0.08-0.193],"PDCD5, ANKRD27","Parental longevity (combined parental age at death)","parental longevity",GCST003394,19:32596961
+rs10410232-<b>?</b>,"9 x 10-7",,NR,'-,"0.091064 unit increase",[0.055-0.127],GPATCH1,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,19:33122802
+rs769449-<b>?</b>,"2 x 10-7",,NR,'-,"0.058581 unit increase",[0.036-0.081],APOE,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,19:44906745
+rs553626126-<b>?</b>,"9 x 10-6",,NR,'-,"0.176503 unit increase",[0.098-0.255],"RNY4P16, PP2672","Parental longevity (combined parental age at death)","parental longevity",GCST003394,1:234778947
+rs60771529-<b>?</b>,"5 x 10-6",,NR,'-,"0.055638 unit increase",[0.032-0.08],MYT1L,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,2:1990737
+rs79959541-<b>?</b>,"2 x 10-6",,NR,'-,"0.144223 unit increase",[0.085-0.203],"TEX51, RNU7-182P","Parental longevity (combined parental age at death)","parental longevity",GCST003394,2:126957275
+rs56291226-<b>?</b>,"8 x 10-6",,NR,'-,"0.11462 unit decrease",[0.064-0.165],'-,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,2:211197160
+rs150416243-<b>?</b>,"5 x 10-6",,NR,'-,"0.13659 unit decrease",[0.078-0.195],"RPS27P10, ERBB4","Parental longevity (combined parental age at death)","parental longevity",GCST003394,2:211352129
+rs4446368-<b>?</b>,"8 x 10-6",,NR,'-,"0.03787 unit decrease",[0.021-0.054],LINC02272,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,4:156602770
+rs140324455-<b>?</b>,"4 x 10-7",,NR,'-,"0.07378 unit decrease",[0.045-0.102],VPS13A,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,9:77281740
+chr1:9361593-<b>?</b>,"9 x 10-7",,NR,'-,"0.02399 unit decrease",[0.014-0.034],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,"Mapping not available"
+rs111281919-<b>?</b>,"4 x 10-6",,NR,'-,"0.02354 unit decrease",[0.014-0.034],SHLD1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,20:5726978
+rs144790747-<b>?</b>,"5 x 10-7",,NR,'-,"0.02058 unit decrease",[0.013-0.029],"ADGRE5, LINC01841","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,19:14376535
+rs2804497-<b>?</b>,"7 x 10-7",,NR,'-,"0.02042 unit decrease",[0.012-0.028],NRP1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,10:33327109
+rs72261809-<b>?</b>,"2 x 10-6",,NR,'-,"0.01972 unit decrease",[0.012-0.028],TCERG1L,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,10:131223574
+rs139672165-<b>?</b>,"5 x 10-6",,NR,'-,"0.01969 unit decrease",[0.011-0.028],LINC02511,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,4:137162714
+rs149693590-<b>?</b>,"4 x 10-6",,NR,'-,"0.01962 unit decrease",[0.011-0.028],SFI1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,22:31580163
+rs115613582-<b>?</b>,"6 x 10-6",,NR,'-,"0.01905 unit decrease",[0.011-0.027],"PDCD1LG2, CD274","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:5482489
+rs10254160-<b>?</b>,"7 x 10-6",,NR,'-,"0.01885 unit decrease",[0.011-0.027],ZNF277,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:112327235
+rs199710891-<b>?</b>,"2 x 10-6",,NR,'-,"0.01794 unit decrease",[0.011-0.025],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,12:14120138
+rs190999252-<b>?</b>,"7 x 10-6",,NR,'-,"0.01769 unit decrease",[0.01-0.0254],KRT19P6,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,4:91925885
+rs7776258-<b>?</b>,"9 x 10-6",,NR,'-,"0.01755 unit decrease",[0.0098-0.0253],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,6:93888228
+chr1:106735127-<b>?</b>,"7 x 10-7",,NR,'-,"0.01715 unit decrease",[0.01-0.024],'-,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,"Mapping not available"
+rs144431416-<b>?</b>,"2 x 10-6",,NR,'-,"0.01657 unit decrease",[0.0097-0.0235],RUFY3,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,4:70803901
+rs7861963-<b>?</b>,"4 x 10-7",,NR,'-,"0.0164 unit decrease",[0.01-0.023],"GAPVD1, Metazoa_SRP","Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:125416628
+rs12768811-<b>?</b>,"7 x 10-6",,NR,'-,"0.01616 unit decrease",[0.0091-0.0232],NRP1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,10:33185823
+rs528161076-<b>?</b>,"3 x 10-8",,NR,'-,"0.01577 unit decrease",[0.01-0.021],AP5Z1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:4787884
+rs79698955-<b>?</b>,"8 x 10-6",,NR,'-,"0.01559 unit decrease",[0.0087-0.0224],ATXN7L1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:105632229
+rs12898084-<b>?</b>,"9 x 10-6",,NR,'-,"0.01556 unit decrease",[0.0087-0.0224],LINC00520,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,14:55786686
+rs200224959-<b>?</b>,"5 x 10-6",,NR,'-,"0.01516 unit decrease",[0.0087-0.0217],COL26A1,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,7:101500243
+rs377310910-<b>?</b>,"2 x 10-7",,NR,'-,"0.01479 unit decrease",[0.0092-0.0204],SMARCA2,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,9:1940937
+rs73199941-<b>?</b>,"4 x 10-6",,NR,'-,"0.01471 unit decrease",[0.0084-0.021],PSD3,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,8:18716409
+rs112044143-<b>?</b>,"6 x 10-6",,NR,'-,"0.01454 unit decrease",[0.0083-0.0208],RYR3,"Parental extreme longevity (95 years and older)","parental longevity",GCST003395,15:33508548
+rs967006-<b>?</b>,"2 x 10-6",,NR,'-,"0.044805 unit increase",[0.026-0.063],SP110,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,2:230179496
+rs55841186-<b>?</b>,"7 x 10-7",,NR,'-,"0.12093 unit decrease",[0.073-0.169],'-,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,3:6264222
+rs35623800-<b>?</b>,"8 x 10-6",,NR,'-,"0.03841 unit decrease",[0.022-0.055],RBMS3,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,3:30076988
+rs79194774-<b>?</b>,"3 x 10-6",,NR,'-,"0.081471 unit increase",[0.047-0.116],'-,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,3:106305838
+rs3135174-<b>?</b>,"6 x 10-7",,NR,'-,"0.03822 unit decrease",[0.023-0.053],MSANTD1,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,4:3255078
+rs16875255-<b>?</b>,"6 x 10-6",,NR,'-,"0.059154 unit increase",[0.034-0.085],'-,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,4:24183778
+rs138436261-<b>?</b>,"3 x 10-7",,NR,'-,"0.156528 unit increase",[0.097-0.216],ZCCHC4,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,4:25330782
+rs113082832-<b>?</b>,"5 x 10-6",,NR,'-,"0.074566 unit increase",[0.042-0.107],ANAPC4,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,4:25441982
+rs11929834-<b>?</b>,"8 x 10-6",,NR,'-,"0.035426 unit increase",[0.02-0.051],ANK2,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,4:113151748
+rs74469597-<b>?</b>,"7 x 10-6",,NR,'-,"0.0613 unit increase",[0.035-0.088],RETREG1,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,5:16484743
+rs564885564-<b>?</b>,"9 x 10-6",,NR,'-,"0.16262 unit decrease",[0.091-0.235],'-,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,5:25438280
+rs114461222-<b>?</b>,"7 x 10-6",,NR,'-,"0.16136 unit decrease",[0.091-0.232],"SRP19, REEP5","Parental longevity (combined parental age at death)","parental longevity",GCST003394,5:112877217
+rs13190655-<b>?</b>,"5 x 10-6",,NR,'-,"0.08521 unit decrease",[0.049-0.122],LINC01470,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,5:153058653
+rs374343949-<b>?</b>,"6 x 10-6",,NR,'-,"0.04266 unit decrease",[0.024-0.061],LINC01470,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,5:153180775
+rs74617384-<b>?</b>,"1 x 10-6",,NR,'-,"0.06755 unit increase",[0.041-0.095],LPA,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,6:160576086
+rs2315065-<b>?</b>,"7 x 10-6",,NR,'-,"0.056891 unit increase",[0.032-0.082],"PLG, LPA","Parental longevity (combined parental age at death)","parental longevity",GCST003394,6:160687112
+rs77350958-<b>?</b>,"6 x 10-6",,NR,'-,"0.11094 unit decrease",[0.063-0.159],PDE10A,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,6:165514049
+rs62448936-<b>?</b>,"4 x 10-7",,NR,'-,"0.038805 unit increase",[0.024-0.054],RNU6-1103P,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,7:24467411
+rs10279833-<b>?</b>,"8 x 10-6",,NR,'-,"0.049891 unit increase",[0.028-0.072],"TRIL, CREB5","Parental longevity (combined parental age at death)","parental longevity",GCST003394,7:28862348
+rs181525252-<b>?</b>,"6 x 10-6",,NR,'-,"0.14264 unit decrease",[0.081-0.205],"AKR1D1, RCC2P3","Parental longevity (combined parental age at death)","parental longevity",GCST003394,7:138118902
+rs12345013-<b>?</b>,"3 x 10-7",,NR,'-,"0.07345 unit decrease",[0.045-0.101],"VPS13A-AS1, RFC5P1","Parental longevity (combined parental age at death)","parental longevity",GCST003394,9:77146795
+rs11088872-<b>?</b>,"2 x 10-6",,NR,'-,"0.03827 unit decrease",[0.023-0.054],LINC00317,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,21:21660783
+rs61854888-<b>?</b>,"1 x 10-6",,NR,'-,"0.1596 unit decrease",[0.095-0.224],CH25H,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,10:89169204
+rs11535739-<b>?</b>,"8 x 10-6",,NR,'-,"0.09322 unit decrease",[0.052-0.134],"RN7SL222P, PPIAP43","Parental longevity (combined parental age at death)","parental longevity",GCST003394,11:100656308
+rs143772911-<b>?</b>,"3 x 10-6",,NR,'-,"0.1653 unit decrease",[0.096-0.234],LEFTY1,"Parental longevity (combined parental age at death)","parental longevity",GCST003394,1:225907537
+rs2069837-<b>A</b>,"2 x 10-9",,NR,1.6393442,'-,[NR],IL6,Longevity,longevity,GCST003425,7:22728408
+rs2440012-<b>C</b>,"4 x 10-8",,NR,1.6611296,'-,[NR],ANKRD20A9P,Longevity,longevity,GCST003425,13:18865983
+rs145672791-<b>G</b>,"9 x 10-8",,NR,4.56621,'-,[NR],"FGF7P2, ANKRD30BP1",Longevity,longevity,GCST003425,21:13377702
+rs61856137-<b>G</b>,"2 x 10-7",,NR,1.8382351,'-,[NR],AKR1C3,Longevity,longevity,GCST003425,10:5045786
+rs2704588-<b>T</b>,"2 x 10-7",,NR,4.032258,'-,[NR],FAM13A,Longevity,longevity,GCST003425,4:88928621
+rs1487614-<b>C</b>,"3 x 10-7",,NR,1.3966479,'-,[NR],'-,Longevity,longevity,GCST003425,4:42267463
+rs10934524-<b>T</b>,"5 x 10-7",,NR,1.266,'-,[NR],MIR8060,Longevity,longevity,GCST003425,3:96431316
+rs57681851-<b>G</b>,"2 x 10-6",,NR,1.348,'-,[NR],ZFYVE28,Longevity,longevity,GCST003425,4:2288971
+rs7213812-<b>C</b>,"6 x 10-6",,NR,1.29,'-,[NR],ASIC2,Longevity,longevity,GCST003425,17:33121631
+rs766903-<b>A</b>,"2 x 10-6",,0.83,'-,"0.09 unit decrease",[0.05-0.13],BIN2,"Aging (time to death)","longevity, aging",GCST001167,12:51310050
+rs4936894-<b>A</b>,"2 x 10-6",,0.23,'-,"0.09 unit increase",[0.05-0.13],VWA5A,"Aging (time to death)","longevity, aging",GCST001167,11:124146786
+rs1425609-<b>A</b>,"1 x 10-6",,0.38,'-,"0.08 unit decrease",[0.04-0.12],'-,"Aging (time to death)","longevity, aging",GCST001167,3:162964207
+rs1416280-<b>C</b>,"5 x 10-8",,0.75,1.24,'-,1.15–1.34,'-,"Longevity (90 years and older)",longevity,GCST002599,6:102438768
+rs9841144-<b>?</b>,"9 x 10-7",,0.21,1.2345679,'-,[1.14-1.35],CADM2,"Longevity (90 years and older)",longevity,GCST002599,3:85482049
+rs4611001-<b>A</b>,"2 x 10-6",,0.97,1.79,'-,1.41–2.27,"Y_RNA, THAP12P8","Longevity (90 years and older)",longevity,GCST002599,1:240741328
+rs11023737-<b>?</b>,"4 x 10-6",,0.68,1.2048193,'-,[1.11-1.30],LINC02682,"Longevity (90 years and older)",longevity,GCST002599,11:15843741
+rs11753077-<b>T</b>,"8 x 10-6",,0.64,1.17,'-,1.09–1.26,MBOAT1,"Longevity (90 years and older)",longevity,GCST002599,6:20014974
+rs10875746-<b>A</b>,"8 x 10-6",,0.76,1.2,'-,1.11–1.30,PFKM,"Longevity (90 years and older)",longevity,GCST002599,12:48124481
+rs10007810-<b>A</b>,"9 x 10-6",,0.23,1.2,'-,1.11–1.30,LIMCH1,"Longevity (90 years and older)",longevity,GCST002599,4:41552347
+rs9664222-<b>C</b>,"7 x 10-7",,0.79,1.22,'-,[NR],"RPS26P38, MINPP1",Longevity,longevity,GCST000632,10:87578876
+rs416352-<b>?</b>,"8 x 10-6",(female),0.51,1.261,'-,[1.14-1.40],"NOTCH4, TSBP1-AS1",Longevity,longevity,GCST006658,6:32239616
+rs73070152-<b>?</b>,"8 x 10-6",(female),0.12,1.477,'-,[1.25-1.75],"KIR3DX1, LAIR2",Longevity,longevity,GCST006658,19:54522926
+rs9691522-<b>A</b>,"6 x 10-8",,NR,'-,"0.0764 unit decrease",[0.049-0.104],"STEAP2, CFAP69",Longevity,longevity,GCST009448,7:90244453
+rs6530093-<b>A</b>,"4 x 10-6",,NR,'-,"0.06921 unit decrease",[0.04-0.099],'-,Longevity,longevity,GCST009448,X:4362992
+rs9920281-<b>G</b>,"5 x 10-6",,NR,'-,"0.06465 unit decrease",[0.037-0.093],SLC12A1,Longevity,longevity,GCST009448,15:48222112
+rs12562988-<b>A</b>,"4 x 10-7",,NR,'-,"0.06339 unit decrease",[0.039-0.088],PRDM16,Longevity,longevity,GCST009448,1:3283070
+rs769449-<b>A</b>,"6 x 10-74",,0.12,'-,"0.05835 unit decrease",[0.052-0.065],APOE,Longevity,longevity,GCST009448,19:44906745
+rs34682-<b>C</b>,"1 x 10-7",,NR,'-,"0.05359 unit decrease",[0.034-0.074],"C1QTNF3-AMACR, AMACR",Longevity,longevity,GCST009448,5:34001339
+rs7337788-<b>C</b>,"2 x 10-6",,NR,'-,"0.05142 unit decrease",[0.03-0.073],'-,Longevity,longevity,GCST009448,13:104204438
+rs7766328-<b>A</b>,"2 x 10-6",,NR,'-,"0.0468 unit decrease",[0.027-0.066],"RPL10P2, MIR3143",Longevity,longevity,GCST009448,6:27207517
+rs11584527-<b>A</b>,"3 x 10-6",,NR,'-,"0.04493 unit decrease",[0.026-0.064],KIF21B,Longevity,longevity,GCST009448,1:201005760
+rs8035809-<b>C</b>,"9 x 10-6",,NR,'-,"0.0446 unit decrease",[0.025-0.064],'-,Longevity,longevity,GCST009448,15:81625644
+rs17109505-<b>G</b>,"3 x 10-6",,NR,'-,"0.04122 unit decrease",[0.024-0.059],'-,Longevity,longevity,GCST009448,14:39645893
+rs690136-<b>A</b>,"2 x 10-6",,NR,'-,"0.03327 unit decrease",[0.02-0.047],SPINT1,Longevity,longevity,GCST009448,15:40855965
+rs11171681-<b>C</b>,"2 x 10-6",,NR,'-,"0.02399 unit decrease",[0.014-0.034],SARNP,Longevity,longevity,GCST009448,12:55799449
+rs7859091-<b>G</b>,"8 x 10-6",,NR,'-,"0.02365 unit decrease",[0.013-0.034],'-,Longevity,longevity,GCST009448,9:24740390
+rs12526097-<b>G</b>,"3 x 10-6",,NR,'-,"0.01704 unit decrease",[0.0099-0.0242],"LINC01600, LINC02521",Longevity,longevity,GCST009448,6:2626590
+rs12734405-<b>C</b>,"3 x 10-7",,NR,'-,"0.01497 unit decrease",[0.0092-0.0207],RN7SKP156,Longevity,longevity,GCST009448,1:188218816
+rs17477137-<b>A</b>,"4 x 10-6",,NR,'-,"0.01439 unit decrease",[0.0083-0.0205],GRIK3,Longevity,longevity,GCST009448,1:188054649
+rs9368368-<b>G</b>,"3 x 10-7",,NR,'-,"0.01323 unit decrease",[0.0082-0.0183],CASC15,Longevity,longevity,GCST009448,6:21912401
+rs11578888-<b>A</b>,"3 x 10-6",,NR,'-,"0.01259 unit decrease",[0.0073-0.0179],POGZ,Longevity,longevity,GCST009448,1:151435217
+rs7060413-<b>A</b>,"5 x 10-7",,NR,'-,"0.01256 unit decrease",[0.0077-0.0175],FGF13,Longevity,longevity,GCST009448,X:138861225
+rs10960561-<b>A</b>,"9 x 10-6",,NR,'-,"0.01238 unit decrease",[0.0069-0.0178],JKAMPP1,Longevity,longevity,GCST009448,9:12275924
+rs9528753-<b>A</b>,"2 x 10-7",,NR,'-,"0.01233 unit decrease",[0.0077-0.017],'-,Longevity,longevity,GCST009448,13:64406137
+rs524126-<b>A</b>,"3 x 10-7",,NR,'-,"0.01113 unit decrease",[0.0069-0.0154],'-,Longevity,longevity,GCST009448,9:13708608
+rs1406549-<b>G</b>,"9 x 10-8",,NR,'-,"0.0111 unit decrease",[0.007-0.0152],LINC02008,Longevity,longevity,GCST009448,3:82163251
+rs923994-<b>A</b>,"7 x 10-6",,NR,'-,"0.01103 unit decrease",[0.0062-0.0158],RNU6-699P,Longevity,longevity,GCST009448,4:66937274
+rs11624961-<b>G</b>,"6 x 10-6",,NR,'-,"0.01102 unit decrease",[0.0062-0.0158],FBXO33,Longevity,longevity,GCST009448,14:39529254
+rs13033350-<b>A</b>,"1 x 10-6",,NR,'-,"0.01101 unit decrease",[0.0066-0.0155],GLS,Longevity,longevity,GCST009448,2:190826756
+rs892024-<b>A</b>,"4 x 10-6",,NR,'-,"0.01072 unit decrease",[0.0061-0.0153],CEP89,Longevity,longevity,GCST009448,19:32908438
+rs445537-<b>G</b>,"2 x 10-7",,NR,'-,"0.01055 unit decrease",[0.0065-0.0146],DPEP1,Longevity,longevity,GCST009448,16:89637016
+rs6740430-<b>A</b>,"4 x 10-6",,NR,'-,"0.01049 unit decrease",[0.006-0.015],VN1R18P,Longevity,longevity,GCST009448,2:48087351
+rs11077897-<b>G</b>,"7 x 10-6",,NR,'-,"0.01047 unit decrease",[0.0059-0.015],"SEC14L1, SEPTIN9-DT",Longevity,longevity,GCST009448,17:77247861
+rs7997881-<b>G</b>,"5 x 10-7",,NR,'-,"0.0103 unit decrease",[0.0063-0.0143],RN7SL618P,Longevity,longevity,GCST009448,13:53306653
+rs12901998-<b>A</b>,"7 x 10-7",,NR,'-,"0.01029 unit decrease",[0.0062-0.0143],"HMG20A, LINGO1",Longevity,longevity,GCST009448,15:77541182
+rs17574479-<b>C</b>,"4 x 10-6",,NR,'-,"0.009832 unit decrease",[0.0056-0.014],ZNF646P1,Longevity,longevity,GCST009448,13:53475354
+rs7554936-<b>G</b>,"6 x 10-6",,NR,'-,"0.009709 unit decrease",[0.0055-0.0139],"TNFAIP8L2, SEMA6C",Longevity,longevity,GCST009448,1:151150013
+rs3796036-<b>G</b>,"3 x 10-6",,NR,'-,"0.009513 unit decrease",[0.0055-0.0135],NRXN1,Longevity,longevity,GCST009448,2:50013506
+rs9651063-<b>A</b>,"7 x 10-6",,NR,'-,"0.009466 unit decrease",[0.0054-0.0136],'-,Longevity,longevity,GCST009448,1:191422533
+rs4244883-<b>C</b>,"6 x 10-6",,NR,'-,"0.009464 unit decrease",[0.0054-0.0135],VPS33B,Longevity,longevity,GCST009448,15:91003267
+rs10125755-<b>A</b>,"4 x 10-6",,NR,'-,"0.009419 unit decrease",[0.0054-0.0134],'-,Longevity,longevity,GCST009448,9:11194115
+rs2411416-<b>A</b>,"4 x 10-6",,NR,'-,"0.009345 unit decrease",[0.0054-0.0133],RNU6-655P,Longevity,longevity,GCST009448,18:78098892
+rs1109334-<b>G</b>,"9 x 10-6",,NR,'-,"0.009151 unit decrease",[0.0051-0.0132],"TCF25, SPIRE2",Longevity,longevity,GCST009448,16:89871736
+rs8084351-<b>G</b>,"9 x 10-6",,NR,'-,"0.009073 unit increase",[0.0051-0.0131],DCC,Longevity,longevity,GCST009448,18:53200189
+rs2897250-<b>G</b>,"9 x 10-6",,NR,'-,"0.009228 unit increase",[0.0052-0.0133],RPS17P11,Longevity,longevity,GCST009448,5:52378223
+rs1004787-<b>G</b>,"6 x 10-6",,NR,'-,"0.009248 unit increase",[0.0052-0.0133],LINC01833,Longevity,longevity,GCST009448,2:44931952
+rs10852521-<b>A</b>,"4 x 10-6",,NR,'-,"0.009402 unit increase",[0.0054-0.0134],FTO,Longevity,longevity,GCST009448,16:53771053
+rs9976694-<b>A</b>,"9 x 10-6",,NR,'-,"0.009445 unit increase",[0.0053-0.0136],"DYRK1A, VPS26C",Longevity,longevity,GCST009448,21:37288086
+rs2692464-<b>A</b>,"3 x 10-6",,NR,'-,"0.009467 unit increase",[0.0055-0.0135],'-,Longevity,longevity,GCST009448,7:13517998
+rs1950031-<b>C</b>,"7 x 10-6",,NR,'-,"0.009476 unit increase",[0.0053-0.0136],ALKBH8,Longevity,longevity,GCST009448,11:107558697
+rs2252480-<b>A</b>,"5 x 10-6",,NR,'-,"0.009538 unit increase",[0.0054-0.0136],WRN,Longevity,longevity,GCST009448,8:31132594
+rs12802656-<b>C</b>,"3 x 10-6",,NR,'-,"0.009588 unit increase",[0.0056-0.0136],SOX6,Longevity,longevity,GCST009448,11:16512868
+rs6911407-<b>A</b>,"6 x 10-6",,NR,'-,"0.009596 unit increase",[0.0055-0.0137],"AFG1L, FOXO3",Longevity,longevity,GCST009448,6:108545828
+rs11978878-<b>G</b>,"2 x 10-6",,NR,'-,"0.009668 unit increase",[0.0057-0.0137],'-,Longevity,longevity,GCST009448,7:9107087
+rs2904155-<b>A</b>,"5 x 10-6",,NR,'-,"0.009673 unit increase",[0.0055-0.0138],LINC01524,Longevity,longevity,GCST009448,20:52346704
+rs2540914-<b>A</b>,"3 x 10-6",,NR,'-,"0.009822 unit increase",[0.0057-0.0139],MIR4432HG,Longevity,longevity,GCST009448,2:60383276
+rs2489676-<b>A</b>,"1 x 10-6",,NR,'-,"0.009867 unit increase",[0.0058-0.0139],LINC01720,Longevity,longevity,GCST009448,1:190835500
+rs1874088-<b>C</b>,"2 x 10-6",,NR,'-,"0.00989 unit increase",[0.0058-0.014],ZNF385D,Longevity,longevity,GCST009448,3:22302080
+rs2246849-<b>G</b>,"2 x 10-6",,NR,'-,"0.009924 unit increase",[0.0058-0.014],"RAPH1, ABI2",Longevity,longevity,GCST009448,2:203444602
+rs11662617-<b>A</b>,"9 x 10-7",,NR,'-,"0.01001 unit increase",[0.006-0.014],LDLRAD4,Longevity,longevity,GCST009448,18:13253599
+rs16860198-<b>C</b>,"9 x 10-6",,NR,'-,"0.01021 unit increase",[0.0057-0.0147],GABRB1,Longevity,longevity,GCST009448,4:47413795
+rs8044082-<b>A</b>,"8 x 10-7",,NR,'-,"0.01031 unit increase",[0.0062-0.0144],RBFOX1,Longevity,longevity,GCST009448,16:6553020
+rs247975-<b>A</b>,"2 x 10-7",,NR,'-,"0.01056 unit increase",[0.0066-0.0146],NLGN1,Longevity,longevity,GCST009448,3:173389653
+rs6063377-<b>A</b>,"4 x 10-7",,NR,'-,"0.01058 unit increase",[0.0065-0.0147],"DDX27, ZNFX1",Longevity,longevity,GCST009448,20:49242680
+rs2029084-<b>C</b>,"3 x 10-6",,NR,'-,"0.01063 unit increase",[0.0062-0.0151],"CTAGE14P, RNU7-148P",Longevity,longevity,GCST009448,2:167681841
+rs1997850-<b>G</b>,"1 x 10-7",,NR,'-,"0.01079 unit increase",[0.0068-0.0148],"PREX1, ARFGEF2",Longevity,longevity,GCST009448,20:48909823
+rs2075679-<b>G</b>,"2 x 10-7",,NR,'-,"0.01083 unit increase",[0.0068-0.0149],CSE1L,Longevity,longevity,GCST009448,20:49085052
+rs1000947-<b>G</b>,"4 x 10-7",,NR,'-,"0.01084 unit increase",[0.0066-0.015],INKA2,Longevity,longevity,GCST009448,1:111734975
+rs17411921-<b>A</b>,"3 x 10-7",,NR,'-,"0.01102 unit increase",[0.0068-0.0152],LINC02147,Longevity,longevity,GCST009448,5:117670282
+rs9974713-<b>A</b>,"5 x 10-6",,NR,'-,"0.01115 unit increase",[0.0064-0.0159],DYRK1A,Longevity,longevity,GCST009448,21:37445397
+rs12088073-<b>C</b>,"5 x 10-8",,NR,'-,"0.01118 unit increase",[0.0072-0.0152],RABGAP1L,Longevity,longevity,GCST009448,1:174528504
+rs11697370-<b>A</b>,"7 x 10-8",,NR,'-,"0.01133 unit increase",[0.0072-0.0155],STAU1,Longevity,longevity,GCST009448,20:49115230
+rs5878-<b>G</b>,"1 x 10-7",,NR,'-,"0.01139 unit increase",[0.0072-0.0156],SERPINC1,Longevity,longevity,GCST009448,1:173909694
+rs4755202-<b>A</b>,"2 x 10-8",,NR,'-,"0.01152 unit increase",[0.0075-0.0155],"HSD17B12, MIR129-2",Longevity,longevity,GCST009448,11:43598388
+rs11783562-<b>C</b>,"8 x 10-9",,NR,'-,"0.01177 unit increase",[0.0078-0.0158],"PURG, TEX15",Longevity,longevity,GCST009448,8:30981030
+rs2615453-<b>A</b>,"2 x 10-6",,NR,'-,"0.01187 unit increase",[0.0069-0.0168],"LINC01550, LINC02312",Longevity,longevity,GCST009448,14:97859009
+rs4755737-<b>A</b>,"4 x 10-9",,NR,'-,"0.01207 unit increase",[0.0081-0.0161],HSD17B12,Longevity,longevity,GCST009448,11:43770315
+rs6739137-<b>G</b>,"3 x 10-6",,NR,'-,"0.01313 unit increase",[0.0076-0.0186],CRYGGP,Longevity,longevity,GCST009448,2:51693519
+rs886224-<b>G</b>,"1 x 10-6",,NR,'-,"0.01353 unit increase",[0.008-0.019],"SUZ12, UTP6",Longevity,longevity,GCST009448,17:31902883
+rs348480-<b>A</b>,"7 x 10-8",,NR,'-,"0.015 unit increase",[0.0095-0.0205],"ALDH1A1, LINC01474",Longevity,longevity,GCST009448,9:72898806
+rs10798302-<b>G</b>,"2 x 10-8",,NR,'-,"0.01511 unit increase",[0.0099-0.0204],RC3H1,Longevity,longevity,GCST009448,1:174018660
+rs6633421-<b>G</b>,"1 x 10-6",,NR,'-,"0.01594 unit increase",[0.0095-0.0224],CNKSR2,Longevity,longevity,GCST009448,X:21551802
+rs16847706-<b>C</b>,"3 x 10-7",,NR,'-,"0.01684 unit increase",[0.01-0.023],MRPS14,Longevity,longevity,GCST009448,1:175014071
+rs6824673-<b>G</b>,"5 x 10-6",,NR,'-,"0.01706 unit increase",[0.0097-0.0244],ADGRL3,Longevity,longevity,GCST009448,4:61996897
+rs16847402-<b>G</b>,"2 x 10-8",,NR,'-,"0.01856 unit increase",[0.012-0.025],RABGAP1L,Longevity,longevity,GCST009448,1:174745913
+rs429358-<b>T</b>,"4 x 10-57",,'-,'-,'-,'-,'-,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,"Mapping not available"
+rs186696265-<b>C</b>,"8 x 10-9",,'-,'-,'-,'-,"LPA, PLG","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:160690668
+rs10951191-<b>A</b>,"4 x 10-6",,'-,'-,'-,'-,JAZF1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,7:28083358
+rs7845800-<b>A</b>,"1 x 10-6",,'-,'-,'-,'-,TOX,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,8:58891160
+rs3012708-<b>A</b>,"1 x 10-7",,'-,'-,'-,'-,RFX3,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,9:3322283
+rs1333042-<b>G</b>,"3 x 10-7",,'-,'-,'-,'-,CDKN2B-AS1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,9:22103814
+rs4917743-<b>G</b>,"6 x 10-6",,'-,'-,'-,'-,"RPS2P36, PIK3AP1","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,10:96621434
+rs2176101-<b>A</b>,"7 x 10-6",,'-,'-,'-,'-,FANK1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,10:125942102
+rs9457925-<b>G</b>,"2 x 10-6",,NR,'-,'-,'-,SLC22A3,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:160427711
+im:160985526-<b>G</b>,"1 x 10-8",,NR,'-,'-,'-,'-,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,"Mapping not available"
+rs16891080-<b>A</b>,"2 x 10-6",,NR,'-,"0.07721 unit decrease",[0.045-0.109],ISCA1P1,"Parental longevity (mother's age at death)","parental longevity",GCST009446,5:62780710
+rs16840288-<b>A</b>,"7 x 10-6",,NR,'-,"0.06134 unit decrease",[0.035-0.088],'-,"Parental longevity (mother's age at death)","parental longevity",GCST009446,2:195407397
+rs1513895-<b>A</b>,"8 x 10-6",,NR,'-,"0.05688 unit decrease",[0.032-0.082],"NPFFR2, ADAMTS3","Parental longevity (mother's age at death)","parental longevity",GCST009446,4:72195310
+rs10163989-<b>A</b>,"2 x 10-6",,NR,'-,"0.03888 unit decrease",[0.023-0.055],'-,"Parental longevity (mother's age at death)","parental longevity",GCST009446,18:71143321
+rs6688903-<b>A</b>,"5 x 10-6",,NR,'-,"0.02375 unit decrease",[0.014-0.034],"TUBA5P, MGAT4EP","Parental longevity (mother's age at death)","parental longevity",GCST009446,1:202837278
+rs4420638-<b>G</b>,"6 x 10-8",,NR,'-,"0.01933 unit decrease",[0.012-0.026],"APOC1, APOC1P1","Parental longevity (mother's age at death)","parental longevity",GCST009446,19:44919689
+rs9513142-<b>G</b>,"4 x 10-7",,NR,'-,"0.01452 unit decrease",[0.0089-0.0201],HS6ST3,"Parental longevity (mother's age at death)","parental longevity",GCST009446,13:96423823
+rs13094224-<b>G</b>,"4 x 10-6",,NR,'-,"0.01364 unit decrease",[0.0079-0.0194],ARPP21,"Parental longevity (mother's age at death)","parental longevity",GCST009446,3:35743089
+rs12770228-<b>A</b>,"5 x 10-6",,NR,'-,"0.01319 unit decrease",[0.0075-0.0189],MIR1915HG,"Parental longevity (mother's age at death)","parental longevity",GCST009446,10:21494705
+rs11083232-<b>G</b>,"4 x 10-6",,NR,'-,"0.01294 unit decrease",[0.0074-0.0184],CDH2,"Parental longevity (mother's age at death)","parental longevity",GCST009446,18:27881781
+rs8062260-<b>A</b>,"4 x 10-6",,NR,'-,"0.01254 unit increase",[0.0072-0.0179],"MAPK3, CDH13","Parental longevity (mother's age at death)","parental longevity",GCST009446,16:82624485
+rs6702421-<b>G</b>,"2 x 10-6",,'-,'-,'-,'-,DENND1B,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,1:197590194
+rs17642632-<b>A</b>,"3 x 10-7",,'-,'-,'-,'-,"DENND1B, C1orf53","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,1:197839648
+rs2724387-<b>C</b>,"2 x 10-6",,'-,'-,'-,'-,CD46,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,1:207759272
+rs11123169-<b>A</b>,"2 x 10-6",,'-,'-,'-,'-,"PSD4, PAX8-AS1","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,2:113209498
+rs7599272-<b>G</b>,"1 x 10-6",,'-,'-,'-,'-,'-,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,2:116110062
+rs9872864-<b>G</b>,"7 x 10-10",,'-,'-,'-,'-,IP6K1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,3:49754590
+rs11713193-<b>A</b>,"2 x 10-7",,'-,'-,'-,'-,"ACTL11P, MST1R","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,3:49886991
+rs1005678-<b>C</b>,"4 x 10-6",,'-,'-,'-,'-,SEMA3F,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,3:50172856
+rs7668784-<b>C</b>,"7 x 10-7",,'-,'-,'-,'-,RGS12,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,4:3337311
+rs2183947-<b>G</b>,"7 x 10-7",,'-,'-,'-,'-,H2BC5,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:26159128
+rs4412193-<b>A</b>,"1 x 10-7",,'-,'-,'-,'-,"BTN3A2, H3C9P","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:26337828
+rs7965658-<b>G</b>,"7 x 10-6",,'-,'-,'-,'-,"POLR2KP1, FAM186B, PRPF40B","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,12:49594146
+rs12828640-<b>G</b>,"9 x 10-6",,'-,'-,'-,'-,"MYL2, LINC01405","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,12:110923494
+rs10870464-<b>C</b>,"6 x 10-6",,'-,'-,'-,'-,FBRSL1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,12:132540903
+rs287532-<b>A</b>,"6 x 10-6",,'-,'-,'-,'-,"LINC00379, PPIAP23","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,13:91184490
+rs17269439-<b>C</b>,"2 x 10-6",,'-,'-,'-,'-,"MINDY2, SNORD3P1","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,15:58770945
+rs4887072-<b>A</b>,"2 x 10-9",,'-,'-,'-,'-,CHRNB4,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,15:78633093
+rs350281-<b>A</b>,"8 x 10-6",,'-,'-,'-,'-,SNX29,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,16:12137882
+rs4783689-<b>G</b>,"7 x 10-6",,'-,'-,'-,'-,CDH1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,16:68819768
+rs193968-<b>G</b>,"3 x 10-6",,'-,'-,'-,'-,TANGO6,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,16:68966685
+im:82666648-<b>A</b>,"6 x 10-6",,'-,'-,'-,'-,'-,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,"Mapping not available"
+rs9899580-<b>A</b>,"6 x 10-6",,'-,'-,'-,'-,IGF2BP1,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,17:49029516
+rs8079585-<b>G</b>,"8 x 10-6",,'-,'-,'-,'-,KIF2B,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,17:53868086
+rs599839-<b>A</b>,"4 x 10-9",,'-,'-,'-,'-,"CELSR2, PSRC1","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,1:109279544
+rs11206803-<b>G</b>,"7 x 10-6",,'-,'-,'-,'-,LINC01767,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,1:56411837
+rs6739633-<b>G</b>,"8 x 10-6",,'-,'-,'-,'-,GALNT14,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,2:12888421
+rs11688838-<b>A</b>,"2 x 10-6",,'-,'-,'-,'-,LRP1B,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,2:142062038
+rs2249407-<b>A</b>,"7 x 10-6",,'-,'-,'-,'-,"PPARG, TSEN2","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,3:12453295
+rs34759087-<b>G</b>,"7 x 10-6",,'-,'-,'-,'-,LAMB2,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,3:49124851
+rs4283605-<b>A</b>,"6 x 10-7",,'-,'-,'-,'-,"BSN-AS1, BSN","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,3:49641218
+rs6445782-<b>G</b>,"9 x 10-6",,'-,'-,'-,'-,ERC2,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,3:56349376
+rs6809394-<b>G</b>,"7 x 10-6",,'-,'-,'-,'-,"CCNL1, LINC00881","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,3:157144356
+rs11947612-<b>A</b>,"2 x 10-6",,'-,'-,'-,'-,RNU6-699P,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,4:66942136
+rs806977-<b>A</b>,"5 x 10-6",,'-,'-,'-,'-,"H1-12P, H4C4","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:26189387
+rs9357004-<b>G</b>,"4 x 10-6",,'-,'-,'-,'-,"H4C8, H3C9P","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:26303091
+rs1757188-<b>G</b>,"7 x 10-8",,'-,'-,'-,'-,LINC02520,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:37516032
+rs9343798-<b>A</b>,"1 x 10-6",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:78745565
+rs10943608-<b>A</b>,"9 x 10-6",,'-,'-,'-,'-,PHIP,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:78965212
+rs6904674-<b>A</b>,"9 x 10-6",,'-,'-,'-,'-,"HMGN3, PHIP","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:79145714
+rs9457827-<b>G</b>,"7 x 10-12",,'-,'-,'-,'-,IGF2R,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:160082624
+im:160816409-<b>T</b>,"5 x 10-19",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,"Mapping not available"
+im:161013013-<b>T</b>,"1 x 10-24",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,"Mapping not available"
+rs6935921-<b>A</b>,"2 x 10-7",,NR,'-,'-,'-,"PLG, LPA","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:160687504
+rs11764590-<b>G</b>,"6 x 10-6",,'-,'-,'-,'-,MAD1L1,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,7:1993168
+rs11250076-<b>G</b>,"1 x 10-6",,'-,'-,'-,'-,PINX1,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,8:10790313
+rs15285-<b>G</b>,"8 x 10-10",,'-,'-,'-,'-,LPL,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,8:19967156
+rs1870145-<b>A</b>,"4 x 10-7",,NR,'-,"0.01376 unit increase",[0.0084-0.0191],"TSPAN14, PRXL2A","Parental longevity (mother's age at death)","parental longevity",GCST009446,10:80446592
+rs412458-<b>G</b>,"8 x 10-6",,NR,'-,"0.01484 unit increase",[0.0083-0.0214],"MEF2C, MEF2C-AS2","Parental longevity (mother's age at death)","parental longevity",GCST009446,5:88733810
+rs4964460-<b>G</b>,"4 x 10-6",,NR,'-,"0.01487 unit increase",[0.0085-0.0212],TCP11L2,"Parental longevity (mother's age at death)","parental longevity",GCST009446,12:106311196
+rs2973139-<b>G</b>,"6 x 10-6",,NR,'-,"0.01573 unit increase",[0.0089-0.0225],LINC01470,"Parental longevity (mother's age at death)","parental longevity",GCST009446,5:153169261
+rs17513684-<b>G</b>,"5 x 10-6",,NR,'-,"0.01597 unit increase",[0.0091-0.0228],LINC02755,"Parental longevity (mother's age at death)","parental longevity",GCST009446,11:29282700
+rs7540856-<b>C</b>,"2 x 10-6",,NR,'-,"0.03694 unit increase",[0.022-0.052],CEP350,"Parental longevity (mother's age at death)","parental longevity",GCST009446,1:180086850
+rs1333042-<b>A</b>,"7 x 10-15",,0.49,'-,"0.01979 unit increase",[0.015-0.025],CDKN2B-AS1,"Parental longevity (father's age at death)","parental longevity",GCST009447,9:22103814
+rs931794-<b>G</b>,"3 x 10-9",,0.35,'-,"0.01581 unit decrease",[0.011-0.021],HYKK,"Parental longevity (father's age at death)","parental longevity",GCST009447,15:78533838
+rs9457925-<b>A</b>,"4 x 10-12",,0.02,'-,"0.06608 unit decrease",[0.047-0.085],SLC22A3,"Parental longevity (father's age at death)","parental longevity",GCST009447,6:160427711
+rs17685-<b>A</b>,"5 x 10-8",,0.28,'-,"0.01545 unit increase",[0.0099-0.021],POR,"Parental longevity (father's age at death)","parental longevity",GCST009447,7:75986787
+rs10887623-<b>G</b>,"3 x 10-6",,0.1,'-,"0.01977 unit decrease",[0.011-0.028],"RPL7AP8, WAPL","Parental longevity (father's age at death)","parental longevity",GCST009447,10:86555424
+rs7919051-<b>A</b>,"5 x 10-6",,NR,'-,"0.07687 unit decrease",[0.044-0.11],SORCS1,"Parental longevity (father's age at death)","parental longevity",GCST009447,10:106994285
+rs9457827-<b>A</b>,"2 x 10-8",,NR,'-,"0.02982 unit decrease",[0.019-0.04],IGF2R,"Parental longevity (father's age at death)","parental longevity",GCST009447,6:160082624
+rs3097415-<b>A</b>,"9 x 10-6",,NR,'-,"0.02733 unit decrease",[0.015-0.039],'-,"Parental longevity (father's age at death)","parental longevity",GCST009447,2:210999021
+rs1403050-<b>G</b>,"7 x 10-7",,NR,'-,"0.01556 unit decrease",[0.0094-0.0217],LPP,"Parental longevity (father's age at death)","parental longevity",GCST009447,3:188351542
+rs1158746-<b>C</b>,"3 x 10-6",,NR,'-,"0.01458 unit decrease",[0.0085-0.0207],HDX,"Parental longevity (father's age at death)","parental longevity",GCST009447,X:84568413
+rs2219507-<b>A</b>,"7 x 10-6",,NR,'-,"0.0141 unit decrease",[0.008-0.0202],OTUD7A,"Parental longevity (father's age at death)","parental longevity",GCST009447,15:31567432
+rs9832642-<b>G</b>,"2 x 10-6",,NR,'-,"0.01367 unit decrease",[0.0081-0.0193],TRIM71,"Parental longevity (father's age at death)","parental longevity",GCST009447,3:32838171
+rs1464890-<b>A</b>,"7 x 10-7",,NR,'-,"0.01271 unit decrease",[0.0077-0.0177],ZC3HC1,"Parental longevity (father's age at death)","parental longevity",GCST009447,7:130024472
+rs10206961-<b>A</b>,"2 x 10-6",,NR,'-,"0.01235 unit decrease",[0.0073-0.0174],VAMP5,"Parental longevity (father's age at death)","parental longevity",GCST009447,2:85587861
+rs225439-<b>A</b>,"2 x 10-6",,NR,'-,"0.01218 unit decrease",[0.0072-0.0172],"ABCG1, TFF3","Parental longevity (father's age at death)","parental longevity",GCST009447,21:42311295
+rs1428373-<b>A</b>,"3 x 10-6",,NR,'-,"0.01204 unit decrease",[0.007-0.0171],"SAYSD1, KCNK5","Parental longevity (father's age at death)","parental longevity",GCST009447,6:39182322
+rs7795011-<b>C</b>,"6 x 10-6",,NR,'-,"0.01189 unit decrease",[0.0068-0.017],IMMP2L,"Parental longevity (father's age at death)","parental longevity",GCST009447,7:110962736
+rs9809889-<b>A</b>,"4 x 10-6",,NR,'-,"0.01175 unit decrease",[0.0067-0.0168],TMF1,"Parental longevity (father's age at death)","parental longevity",GCST009447,3:69038261
+rs6837085-<b>G</b>,"7 x 10-6",,NR,'-,"0.0114 unit increase",[0.0064-0.0164],MTND1P22,"Parental longevity (father's age at death)","parental longevity",GCST009447,4:155496757
+rs969124-<b>A</b>,"9 x 10-6",,NR,'-,"0.01198 unit increase",[0.0067-0.0173],KCNK9,"Parental longevity (father's age at death)","parental longevity",GCST009447,8:139551949
+rs3912613-<b>G</b>,"3 x 10-6",,NR,'-,"0.01218 unit increase",[0.0071-0.0173],LMCD1-AS1,"Parental longevity (father's age at death)","parental longevity",GCST009447,3:8196639
+rs7285459-<b>G</b>,"7 x 10-6",,NR,'-,"0.01218 unit increase",[0.0069-0.0175],LINC01638,"Parental longevity (father's age at death)","parental longevity",GCST009447,22:27212125
+rs17451403-<b>A</b>,"8 x 10-6",,NR,'-,"0.01324 unit increase",[0.0074-0.0191],PDE4B,"Parental longevity (father's age at death)","parental longevity",GCST009447,1:65921804
+rs7844965-<b>A</b>,"9 x 10-6",,NR,'-,"0.01335 unit increase",[0.0075-0.0192],GULOP,"Parental longevity (father's age at death)","parental longevity",GCST009447,8:27584547
+rs7466280-<b>G</b>,"5 x 10-6",,NR,'-,"0.01372 unit increase",[0.0078-0.0196],PTPRD,"Parental longevity (father's age at death)","parental longevity",GCST009447,9:8854069
+rs9691174-<b>G</b>,"3 x 10-7",,NR,'-,"0.01463 unit increase",[0.0091-0.0202],"GTF2IP7, SRRM3","Parental longevity (father's age at death)","parental longevity",GCST009447,7:76161087
+rs7844965-<b>G</b>,"6 x 10-10",,'-,'-,'-,'-,GULOP,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,8:27584547
+rs4741545-<b>A</b>,"3 x 10-6",,'-,'-,'-,'-,CCDC171,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,9:15830508
+rs10756730-<b>A</b>,"4 x 10-6",,'-,'-,'-,'-,CCDC171,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,9:15975071
+im:22100176-<b>C</b>,"2 x 10-28",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,"Mapping not available"
+rs4750377-<b>A</b>,"9 x 10-6",,'-,'-,'-,'-,"PRPF18, BEND7","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,10:13531636
+rs2478839-<b>G</b>,"4 x 10-6",,'-,'-,'-,'-,JCAD,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,10:30017875
+rs4121744-<b>G</b>,"7 x 10-6",,'-,'-,'-,'-,"GRM5, TYR","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,11:89141801
+rs12369443-<b>A</b>,"1 x 10-6",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,"Mapping not available"
+rs10774625-<b>A</b>,"1 x 10-8",,'-,'-,'-,'-,ATXN2,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,12:111472415
+rs12184772-<b>A</b>,"8 x 10-8",,'-,'-,'-,'-,COL4A1,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,13:110195399
+rs13099-<b>A</b>,"7 x 10-6",,'-,'-,'-,'-,TMED10,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,14:75132452
+rs4774495-<b>A</b>,"5 x 10-8",,'-,'-,'-,'-,SEMA6D,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,15:47359165
+rs1898110-<b>C</b>,"2 x 10-6",,'-,'-,'-,'-,SEMA6D,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,15:47598153
+im:78802869-<b>T</b>,"1 x 10-31",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,"Mapping not available"
+rs11633223-<b>A</b>,"4 x 10-8",,'-,'-,'-,'-,CHRNB4,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,15:78643134
+rs2677737-<b>G</b>,"1 x 10-6",,'-,'-,'-,'-,"FES, MAN2A2","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,15:90897977
+rs269985-<b>G</b>,"1 x 10-6",,'-,'-,'-,'-,SLC14A2,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,18:45206032
+rs2247326-<b>A</b>,"1 x 10-6",,'-,'-,'-,'-,SLC14A2,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,18:45369029
+rs6511720-<b>C</b>,"3 x 10-9",,'-,'-,'-,'-,LDLR,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,19:11091630
+im:45232161-<b>G</b>,"7 x 10-8",,'-,'-,'-,'-,'-,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,"Mapping not available"
+rs769449-<b>G</b>,"2 x 10-20",,'-,'-,'-,'-,APOE,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,19:44906745
+rs10415720-<b>A</b>,"2 x 10-6",,'-,'-,'-,'-,MARK4,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,19:45304673
+rs1995650-<b>G</b>,"4 x 10-6",,NR,'-,'-,'-,HLA-DRB9,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:78608571
+rs1891910-<b>G</b>,"5 x 10-6",,'-,'-,'-,'-,"PERM1, HES4","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,1:997077
+rs3766823-<b>G</b>,"5 x 10-6",,'-,'-,'-,'-,ADGRB2,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,1:31731656
+rs429358-<b>T</b>,"1 x 10-56",,0.87,1.67,'-,[1.56-1.79],'-,"Longevity (age >90th survival percentile)",longevity,GCST008598,"Mapping not available"
+rs7412-<b>T</b>,"2 x 10-11",,0.09,1.28,'-,[1.19-1.37],APOE,"Longevity (age >90th survival percentile)",longevity,GCST008598,19:44908822
+rs429358-<b>T</b>,"1 x 10-36",,0.87,1.8181818,'-,[1.64-2],'-,"Longevity (age >99th survival percentile)",longevity,GCST008601,"Mapping not available"
+rs138762279-<b>A</b>,"2 x 10-7",,0.84,1.2658228,'-,[1.16-1.39],"NSG2, LINC01411","Longevity (age >99th survival percentile)",longevity,GCST008601,5:174283195
+rs2069837-<b>A</b>,"1 x 10-8",,0.91,1.1111112,'-,[0.93-1.32],IL6,"Longevity (age >99th survival percentile)",longevity,GCST008601,7:22728408
+rs2758603-<b>C</b>,"1 x 10-6",,0.34,1.12,'-,1.02-1.22,"PMF1, PMF1-BGLAP","Longevity (age >99th survival percentile)",longevity,GCST008601,1:156229203
+rs7039467-<b>A</b>,"2 x 10-7",,0.48,1.2,'-,1.12-1.28,CDKN2B-AS1,"Longevity (age >99th survival percentile)",longevity,GCST008601,9:22056214
+rs3830412-<b>A</b>,"8 x 10-7",,0.22,1.21,'-,1.12-1.30,KALRN,"Longevity (age >99th survival percentile)",longevity,GCST008601,3:124678475
+rs7412-<b>T</b>,"2 x 10-12",,0.09,1.39,'-,1.26-1.53,APOE,"Longevity (age >99th survival percentile)",longevity,GCST008601,19:44908822
+rs429358-<b>T</b>,"1 x 10-61",,0.87,1.6666665,'-,[1.52-1.82],'-,"Longevity (age >90th survival percentile)",longevity,GCST008600,"Mapping not available"
+rs7676745-<b>G</b>,"2 x 10-7",,0.96,1.4925373,'-,[1.28-1.72],GPR78,"Longevity (age >90th survival percentile)",longevity,GCST008600,4:8563820
+rs62127362-<b>G</b>,"4 x 10-7",,0.87,1.1494253,'-,[1.08-1.22],CEP89,"Longevity (age >90th survival percentile)",longevity,GCST008600,19:32967573
+rs12143832-<b>T</b>,"2 x 10-7",,0.54,1.1111112,'-,[1.06-1.15],"ECE1, PPP1R11P1","Longevity (age >90th survival percentile)",longevity,GCST008600,1:21378943
+rs2069837-<b>A</b>,"5 x 10-8",,0.92,1.1111112,'-,[1.01-1.22],IL6,"Longevity (age >90th survival percentile)",longevity,GCST008600,7:22728408
+rs35262860-<b>GCT</b>,"6 x 10-7",,0.39,1.11,'-,1.07-1.15,RP1,"Longevity (age >90th survival percentile)",longevity,GCST008600,8:54566350
+rs1262476-<b>A</b>,"1 x 10-6",,0.24,1.12,'-,1.07-1.17,"RPS4XP9, PRELID1P1","Longevity (age >90th survival percentile)",longevity,GCST008600,6:126665850
+rs7412-<b>T</b>,"2 x 10-12",,0.09,1.26,'-,1.19-1.35,APOE,"Longevity (age >90th survival percentile)",longevity,GCST008600,19:44908822
+rs7412-<b>T</b>,"3 x 10-12",,0.09,1.47,'-,[1.32-1.64],APOE,"Longevity (age >99th survival percentile)",longevity,GCST008599,19:44908822
+rs429358-<b>T</b>,"4 x 10-34",,0.87,1.92,'-,[1.72-2.13],'-,"Longevity (age >99th survival percentile)",longevity,GCST008599,"Mapping not available"
+rs4420638-<b>?</b>,"3 x 10-36",,0.798,1.39,'-,[1.32-1.47],"APOC1, APOC1P1","Longevity (90 years and older)",longevity,GCST002404,19:44919689
+rs2149954-<b>T</b>,"2 x 10-8",,0.352,1.1,'-,[1.06-1.74],LINC02227,"Longevity (90 years and older)",longevity,GCST002404,5:158393594
+rs2784505-<b>G</b>,"9 x 10-6",,0.066,1.15,'-,[1.08-1.22],SYT16,"Longevity (90 years and older)",longevity,GCST002404,14:61965295
+rs6432832-<b>A</b>,"9 x 10-6",,0.339,1.06,'-,[1.03-1.09],CSRNP3,"Longevity (85 years and older)",longevity,GCST002403,2:165514316
+rs2149954-<b>T</b>,"4 x 10-6",,0.352,1.07,'-,[1.04-1.09],LINC02227,"Longevity (85 years and older)",longevity,GCST002403,5:158393594
+rs10957550-<b>?</b>,"1 x 10-6",,0.756,1.09,'-,[1.05-1.11],EYA1,"Longevity (85 years and older)",longevity,GCST002403,8:71382353
+rs4420638-<b>?</b>,"2 x 10-26",,0.798,1.22,'-,[1.18-1.27],"APOC1, APOC1P1","Longevity (85 years and older)",longevity,GCST002403,19:44919689
+rs34831921-<b>A</b>,"4 x 10-8",(EA),0.09,'-,"0.6 years increase",'-,"HLA-DRB1, HLA-DQA1","Parental lifespan","parental longevity",GCST004983,6:32622991
+rs55730499-<b>T</b>,"9 x 10-11",(EA),0.083,'-,"0.7 years decrease",'-,LPA,"Parental lifespan","parental longevity",GCST004983,6:160584578
+rs8042849-<b>C</b>,"4 x 10-14",(EA),0.356,'-,"0.4 years decrease",'-,HYKK,"Parental lifespan","parental longevity",GCST004983,15:78525587
+rs429358-<b>C</b>,"1 x 10-27",(EA),0.142,'-,"0.9 years decrease",'-,'-,"Parental lifespan","parental longevity",GCST004983,"Mapping not available"
+rs10198124-<b>G</b>,"2 x 10-8",(African),0.39,1.22,'-,[1.15-1.29],SMIM7P1,"Parental lifespan","parental longevity",GCST004983,2:35216373
+rs805262-<b>G</b>,"7 x 10-7",,'-,'-,'-,'-,"C6orf47, GPANK1","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:31660956
+rs3763326-<b>A</b>,"5 x 10-6",,'-,'-,'-,'-,"HLA-DRA, HLA-DRB9","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:32445780
+rs9275245-<b>A</b>,"3 x 10-6",,'-,'-,'-,'-,"HLA-DQB1, MTCO3P1","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:32693166
+rs3819715-<b>C</b>,"7 x 10-6",,'-,'-,'-,'-,TAP2,"Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:32836442
+rs3130467-<b>G</b>,"3 x 10-7",,'-,'-,'-,'-,"HLA-C, HCG27","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:31219298
+rs2596487-<b>G</b>,"6 x 10-6",,'-,'-,'-,'-,"DHFRP2, HLA-B","Parental longevity (mother's age at death or mother's attained age)","parental longevity",GCST009449,6:31357279
+rs3131621-<b>A</b>,"9 x 10-9",,'-,'-,'-,'-,"LINC01149, HCP5","Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:31457722
+rs1061801-<b>G</b>,"2 x 10-6",,'-,'-,'-,'-,ZBTB22,"Parental longevity (father's age at death or father's attained age)","parental longevity",GCST009450,6:33314561
+rs1061801-<b>A</b>,"3 x 10-6",,NR,'-,"0.01574 unit decrease",[0.0091-0.0224],ZBTB22,"Parental longevity (father's age at death)","parental longevity",GCST009447,6:33314561
+rs1230666-<b>G</b>,"6 x 10-9",,0.85,'-,"0.3224 years increase",[0.21-0.43],MAGI3,"Parental lifespan","parental longevity",GCST009890,1:113630788
+rs1275922-<b>G</b>,"6 x 10-9",,0.74,'-,"0.2579 years increase",[0.17-0.34],KCNK3,"Parental lifespan","parental longevity",GCST009890,2:26710019
+rs61348208-<b>T</b>,"6 x 10-9",,0.39,'-,"0.2299 years increase",[0.15-0.31],HTT,"Parental lifespan","parental longevity",GCST009890,4:3087837
+rs34967069-<b>T</b>,"4 x 10-9",,0.07,'-,"0.5613 years increase",[0.37-0.75],"HLA-DRB1, HLA-DQA1","Parental lifespan","parental longevity",GCST009890,6:32623471
+rs10455872-<b>A</b>,"9 x 10-25",,0.92,'-,"0.7639 years increase",[0.62-0.91],LPA,"Parental lifespan","parental longevity",GCST009890,6:160589086
+rs1556516-<b>G</b>,"7 x 10-11",,0.5,'-,"0.251 years increase",[0.18-0.33],CDKN2B-AS1,"Parental lifespan","parental longevity",GCST009890,9:22100177
+rs11065979-<b>C</b>,"1 x 10-12",,0.56,'-,"0.2798 years increase",[0.2-0.36],"BRAP, ATXN2-AS","Parental lifespan","parental longevity",GCST009890,12:111621753
+rs8042849-<b>T</b>,"2 x 10-26",,0.65,'-,"0.4368 years increase",[0.36-0.52],HYKK,"Parental lifespan","parental longevity",GCST009890,15:78525587
+rs6224-<b>G</b>,"1 x 10-10",,0.52,'-,"0.2507 years increase",[0.17-0.33],FURIN,"Parental lifespan","parental longevity",GCST009890,15:90880313
+rs12924886-<b>A</b>,"1 x 10-8",,0.8,'-,"0.2798 years increase",[0.18-0.38],"TXNL4B, DHODH","Parental lifespan","parental longevity",GCST009890,16:72041694
+rs142158911-<b>A</b>,"8 x 10-9",,0.12,'-,"0.355 years increase",[0.23-0.48],"SMARCA4, LDLR","Parental lifespan","parental longevity",GCST009890,19:11079858
+rs429358-<b>T</b>,"3 x 10-83",,0.85,'-,"1.0561 years increase",[0.95-1.16],'-,"Parental lifespan","parental longevity",GCST009890,"Mapping not available"
+rs11556924-<b>T</b>,"4 x 10-7",,0.386,'-,"0.0202 unit increase",[0.012-0.028],ZC3HC1,"Parental lifespan","parental longevity",GCST009890,7:130023656
+rs6944634-<b>C</b>,"1 x 10-6",,0.782,'-,"0.0246 unit increase",[0.015-0.034],POM121C,"Parental lifespan","parental longevity",GCST009890,7:75432493
+rs602633-<b>T</b>,"3 x 10-6",,0.218,'-,"0.0218 unit increase",[0.013-0.031],"CELSR2, PSRC1","Parental lifespan","parental longevity",GCST009890,1:109278889
+rs6744653-<b>A</b>,"6 x 10-8",,0.174,'-,"0.0277 unit increase",[0.018-0.038],"TMEM18, LINC01875","Parental lifespan","parental longevity",GCST009890,2:628524

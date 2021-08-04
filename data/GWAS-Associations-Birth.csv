@@ -1,0 +1,563 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs2744726-<b>A</b>,"4 x 10-8",,0.87,'-,"0.031252176 unit increase",[0.02-0.042],"MIR4418, WNT4","Birth weight (MTAG)","birth weight",GCST009498,1:22213078
+rs905938-<b>T</b>,"7 x 10-13",,0.74,'-,"0.030506749 unit decrease",[0.022-0.039],DCST2,"Birth weight (MTAG)","birth weight",GCST009498,1:155018913
+rs17413015-<b>T</b>,"3 x 10-9",,0.18,'-,"0.029525777 unit increase",[0.02-0.039],FCGR2B,"Birth weight (MTAG)","birth weight",GCST009498,1:161675021
+rs718139-<b>A</b>,"3 x 10-11",,0.12,'-,"0.03890449 unit decrease",[0.027-0.05],ATAD2B,"Birth weight (MTAG)","birth weight",GCST009498,2:23753041
+rs17034876-<b>T</b>,"2 x 10-28",,0.7,'-,"0.046742693 unit increase",[0.038-0.055],RPL36AP14,"Birth weight (MTAG)","birth weight",GCST009498,2:46257171
+rs11708067-<b>A</b>,"4 x 10-25",,0.77,'-,"0.045870624 unit decrease",[0.037-0.055],ADCY5,"Birth weight (MTAG)","birth weight",GCST009498,3:123346931
+rs13322435-<b>A</b>,"6 x 10-38",,0.6,'-,"0.050210092 unit increase",[0.043-0.058],'-,"Birth weight (MTAG)","birth weight",GCST009498,"Mapping not available"
+rs724577-<b>A</b>,"7 x 10-17",,0.27,'-,"0.03502898 unit increase",[0.027-0.043],LCORL,"Birth weight (MTAG)","birth weight",GCST009498,4:17991787
+rs6537307-<b>A</b>,"1 x 10-12",,0.5,'-,"0.027060764 unit decrease",[0.02-0.035],HHIP,"Birth weight (MTAG)","birth weight",GCST009498,4:144680711
+rs1835874-<b>T</b>,"1 x 10-8",,0.8,'-,"0.027038608 unit increase",[0.018-0.036],LINC02225,"Birth weight (MTAG)","birth weight",GCST009498,5:57837423
+rs7756992-<b>A</b>,"3 x 10-25",,0.72,'-,"0.043162063 unit increase",[0.035-0.051],'-,"Birth weight (MTAG)","birth weight",GCST009498,"Mapping not available"
+rs1759645-<b>T</b>,"1 x 10-9",,0.84,'-,"0.030916274 unit decrease",[0.021-0.041],"HMGA1, CYCSP55","Birth weight (MTAG)","birth weight",GCST009498,6:34227089
+rs1415701-<b>A</b>,"3 x 10-9",,0.26,'-,"0.025166119 unit decrease",[0.017-0.034],L3MBTL3,"Birth weight (MTAG)","birth weight",GCST009498,6:130024690
+rs10872678-<b>T</b>,"2 x 10-18",,0.72,'-,"0.036490615 unit increase",[0.028-0.045],ESR1,"Birth weight (MTAG)","birth weight",GCST009498,6:151718829
+rs798498-<b>T</b>,"3 x 10-8",,0.69,'-,"0.022840459 unit increase",[0.015-0.031],"AMZ1, GNA12","Birth weight (MTAG)","birth weight",GCST009498,7:2756248
+rs12534093-<b>A</b>,"7 x 10-10",,0.24,'-,"0.027538372 unit decrease",[0.019-0.036],IGF2BP3,"Birth weight (MTAG)","birth weight",GCST009498,7:23463355
+rs6959887-<b>A</b>,"6 x 10-9",,0.61,'-,"0.022410024 unit increase",[0.015-0.03],TBX20,"Birth weight (MTAG)","birth weight",GCST009498,7:35255754
+rs11972595-<b>T</b>,"5 x 10-9",,0.068,'-,"0.04409131 unit increase",[0.029-0.059],BAZ1B,"Birth weight (MTAG)","birth weight",GCST009498,7:73462115
+rs13266210-<b>A</b>,"6 x 10-10",,0.79,'-,"0.028996976 unit increase",[0.02-0.038],ANK1,"Birth weight (MTAG)","birth weight",GCST009498,8:41675996
+rs9409710-<b>A</b>,"7 x 10-9",,0.7,'-,"0.023558382 unit increase",[0.016-0.032],LINC02603,"Birth weight (MTAG)","birth weight",GCST009498,9:94246742
+rs16909902-<b>A</b>,"3 x 10-17",,0.91,'-,"0.05578424 unit decrease",[0.043-0.069],PTCH1,"Birth weight (MTAG)","birth weight",GCST009498,9:95473920
+rs2418135-<b>A</b>,"5 x 10-9",,0.52,'-,"0.022350116 unit increase",[0.015-0.03],RNY4P18,"Birth weight (MTAG)","birth weight",GCST009498,9:111139029
+rs4836833-<b>A</b>,"2 x 10-8",,0.67,'-,"0.022675889 unit increase",[0.015-0.031],PHF19,"Birth weight (MTAG)","birth weight",GCST009498,9:120870551
+rs10818797-<b>T</b>,"1 x 10-11",,0.86,'-,"0.037441894 unit decrease",[0.027-0.048],STRBP,"Birth weight (MTAG)","birth weight",GCST009498,9:123258126
+rs10762269-<b>A</b>,"5 x 10-8",,0.52,'-,"0.020367887 unit decrease",[0.013-0.028],HKDC1,"Birth weight (MTAG)","birth weight",GCST009498,10:69238245
+rs2497304-<b>T</b>,"8 x 10-13",,0.48,'-,"0.026933711 unit decrease",[0.02-0.034],"EXOC6, Y_RNA","Birth weight (MTAG)","birth weight",GCST009498,10:92732959
+rs12220375-<b>T</b>,"3 x 10-8",,0.92,'-,"0.038177736 unit decrease",[0.025-0.052],NT5C2,"Birth weight (MTAG)","birth weight",GCST009498,10:103141734
+rs740746-<b>A</b>,"8 x 10-19",,0.73,'-,"0.037240412 unit increase",[0.029-0.045],ADRB1,"Birth weight (MTAG)","birth weight",GCST009498,10:114033028
+rs2585-<b>T</b>,"1 x 10-8",,0.28,'-,"0.024330052 unit increase",[0.016-0.033],IGF2,"Birth weight (MTAG)","birth weight",GCST009498,11:2129214
+rs11055034-<b>A</b>,"2 x 10-8",,0.27,'-,"0.02369687 unit decrease",[0.015-0.032],APOLD1,"Birth weight (MTAG)","birth weight",GCST009498,12:12737692
+rs1042725-<b>T</b>,"2 x 10-33",,0.49,'-,"0.044908717 unit decrease",[0.038-0.052],HMGA2,"Birth weight (MTAG)","birth weight",GCST009498,12:65964567
+rs7964361-<b>A</b>,"2 x 10-8",,0.085,'-,"0.03859654 unit increase",[0.025-0.052],'-,"Birth weight (MTAG)","birth weight",GCST009498,12:102601100
+rs7998537-<b>A</b>,"4 x 10-8",,0.32,'-,"0.02242137 unit decrease",[0.014-0.03],LINC00598,"Birth weight (MTAG)","birth weight",GCST009498,13:40088605
+rs4885512-<b>T</b>,"5 x 10-9",,0.13,'-,"0.03311276 unit decrease",[0.022-0.044],"LINC00446, OBI1-AS1","Birth weight (MTAG)","birth weight",GCST009498,13:78033337
+rs222852-<b>A</b>,"2 x 10-13",,0.59,'-,"0.028664349 unit increase",[0.021-0.036],PHF23,"Birth weight (MTAG)","birth weight",GCST009498,17:7237287
+rs2206815-<b>A</b>,"4 x 10-8",,0.49,'-,"0.02092358 unit increase",[0.013-0.028],"LINC01752, JAG1","Birth weight (MTAG)","birth weight",GCST009498,20:10688540
+rs6057610-<b>T</b>,"1 x 10-10",,0.5,'-,"0.024576223 unit increase",[0.017-0.032],C20orf203,"Birth weight (MTAG)","birth weight",GCST009498,20:32653587
+rs6016377-<b>T</b>,"2 x 10-9",,0.43,'-,"0.023046913 unit increase",[0.015-0.031],'-,"Birth weight (MTAG)","birth weight",GCST009498,20:40544088
+rs2229742-<b>C</b>,"7 x 10-9",,0.13,'-,"0.032112274 unit decrease",[0.021-0.043],NRIP1,"Birth weight (MTAG)","birth weight",GCST009498,21:14966851
+rs10483213-<b>A</b>,"3 x 10-9",,0.091,'-,"0.038587194 unit decrease",[0.026-0.051],CENPM,"Birth weight (MTAG)","birth weight",GCST009498,22:41943521
+rs905938-<b>T</b>,"5 x 10-13",,0.26,'-,"0.026 z score decrease",[0.018-0.034],DCST2,"Birth weight","birth weight",GCST009437,1:155018913
+rs12039075-<b>A</b>,"1 x 10-10",,0.13,'-,"0.031 z score decrease",[0.021-0.041],'-,"Birth weight","birth weight",GCST009437,1:118743078
+rs1244983-<b>A</b>,"5 x 10-10",,0.48,'-,"0.02 z score increase",[0.014-0.026],GAPDHP24,"Birth weight","birth weight",GCST009437,1:214858271
+rs17413015-<b>T</b>,"2 x 10-8",,0.18,'-,"0.024 z score increase",[0.016-0.032],FCGR2B,"Birth weight","birth weight",GCST009437,1:161675021
+rs12404679-<b>T</b>,"4 x 10-8",,0.14,'-,"0.026 z score decrease",[0.016-0.036],SLC2A1-AS1,"Birth weight","birth weight",GCST009437,1:42992787
+rs1547550-<b>C</b>,"1 x 10-10",,0.36,'-,"0.022 z score decrease",[0.014-0.03],STAT1,"Birth weight","birth weight",GCST009437,2:190980999
+rs13032333-<b>A</b>,"4 x 10-10",,0.3,'-,"0.022 z score increase",[0.014-0.03],IAH1,"Birth weight","birth weight",GCST009437,2:9480572
+rs4665083-<b>A</b>,"2 x 10-9",,0.38,'-,"0.021 z score increase",[0.013-0.029],BAZ2B,"Birth weight","birth weight",GCST009437,2:159573616
+rs754868-<b>A</b>,"1 x 10-8",,0.43,'-,"0.019 z score decrease",[0.013-0.025],LINC01819,"Birth weight","birth weight",GCST009437,2:42958392
+rs1724184-<b>T</b>,"2 x 10-8",,0.25,'-,"0.021 z score decrease",[0.013-0.029],CCDC138,"Birth weight","birth weight",GCST009437,2:108792320
+rs6713865-<b>A</b>,"3 x 10-8",,0.18,'-,"0.023 z score increase",[0.015-0.031],KLHL29,"Birth weight","birth weight",GCST009437,2:23676937
+rs13322435-<b>A</b>,"1 x 10-51",,0.41,'-,"0.05 z score increase",[0.044-0.056],'-,"Birth weight","birth weight",GCST009437,"Mapping not available"
+rs11708067-<b>A</b>,"6 x 10-24",,0.24,'-,"0.038 z score decrease",[0.03-0.046],ADCY5,"Birth weight","birth weight",GCST009437,3:123346931
+rs7647448-<b>T</b>,"1 x 10-10",,0.4,'-,"0.021 z score decrease",[0.015-0.027],"CPA3, UBQLN4P1","Birth weight","birth weight",GCST009437,3:148905987
+rs2306700-<b>T</b>,"2 x 10-8",,0.13,'-,"0.027 z score increase",[0.017-0.037],XRN1,"Birth weight","birth weight",GCST009437,3:142404999
+rs2061456-<b>A</b>,"4 x 10-25",,0.25,'-,"0.038 z score increase",[0.03-0.046],LCORL,"Birth weight","birth weight",GCST009437,4:17996803
+rs17776795-<b>A</b>,"6 x 10-19",,0.42,'-,"0.029 z score decrease",[0.023-0.035],"KRT18P51, HHIP-AS1","Birth weight","birth weight",GCST009437,4:144623684
+rs7674220-<b>C</b>,"1 x 10-14",,0.36,'-,"0.026 z score decrease",[0.02-0.032],TET2,"Birth weight","birth weight",GCST009437,4:105227601
+rs854037-<b>A</b>,"4 x 10-13",,0.2,'-,"0.03 z score increase",[0.022-0.038],LINC02225,"Birth weight","birth weight",GCST009437,5:57795956
+rs3756668-<b>A</b>,"8 x 10-11",,0.47,'-,"0.021 z score decrease",[0.015-0.027],PIK3R1,"Birth weight","birth weight",GCST009437,5:68300260
+rs11242219-<b>A</b>,"1 x 10-10",,0.41,'-,"0.021 z score decrease",[0.015-0.027],"LINC01843, RN7SL541P","Birth weight","birth weight",GCST009437,5:134513069
+rs2946164-<b>T</b>,"3 x 10-9",,0.27,'-,"0.022 z score increase",[0.014-0.03],LINC02227,"Birth weight","birth weight",GCST009437,5:158457698
+rs10440833-<b>A</b>,"3 x 10-25",,0.26,'-,"0.038 z score decrease",[0.03-0.046],CDKAL1,"Birth weight","birth weight",GCST009437,6:20687890
+rs7772579-<b>A</b>,"4 x 10-15",,0.28,'-,"0.028 z score increase",[0.02-0.036],ESR1,"Birth weight","birth weight",GCST009437,6:151721367
+rs2780226-<b>T</b>,"7 x 10-12",,0.1,'-,"0.039 z score decrease",[0.027-0.051],"HMGA1, CYCSP55","Birth weight","birth weight",GCST009437,6:34231315
+rs1202309-<b>A</b>,"1 x 10-10",,0.3,'-,"0.023 z score decrease",[0.015-0.031],ID4,"Birth weight","birth weight",GCST009437,6:19919755
+rs1472267-<b>A</b>,"2 x 10-10",,0.38,'-,"0.021 z score increase",[0.015-0.027],PDE10A,"Birth weight","birth weight",GCST009437,6:165771537
+rs12197912-<b>T</b>,"4 x 10-10",,0.12,'-,"0.03 z score increase",[0.02-0.04],SESN1,"Birth weight","birth weight",GCST009437,6:109016944
+rs2064317-<b>A</b>,"2 x 10-9",,0.39,'-,"0.02 z score decrease",[0.014-0.026],TULP1,"Birth weight","birth weight",GCST009437,6:35509255
+rs9390019-<b>T</b>,"3 x 10-9",,0.22,'-,"0.023 z score increase",[0.015-0.031],HIVEP2,"Birth weight","birth weight",GCST009437,6:142711919
+rs6930558-<b>T</b>,"4 x 10-9",,0.25,'-,"0.022 z score increase",[0.014-0.03],"RPS3AP23, RN7SKP106","Birth weight","birth weight",GCST009437,6:141557783
+rs12534093-<b>A</b>,"2 x 10-10",,0.24,'-,"0.024 z score decrease",[0.016-0.032],IGF2BP3,"Birth weight","birth weight",GCST009437,7:23463355
+rs11972595-<b>T</b>,"2 x 10-9",,0.07,'-,"0.037 z score increase",[0.025-0.049],BAZ1B,"Birth weight","birth weight",GCST009437,7:73462115
+rs798548-<b>T</b>,"3 x 10-9",,0.29,'-,"0.021 z score increase",[0.013-0.029],AMZ1,"Birth weight","birth weight",GCST009437,7:2721301
+rs2301680-<b>A</b>,"5 x 10-9",,0.5,'-,"0.019 z score decrease",[0.013-0.025],CALCR,"Birth weight","birth weight",GCST009437,7:93486987
+rs10265057-<b>A</b>,"1 x 10-8",,0.1,'-,"0.032 z score decrease",[0.02-0.044],TNS3,"Birth weight","birth weight",GCST009437,7:47236139
+rs2075067-<b>A</b>,"3 x 10-8",,0.13,'-,"0.027 z score decrease",[0.017-0.037],CAMK2B,"Birth weight","birth weight",GCST009437,7:44223429
+rs13266210-<b>A</b>,"1 x 10-9",,0.21,'-,"0.024 z score increase",[0.016-0.032],ANK1,"Birth weight","birth weight",GCST009437,8:41675996
+rs12543725-<b>A</b>,"2 x 10-9",,0.41,'-,"0.02 z score decrease",[0.014-0.026],SLC45A4,"Birth weight","birth weight",GCST009437,8:141237880
+rs2197131-<b>T</b>,"2 x 10-9",,0.21,'-,"0.023 z score decrease",[0.015-0.031],"ZFPM2-AS1, ZFPM2","Birth weight","birth weight",GCST009437,8:105627695
+rs8180991-<b>C</b>,"1 x 10-8",,0.24,'-,"0.022 z score increase",[0.014-0.03],TRIB1,"Birth weight","birth weight",GCST009437,8:125488108
+rs6984782-<b>T</b>,"2 x 10-8",,0.14,'-,"0.027 z score increase",[0.017-0.037],"SDR16C5, CHCHD7","Birth weight","birth weight",GCST009437,8:56223330
+rs7819593-<b>T</b>,"4 x 10-8",,0.25,'-,"0.021 z score decrease",[0.013-0.029],ZFPM2,"Birth weight","birth weight",GCST009437,8:105102944
+rs10512249-<b>A</b>,"2 x 10-15",,0.09,'-,"0.044 z score increase",[0.032-0.056],PTCH1,"Birth weight","birth weight",GCST009437,9:95494027
+rs587364-<b>T</b>,"2 x 10-12",,0.16,'-,"0.033 z score increase",[0.023-0.043],RABGAP1,"Birth weight","birth weight",GCST009437,9:122998584
+rs751543-<b>T</b>,"3 x 10-9",,0.29,'-,"0.021 z score increase",[0.013-0.029],PAPPA,"Birth weight","birth weight",GCST009437,9:116360063
+rs2418135-<b>A</b>,"1 x 10-8",,0.48,'-,"0.018 z score increase",[0.012-0.024],RNY4P18,"Birth weight","birth weight",GCST009437,9:111139029
+rs3933326-<b>A</b>,"2 x 10-8",,0.32,'-,"0.02 z score decrease",[0.012-0.028],PHF19,"Birth weight","birth weight",GCST009437,9:120871670
+rs11187144-<b>T</b>,"3 x 10-15",,0.39,'-,"0.026 z score decrease",[0.02-0.032],"Y_RNA, HHEX","Birth weight","birth weight",GCST009437,10:92710223
+rs1801253-<b>C</b>,"2 x 10-14",,0.27,'-,"0.028 z score increase",[0.02-0.036],ADRB1,"Birth weight","birth weight",GCST009437,10:114045297
+rs2274224-<b>C</b>,"8 x 10-13",,0.44,'-,"0.023 z score increase",[0.017-0.029],'-,"Birth weight","birth weight",GCST009437,"Mapping not available"
+rs9645500-<b>T</b>,"1 x 10-12",,0.32,'-,"0.025 z score decrease",[0.017-0.033],HKDC1,"Birth weight","birth weight",GCST009437,10:69226967
+rs6585827-<b>A</b>,"3 x 10-9",,0.47,'-,"0.019 z score increase",[0.013-0.025],PLEKHA1,"Birth weight","birth weight",GCST009437,10:122406099
+rs1163238-<b>A</b>,"8 x 10-9",,0.39,'-,"0.019 z score decrease",[0.013-0.025],NT5C2,"Birth weight","birth weight",GCST009437,10:103184236
+rs3213225-<b>A</b>,"3 x 10-13",,0.39,'-,"0.026 z score decrease",[0.018-0.034],"INS-IGF2, IGF2","Birth weight","birth weight",GCST009437,11:2135306
+rs2923093-<b>A</b>,"2 x 10-8",,0.4,'-,"0.018 z score increase",[0.012-0.024],AMPD3,"Birth weight","birth weight",GCST009437,11:10339387
+rs5030317-<b>C</b>,"5 x 10-8",,0.29,'-,"0.02 z score increase",[0.012-0.028],WT1,"Birth weight","birth weight",GCST009437,11:32388791
+rs7968682-<b>T</b>,"7 x 10-37",,0.47,'-,"0.041 z score decrease",[0.035-0.047],"HMGA2, MIR6074","Birth weight","birth weight",GCST009437,12:65978100
+rs4766578-<b>A</b>,"8 x 10-15",,0.48,'-,"0.025 z score increase",[0.019-0.031],ATXN2,"Birth weight","birth weight",GCST009437,12:111466567
+rs2306547-<b>T</b>,"3 x 10-9",,0.45,'-,"0.019 z score decrease",[0.013-0.025],ITPR2,"Birth weight","birth weight",GCST009437,12:26724952
+rs9535006-<b>A</b>,"7 x 10-9",,0.25,'-,"0.021 z score decrease",[0.013-0.029],"RB1-DT, ITM2B","Birth weight","birth weight",GCST009437,13:48275667
+rs7173576-<b>T</b>,"3 x 10-12",,0.26,'-,"0.025 z score decrease",[0.017-0.033],NR2F2-AS1,"Birth weight","birth weight",GCST009437,15:96298295
+rs11853312-<b>A</b>,"1 x 10-9",,0.11,'-,"0.031 z score decrease",[0.021-0.041],SPRED1,"Birth weight","birth weight",GCST009437,15:38334274
+rs4965425-<b>T</b>,"4 x 10-9",,0.47,'-,"0.019 z score decrease",[0.013-0.025],"FAM169B, IRAIN","Birth weight","birth weight",GCST009437,15:98638434
+rs11539637-<b>T</b>,"2 x 10-8",,0.47,'-,"0.019 z score increase",[0.013-0.025],FES,"Birth weight","birth weight",GCST009437,15:90885060
+rs222852-<b>A</b>,"3 x 10-14",,0.44,'-,"0.025 z score increase",[0.019-0.031],PHF23,"Birth weight","birth weight",GCST009437,17:7237287
+rs11082304-<b>T</b>,"3 x 10-10",,0.49,'-,"0.02 z score increase",[0.014-0.026],CABLES1,"Birth weight","birth weight",GCST009437,18:23141009
+rs2779165-<b>C</b>,"1 x 10-10",,0.18,'-,"0.027 z score decrease",[0.019-0.035],UHRF1,"Birth weight","birth weight",GCST009437,19:4915435
+rs255774-<b>A</b>,"1 x 10-8",,0.46,'-,"0.019 z score increase",[0.013-0.025],"LILRB3, RPS9","Birth weight","birth weight",GCST009437,19:54219486
+rs1129156-<b>T</b>,"3 x 10-8",,0.26,'-,"0.02 z score increase",[0.012-0.028],MAP3K10,"Birth weight","birth weight",GCST009437,19:40213169
+rs6016373-<b>A</b>,"9 x 10-15",,0.41,'-,"0.026 z score decrease",[0.02-0.032],'-,"Birth weight","birth weight",GCST009437,20:40525455
+rs2064933-<b>A</b>,"5 x 10-13",,0.24,'-,"0.027 z score increase",[0.019-0.035],COMMD7,"Birth weight","birth weight",GCST009437,20:32726818
+rs6062541-<b>T</b>,"1 x 10-10",,0.23,'-,"0.024 z score increase",[0.016-0.032],ZBTB46,"Birth weight","birth weight",GCST009437,20:63817967
+rs1351435-<b>A</b>,"5 x 10-6","(Birth weight )",0.0050,'-,"0.04 kg increase",[NR],RPS8P3,"Obesity-related traits","birth weight",GCST001762,18:51878594
+rs11776272-<b>G</b>,"5 x 10-6","(Birth weight )",0.18,'-,"0.05 kg increase",[NR],NPM2,"Obesity-related traits","birth weight",GCST001762,8:22027033
+rs898549-<b>A</b>,"6 x 10-6","(Birth weight )",0.278,'-,"0.06 kg increase",[NR],LINC00841,"Obesity-related traits","birth weight",GCST001762,10:43963266
+rs34863160-<b>G</b>,"9 x 10-6","(Birth weight )",0.0020,'-,"0.02 kg increase",[NR],ZNF470,"Obesity-related traits","birth weight",GCST001762,19:56578467
+rs8106858-<b>A</b>,"9 x 10-6","(Birth weight )",0.0050,'-,"0.02 kg increase",[NR],"ZNF256, C19orf18","Obesity-related traits","birth weight",GCST001762,19:57957648
+rs1151200-<b>G</b>,"4 x 10-7","(Birth weight )",0.419,'-,"0.06 kg increase",[NR],TENM4,"Obesity-related traits","birth weight",GCST001762,11:79281641
+rs17064002-<b>A</b>,"7 x 10-7","(Birth weight )",0.0070,'-,"0.06 kg increase",[NR],"DNAJC15, EPSTI1","Obesity-related traits","birth weight",GCST001762,13:42996665
+rs930811-<b>G</b>,"1 x 10-6","(Birth weight )",0.406,'-,"0.04 kg increase",[NR],"KCNV2, VLDLR","Obesity-related traits","birth weight",GCST001762,9:2696555
+rs17138114-<b>G</b>,"1 x 10-6","(Birth weight )",0.222,'-,"0.04 kg increase",[NR],RNA5SP202,"Obesity-related traits","birth weight",GCST001762,6:4379277
+rs6732028-<b>G</b>,"3 x 10-6","(Birth weight )",0.247,'-,"0.06 kg increase",[NR],"DPP10, DPP10-AS3","Obesity-related traits","birth weight",GCST001762,2:114829362
+rs13322435-<b>?</b>,"6 x 10-48",,NR,'-,'-,'-,'-,"Birth weight","birth weight",GCST009128,"Mapping not available"
+rs13322435-<b>?</b>,"1 x 10-9",,NR,'-,'-,'-,'-,"Birth weight variance","birth weight",GCST009116,"Mapping not available"
+rs12340987-<b>A</b>,"1 x 10-8",,0.20,'-,"0.13 unit decrease",[0.091-0.169],UBE2V1P10,"Birth weight","birth weight",GCST002499,9:85156012
+rs1482853-<b>C</b>,"4 x 10-9","(Birthweight, Model 2)",0.620,'-,"43.2 unit increase",[20.86-65.54],"LINC00880, LEKR1","Anthropometric traits in newborns","neonate, birth weight",GCST001964,3:157080684
+rs10800682-<b>?</b>,"3 x 10-7",,NR,'-,'-,'-,"LINC00862, CCNQP1","Birth weight","birth weight",GCST90000030,1:200229818
+rs3845913-<b>?</b>,"3 x 10-7",,NR,'-,'-,'-,ADCY5,"Birth weight","birth weight",GCST90000030,3:123381759
+rs10830963-<b>G</b>,"1 x 10-19",,0.29,'-,"0.052 z-score increase",[0.040-0.064],MTNR1B,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST005314,11:92975544
+rs2971669-<b>T</b>,"7 x 10-9",,0.23,'-,"0.035 z-score increase",[0.023-0.047],GCK,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST005314,7:44192179
+rs900400-<b>C</b>,"2 x 10-35",,'-,'-,"0.09 s.d. decrease",[0.073-0.10],"LEKR1, LINC00880","Birth weight","birth weight",GCST000648,3:157080986
+rs9883204-<b>C</b>,"7 x 10-15",,'-,'-,"0.06 s.d. decrease",[0.047-0.079],ADCY5,"Birth weight","birth weight",GCST000648,3:123377973
+rs13322435-<b>A</b>,"1 x 10-42",,0.59,'-,"0.0524 unit increase",[0.045-0.06],'-,"Birth weight","birth weight",GCST005146,"Mapping not available"
+rs1351394-<b>T</b>,"2 x 10-33",,0.48,'-,"0.043 unit increase",[0.036-0.05],HMGA2,"Birth weight","birth weight",GCST005146,12:65958046
+rs1374204-<b>T</b>,"2 x 10-29",,0.7,'-,"0.0459 unit increase",[0.038-0.054],RPL36AP14,"Birth weight","birth weight",GCST005146,2:46257066
+rs35261542-<b>C</b>,"1 x 10-28",,0.73,'-,"0.0444 unit increase",[0.037-0.052],CDKAL1,"Birth weight","birth weight",GCST005146,6:20675561
+rs11719201-<b>T</b>,"6 x 10-27",,0.23,'-,"0.0459 unit increase",[0.037-0.054],ADCY5,"Birth weight","birth weight",GCST005146,3:123349897
+rs138715366-<b>C</b>,"1 x 10-26",,0.99,'-,"0.2441 unit increase",[0.2-0.29],YKT6,"Birth weight","birth weight",GCST005146,7:44206672
+rs1101081-<b>C</b>,"6 x 10-20",,0.73,'-,"0.037 unit increase",[0.029-0.045],ESR1,"Birth weight","birth weight",GCST005146,6:151711782
+rs7076938-<b>T</b>,"5 x 10-18",,0.73,'-,"0.0349 unit increase",[0.027-0.043],ADRB1,"Birth weight","birth weight",GCST005146,10:114029616
+rs28510415-<b>G</b>,"4 x 10-16",,0.09,'-,"0.0526 unit increase",[0.04-0.065],PTCH1,"Birth weight","birth weight",GCST005146,9:95482744
+rs113086489-<b>T</b>,"1 x 10-15",,0.55,'-,"0.0296 unit increase",[0.022-0.037],"Y_RNA, SLC2A4","Birth weight","birth weight",GCST005146,17:7268037
+rs925098-<b>G</b>,"1 x 10-15",,0.28,'-,"0.0322 unit increase",[0.024-0.04],LCORL,"Birth weight","birth weight",GCST005146,4:17918188
+rs61862780-<b>T</b>,"1 x 10-14",,0.52,'-,"0.0279 unit increase",[0.021-0.035],"HHEX, Y_RNA","Birth weight","birth weight",GCST005146,10:92708886
+rs700059-<b>G</b>,"1 x 10-12",,0.16,'-,"0.0361 unit increase",[0.026-0.046],RABGAP1,"Birth weight","birth weight",GCST005146,9:123061776
+rs3753639-<b>C</b>,"1 x 10-12",,0.23,'-,"0.031 unit increase",[0.022-0.04],ZBTB7B,"Birth weight","birth weight",GCST005146,1:155013615
+rs6537307-<b>G</b>,"1 x 10-12",,0.48,'-,"0.0259 unit increase",[0.019-0.033],HHIP,"Birth weight","birth weight",GCST005146,4:144680711
+rs62466330-<b>C</b>,"6 x 10-12",,0.066,'-,"0.0512 unit increase",[0.037-0.066],"VPS37D, MLXIPL","Birth weight","birth weight",GCST005146,7:73642475
+rs13266210-<b>A</b>,"2 x 10-11",,0.79,'-,"0.0298 unit increase",[0.021-0.038],ANK1,"Birth weight","birth weight",GCST005146,8:41675996
+rs1415701-<b>G</b>,"4 x 10-11",,0.73,'-,"0.027 unit increase",[0.019-0.035],L3MBTL3,"Birth weight","birth weight",GCST005146,6:130024690
+rs7575873-<b>A</b>,"6 x 10-11",,0.88,'-,"0.0362 unit increase",[0.025-0.047],"KLHL29, ATAD2B","Birth weight","birth weight",GCST005146,2:23739777
+rs28530618-<b>A</b>,"8 x 10-11",,0.51,'-,"0.024 unit increase",[0.017-0.031],"BAK1P1, C20orf203","Birth weight","birth weight",GCST005146,20:32687779
+rs6016377-<b>T</b>,"4 x 10-10",,0.45,'-,"0.0239 unit increase",[0.016-0.031],'-,"Birth weight","birth weight",GCST005146,20:40544088
+rs10935733-<b>T</b>,"6 x 10-10",,0.42,'-,"0.0231 unit increase",[0.016-0.03],"UBQLN4P1, CPA3","Birth weight","birth weight",GCST005146,3:148905181
+rs72851023-<b>T</b>,"7 x 10-10",,0.07,'-,"0.0463 unit increase",[0.032-0.061],IGF2,"Birth weight","birth weight",GCST005146,11:2109390
+rs11765649-<b>T</b>,"1 x 10-9",,0.76,'-,"0.0258 unit increase",[0.018-0.034],IGF2BP3,"Birth weight","birth weight",GCST005146,7:23439394
+rs2473248-<b>C</b>,"1 x 10-9",,0.87,'-,"0.0331 unit increase",[0.023-0.044],"MIR4418, WNT4","Birth weight","birth weight",GCST005146,1:22210150
+rs7402982-<b>A</b>,"1 x 10-9",,0.42,'-,"0.0231 unit increase",[0.016-0.031],IGF1R,"Birth weight","birth weight",GCST005146,15:98650040
+rs7729301-<b>A</b>,"1 x 10-9",,0.72,'-,"0.0246 unit increase",[0.017-0.032],LINC02227,"Birth weight","birth weight",GCST005146,5:158459945
+rs144843919-<b>G</b>,"2 x 10-9",,0.96,'-,"0.0685 unit increase",[0.046-0.091],SUZ12P1,"Birth weight","birth weight",GCST005146,17:30710321
+rs72480273-<b>C</b>,"2 x 10-9",,0.17,'-,"0.03 unit increase",[0.02-0.04],FCGR2B,"Birth weight","birth weight",GCST005146,1:161675081
+rs1819436-<b>C</b>,"2 x 10-9",,0.87,'-,"0.0329 unit increase",[0.022-0.044],"OBI1-AS1, LINC00446","Birth weight","birth weight",GCST005146,13:78006148
+rs74233809-<b>C</b>,"2 x 10-9",,0.08,'-,"0.0387 unit increase",[0.026-0.051],NT5C2,"Birth weight","birth weight",GCST005146,10:103154183
+rs12543725-<b>G</b>,"2 x 10-9",,0.6,'-,"0.0223 unit increase",[0.015-0.03],SLC45A4,"Birth weight","birth weight",GCST005146,8:141237880
+rs1011939-<b>G</b>,"3 x 10-9",,0.31,'-,"0.0236 unit increase",[0.016-0.031],"GPRC5B, GPR139","Birth weight","birth weight",GCST005146,16:19981674
+rs12942207-<b>C</b>,"3 x 10-9",,0.3,'-,"0.0238 unit increase",[0.016-0.032],"SP6, SP2-DT","Birth weight","birth weight",GCST005146,17:47890928
+rs798489-<b>C</b>,"5 x 10-9",,0.73,'-,"0.024 unit increase",[0.016-0.032],"GNA12, AMZ1","Birth weight","birth weight",GCST005146,7:2762169
+rs7847628-<b>G</b>,"5 x 10-9",,0.67,'-,"0.0229 unit increase",[0.015-0.031],PHF19,"Birth weight","birth weight",GCST005146,9:120868947
+rs2421016-<b>T</b>,"6 x 10-9",,0.48,'-,"0.0207 unit increase",[0.014-0.028],PLEKHA1,"Birth weight","birth weight",GCST005146,10:122407996
+rs6040076-<b>C</b>,"7 x 10-9",,0.51,'-,"0.0218 unit increase",[0.014-0.029],"LINC01752, JAG1","Birth weight","birth weight",GCST005146,20:10678234
+rs2324499-<b>G</b>,"8 x 10-9",,0.67,'-,"0.0225 unit increase",[0.015-0.03],LINC00598,"Birth weight","birth weight",GCST005146,13:40087864
+rs7964361-<b>A</b>,"1 x 10-8",,0.08,'-,"0.0378 unit increase",[0.025-0.051],'-,"Birth weight","birth weight",GCST005146,12:102601100
+rs12906125-<b>G</b>,"1 x 10-8",,0.69,'-,"0.0226 unit increase",[0.015-0.03],FES,"Birth weight","birth weight",GCST005146,15:90884382
+rs6959887-<b>A</b>,"1 x 10-8",,0.61,'-,"0.0209 unit increase",[0.014-0.028],TBX20,"Birth weight","birth weight",GCST005146,7:35255754
+rs7742369-<b>G</b>,"1 x 10-8",,0.19,'-,"0.0268 unit increase",[0.018-0.036],'-,"Birth weight","birth weight",GCST005146,"Mapping not available"
+rs2242116-<b>A</b>,"1 x 10-8",,0.39,'-,"0.0209 unit increase",[0.014-0.028],PTH1R,"Birth weight","birth weight",GCST005146,3:46899626
+rs9379832-<b>A</b>,"1 x 10-8",,0.71,'-,"0.0237 unit increase",[0.015-0.032],"H4C4, H2BC6","Birth weight","birth weight",GCST005146,6:26185972
+rs2229742-<b>G</b>,"2 x 10-8",,0.87,'-,"0.0337 unit increase",[0.022-0.045],NRIP1,"Birth weight","birth weight",GCST005146,21:14966851
+rs134594-<b>C</b>,"2 x 10-8",,0.35,'-,"0.0215 unit increase",[0.014-0.029],"KREMEN1, C22orf31","Birth weight","birth weight",GCST005146,22:29072468
+rs2854355-<b>G</b>,"2 x 10-8",,0.26,'-,"0.024 unit increase",[0.016-0.032],RB1,"Birth weight","birth weight",GCST005146,13:48308227
+rs10402712-<b>A</b>,"2 x 10-8",,0.27,'-,"0.0229 unit increase",[0.015-0.031],PEPD,"Birth weight","birth weight",GCST005146,19:33435107
+rs11055034-<b>C</b>,"2 x 10-8",,0.73,'-,"0.023 unit increase",[0.015-0.031],APOLD1,"Birth weight","birth weight",GCST005146,12:12737692
+rs61154119-<b>T</b>,"2 x 10-8",,0.84,'-,"0.0283 unit increase",[0.018-0.038],"NFILZ, ACTL9","Birth weight","birth weight",GCST005146,19:8677915
+rs2150052-<b>T</b>,"3 x 10-8",,0.5,'-,"0.0203 unit increase",[0.013-0.028],"RNY4P18, MIR7702","Birth weight","birth weight",GCST005146,9:111182787
+rs12823128-<b>T</b>,"3 x 10-8",,0.56,'-,"0.0204 unit increase",[0.013-0.028],ITPR2,"Birth weight","birth weight",GCST005146,12:26719797
+rs854037-<b>A</b>,"3 x 10-8",,0.8,'-,"0.0251 unit increase",[0.016-0.034],LINC02225,"Birth weight","birth weight",GCST005146,5:57795956
+rs61830764-<b>A</b>,"5 x 10-8",,0.36,'-,"0.0218 unit increase",[0.014-0.03],DTL,"Birth weight","birth weight",GCST005146,1:212116634
+rs6989280-<b>G</b>,"5 x 10-8",,0.7,'-,"0.0221 unit increase",[0.014-0.03],TRIB1,"Birth weight","birth weight",GCST005146,8:125496504
+rs10830963-<b>G</b>,"1 x 10-7",,0.27,'-,"0.022 unit increase",[0.014-0.03],MTNR1B,"Birth weight","birth weight",GCST005146,11:92975544
+rs139975827-<b>G</b>,"1 x 10-7",,0.63,'-,"0.022 unit increase",[0.014-0.03],ABCC9,"Birth weight","birth weight",GCST005146,12:21915227
+rs62240962-<b>C</b>,"4 x 10-12",,0.92,'-,"0.047 unit increase",[0.033-0.061],SREBF2,"Birth weight","birth weight",GCST005146,22:41863520
+rs11096402-<b>G</b>,"1 x 10-9",,NR,'-,"0.0276 unit increase",[0.019-0.036],PLAC1,"Birth weight","birth weight",GCST007557,X:134693838
+rs4330912-<b>G</b>,"2 x 10-7","(Conditioned on rs3753639)",0.64,'-,"0.021 unit increase",[0.013-0.029],"ARHGEF2-AS1, ARHGEF2","Birth weight","birth weight",GCST007557,1:155999637
+rs900400-<b>C</b>,"4 x 10-38",,0.39,'-,"0.072 gram decrease",[0.060-0.084],"LEKR1, LINC00880","Birth weight","birth weight",GCST001758,3:157080986
+rs5758511-<b>A</b>,"3 x 10-6",,0.27,'-,"0.027 gram decrease",[0.015-0.039],CENPM,"Birth weight","birth weight",GCST001758,22:41940168
+rs9883204-<b>C</b>,"6 x 10-20",,0.76,'-,"0.059 gram decrease",[0.047-0.071],ADCY5,"Birth weight","birth weight",GCST001758,3:123377973
+rs1042725-<b>T</b>,"1 x 10-19",,0.50,'-,"0.047 gram decrease",[0.037-0.057],HMGA2,"Birth weight","birth weight",GCST001758,12:65964567
+rs6931514-<b>G</b>,"2 x 10-18",,0.29,'-,"0.05 gram decrease",[0.038-0.062],CDKAL1,"Birth weight","birth weight",GCST001758,6:20703721
+rs7780752-<b>T</b>,"2 x 10-7",,0.64,'-,"0.029 gram decrease",[0.017-0.041],GNGT1,"Birth weight","birth weight",GCST001758,7:93612328
+rs4432842-<b>C</b>,"5 x 10-8",,0.30,'-,"0.034 gram decrease",[0.022-0.046],LINC02225,"Birth weight","birth weight",GCST001758,5:57876251
+rs5415-<b>T</b>,"5 x 10-6",,0.31,'-,"0.034 gram decrease",[0.020-0.048],"SLC2A4, Y_RNA","Birth weight","birth weight",GCST001758,17:7281162
+rs724577-<b>C</b>,"5 x 10-11",,0.73,'-,"0.042 gram decrease",[0.030-0.054],LCORL,"Birth weight","birth weight",GCST001758,4:17991787
+rs1801253-<b>G</b>,"4 x 10-9",,0.26,'-,"0.041 gram decrease",[0.027-0.055],ADRB1,"Birth weight","birth weight",GCST001758,10:114045297
+rs17034876-<b>T</b>,"3 x 10-47",,0.700357,'-,"0.042243 unit increase",[0.037-0.048],RPL36AP14,"Birth weight","birth weight",GCST008362,2:46257171
+rs4953353-<b>G</b>,"3 x 10-11",,0.631578,'-,"0.017903 unit increase",[0.013-0.023],EPAS1,"Birth weight","birth weight",GCST008362,2:46340137
+rs186606513-<b>G</b>,"3 x 10-9",,0.977952,'-,"0.060699 unit increase",[0.041-0.081],CNNM3,"Birth weight","birth weight",GCST008362,2:96816264
+rs56188432-<b>G</b>,"1 x 10-16",,0.00229800000000002,'-,"0.258489 unit increase",[0.2-0.32],ACVR1C,"Birth weight","birth weight",GCST008362,2:157550353
+rs2280235-<b>G</b>,"7 x 10-10",,0.259091,'-,"0.018251 unit increase",[0.012-0.024],STAT1,"Birth weight","birth weight",GCST008362,2:190979104
+rs10181515-<b>T</b>,"2 x 10-12",,0.224502,'-,"0.021433 unit increase",[0.015-0.027],'-,"Birth weight","birth weight",GCST008362,2:226154745
+rs2168443-<b>T</b>,"4 x 10-10",,0.379229,'-,"0.016595 unit increase",[0.011-0.022],"PTH1R, CCDC12","Birth weight","birth weight",GCST008362,3:46905597
+rs11708067-<b>G</b>,"2 x 10-42",,0.237762,'-,"0.040866 unit increase",[0.035-0.047],ADCY5,"Birth weight","birth weight",GCST008362,3:123346931
+rs9851257-<b>T</b>,"2 x 10-12",,0.732892,'-,"0.020358 unit increase",[0.015-0.026],ADCY5,"Birth weight","birth weight",GCST008362,3:123406864
+rs2306700-<b>T</b>,"2 x 10-9",,0.135735,'-,"0.022762 unit increase",[0.015-0.03],XRN1,"Birth weight","birth weight",GCST008362,3:142404999
+rs10935733-<b>T</b>,"2 x 10-13",,0.399137,'-,"0.019369 unit increase",[0.014-0.025],"UBQLN4P1, CPA3","Birth weight","birth weight",GCST008362,3:148905181
+rs1482852-<b>A</b>,"2 x 10-82",,0.598612,'-,"0.050395 unit increase",[0.045-0.056],"LINC00880, LEKR1","Birth weight","birth weight",GCST008362,3:157080505
+rs11711420-<b>T</b>,"3 x 10-10",,0.746655,'-,"0.018654 unit increase",[0.013-0.024],"KLHL6, KLHL24","Birth weight","birth weight",GCST008362,3:183631222
+rs4144829-<b>C</b>,"4 x 10-34",,0.267008,'-,"0.035507 unit increase",[0.03-0.041],LCORL,"Birth weight","birth weight",GCST008362,4:17902031
+rs6533183-<b>C</b>,"7 x 10-16",,0.352109,'-,"0.021786 unit increase",[0.017-0.027],TET2,"Birth weight","birth weight",GCST008362,4:105212027
+rs116807401-<b>C</b>,"2 x 10-13",,0.017555,'-,"0.076602 unit increase",[0.056-0.097],PABPC4L,"Birth weight","birth weight",GCST008362,4:134200566
+rs6845999-<b>T</b>,"2 x 10-24",,0.431122,'-,"0.026255 unit increase",[0.021-0.031],HHIP-AS1,"Birth weight","birth weight",GCST008362,4:144644674
+rs1818782-<b>C</b>,"4 x 10-9",,0.636941,'-,"0.015568 unit increase",[0.01-0.021],"DAB2, C9","Birth weight","birth weight",GCST008362,5:39424526
+rs351930-<b>T</b>,"3 x 10-9",,0.80114,'-,"0.019187 unit increase",[0.013-0.026],ITGA1,"Birth weight","birth weight",GCST008362,5:52707563
+rs854037-<b>A</b>,"9 x 10-16",,0.814161,'-,"0.026507 unit increase",[0.02-0.033],LINC02225,"Birth weight","birth weight",GCST008362,5:57795956
+rs28365970-<b>C</b>,"2 x 10-11",,0.741475,'-,"0.019868 unit increase",[0.014-0.026],PIK3R1,"Birth weight","birth weight",GCST008362,5:68289895
+rs1981627-<b>G</b>,"8 x 10-11",,0.584748,'-,"0.017083 unit increase",[0.012-0.022],"LINC01843, RNU6-456P","Birth weight","birth weight",GCST008362,5:134502489
+rs2946179-<b>C</b>,"1 x 10-11",,0.733706,'-,"0.019781 unit increase",[0.014-0.025],LINC02227,"Birth weight","birth weight",GCST008362,5:158459619
+rs9379084-<b>G</b>,"1 x 10-7",,0.882647,'-,"0.021801 unit increase",[0.014-0.03],RREB1,"Birth weight","birth weight",GCST008362,6:7231610
+rs35261542-<b>C</b>,"3 x 10-45",,0.733188,'-,"0.040621 unit increase",[0.035-0.046],CDKAL1,"Birth weight","birth weight",GCST008362,6:20675561
+rs2242116-<b>A</b>,"1 x 10-9",,0.390574,'-,"0.015275 unit increase",[0.01-0.02],PTH1R,"Birth weight","birth weight",GCST008362,3:46899626
+rs3965156-<b>A</b>,"1 x 10-8",,0.475542,'-,"0.014749 unit increase",[0.0096-0.0198],LRIG1,"Birth weight","birth weight",GCST008362,3:66434532
+rs11545169-<b>G</b>,"2 x 10-8",,0.8392,'-,"0.019676 unit increase",[0.013-0.027],PSMD2,"Birth weight","birth weight",GCST008362,3:184302754
+rs12656216-<b>A</b>,"2 x 10-8",,0.788279,'-,"0.017835 unit increase",[0.012-0.024],SKP2,"Birth weight","birth weight",GCST008362,5:36160566
+rs7709066-<b>C</b>,"3 x 10-8",,0.454776,'-,"0.014374 unit increase",[0.0093-0.0194],LHFPL2,"Birth weight","birth weight",GCST008362,5:78535248
+rs12153596-<b>C</b>,"8 x 10-9",,0.618925,'-,"0.01533 unit increase",[0.01-0.021],EBF1,"Birth weight","birth weight",GCST008362,5:158983170
+rs4867699-<b>T</b>,"2 x 10-8",,0.507372,'-,"0.014715 unit increase",[0.0096-0.0199],STC2,"Birth weight","birth weight",GCST008362,5:173321537
+rs2747503-<b>C</b>,"3 x 10-8",,0.662637,'-,"0.016218 unit increase",[0.011-0.022],RN7SL332P,"Birth weight","birth weight",GCST008362,6:15065890
+rs809871-<b>C</b>,"2 x 10-6",,0.418129,'-,"0.012537 unit increase",[0.0074-0.0176],"H3C8, H2BC9","Birth weight","birth weight",GCST008362,6:26256298
+rs2395668-<b>A</b>,"1 x 10-8",,0.840315,'-,"0.020086 unit increase",[0.013-0.027],"PIM1, RPL12P2","Birth weight","birth weight",GCST008362,6:37138117
+rs185262229-<b>T</b>,"1 x 10-8",,0.991489,'-,"0.082718 unit increase",[0.054-0.111],ME1,"Birth weight","birth weight",GCST008362,6:83395417
+rs9457107-<b>C</b>,"3 x 10-7",,0.398929,'-,"0.013759 unit increase",[0.0085-0.019],PDE10A,"Birth weight","birth weight",GCST008362,6:165600735
+rs77553582-<b>T</b>,"1 x 10-8",,0.613028,'-,"0.029397 unit increase",[0.019-0.039],"MGAM, TBX20","Birth weight","birth weight",GCST008362,7:35260046
+rs6958858-<b>C</b>,"5 x 10-8",,0.486543,'-,"0.014217 unit increase",[0.0091-0.0193],ZNF783,"Birth weight","birth weight",GCST008362,7:149269858
+rs116964396-<b>A</b>,"2 x 10-10",,0.034739,'-,"0.045298 unit increase",[0.031-0.059],NKX6-3,"Birth weight","birth weight",GCST008362,8:41648330
+rs2608029-<b>G</b>,"2 x 10-8",,0.334001,'-,"0.015409 unit increase",[0.01-0.021],PVT1,"Birth weight","birth weight",GCST008362,8:128157880
+rs62562580-<b>G</b>,"2 x 10-8",,0.211768,'-,"0.017226 unit increase",[0.011-0.023],"NFIL3, ROR2","Birth weight","birth weight",GCST008362,9:91489937
+rs7075355-<b>A</b>,"2 x 10-8",,0.533013,'-,"0.014565 unit increase",[0.0095-0.0196],"TSPAN14, PRXL2A","Birth weight","birth weight",GCST008362,10:80449122
+rs558443-<b>A</b>,"2 x 10-8",,0.774588,'-,"0.017453 unit increase",[0.011-0.024],RNLS,"Birth weight","birth weight",GCST008362,10:88253438
+rs1967840-<b>A</b>,"4 x 10-8",,0.824904,'-,"0.018622 unit increase",[0.012-0.025],MXI1,"Birth weight","birth weight",GCST008362,10:110266324
+rs2292626-<b>T</b>,"3 x 10-14",,0.477928,'-,"0.019617 unit increase",[0.015-0.025],PLEKHA1,"Birth weight","birth weight",GCST008362,10:122427198
+rs151216-<b>C</b>,"6 x 10-9",,0.898719,'-,"0.024751 unit increase",[0.016-0.033],"KCNQ1OT1, KCNQ1","Birth weight","birth weight",GCST008362,11:2659585
+rs231350-<b>C</b>,"3 x 10-6",,0.644553,'-,"0.012585 unit increase",[0.0073-0.0178],"KCNQ1, KCNQ1OT1","Birth weight","birth weight",GCST008362,11:2692419
+rs12802960-<b>C</b>,"2 x 10-8",,0.210889,'-,"0.01707 unit increase",[0.011-0.023],"OR5B2, OR5B3","Birth weight","birth weight",GCST008362,11:58407302
+rs7102454-<b>C</b>,"2 x 10-8",,0.352769,'-,"0.015096 unit increase",[0.0098-0.0204],CFL1,"Birth weight","birth weight",GCST008362,11:65827349
+rs12443252-<b>T</b>,"5 x 10-9",,0.549668,'-,"0.018479 unit increase",[0.012-0.025],"CRTC3, IQGAP1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:90521458
+rs17034876-<b>T</b>,"1 x 10-18",,0.696083,'-,"0.030115 unit increase",[0.023-0.037],RPL36AP14,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:46257171
+rs186606513-<b>G</b>,"5 x 10-6",,0.980197,'-,"0.059929 unit increase",[0.034-0.086],CNNM3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:96816264
+rs56188432-<b>G</b>,"2 x 10-7",,0.0023779999999999912,'-,"0.167811 unit increase",[0.1-0.23],ACVR1C,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:157550353
+rs560887-<b>C</b>,"1 x 10-14",,0.700833,'-,"0.025535 unit increase",[0.019-0.032],"SPC25, G6PC2","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:168906638
+rs9855896-<b>G</b>,"2 x 10-10",,0.22158599999999995,'-,"0.023247 unit increase",[0.016-0.03],LSM3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:14245650
+rs2168443-<b>T</b>,"9 x 10-7",,0.380483,'-,"0.015845 unit increase",[0.0095-0.0222],"PTH1R, CCDC12","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:46905597
+rs9851257-<b>T</b>,"7 x 10-17",,0.743524,'-,"0.029942 unit increase",[0.023-0.037],ADCY5,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:123406864
+rs6440006-<b>A</b>,"4 x 10-12",,0.447723,'-,"0.021224 unit increase",[0.015-0.027],ZBTB38,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:141423849
+rs4679760-<b>G</b>,"2 x 10-25",,0.585732,'-,"0.033272 unit increase",[0.027-0.04],KCNAB1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:156137629
+rs1482852-<b>A</b>,"2 x 10-13",,0.598589,'-,"0.022763 unit increase",[0.017-0.029],"LINC00880, LEKR1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:157080505
+rs6040076-<b>C</b>,"2 x 10-6",,0.504257,'-,"0.015037 unit increase",[0.0088-0.0212],"LINC01752, JAG1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,20:10678234
+rs181451002-<b>G</b>,"3 x 10-9",,0.978772,'-,"0.06287 unit increase",[0.042-0.084],"TPM3P2, CHMP4B","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,20:33878413
+rs6608539-<b>A</b>,"2 x 10-14",,0.46753,'-,"0.02404 unit increase",[0.018-0.03],"AKR1B1P8, RN7SL712P","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,X:116016501
+rs4908404-<b>C</b>,"3 x 10-8",,0.46988300000000005,'-,"0.01705 unit increase",[0.011-0.023],"MED18, PHACTR4","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:28365223
+rs787541-<b>C</b>,"2 x 10-8",,0.34253199999999995,'-,"0.017744 unit increase",[0.012-0.024],"RNU6-1031P, RN7SL392P","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:67585547
+rs41276588-<b>A</b>,"2 x 10-8",,0.286737,'-,"0.019227 unit increase",[0.013-0.026],"VPS25P1, TENT5C","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:117605762
+rs6426985-<b>A</b>,"3 x 10-8",,0.44222399999999995,'-,"0.016914 unit increase",[0.011-0.023],KCNN3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:154841143
+rs67775399-<b>C</b>,"8 x 10-9",,0.226599,'-,"0.022328 unit increase",[0.015-0.03],FCGR2C,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:161602563
+rs7596521-<b>G</b>,"6 x 10-10",,0.27136899999999997,'-,"0.021185 unit increase",[0.014-0.028],"LINC01118, CRIPT","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:46691526
+rs7563664-<b>T</b>,"7 x 10-6",,0.11327299999999996,'-,"0.021935 unit increase",[0.012-0.032],CYTIP,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:157487943
+rs17367504-<b>G</b>,"3 x 10-13",,0.166674,'-,"0.029878 unit increase",[0.022-0.038],MTHFR,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:11802721
+rs905938-<b>C</b>,"1 x 10-7",,0.26846000000000003,'-,"0.018027 unit increase",[0.011-0.025],DCST2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:155018913
+rs10913200-<b>G</b>,"4 x 10-7",,0.971319,'-,"0.047651 unit increase",[0.029-0.066],PAPPA2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,1:176552519
+rs11893688-<b>T</b>,"1 x 10-9",,0.66603,'-,"0.019572 unit increase",[0.013-0.026],ADAM17,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:9555153
+rs1179494-<b>G</b>,"9 x 10-10",,0.672316,'-,"0.019819 unit increase",[0.013-0.026],FEZ2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:36582353
+rs4952673-<b>A</b>,"2 x 10-11",,0.47418000000000005,'-,"0.020476 unit increase",[0.014-0.026],"ZFP36L2, LINC02580","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:43196731
+rs7183988-<b>G</b>,"1 x 10-20",,0.52596,'-,"0.029236 unit increase",[0.023-0.035],FES,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:90885359
+rs7402983-<b>A</b>,"2 x 10-6",,0.398141,'-,"0.015434 unit increase",[0.0091-0.0218],IGF1R,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:98650047
+rs11630479-<b>G</b>,"3 x 10-7",,0.698389,'-,"0.016855 unit increase",[0.01-0.023],IGF1R,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:98697252
+rs11641308-<b>T</b>,"1 x 10-9",,0.346035,'-,"0.020298 unit increase",[0.014-0.027],"RNU6-758P, BCAR1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,16:75278125
+undefined,"5 x 10-11",,0.571492,'-,"0.02084 unit increase",[0.015-0.027],'-,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,"Mapping not available"
+rs9912553-<b>G</b>,"2 x 10-9",,0.7249680000000001,'-,"0.021129 unit increase",[0.014-0.028],ASPSCR1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,17:82001827
+rs2967676-<b>A</b>,"2 x 10-25",,0.841635,'-,"0.043676 unit increase",[0.035-0.052],"NFILZ, ACTL9","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,19:8679402
+rs12461110-<b>A</b>,"5 x 10-11",,0.363647,'-,"0.020776 unit increase",[0.015-0.027],NLRP11,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,19:55809297
+rs304001-<b>G</b>,"3 x 10-12",,0.394362,'-,"0.021718 unit increase",[0.016-0.028],NLRP13,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,19:55912302
+rs2174633-<b>A</b>,"4 x 10-12",,0.267868,'-,"0.023908 unit increase",[0.017-0.031],LCORL,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,4:17916158
+rs2189234-<b>G</b>,"3 x 10-16",,0.6157619999999999,'-,"0.025509 unit increase",[0.019-0.032],TET2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,4:105154341
+rs2131354-<b>A</b>,"3 x 10-16",,0.526791,'-,"0.025738 unit increase",[0.02-0.032],HHIP,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,4:144678756
+rs4579095-<b>G</b>,"8 x 10-10",,0.40665300000000004,'-,"0.019033 unit increase",[0.013-0.025],LINC02269,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,4:173805484
+rs854037-<b>A</b>,"2 x 10-6",,0.808978,'-,"0.018658 unit increase",[0.011-0.026],LINC02225,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:57795956
+rs28365970-<b>C</b>,"6 x 10-6",,0.739825,'-,"0.016258 unit increase",[0.0092-0.0233],PIK3R1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:68289895
+rs6871635-<b>G</b>,"3 x 10-17",,0.563166,'-,"0.025981 unit increase",[0.02-0.032],"CDKN2AIPNL, RNU6-456P","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:134494704
+rs2946179-<b>C</b>,"2 x 10-37",,0.735384,'-,"0.045528 unit increase",[0.039-0.052],LINC02227,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:158459619
+rs34471628-<b>A</b>,"4 x 10-13",,0.962457,'-,"0.058548 unit increase",[0.043-0.074],DUSP1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:172769749
+rs9379084-<b>G</b>,"1 x 10-16",,0.883436,'-,"0.040696 unit increase",[0.031-0.05],RREB1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:7231610
+rs6911024-<b>T</b>,"2 x 10-13",,0.90242,'-,"0.038308 unit increase",[0.028-0.049],MICA,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:31400674
+rs9267812-<b>T</b>,"2 x 10-6",,0.135386,'-,"0.021886 unit increase",[0.013-0.031],"PPT2-EGFL8, PPT2","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:32160617
+rs75034466-<b>T</b>,"2 x 10-17",,0.047838999999999965,'-,"0.062484 unit increase",[0.048-0.077],"CYCSP55, HMGA1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:34232038
+rs6911621-<b>T</b>,"2 x 10-16",,0.349063,'-,"0.026153 unit increase",[0.02-0.032],"FKBP5, TULP1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:35561248
+rs4511593-<b>T</b>,"1 x 10-10",,0.650443,'-,"0.017484 unit increase",[0.012-0.023],"TNFSF12-TNFSF13, TNFSF12","Birth weight","birth weight",GCST008362,17:7552219
+rs78378222-<b>G</b>,"2 x 10-11",,0.013234,'-,"0.07863 unit increase",[0.056-0.102],TP53,"Birth weight","birth weight",GCST008362,17:7668434
+rs9909342-<b>A</b>,"2 x 10-11",,0.381476,'-,"0.017867 unit increase",[0.013-0.023],"WSB1, SYPL1P2","Birth weight","birth weight",GCST008362,17:27325249
+rs7223535-<b>G</b>,"2 x 10-13",,0.732042,'-,"0.02138 unit increase",[0.016-0.027],ATAD5,"Birth weight","birth weight",GCST008362,17:30884649
+rs11867479-<b>T</b>,"1 x 10-10",,0.35339,'-,"0.017213 unit increase",[0.012-0.022],KCNJ16,"Birth weight","birth weight",GCST008362,17:70094066
+rs10221267-<b>T</b>,"7 x 10-11",,0.511715,'-,"0.016717 unit increase",[0.012-0.022],'-,"Birth weight","birth weight",GCST008362,17:70468521
+rs73354194-<b>C</b>,"1 x 10-11",,0.025159,'-,"0.060799 unit increase",[0.043-0.078],"NOTUM, MYADML2","Birth weight","birth weight",GCST008362,17:81948071
+rs9912553-<b>G</b>,"2 x 10-6",,0.7258169999999999,'-,"0.013925 unit increase",[0.0082-0.0196],ASPSCR1,"Birth weight","birth weight",GCST008362,17:82001827
+rs11082304-<b>T</b>,"4 x 10-10",,0.508292,'-,"0.015966 unit increase",[0.011-0.021],CABLES1,"Birth weight","birth weight",GCST008362,18:23141009
+rs2779165-<b>G</b>,"8 x 10-11",,0.184217,'-,"0.022108 unit increase",[0.015-0.029],UHRF1,"Birth weight","birth weight",GCST008362,19:4915435
+rs8106042-<b>G</b>,"2 x 10-12",,0.281475,'-,"0.020444 unit increase",[0.015-0.026],INSR,"Birth weight","birth weight",GCST008362,19:7161838
+rs2967676-<b>A</b>,"1 x 10-8",,0.844833,'-,"0.02059 unit increase",[0.014-0.028],"NFILZ, ACTL9","Birth weight","birth weight",GCST008362,19:8679402
+rs41355649-<b>G</b>,"1 x 10-10",,0.93397,'-,"0.034243 unit increase",[0.024-0.045],"CEBPA, SLC7A10","Birth weight","birth weight",GCST008362,19:33299650
+rs1129156-<b>T</b>,"3 x 10-9",,0.268449,'-,"0.017352 unit increase",[0.012-0.023],MAP3K10,"Birth weight","birth weight",GCST008362,19:40213169
+rs147957154-<b>T</b>,"3 x 10-9",,0.132424,'-,"0.023198 unit increase",[0.016-0.031],PSG7,"Birth weight","birth weight",GCST008362,19:42926888
+rs516246-<b>C</b>,"9 x 10-12",,0.50563,'-,"0.017505 unit increase",[0.012-0.023],FUT2,"Birth weight","birth weight",GCST008362,19:48702915
+rs255773-<b>C</b>,"1 x 10-11",,0.536208,'-,"0.018193 unit increase",[0.013-0.023],"LILRB3, RPS9","Birth weight","birth weight",GCST008362,19:54219677
+rs147110934-<b>G</b>,"2 x 10-9",,0.975442,'-,"0.05233 unit increase",[0.035-0.069],ZNF628,"Birth weight","birth weight",GCST008362,19:55482069
+rs6040076-<b>C</b>,"4 x 10-13",,0.500114,'-,"0.019018 unit increase",[0.014-0.024],"LINC01752, JAG1","Birth weight","birth weight",GCST008362,20:10678234
+rs6033062-<b>A</b>,"5 x 10-10",,0.460185,'-,"0.016156 unit increase",[0.011-0.021],'-,"Birth weight","birth weight",GCST008362,20:11226771
+rs1203876-<b>C</b>,"9 x 10-10",,0.046164,'-,"0.038072 unit increase",[0.026-0.05],LINC00261,"Birth weight","birth weight",GCST008362,20:22560277
+rs11698914-<b>C</b>,"1 x 10-24",,0.233458,'-,"0.031861 unit increase",[0.026-0.038],COMMD7,"Birth weight","birth weight",GCST008362,20:32739337
+rs2889874-<b>G</b>,"9 x 10-10",,0.451678,'-,"0.016076 unit increase",[0.011-0.021],EDEM2,"Birth weight","birth weight",GCST008362,20:35127974
+rs1012167-<b>C</b>,"1 x 10-19",,0.400697,'-,"0.024145 unit increase",[0.019-0.029],'-,"Birth weight","birth weight",GCST008362,20:40530479
+rs753381-<b>T</b>,"3 x 10-9",,0.450563,'-,"0.01512 unit increase",[0.01-0.02],PLCG1,"Birth weight","birth weight",GCST008362,20:41168825
+rs72681869-<b>C</b>,"6 x 10-10",,0.010732,'-,"0.083626 unit increase",[0.057-0.11],SOS2,"Birth weight","birth weight",GCST008362,14:50188639
+rs6575803-<b>C</b>,"1 x 10-12",,0.895496,'-,"0.031625 unit increase",[0.023-0.04],MEG3,"Birth weight","birth weight",GCST008362,14:100791418
+rs75844534-<b>A</b>,"5 x 10-11",,0.123521,'-,"0.02593 unit increase",[0.018-0.034],"SPRED1, FAM98B","Birth weight","birth weight",GCST008362,15:38374916
+rs339969-<b>A</b>,"2 x 10-10",,0.619238,'-,"0.016841 unit increase",[0.012-0.022],"RORA-AS1, RORA","Birth weight","birth weight",GCST008362,15:60591082
+rs12909648-<b>G</b>,"2 x 10-6",,0.524104,'-,"0.012314 unit increase",[0.0073-0.0174],AKAP13,"Birth weight","birth weight",GCST008362,15:85681339
+rs4932373-<b>A</b>,"3 x 10-13",,0.679564,'-,"0.020084 unit increase",[0.015-0.025],FES,"Birth weight","birth weight",GCST008362,15:90886057
+rs55958435-<b>A</b>,"2 x 10-16",,0.74827,'-,"0.024732 unit increase",[0.019-0.031],NR2F2-AS1,"Birth weight","birth weight",GCST008362,15:96309409
+rs7402983-<b>A</b>,"3 x 10-19",,0.405097,'-,"0.024135 unit increase",[0.019-0.029],IGF1R,"Birth weight","birth weight",GCST008362,15:98650047
+rs11630479-<b>G</b>,"9 x 10-7",,0.702773,'-,"0.013861 unit increase",[0.0083-0.0194],IGF1R,"Birth weight","birth weight",GCST008362,15:98697252
+rs2045457-<b>G</b>,"6 x 10-9",,0.311361,'-,"0.016194 unit increase",[0.011-0.022],GPR139,"Birth weight","birth weight",GCST008362,16:20034793
+rs40434-<b>G</b>,"3 x 10-10",,0.390748,'-,"0.016702 unit increase",[0.012-0.022],SLC6A2,"Birth weight","birth weight",GCST008362,16:55665613
+rs28544888-<b>C</b>,"2 x 10-8",,0.911008,'-,"0.02579 unit increase",[0.017-0.035],SLC6A2,"Birth weight","birth weight",GCST008362,16:55707292
+rs222857-<b>T</b>,"1 x 10-24",,0.575405,'-,"0.026478 unit increase",[0.021-0.032],CLDN7,"Birth weight","birth weight",GCST008362,17:7261244
+rs12401656-<b>G</b>,"3 x 10-11",,0.864985,'-,"0.025183 unit increase",[0.018-0.033],SLC2A1-AS1,"Birth weight","birth weight",GCST008362,1:42991096
+rs80278614-<b>A</b>,"6 x 10-12",,0.054405,'-,"0.040367 unit increase",[0.029-0.052],TBX15,"Birth weight","birth weight",GCST008362,1:118869694
+rs905938-<b>C</b>,"3 x 10-19",,0.26178,'-,"0.026053 unit increase",[0.02-0.032],DCST2,"Birth weight","birth weight",GCST008362,1:155018913
+rs670523-<b>G</b>,"8 x 10-12",,0.669239,'-,"0.018781 unit increase",[0.013-0.024],RIT1,"Birth weight","birth weight",GCST008362,1:155908941
+rs72480273-<b>C</b>,"4 x 10-11",,0.182033,'-,"0.022546 unit increase",[0.016-0.029],FCGR2B,"Birth weight","birth weight",GCST008362,1:161675081
+rs10913200-<b>G</b>,"2 x 10-10",,0.972127,'-,"0.051218 unit increase",[0.035-0.067],PAPPA2,"Birth weight","birth weight",GCST008362,1:176552519
+rs61830764-<b>A</b>,"1 x 10-9",,0.376903,'-,"0.016623 unit increase",[0.011-0.022],DTL,"Birth weight","birth weight",GCST008362,1:212116634
+rs3806315-<b>A</b>,"3 x 10-11",,0.591142,'-,"0.017678 unit increase",[0.012-0.023],PTPN14,"Birth weight","birth weight",GCST008362,1:214551325
+rs708122-<b>C</b>,"2 x 10-9",,0.68105,'-,"0.016508 unit increase",[0.011-0.022],WNT3A,"Birth weight","birth weight",GCST008362,1:228029296
+rs10495563-<b>A</b>,"2 x 10-16",,0.664247,'-,"0.022148 unit increase",[0.017-0.027],ADAM17,"Birth weight","birth weight",GCST008362,2:9522081
+rs2551347-<b>T</b>,"2 x 10-16",,0.749355,'-,"0.02446 unit increase",[0.019-0.03],KLHL29,"Birth weight","birth weight",GCST008362,2:23689531
+rs754868-<b>G</b>,"7 x 10-10",,0.41929,'-,"0.015871 unit increase",[0.011-0.021],LINC01819,"Birth weight","birth weight",GCST008362,2:42958392
+rs57414412-<b>G</b>,"1 x 10-8",,0.718591,'-,"0.015836 unit increase",[0.01-0.021],"RPL37AP8, CRYAB","Birth weight","birth weight",GCST008362,11:111898707
+rs118106744-<b>C</b>,"2 x 10-8",,0.947624,'-,"0.032944 unit increase",[0.021-0.044],"ABCC9, KCNJ8","Birth weight","birth weight",GCST008362,12:21783464
+rs895964-<b>G</b>,"8 x 10-11",,0.532319,'-,"0.016861 unit increase",[0.012-0.022],ITPR2,"Birth weight","birth weight",GCST008362,12:26705133
+rs145775785-<b>T</b>,"6 x 10-8",,0.015273,'-,"0.060894 unit increase",[0.039-0.083],"MSRB3, LINC02454","Birth weight","birth weight",GCST008362,12:65508485
+rs80019595-<b>T</b>,"2 x 10-8",,0.027448,'-,"0.04497 unit increase",[0.029-0.061],"HNF1A, HNF1A-AS1","Birth weight","birth weight",GCST008362,12:120979503
+rs139429176-<b>C</b>,"1 x 10-8",,0.988135,'-,"0.07065 unit increase",[0.046-0.095],"P2RX4, P2RX7","Birth weight","birth weight",GCST008362,12:121194357
+rs55836809-<b>A</b>,"8 x 10-9",,0.779889,'-,"0.018354 unit increase",[0.012-0.025],"PDX1, ATP5F1EP2","Birth weight","birth weight",GCST008362,13:27928737
+rs9508017-<b>C</b>,"2 x 10-8",,0.769319,'-,"0.0174 unit increase",[0.011-0.023],FLT1,"Birth weight","birth weight",GCST008362,13:28360227
+rs7983505-<b>T</b>,"3 x 10-8",,0.165519,'-,"0.018387 unit increase",[0.012-0.025],"TOMM22P3, KL","Birth weight","birth weight",GCST008362,13:32983035
+rs2262207-<b>A</b>,"1 x 10-8",,0.748194,'-,"0.01746 unit increase",[0.011-0.023],DCUN1D2,"Birth weight","birth weight",GCST008362,13:113481795
+rs10147938-<b>T</b>,"4 x 10-8",,0.386551,'-,"0.014516 unit increase",[0.0093-0.0197],HEATR5A,"Birth weight","birth weight",GCST008362,14:31416745
+rs12896104-<b>G</b>,"3 x 10-8",,0.674497,'-,"0.01535 unit increase",[0.0099-0.0208],"LINC02274, PTGR2","Birth weight","birth weight",GCST008362,14:73839311
+rs62023486-<b>A</b>,"4 x 10-8",,0.896573,'-,"0.022694 unit increase",[0.015-0.031],ONECUT1,"Birth weight","birth weight",GCST008362,15:52778392
+rs5742915-<b>C</b>,"9 x 10-9",,0.456106,'-,"0.01476 unit increase",[0.0097-0.0198],PML,"Birth weight","birth weight",GCST008362,15:74044292
+rs8038207-<b>G</b>,"1 x 10-8",,0.569417,'-,"0.01475 unit increase",[0.0097-0.0198],KLHL25,"Birth weight","birth weight",GCST008362,15:85773339
+rs2238464-<b>T</b>,"3 x 10-8",,0.320557,'-,"0.015373 unit increase",[0.0099-0.0208],ABCA3,"Birth weight","birth weight",GCST008362,16:2282576
+rs7205514-<b>T</b>,"1 x 10-8",,0.241543,'-,"0.017655 unit increase",[0.012-0.024],"ADCY7, TENT4B","Birth weight","birth weight",GCST008362,16:50237895
+rs1868158-<b>T</b>,"7 x 10-6",,0.587322,'-,"0.011718 unit increase",[0.0066-0.0168],SMPD3,"Birth weight","birth weight",GCST008362,16:68365021
+rs11646700-<b>G</b>,"1 x 10-8",,0.494559,'-,"0.014661 unit increase",[0.0096-0.0197],SMPD3,"Birth weight","birth weight",GCST008362,16:68387765
+rs9783782-<b>G</b>,"3 x 10-8",,0.311732,'-,"0.016125 unit increase",[0.01-0.022],"LINC02182, ZNF469","Birth weight","birth weight",GCST008362,16:88283679
+rs1242516-<b>C</b>,"3 x 10-8",,0.860167,'-,"0.020609 unit increase",[0.013-0.028],MED9,"Birth weight","birth weight",GCST008362,17:17483765
+rs4794720-<b>G</b>,"4 x 10-8",,0.362217,'-,"0.014846 unit increase",[0.0095-0.0201],MSI2,"Birth weight","birth weight",GCST008362,17:57314862
+rs2663842-<b>A</b>,"9 x 10-9",,0.678001,'-,"0.016122 unit increase",[0.011-0.022],ATP8B1,"Birth weight","birth weight",GCST008362,18:57782284
+rs2967677-<b>C</b>,"1 x 10-8",,0.845141,'-,"0.020671 unit increase",[0.014-0.028],"ACTL9, NFILZ","Birth weight","birth weight",GCST008362,19:8679457
+rs11085720-<b>A</b>,"7 x 10-9",,0.438291,'-,"0.014546 unit increase",[0.0096-0.0195],DNMT1,"Birth weight","birth weight",GCST008362,19:10207087
+rs1964859-<b>T</b>,"4 x 10-8",,0.299848,'-,"0.015905 unit increase",[0.01-0.022],"TCF15, SRXN1","Birth weight","birth weight",GCST008362,20:627161
+rs4813047-<b>A</b>,"1 x 10-7",,0.191669,'-,"0.017533 unit increase",[0.011-0.024],LINC02871,"Birth weight","birth weight",GCST008362,20:11099091
+rs4809731-<b>G</b>,"2 x 10-8",,0.130671,'-,"0.021703 unit increase",[0.014-0.029],"ARFGEF2, PREX1","Birth weight","birth weight",GCST008362,20:48879230
+rs817329-<b>T</b>,"2 x 10-9",,0.40588,'-,"0.01565 unit increase",[0.011-0.021],ZNF512B,"Birth weight","birth weight",GCST008362,20:63966341
+rs75518158-<b>C</b>,"2 x 10-8",,0.0331979999999999,'-,"0.039915 unit increase",[0.026-0.054],"RIPPLY3, RNU6-696P","Birth weight","birth weight",GCST008362,21:37021267
+rs5750561-<b>A</b>,"8 x 10-9",,0.404478,'-,"0.015197 unit increase",[0.01-0.02],PLA2G6,"Birth weight","birth weight",GCST008362,22:38199253
+rs11704481-<b>G</b>,"1 x 10-8",,0.403014,'-,"0.015216 unit increase",[0.01-0.02],FAM118A,"Birth weight","birth weight",GCST008362,22:45336447
+rs28681372-<b>A</b>,"1 x 10-8",,0.597892,'-,"0.015775 unit increase",[0.01-0.021],"CRELD2, PIM3","Birth weight","birth weight",GCST008362,22:49958329
+rs12909648-<b>G</b>,"3 x 10-18",,0.522528,'-,"0.026471 unit increase",[0.021-0.032],AKAP13,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:85681339
+rs139557015-<b>T</b>,"2 x 10-8",,0.964846,'-,"0.048959 unit increase",[0.032-0.066],LINC01934,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,2:181207599
+rs2574727-<b>G</b>,"3 x 10-8",,0.945904,'-,"0.038502 unit increase",[0.025-0.052],VGLL4,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:11595034
+rs60573957-<b>T</b>,"1 x 10-8",,0.507223,'-,"0.017993 unit increase",[0.012-0.024],FGD5,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:14842902
+rs2242116-<b>A</b>,"1 x 10-8",,0.386564,'-,"0.01733 unit increase",[0.011-0.023],PTH1R,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:46899626
+rs73226528-<b>C</b>,"1 x 10-8",,0.19288499999999997,'-,"0.022044 unit increase",[0.014-0.03],USF3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:113679795
+rs17315501-<b>G</b>,"4 x 10-8",,0.982688,'-,"0.065761 unit increase",[0.042-0.089],MRPS22,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,3:139310834
+rs2715026-<b>G</b>,"9 x 10-9",,0.597888,'-,"0.017949 unit increase",[0.012-0.024],PDE5A,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,4:119695650
+rs11957761-<b>G</b>,"2 x 10-8",,0.802939,'-,"0.021962 unit increase",[0.014-0.03],ARAP3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:141678920
+rs12153596-<b>C</b>,"3 x 10-7",,0.612618,'-,"0.016585 unit increase",[0.01-0.023],EBF1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,5:158983170
+rs809871-<b>C</b>,"2 x 10-8",,0.424338,'-,"0.017195 unit increase",[0.011-0.023],"H3C8, H2BC9","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:26256298
+rs113510833-<b>T</b>,"3 x 10-8",,0.10919500000000004,'-,"0.028025 unit increase",[0.018-0.038],"ZDHHC20P1, ZFP57","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:29703290
+rs636252-<b>T</b>,"5 x 10-8",,0.407676,'-,"0.016815 unit increase",[0.011-0.023],"GPRC6A, RFX6","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:116836611
+rs4518515-<b>A</b>,"3 x 10-8",,0.435903,'-,"0.017626 unit increase",[0.011-0.024],"VTA1, ADGRG6","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:142263292
+rs10814916-<b>C</b>,"4 x 10-8",,0.512983,'-,"0.016154 unit increase",[0.01-0.022],GLIS3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,9:4293150
+rs62562580-<b>G</b>,"2 x 10-6",,0.21675299999999997,'-,"0.017586 unit increase",[0.01-0.025],"NFIL3, ROR2","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,9:91489937
+rs6602476-<b>A</b>,"3 x 10-8",,0.279508,'-,"0.01836 unit increase",[0.012-0.025],"CELF2, CELF2-AS2","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:11080672
+rs2292626-<b>T</b>,"1 x 10-8",,0.473116,'-,"0.017211 unit increase",[0.011-0.023],PLEKHA1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:122427198
+rs231350-<b>C</b>,"5 x 10-8",,0.645376,'-,"0.017947 unit increase",[0.012-0.024],"KCNQ1, KCNQ1OT1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:2692419
+rs3765041-<b>T</b>,"3 x 10-8",,0.25923300000000005,'-,"0.019164 unit increase",[0.012-0.026],RPS6KA4,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:64359758
+rs2307024-<b>T</b>,"3 x 10-8",,0.586204,'-,"0.016621 unit increase",[0.011-0.023],ABCC9,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:21852069
+rs895964-<b>G</b>,"3 x 10-8",,0.526454,'-,"0.017001 unit increase",[0.011-0.023],ITPR2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:26705133
+rs2118611-<b>T</b>,"2 x 10-8",,0.798288,'-,"0.021797 unit increase",[0.014-0.029],SMAD3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:67109128
+rs8038207-<b>G</b>,"8 x 10-12",,0.567938,'-,"0.02167 unit increase",[0.015-0.028],KLHL25,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:85773339
+rs12446550-<b>A</b>,"5 x 10-8",,0.419034,'-,"0.016794 unit increase",[0.011-0.023],"IL27, NUPR1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,16:28532060
+rs1868158-<b>T</b>,"8 x 10-8",,0.591752,'-,"0.016544 unit increase",[0.011-0.023],SMPD3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,16:68365021
+rs35549608-<b>C</b>,"7 x 10-9",,0.159732,'-,"0.02477 unit increase",[0.016-0.033],"LINC01572, PMFBP1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,16:72193499
+rs34717629-<b>A</b>,"8 x 10-9",,0.21435499999999996,'-,"0.022126 unit increase",[0.015-0.03],RAI1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,17:17707090
+rs2967677-<b>C</b>,"6 x 10-25",,0.846878,'-,"0.044858 unit increase",[0.036-0.053],"ACTL9, NFILZ","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,19:8679457
+rs11085720-<b>A</b>,"5 x 10-7",,0.435179,'-,"0.014967 unit increase",[0.0091-0.0208],DNMT1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,19:10207087
+rs3746448-<b>C</b>,"7 x 10-9",,0.83551,'-,"0.024491 unit increase",[0.016-0.033],MYH7B,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,20:34985176
+rs4809731-<b>G</b>,"3 x 10-8",,0.13465400000000005,'-,"0.024449 unit increase",[0.016-0.033],"ARFGEF2, PREX1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,20:48879230
+rs817329-<b>T</b>,"2 x 10-6",,0.406239,'-,"0.014853 unit increase",[0.0088-0.0209],ZNF512B,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,20:63966341
+rs234864-<b>A</b>,"2 x 10-9",,0.547439,'-,"0.015745 unit increase",[0.011-0.021],KCNQ1,"Birth weight","birth weight",GCST008362,11:2836067
+rs4444073-<b>A</b>,"3 x 10-15",,0.520317,'-,"0.020182 unit increase",[0.015-0.025],AMPD3,"Birth weight","birth weight",GCST008362,11:10310117
+rs5030317-<b>C</b>,"3 x 10-9",,0.732755,'-,"0.017273 unit increase",[0.012-0.023],WT1,"Birth weight","birth weight",GCST008362,11:32388791
+rs667515-<b>G</b>,"9 x 10-12",,0.617803,'-,"0.01845 unit increase",[0.013-0.024],CCND1,"Birth weight","birth weight",GCST008362,11:69634308
+rs61885091-<b>A</b>,"5 x 10-10",,0.168762,'-,"0.022879 unit increase",[0.016-0.03],'-,"Birth weight","birth weight",GCST008362,11:69945846
+rs10830963-<b>G</b>,"3 x 10-11",,0.277226,'-,"0.019111 unit increase",[0.013-0.025],MTNR1B,"Birth weight","birth weight",GCST008362,11:92975544
+rs76895963-<b>G</b>,"2 x 10-13",,0.021176,'-,"0.076305 unit increase",[0.056-0.097],'-,"Birth weight","birth weight",GCST008362,"Mapping not available"
+rs11055030-<b>G</b>,"4 x 10-12",,0.71849,'-,"0.019952 unit increase",[0.014-0.026],"CDKN1B, APOLD1","Birth weight","birth weight",GCST008362,12:12725415
+rs2306547-<b>C</b>,"4 x 10-13",,0.534149,'-,"0.018719 unit increase",[0.014-0.024],ITPR2,"Birth weight","birth weight",GCST008362,12:26724952
+rs6582623-<b>C</b>,"1 x 10-9",,0.869095,'-,"0.023591 unit increase",[0.016-0.031],SLC38A1,"Birth weight","birth weight",GCST008362,12:46219611
+rs7968682-<b>G</b>,"4 x 10-60",,0.486291,'-,"0.041831 unit increase",[0.037-0.047],"HMGA2, MIR6074","Birth weight","birth weight",GCST008362,12:65978100
+rs1480470-<b>G</b>,"1 x 10-19",,0.631485,'-,"0.02433 unit increase",[0.019-0.03],"HMGA2, MIR6074","Birth weight","birth weight",GCST008362,12:66018350
+rs2647873-<b>A</b>,"3 x 10-12",,0.519598,'-,"0.01806 unit increase",[0.013-0.023],'-,"Birth weight","birth weight",GCST008362,12:102687414
+rs3184504-<b>C</b>,"3 x 10-19",,0.520699,'-,"0.022966 unit increase",[0.018-0.028],"SH2B3, ATXN2","Birth weight","birth weight",GCST008362,12:111446804
+rs9549046-<b>A</b>,"8 x 10-13",,0.117596,'-,"0.029115 unit increase",[0.021-0.037],LINC00598,"Birth weight","birth weight",GCST008362,13:40073069
+rs34217484-<b>A</b>,"7 x 10-11",,0.26421,'-,"0.0192 unit increase",[0.013-0.025],"RB1-DT, ITM2B","Birth weight","birth weight",GCST008362,13:48280414
+rs9318511-<b>C</b>,"6 x 10-12",,0.873248,'-,"0.026864 unit increase",[0.019-0.035],"OBI1-AS1, LINC00446","Birth weight","birth weight",GCST008362,13:78027278
+rs6026449-<b>C</b>,"2 x 10-10",,0.627232,'-,"0.016962 unit increase",[0.012-0.022],"NPEPL1, STX16-NPEPL1","Birth weight","birth weight",GCST008362,20:58697561
+rs73143584-<b>A</b>,"2 x 10-11",,0.110347,'-,"0.028776 unit increase",[0.02-0.037],"ZBTB46, ZBTB46-AS1","Birth weight","birth weight",GCST008362,20:63814349
+rs2229742-<b>G</b>,"7 x 10-11",,0.88135,'-,"0.027215 unit increase",[0.019-0.035],NRIP1,"Birth weight","birth weight",GCST008362,21:14966851
+rs220193-<b>A</b>,"4 x 10-11",,0.225307,'-,"0.020584 unit increase",[0.014-0.027],"ABCG1, UMODL1","Birth weight","birth weight",GCST008362,21:42161198
+rs134594-<b>C</b>,"6 x 10-10",,0.350625,'-,"0.016799 unit increase",[0.011-0.022],"KREMEN1, C22orf31","Birth weight","birth weight",GCST008362,22:29072468
+rs41311445-<b>A</b>,"3 x 10-13",,0.903386,'-,"0.032564 unit increase",[0.024-0.041],SNU13,"Birth weight","birth weight",GCST008362,22:41674370
+rs7285579-<b>C</b>,"3 x 10-9",,0.697743,'-,"0.017277 unit increase",[0.012-0.023],"LINC00899, PRR34","Birth weight","birth weight",GCST008362,22:46046100
+rs7067170-<b>G</b>,"4 x 10-10",,0.760173,'-,"0.017154 unit increase",[0.012-0.023],PJA1,"Birth weight","birth weight",GCST008362,X:69162993
+rs7886910-<b>C</b>,"3 x 10-12",,0.934279,'-,"0.033142 unit increase",[0.024-0.042],CORO1CP1,"Birth weight","birth weight",GCST008362,X:79375360
+rs11096402-<b>G</b>,"3 x 10-14",,0.246767,'-,"0.020853 unit increase",[0.015-0.026],PLAC1,"Birth weight","birth weight",GCST008362,X:134693838
+rs2807319-<b>G</b>,"1 x 10-8",,0.88301,'-,"0.02307 unit increase",[0.015-0.031],"MIR4418, WNT4","Birth weight","birth weight",GCST008362,1:22227683
+rs1937436-<b>G</b>,"1 x 10-8",,0.709705,'-,"0.016095 unit increase",[0.011-0.022],PDE4B,"Birth weight","birth weight",GCST008362,1:65975646
+rs2755253-<b>C</b>,"5 x 10-8",,0.297943,'-,"0.015336 unit increase",[0.0098-0.0209],SLC35D1,"Birth weight","birth weight",GCST008362,1:67005160
+rs7525870-<b>G</b>,"2 x 10-8",,0.740149,'-,"0.016389 unit increase",[0.011-0.022],MIGA1,"Birth weight","birth weight",GCST008362,1:77803522
+rs116276359-<b>A</b>,"4 x 10-8",,0.030591,'-,"0.043277 unit increase",[0.028-0.059],"C2CD4D-AS1, THEM5","Birth weight","birth weight",GCST008362,1:151848954
+rs6426985-<b>A</b>,"7 x 10-11",,0.44002399999999997,'-,"0.016948 unit increase",[0.012-0.022],KCNN3,"Birth weight","birth weight",GCST008362,1:154841143
+rs144126567-<b>C</b>,"2 x 10-10",,0.925283,'-,"0.032562 unit increase",[0.023-0.043],"FCGR3A, RPS23P10","Birth weight","birth weight",GCST008362,1:161540726
+rs67775399-<b>C</b>,"4 x 10-10",,0.21879300000000002,'-,"0.020888 unit increase",[0.014-0.027],FCGR2C,"Birth weight","birth weight",GCST008362,1:161602563
+rs7541039-<b>T</b>,"2 x 10-8",,0.259256,'-,"0.016571 unit increase",[0.011-0.022],PROX1,"Birth weight","birth weight",GCST008362,1:214003436
+rs4655413-<b>T</b>,"3 x 10-7",,0.253924,'-,"0.015243 unit increase",[0.0094-0.021],USH2A,"Birth weight","birth weight",GCST008362,1:215655157
+rs12104672-<b>T</b>,"3 x 10-8",,0.573534,'-,"0.014383 unit increase",[0.0093-0.0195],LIMS1,"Birth weight","birth weight",GCST008362,2:108534717
+rs11680809-<b>A</b>,"3 x 10-8",,0.566988,'-,"0.014501 unit increase",[0.0094-0.0196],"IL1B, IL1A","Birth weight","birth weight",GCST008362,2:112813232
+rs12623454-<b>G</b>,"1 x 10-8",,0.531192,'-,"0.014827 unit increase",[0.0097-0.0199],"PCYOX1, Y_RNA","Birth weight","birth weight",GCST008362,2:120568721
+rs7563664-<b>T</b>,"2 x 10-8",,0.106718,'-,"0.023511 unit increase",[0.015-0.032],CYTIP,"Birth weight","birth weight",GCST008362,2:157487943
+rs10173538-<b>C</b>,"1 x 10-8",,0.628429,'-,"0.015115 unit increase",[0.0099-0.0203],MARCHF7,"Birth weight","birth weight",GCST008362,2:159712765
+rs6568554-<b>A</b>,"2 x 10-9",,0.14390800000000004,'-,"0.026865 unit increase",[0.018-0.036],ARMC2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:108969116
+rs1415701-<b>G</b>,"6 x 10-10",,0.729476,'-,"0.021579 unit increase",[0.015-0.028],L3MBTL3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:130024690
+rs7772579-<b>A</b>,"6 x 10-10",,0.718456,'-,"0.020981 unit increase",[0.014-0.028],ESR1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,6:151721367
+rs1724889-<b>G</b>,"3 x 10-10",,0.740268,'-,"0.022838 unit increase",[0.016-0.03],AMZ1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:2701387
+rs59084784-<b>A</b>,"6 x 10-7",,0.32312300000000005,'-,"0.01674 unit increase",[0.01-0.023],STEAP1B,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:22699943
+rs7808457-<b>A</b>,"2 x 10-9",,0.5857289999999999,'-,"0.018634 unit increase",[0.013-0.025],"TOMM7, MTCYBP42","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:22758646
+rs34776209-<b>C</b>,"8 x 10-9",,0.752372,'-,"0.020983 unit increase",[0.014-0.028],"RPS2P32, IGF2BP3","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:23473474
+rs2908279-<b>T</b>,"4 x 10-7",,0.494558,'-,"0.016001 unit increase",[0.0098-0.0222],"RNA5SP230, MYL7","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:44135258
+rs2971669-<b>T</b>,"8 x 10-14",,0.218715,'-,"0.027606 unit increase",[0.02-0.035],GCK,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:44192179
+rs138715366-<b>C</b>,"2 x 10-13",,0.991285,'-,"0.124407 unit increase",[0.091-0.158],YKT6,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:44206672
+rs10265133-<b>G</b>,"2 x 10-9",,0.857555,'-,"0.027396 unit increase",[0.018-0.036],"RNU6-326P, CCDC201","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:45856005
+rs45446698-<b>G</b>,"2 x 10-17",,0.04181100000000004,'-,"0.066721 unit increase",[0.051-0.082],"CYP3A7, CYP3A4","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:99735325
+rs13231367-<b>G</b>,"2 x 10-9",,0.704766,'-,"0.019973 unit increase",[0.013-0.026],SND1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:127869017
+rs3918226-<b>C</b>,"9 x 10-12",,0.918956,'-,"0.039755 unit increase",[0.028-0.051],NOS3,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,7:150993088
+rs11778247-<b>G</b>,"4 x 10-9",,0.834343,'-,"0.024878 unit increase",[0.017-0.033],SLC25A37,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,8:23545865
+rs6995390-<b>T</b>,"8 x 10-13",,0.16474100000000003,'-,"0.029588 unit increase",[0.021-0.038],ZFHX4,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,8:76698777
+rs10283100-<b>G</b>,"2 x 10-6",,0.945141,'-,"0.032408 unit increase",[0.019-0.046],ENPP2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,8:119583783
+rs28457693-<b>G</b>,"4 x 10-9",,0.106271,'-,"0.030104 unit increase",[0.02-0.04],PTCH1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,9:95455066
+rs1411424-<b>A</b>,"3 x 10-14",,0.522509,'-,"0.023137 unit increase",[0.017-0.029],RNY4P18,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,9:111130683
+rs72760655-<b>C</b>,"4 x 10-15",,0.67813,'-,"0.026397 unit increase",[0.02-0.033],"COL27A1, KIF12","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,9:114153934
+rs28505901-<b>A</b>,"4 x 10-6",,0.244954,'-,"0.016776 unit increase",[0.0096-0.0239],GPSM1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,9:136346577
+rs5030938-<b>T</b>,"5 x 10-10",,0.687037,'-,"0.020475 unit increase",[0.014-0.027],"HKDC1, SUPV3L1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:69216160
+rs10509669-<b>A</b>,"4 x 10-13",,0.74458,'-,"0.025575 unit increase",[0.019-0.032],PLCE1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:94210156
+rs3740360-<b>C</b>,"6 x 10-21",,0.11431000000000002,'-,"0.045529 unit increase",[0.036-0.055],PLCE1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:94265734
+rs2274224-<b>C</b>,"1 x 10-8",,0.433117,'-,"0.01756 unit increase",[0.012-0.024],'-,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,"Mapping not available"
+rs562974282-<b>G</b>,"2 x 10-9",,0.00197999999999998,'-,"0.211604 unit increase",[0.14-0.28],"MIR146B, C10orf95-AS1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:102441313
+rs7903146-<b>T</b>,"9 x 10-11",,0.29122800000000004,'-,"0.021695 unit increase",[0.015-0.028],TCF7L2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:112998590
+rs1801253-<b>C</b>,"5 x 10-10",,0.734184,'-,"0.021484 unit increase",[0.015-0.028],ADRB1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:114045297
+rs71486610-<b>C</b>,"4 x 10-8",,0.470919,'-,"0.017187 unit increase",[0.011-0.023],PLEKHA1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,10:122375287
+rs2168101-<b>C</b>,"3 x 10-21",,0.691309,'-,"0.032655 unit increase",[0.026-0.039],LMO1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:8233861
+rs12574749-<b>C</b>,"1 x 10-9",,0.719504,'-,"0.020571 unit increase",[0.014-0.027],"THEM7P, WT1","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:32383809
+rs10437653-<b>A</b>,"4 x 10-9",,0.50026,'-,"0.017483 unit increase",[0.012-0.023],"CREB3L1, LINC02489","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:46276080
+rs10734564-<b>A</b>,"4 x 10-11",,0.17922,'-,"0.027112 unit increase",[0.019-0.035],PTPRJ,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:48138877
+rs667515-<b>G</b>,"7 x 10-7",,0.612851,'-,"0.015747 unit increase",[0.0095-0.022],CCND1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:69634308
+rs10830963-<b>G</b>,"9 x 10-39",,0.27876599999999996,'-,"0.044519 unit increase",[0.038-0.051],MTNR1B,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:92975544
+rs10895278-<b>C</b>,"7 x 10-13",,0.34024699999999997,'-,"0.023117 unit increase",[0.017-0.029],YAP1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,11:102224604
+rs76895963-<b>G</b>,"5 x 10-9",,0.02085400000000004,'-,"0.070688 unit increase",[0.047-0.094],'-,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,"Mapping not available"
+rs2306547-<b>C</b>,"1 x 10-7",,0.530808,'-,"0.015992 unit increase",[0.01-0.022],ITPR2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:26724952
+rs11051061-<b>A</b>,"3 x 10-14",,0.26795500000000005,'-,"0.026403 unit increase",[0.02-0.033],LINC00941,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:30761734
+rs6582623-<b>C</b>,"5 x 10-6",,0.861653,'-,"0.020638 unit increase",[0.012-0.029],SLC38A1,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:46219611
+rs180438-<b>G</b>,"9 x 10-21",,0.194904,'-,"0.036016 unit increase",[0.028-0.044],SLC38A4,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:46793477
+rs8756-<b>C</b>,"1 x 10-19",,0.486261,'-,"0.027582 unit increase",[0.022-0.034],HMGA2,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:65965972
+rs1533688-<b>C</b>,"3 x 10-9",,0.773789,'-,"0.022157 unit increase",[0.015-0.029],"LINC02456, HELLPAR","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:102378967
+rs2647873-<b>A</b>,"1 x 10-12",,0.518767,'-,"0.021588 unit increase",[0.016-0.028],'-,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:102687414
+rs17033114-<b>T</b>,"1 x 10-15",,0.933851,'-,"0.053973 unit increase",[0.041-0.067],LINC00485,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:102729561
+rs3184504-<b>C</b>,"1 x 10-33",,0.517856,'-,"0.036552 unit increase",[0.031-0.042],"SH2B3, ATXN2","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,12:111446804
+rs34217484-<b>A</b>,"2 x 10-7",,0.264286,'-,"0.018393 unit increase",[0.011-0.025],"RB1-DT, ITM2B","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,13:48280414
+rs2928148-<b>A</b>,"3 x 10-9",,0.522771,'-,"0.018111 unit increase",[0.012-0.024],INO80,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:41109352
+rs339969-<b>A</b>,"2 x 10-6",,0.614323,'-,"0.014711 unit increase",[0.0086-0.0208],"RORA-AS1, RORA","Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:60591082
+rs3784789-<b>G</b>,"2 x 10-11",,0.674355,'-,"0.021671 unit increase",[0.015-0.028],CSK,"Offspring birth weight","birth weight, parental genotype effect measurement",GCST008363,15:74790211
+rs9379832-<b>A</b>,"1 x 10-13",,0.729516,'-,"0.021965 unit increase",[0.016-0.028],"H4C4, H2BC6","Birth weight","birth weight",GCST008362,6:26185972
+rs9366778-<b>G</b>,"3 x 10-11",,0.626619,'-,"0.018043 unit increase",[0.013-0.023],'-,"Birth weight","birth weight",GCST008362,"Mapping not available"
+rs9267812-<b>T</b>,"3 x 10-9",,0.132705,'-,"0.022969 unit increase",[0.015-0.031],"PPT2-EGFL8, PPT2","Birth weight","birth weight",GCST008362,6:32160617
+rs1547669-<b>G</b>,"6 x 10-12",,0.497237,'-,"0.017808 unit increase",[0.013-0.023],"LINC01016, MLN","Birth weight","birth weight",GCST008362,6:33807864
+rs75104038-<b>A</b>,"4 x 10-16",,0.059732,'-,"0.044913 unit increase",[0.034-0.056],"HMGA1, CYCSP55","Birth weight","birth weight",GCST008362,6:34222327
+rs9348981-<b>T</b>,"2 x 10-13",,0.71028,'-,"0.021002 unit increase",[0.015-0.027],FKBP5,"Birth weight","birth weight",GCST008362,6:35719472
+rs7744700-<b>T</b>,"2 x 10-11",,0.710508,'-,"0.01985 unit increase",[0.014-0.026],"NANOGP3, GCLC","Birth weight","birth weight",GCST008362,6:53484603
+rs76094073-<b>G</b>,"2 x 10-11",,0.121207,'-,"0.026513 unit increase",[0.019-0.034],ARMC2,"Birth weight","birth weight",GCST008362,6:108966833
+rs6925689-<b>T</b>,"6 x 10-9",,0.494134,'-,"0.014966 unit increase",[0.0099-0.02],"MIR588, RNU6-200P","Birth weight","birth weight",GCST008362,6:126544738
+rs6569647-<b>T</b>,"6 x 10-10",,0.801817,'-,"0.020035 unit increase",[0.014-0.026],L3MBTL3,"Birth weight","birth weight",GCST008362,6:130016121
+rs6930558-<b>T</b>,"3 x 10-13",,0.747004,'-,"0.021812 unit increase",[0.016-0.028],"RPS3AP23, RN7SKP106","Birth weight","birth weight",GCST008362,6:141557783
+rs962554-<b>T</b>,"4 x 10-9",,0.715144,'-,"0.01681 unit increase",[0.011-0.022],ADGRG6,"Birth weight","birth weight",GCST008362,6:142413067
+rs10872678-<b>T</b>,"1 x 10-28",,0.723865,'-,"0.031699 unit increase",[0.026-0.037],ESR1,"Birth weight","birth weight",GCST008362,6:151718829
+rs2934844-<b>T</b>,"2 x 10-13",,0.671634,'-,"0.020752 unit increase",[0.015-0.026],PDE10A,"Birth weight","birth weight",GCST008362,6:165728968
+rs4719648-<b>C</b>,"3 x 10-13",,0.576729,'-,"0.019079 unit increase",[0.014-0.024],AMZ1,"Birth weight","birth weight",GCST008362,7:2717198
+rs59084784-<b>A</b>,"2 x 10-9",,0.323114,'-,"0.016559 unit increase",[0.011-0.022],STEAP1B,"Birth weight","birth weight",GCST008362,7:22699943
+rs34776209-<b>C</b>,"9 x 10-15",,0.755246,'-,"0.023223 unit increase",[0.017-0.029],"RPS2P32, IGF2BP3","Birth weight","birth weight",GCST008362,7:23473474
+rs138715366-<b>C</b>,"4 x 10-61",,0.991203,'-,"0.239889 unit increase",[0.21-0.27],YKT6,"Birth weight","birth weight",GCST008362,7:44206672
+rs11983722-<b>A</b>,"3 x 10-9",,0.937561,'-,"0.031888 unit increase",[0.021-0.042],'-,"Birth weight","birth weight",GCST008362,7:46259049
+rs10265057-<b>G</b>,"1 x 10-9",,0.091531,'-,"0.027313 unit increase",[0.018-0.036],TNS3,"Birth weight","birth weight",GCST008362,7:47236139
+rs2237467-<b>A</b>,"5 x 10-9",,0.220803,'-,"0.018178 unit increase",[0.012-0.024],GRB10,"Birth weight","birth weight",GCST008362,7:50665619
+rs112139215-<b>A</b>,"3 x 10-20",,0.067572,'-,"0.047472 unit increase",[0.037-0.058],MLXIPL,"Birth weight","birth weight",GCST008362,7:73620229
+rs2282978-<b>C</b>,"2 x 10-11",,0.325983,'-,"0.018251 unit increase",[0.013-0.024],CDK6,"Birth weight","birth weight",GCST008362,7:92635096
+rs6467157-<b>T</b>,"1 x 10-11",,0.712608,'-,"0.019506 unit increase",[0.014-0.025],SND1,"Birth weight","birth weight",GCST008362,7:128020710
+rs62496903-<b>T</b>,"7 x 10-12",,0.08267,'-,"0.032797 unit increase",[0.023-0.042],MCPH1,"Birth weight","birth weight",GCST008362,8:6589417
+rs732563-<b>C</b>,"1 x 10-11",,0.503933,'-,"0.017423 unit increase",[0.012-0.022],"ENTPD4, SLC25A37","Birth weight","birth weight",GCST008362,8:23488013
+rs34036147-<b>T</b>,"8 x 10-11",,0.688337,'-,"0.018492 unit increase",[0.013-0.024],"FGFR1, C8orf86","Birth weight","birth weight",GCST008362,8:38508731
+rs13266210-<b>A</b>,"2 x 10-17",,0.786224,'-,"0.0268 unit increase",[0.021-0.033],ANK1,"Birth weight","birth weight",GCST008362,8:41675996
+rs72656010-<b>T</b>,"1 x 10-13",,0.868322,'-,"0.028319 unit increase",[0.021-0.036],PLAG1,"Birth weight","birth weight",GCST008362,8:56209656
+rs7819593-<b>C</b>,"6 x 10-13",,0.242592,'-,"0.02178 unit increase",[0.016-0.028],ZFPM2,"Birth weight","birth weight",GCST008362,8:105102944
+rs10283100-<b>G</b>,"7 x 10-13",,0.945835,'-,"0.041928 unit increase",[0.03-0.053],ENPP2,"Birth weight","birth weight",GCST008362,8:119583783
+rs13271368-<b>C</b>,"2 x 10-11",,0.761334,'-,"0.020223 unit increase",[0.014-0.026],TRIB1,"Birth weight","birth weight",GCST008362,8:125493898
+rs13257363-<b>G</b>,"2 x 10-11",,0.590719,'-,"0.01757 unit increase",[0.012-0.023],SLC45A4,"Birth weight","birth weight",GCST008362,8:141242481
+rs9657468-<b>G</b>,"8 x 10-8",,0.33423,'-,"0.014902 unit increase",[0.0095-0.0203],"LINC01300, GPR20","Birth weight","birth weight",GCST008362,8:141352291
+rs7854962-<b>C</b>,"1 x 10-11",,0.784881,'-,"0.021679 unit increase",[0.015-0.028],"PTPDC1, MIRLET7A1HG","Birth weight","birth weight",GCST008362,9:94138223
+rs28457693-<b>G</b>,"1 x 10-25",,0.109229,'-,"0.044196 unit increase",[0.036-0.052],PTCH1,"Birth weight","birth weight",GCST008362,9:95455066
+rs2418135-<b>A</b>,"2 x 10-14",,0.522202,'-,"0.019918 unit increase",[0.015-0.025],RNY4P18,"Birth weight","birth weight",GCST008362,9:111139029
+rs1323438-<b>C</b>,"6 x 10-11",,0.71832,'-,"0.018955 unit increase",[0.013-0.025],PAPPA,"Birth weight","birth weight",GCST008362,9:116353252
+rs3933326-<b>G</b>,"2 x 10-14",,0.676066,'-,"0.021331 unit increase",[0.016-0.027],PHF19,"Birth weight","birth weight",GCST008362,9:120871670
+rs10985827-<b>G</b>,"6 x 10-16",,0.140872,'-,"0.029972 unit increase",[0.023-0.037],"RABGAP1, ZBTB26","Birth weight","birth weight",GCST008362,9:122939329
+rs28505901-<b>A</b>,"2 x 10-15",,0.2485,'-,"0.024438 unit increase",[0.018-0.03],GPSM1,"Birth weight","birth weight",GCST008362,9:136346577
+rs4350272-<b>A</b>,"4 x 10-9",,0.269229,'-,"0.016999 unit increase",[0.011-0.023],"PRTFDC1, ARHGAP21","Birth weight","birth weight",GCST008362,10:24767189
+rs9645500-<b>G</b>,"2 x 10-18",,0.694429,'-,"0.024297 unit increase",[0.019-0.03],HKDC1,"Birth weight","birth weight",GCST008362,10:69226967
+rs1112718-<b>G</b>,"4 x 10-23",,0.404182,'-,"0.025684 unit increase",[0.021-0.031],Y_RNA,"Birth weight","birth weight",GCST008362,10:92719350
+rs3740360-<b>C</b>,"4 x 10-10",,0.10907599999999995,'-,"0.025733 unit increase",[0.018-0.034],PLCE1,"Birth weight","birth weight",GCST008362,10:94265734
+rs2274224-<b>C</b>,"1 x 10-16",,0.434492,'-,"0.021363 unit increase",[0.016-0.026],'-,"Birth weight","birth weight",GCST008362,"Mapping not available"
+rs10883846-<b>C</b>,"1 x 10-10",,0.614715,'-,"0.016841 unit increase",[0.012-0.022],NT5C2,"Birth weight","birth weight",GCST008362,10:103198487
+rs7076938-<b>T</b>,"2 x 10-28",,0.735333,'-,"0.032051 unit increase",[0.026-0.038],ADRB1,"Birth weight","birth weight",GCST008362,10:114029616
+rs71486610-<b>C</b>,"3 x 10-15",,0.476652,'-,"0.020349 unit increase",[0.015-0.025],PLEKHA1,"Birth weight","birth weight",GCST008362,10:122375287
+rs11042596-<b>T</b>,"4 x 10-22",,0.336254,'-,"0.026856 unit increase",[0.021-0.032],"H19, IGF2","Birth weight","birth weight",GCST008362,11:2097630

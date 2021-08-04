@@ -1,0 +1,782 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+rs181673553-<b>A</b>,"3 x 10-7",,0.998,'-,"3.0048 unit increase",[1.86-4.15],'-,"Niacinamide levels","niacinamide measurement",GCST008864,13:84267923
+rs13354173-<b>T</b>,"5 x 10-7",,0.004,'-,"1.2052 unit increase",[0.73-1.68],SEPTIN8,"Niacinamide levels","niacinamide measurement",GCST008864,5:132773431
+rs964184-<b>G</b>,"8 x 10-12",,0.15,'-,"0.04 unit increase",[0.02-0.06],ZPR1,"Vitamin E levels","vitamin E measurement",GCST001142,11:116778201
+rs2108622-<b>T</b>,"1 x 10-10",,0.21,'-,"0.03 unit increase",[0.01-0.05],CYP4F2,"Vitamin E levels","vitamin E measurement",GCST001142,19:15879621
+rs11057830-<b>A</b>,"8 x 10-9",,0.15,'-,"0.03 unit increase",[0.01-0.05],SCARB1,"Vitamin E levels","vitamin E measurement",GCST001142,12:124822507
+rs511797-<b>?</b>,"4 x 10-6",(thiamine),NR,'-,"0.24566479 unit increase",[0.14-0.35],MAML2,"Metabolite levels","thiamine measurement",GCST009391,11:96161975
+rs7817052-<b>?</b>,"4 x 10-6",(thiamine),NR,'-,"0.17854747 unit decrease",[0.1-0.25],NRG1,"Metabolite levels","thiamine measurement",GCST009391,8:31786844
+rs10500910-<b>?</b>,"6 x 10-6",(thiamine),NR,'-,"0.8010817 unit increase",[0.45-1.15],"NELL1, PGM2L1","Metabolite levels","thiamine measurement",GCST009391,11:21583605
+rs3915468-<b>?</b>,"7 x 10-6",(thiamine),NR,'-,"0.1905474 unit increase",[0.11-0.27],GOLIM4,"Metabolite levels","thiamine measurement",GCST009391,3:168078369
+rs794001-<b>?</b>,"1 x 10-6",(thiamine),NR,'-,"0.19242458 unit decrease",[0.12-0.27],N4BP2,"Metabolite levels","thiamine measurement",GCST009391,4:40119942
+rs1893625-<b>?</b>,"1 x 10-6",(thiamine),NR,'-,"0.4193316 unit increase",[0.25-0.59],'-,"Metabolite levels","thiamine measurement",GCST009391,18:71967315
+rs10980667-<b>?</b>,"4 x 10-6",(thiamine),NR,'-,"0.22272322 unit increase",[0.13-0.32],LPAR1,"Metabolite levels","thiamine measurement",GCST009391,9:110975337
+rs492602-<b>A</b>,"5 x 10-17",,0.51,'-,"0.09 unit decrease",[0.070-0.110],FUT2,"Vitamin B12 levels","vitamin B12 measurement",GCST000228,19:48703160
+rs3749779-<b>C</b>,"7 x 10-6","(Vitamin B12 )",0.165,'-,"0.02 pmol/L increase",[NR],"SLC25A2, TAF7","Obesity-related traits","vitamin B12 measurement",GCST001762,5:141303324
+rs12478296-<b>A</b>,"8 x 10-6","(Vitamin B12 )",0.446,'-,"0.03 pmol/L increase",[NR],LINC01881,"Obesity-related traits","vitamin B12 measurement",GCST001762,2:242106609
+rs1990193-<b>C</b>,"9 x 10-6","(Vitamin B12 )",0.385,'-,"0.03 pmol/L increase",[NR],'-,"Obesity-related traits","vitamin B12 measurement",GCST001762,17:70831948
+rs516246-<b>A</b>,"2 x 10-6","(Vitamin B12 )",0.272,'-,"0.03 pmol/L increase",[NR],FUT2,"Obesity-related traits","vitamin B12 measurement",GCST001762,19:48702915
+rs314590-<b>G</b>,"4 x 10-6","(Vitamin B12 )",0.271,'-,"0.02 pmol/L increase",[NR],CYP3A54P,"Obesity-related traits","vitamin B12 measurement",GCST001762,7:4434501
+rs1513859-<b>G</b>,"7 x 10-6","(Vitamin B12 )",0.011,'-,"0.03 pmol/L increase",[NR],LINC02253,"Obesity-related traits","vitamin B12 measurement",GCST001762,15:97207105
+rs1385890-<b>G</b>,"4 x 10-6","(Vitamin B12 )",0.193,'-,"0.02 pmol/L increase",[NR],'-,"Obesity-related traits","vitamin B12 measurement",GCST001762,"Mapping not available"
+rs7544372-<b>G</b>,"9 x 10-6","(Vitamin B12 )",0.211,'-,"0.03 pmol/L increase",[NR],RGS7,"Obesity-related traits","vitamin B12 measurement",GCST001762,1:240824454
+rs10056527-<b>?</b>,"8 x 10-7",,'-,'-,'-,'-,ZNF608,"B6 vitamer levels (multivariate analysis)","vitamin B6 measurement",GCST007260,5:124740390
+rs12132412-<b>?</b>,"2 x 10-7",,'-,'-,"0.366 nmol/L increase",[NR],'-,"Cerebrospinal fluid pyridoxal phosphate levels","vitamin B6 measurement",GCST007261,"Mapping not available"
+rs12132412-<b>?</b>,"4 x 10-9",,'-,'-,"0.396 unit increase",[NR],'-,"Cerebrospinal fluid pyridoxal phosphate to pyridoxal ratio","vitamin B6 measurement",GCST007263,"Mapping not available"
+rs3760775-<b>A</b>,"1 x 10-23",,NR,'-,"0.25 pmol/l increase",[NR],"FUT6, FUT3","Vitamin B12 levels","vitamin B12 measurement",GCST004161,19:5841345
+rs34324219-<b>A</b>,"4 x 10-8",,NR,'-,"0.34 pmol/l decrease",[NR],TCN1,"Vitamin B12 levels","vitamin B12 measurement",GCST004161,11:59855905
+rs602662-<b>A</b>,"6 x 10-13",,NR,'-,"0.18 pmol/l increase",[NR],FUT2,"Vitamin B12 levels","vitamin B12 measurement",GCST004161,19:48703728
+rs708686-<b>T</b>,"6 x 10-15",,NR,'-,"0.2 pmol/l increase",[NR],"FUT3, FUT6","Vitamin B12 levels","vitamin B12 measurement",GCST004161,19:5840608
+rs1047781-<b>?</b>,"4 x 10-36",,NR,'-,"70.21 pg/ml increase",[59.37-81.05],FUT2,"Vitamin B12 levels","vitamin B12 measurement",GCST001424,19:48703374
+rs10515552-<b>?</b>,"4 x 10-8",,NR,'-,"43.93 pg/ml increase",[28.29-59.57],PRELID2,"Vitamin B12 levels","vitamin B12 measurement",GCST001424,5:145659268
+rs12377462-<b>?</b>,"2 x 10-6",,NR,'-,"28.53 pg/ml increase",[16.79-40.27],APTX,"Vitamin B12 levels","vitamin B12 measurement",GCST001424,9:32914591
+rs2298585-<b>?</b>,"3 x 10-15",,NR,'-,"71.8 pg/ml increase",[54.08-89.52],MS4A3,"Vitamin B12 levels","vitamin B12 measurement",GCST001424,11:60069719
+rs41281112-<b>?</b>,"9 x 10-10",,NR,'-,"83.6 pg/ml decrease",[56.90-110.30],CLYBL,"Vitamin B12 levels","vitamin B12 measurement",GCST001424,13:99866380
+rs3760776-<b>?</b>,"4 x 10-13",,NR,'-,"49.78 pg/ml increase",[36.41-63.15],"FUT6, FUT3","Vitamin B12 levels","vitamin B12 measurement",GCST001424,19:5839735
+rs1106357-<b>?</b>,"8 x 10-10",,'-,'-,'-,'-,"ALPL, NBPF3","B6 vitamer levels (multivariate analysis)","vitamin B6 measurement",GCST007260,1:21490592
+rs28789220-<b>?</b>,"8 x 10-7",,'-,'-,'-,'-,"HMGN2P47, LINC02206","B6 vitamer levels (multivariate analysis)","vitamin B6 measurement",GCST007260,15:66988590
+rs4654748-<b>?</b>,"6 x 10-6",,'-,'-,"0.28 nmol/L increase",[NR],NBPF3,"Plasma pyridoxal phosphate levels","vitamin B6 measurement",GCST007262,1:21459575
+rs4654748-<b>?</b>,"4 x 10-9",,'-,'-,"0.368 unit increase",[NR],NBPF3,"Plasma pyridoxal phosphate to pyridoxal ratio","vitamin B6 measurement",GCST007264,1:21459575
+rs1106357-<b>?</b>,"3 x 10-6",,'-,'-,"0.288 unit decrease",[NR],"ALPL, NBPF3","Plasma pyridoxic acid to pyridoxal phosphate ratio","vitamin B6 measurement",GCST007265,1:21490592
+rs6693447-<b>T</b>,"6 x 10-10",,0.551,'-,"0.039 unit increase",[0.027-0.051],RER1,"Vitamin C levels","vitamin C measurement",GCST011816,1:2398751
+rs13028225-<b>T</b>,"2 x 10-30",,0.857,'-,"0.102 unit increase",[0.084-0.12],SLC23A3,"Vitamin C levels","vitamin C measurement",GCST011816,2:219166533
+rs33972313-<b>C</b>,"5 x 10-90",,0.968,'-,"0.36 unit increase",[0.32-0.4],SLC23A1,"Vitamin C levels","vitamin C measurement",GCST011816,5:139379813
+rs10051765-<b>C</b>,"4 x 10-9",,0.342,'-,"0.039 unit increase",[0.025-0.053],"RGS14, SLC34A1","Vitamin C levels","vitamin C measurement",GCST011816,5:177372991
+rs7740812-<b>G</b>,"2 x 10-9",,0.594,'-,"0.038 unit increase",[0.026-0.05],GSTA11P,"Vitamin C levels","vitamin C measurement",GCST011816,6:52860989
+rs174547-<b>C</b>,"4 x 10-8",,0.328,'-,"0.036 unit increase",[0.022-0.05],"FADS1, FADS2","Vitamin C levels","vitamin C measurement",GCST011816,11:61803311
+rs117885456-<b>A</b>,"2 x 10-11",,0.087,'-,"0.078 unit increase",[0.054-0.102],"SNRPF, LINC02410","Vitamin C levels","vitamin C measurement",GCST011816,12:95855333
+rs2559850-<b>A</b>,"6 x 10-20",,0.598,'-,"0.058 unit increase",[0.046-0.07],CHPT1,"Vitamin C levels","vitamin C measurement",GCST011816,12:101699681
+rs10136000-<b>A</b>,"1 x 10-8",,0.283,'-,"0.04 unit increase",[0.026-0.054],AKT1,"Vitamin C levels","vitamin C measurement",GCST011816,14:104787244
+rs56738967-<b>C</b>,"8 x 10-10",,0.321,'-,"0.041 unit increase",[0.027-0.055],LINC01229,"Vitamin C levels","vitamin C measurement",GCST011816,16:79706644
+rs9895661-<b>T</b>,"1 x 10-14",,0.817,'-,"0.063 unit increase",[0.047-0.079],BCAS3,"Vitamin C levels","vitamin C measurement",GCST011816,17:61379228
+rs184291421-<b>C</b>,"1 x 10-28",,0.994155,'-,"0.170103 unit increase",[0.14-0.2],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71887129
+rs188838036-<b>A</b>,"3 x 10-24",,0.995469,'-,"0.17944 unit increase",[0.14-0.21],MCUB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71917668
+rs186881826-<b>A</b>,"4 x 10-77",,0.223069,'-,"0.045907 unit increase",[0.041-0.051],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71920026
+rs186441690-<b>G</b>,"2 x 10-18",,0.997189,'-,"0.26711 unit decrease",[0.21-0.33],NPFFR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71955252
+rs546541682-<b>T</b>,"2 x 10-18",,0.994255,'-,"0.156566 unit decrease",[0.12-0.19],NPFFR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71998849
+rs143106299-<b>T</b>,"2 x 10-28",,0.005747,'-,"0.169038 unit decrease",[0.14-0.2],NPFFR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:72054368
+rs192785674-<b>A</b>,"8 x 10-11",,0.996588,'-,"0.168744 unit increase",[0.12-0.22],ADAMTS3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:72640109
+rs58073039-<b>G</b>,"2 x 10-11",,0.298368,'-,"0.014119 unit decrease",[0.01-0.0183],HSD17B11,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:87366211
+rs28364331-<b>G</b>,"1 x 10-17",,0.018845,'-,"0.061386 unit increase",[0.047-0.075],ADH1A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:99280138
+rs1229984-<b>C</b>,"5 x 10-13",,0.973099,'-,"0.046854 unit decrease",[0.034-0.06],ADH1B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:99318162
+rs7718395-<b>G</b>,"2 x 10-9",,0.319522,'-,"0.012632 unit increase",[0.0085-0.0167],TNFAIP8,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,5:119316879
+rs3822868-<b>G</b>,"1 x 10-15",,0.835029,'-,"0.021918 unit increase",[0.017-0.027],MED23,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,6:131613846
+rs111529171-<b>C</b>,"6 x 10-11",,0.216376,'-,"0.015488 unit decrease",[0.011-0.02],"DNAH11, SP4","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,7:21532314
+rs1011468-<b>A</b>,"1 x 10-12",,0.475748,'-,"0.013795 unit decrease",[0.01-0.0176],LINC01004,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,7:104973344
+rs1858889-<b>C</b>,"4 x 10-11",,0.50084,'-,"0.012836 unit increase",[0.009-0.0166],COG5,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,7:107477002
+rs804280-<b>A</b>,"4 x 10-11",,0.581959,'-,"0.013033 unit increase",[0.0092-0.0169],GATA4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,8:11755189
+rs34726834-<b>T</b>,"7 x 10-10",,0.253615,'-,"0.013824 unit increase",[0.0094-0.0182],EBF2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,8:26032090
+rs7828742-<b>G</b>,"3 x 10-28",,0.596853,'-,"0.02193 unit decrease",[0.018-0.026],LINC00536,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,8:115948504
+rs10818769-<b>G</b>,"3 x 10-9",,0.856966,'-,"0.016972 unit decrease",[0.011-0.023],RABGAP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,9:122957644
+rs532436-<b>A</b>,"2 x 10-9",,0.184388,'-,"0.015051 unit decrease",[0.01-0.02],ABO,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,9:133274414
+rs10887718-<b>T</b>,"1 x 10-10",,0.527362,'-,"0.012476 unit decrease",[0.0087-0.0163],MAT1A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,10:80282868
+rs538325438-<b>C</b>,"6 x 10-13",,0.998583,'-,"0.227119 unit increase",[0.17-0.29],BTBD10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:13392483
+rs373514022-<b>C</b>,"5 x 10-12",,0.998234,'-,"0.202756 unit increase",[0.15-0.26],"SPON1, LINC02683","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:13934102
+rs571618690-<b>A</b>,"2 x 10-31",,0.998605,'-,"0.366496 unit increase",[0.3-0.43],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:13975275
+rs191379475-<b>G</b>,"2 x 10-15",,0.98893,'-,"0.102767 unit decrease",[0.077-0.128],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14054165
+rs561089663-<b>G</b>,"5 x 10-43",,0.998499,'-,"0.409455 unit increase",[0.35-0.47],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14078992
+rs10832218-<b>C</b>,"7 x 10-32",,0.19774,'-,"0.034215 unit decrease",[0.029-0.04],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14159628
+rs117206369-<b>T</b>,"1 x 10-48",,0.998354,'-,"0.467583 unit increase",[0.41-0.53],RRAS2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14314330
+rs567876843-<b>G</b>,"2 x 10-180",,0.995283,'-,"0.541999 unit increase",[0.5-0.58],"RRAS2, COPB1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14392593
+rs148514005-<b>T</b>,"1 x 10-184",,0.005501,'-,"0.446821 unit decrease",[0.42-0.48],"RRAS2, COPB1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14443332
+rs571484036-<b>A</b>,"4 x 10-16",,0.998325,'-,"0.217176 unit decrease",[0.16-0.27],COPB1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14491013
+rs577185477-<b>C</b>,"2 x 10-342",,0.01469,'-,"0.379366 unit decrease",[0.36-0.4],PSMA1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14591017
+rs554808052-<b>C</b>,"5 x 10-40",,0.998315,'-,"0.348989 unit increase",[0.3-0.4],PSMA1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14614844
+rs10832289-<b>T</b>,"2 x 10-266",,0.410173,'-,"0.068522 unit decrease",[0.065-0.072],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14647950
+rs187443664-<b>T</b>,"3 x 10-16",,0.98867,'-,"0.106498 unit decrease",[0.081-0.132],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14747346
+rs188480917-<b>G</b>,"5 x 10-275",,0.010804,'-,"0.343291 unit decrease",[0.32-0.36],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14764324
+rs534042887-<b>G</b>,"3 x 10-82",,0.996899,'-,"0.391563 unit increase",[0.35-0.43],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14796712
+rs532836473-<b>G</b>,"5 x 10-44",,0.998425,'-,"0.435785 unit increase",[0.37-0.5],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14801307
+rs201501563-<b>T</b>,"9 x 10-67",,0.122197,'-,"0.066474 unit decrease",[0.059-0.074],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14860924
+rs117913124-<b>A</b>,"2 x 10-775",,0.027583,'-,"0.354126 unit decrease",[0.34-0.37],CYP2R1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14879385
+rs117576073-<b>T</b>,"1 x 10-38",,0.012385,'-,"0.114573 unit decrease",[0.097-0.132],CYP2R1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14891027
+rs150585703-<b>G</b>,"7 x 10-125",,0.996054,'-,"0.481848 unit increase",[0.44-0.52],CALCB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:14929670
+rs574992951-<b>C</b>,"4 x 10-9",,0.991488,'-,"0.086717 unit increase",[0.058-0.116],SOX6,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:16559411
+rs567415847-<b>G</b>,"1 x 10-14",,0.997973,'-,"0.283381 unit increase",[0.21-0.36],PLEKHA7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:16833084
+rs523583-<b>C</b>,"6 x 10-10",,0.469219,'-,"0.012174 unit increase",[0.0083-0.016],"CD248, TMEM151A","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:66302675
+rs12803256-<b>G</b>,"9 x 10-407",,0.770616,'-,"0.100325 unit increase",[0.096-0.105],ACTE1P,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:71421822
+rs536006581-<b>G</b>,"9 x 10-35",,0.008644,'-,"0.17381 unit decrease",[0.15-0.2],"ACTE1P, DHCR7","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:71424105
+rs574615332-<b>A</b>,"1 x 10-28",,0.99727,'-,"0.286655 unit decrease",[0.24-0.34],DHCR7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:71433381
+rs549940584-<b>T</b>,"2 x 10-72",,0.013335,'-,"0.182748 unit increase",[0.16-0.2],NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:71511362
+rs200454003-<b>T</b>,"4 x 10-256",,0.264587,'-,"0.0867 unit decrease",[0.082-0.092],NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:71517944
+rs10793129-<b>A</b>,"2 x 10-12",,0.090078,'-,"0.024492 unit increase",[0.018-0.031],"RN7SL786P, DGAT2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:75748820
+rs1149605-<b>C</b>,"7 x 10-14",,0.171453,'-,"0.01928 unit increase",[0.014-0.024],"GUCY2EP, TSKU","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:76774172
+rs964184-<b>C</b>,"5 x 10-44",,0.863547,'-,"0.03977 unit increase",[0.034-0.045],ZPR1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:116778201
+rs2847500-<b>A</b>,"8 x 10-13",,0.124391,'-,"0.021129 unit decrease",[0.015-0.027],POU2F3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,11:120243712
+rs12317268-<b>G</b>,"9 x 10-12",,0.151589,'-,"0.018528 unit decrease",[0.013-0.024],SLCO1B1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,12:21199607
+rs9668081-<b>T</b>,"5 x 10-9",,0.47058,'-,"0.0116 unit increase",[0.0077-0.0155],"NF1P12, Y_RNA","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,12:38209109
+rs61937878-<b>T</b>,"4 x 10-22",,0.006418,'-,"0.119493 unit increase",[0.095-0.144],HAL,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,12:95977953
+rs10859995-<b>C</b>,"7 x 10-89",,0.581322,'-,"0.039396 unit decrease",[0.036-0.043],HAL,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,12:95981904
+rs8018720-<b>C</b>,"4 x 10-36",,0.820235,'-,"0.031949 unit decrease",[0.027-0.037],SEC23A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,14:39086981
+rs261291-<b>C</b>,"3 x 10-28",,0.35583,'-,"0.022414 unit decrease",[0.018-0.026],ALDH1A2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,15:58387979
+rs1800588-<b>T</b>,"3 x 10-36",,0.21461,'-,"0.029769 unit decrease",[0.025-0.034],"LIPC, ALDH1A2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,15:58431476
+rs17765311-<b>C</b>,"1 x 10-13",,0.344611,'-,"0.01515 unit decrease",[0.011-0.019],"USP3, LINC02568","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,15:63497753
+rs62007299-<b>A</b>,"2 x 10-11",,0.709377,'-,"0.014437 unit decrease",[0.01-0.019],PEAK1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,15:77419377
+rs8063706-<b>T</b>,"4 x 10-9",,0.272828,'-,"0.012968 unit increase",[0.0087-0.0173],"BCAR4, ZC3H7A","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,16:11815695
+rs77924615-<b>A</b>,"1 x 10-10",,0.197773,'-,"0.015792 unit decrease",[0.011-0.021],PDILT,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,16:20381010
+rs71383766-<b>T</b>,"1 x 10-9",,0.419574,'-,"0.012569 unit increase",[0.0085-0.0166],"CTF2P, FBXL19-AS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,16:30918912
+rs1800775-<b>A</b>,"2 x 10-17",,0.486317,'-,"0.016619 unit decrease",[0.013-0.02],"CETP, HERPUD1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,16:56961324
+rs2909218-<b>T</b>,"3 x 10-12",,0.792744,'-,"0.016894 unit increase",[0.012-0.022],"PRKAR1A, WIPI1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,17:68468405
+rs8091117-<b>A</b>,"1 x 10-9",,0.065396,'-,"0.024071 unit decrease",[0.016-0.032],DSG1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,18:31339831
+rs2037511-<b>A</b>,"9 x 10-10",,0.165391,'-,"0.016025 unit increase",[0.011-0.021],SERPINB11,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,18:63698973
+rs57631352-<b>G</b>,"1 x 10-9",,0.297255,'-,"0.012866 unit decrease",[0.0087-0.017],STAP2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:4338176
+rs73015021-<b>G</b>,"1 x 10-14",,0.121031,'-,"0.023034 unit increase",[0.017-0.029],"LDLR, SMARCA4","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:11082239
+rs10500209-<b>C</b>,"6 x 10-10",,0.282129,'-,"0.013417 unit decrease",[0.0092-0.0177],ZNF439,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:11868349
+rs58542926-<b>T</b>,"9 x 10-19",,0.075847,'-,"0.032488 unit increase",[0.025-0.04],TM6SF2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:19268740
+rs3814995-<b>T</b>,"3 x 10-12",,0.31224,'-,"0.014733 unit decrease",[0.011-0.019],NPHS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:35851310
+rs1065853-<b>T</b>,"8 x 10-14",,0.082083,'-,"0.027397 unit increase",[0.02-0.035],"APOE, APOC1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:44909976
+rs157595-<b>G</b>,"3 x 10-14",,0.614127,'-,"0.015581 unit decrease",[0.012-0.02],"APOC1P1, APOC1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:44922203
+rs112285002-<b>T</b>,"2 x 10-110",,0.159529,'-,"0.060321 unit increase",[0.055-0.066],SULT2A1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:47871063
+rs62130059-<b>C</b>,"9 x 10-34",,0.335823,'-,"0.02731 unit decrease",[0.023-0.032],"BSPH1, SULT2A1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:47957983
+rs10426-<b>A</b>,"3 x 10-26",,0.213371,'-,"0.025226 unit increase",[0.021-0.03],KLK10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:51014542
+rs8103262-<b>C</b>,"3 x 10-9",,0.305004,'-,"0.012519 unit increase",[0.0084-0.0167],"ZNF701, ZNF808","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,19:52562561
+rs6123359-<b>G</b>,"8 x 10-24",,0.105192,'-,"0.032345 unit increase",[0.026-0.039],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,20:54098167
+rs6127099-<b>T</b>,"9 x 10-62",,0.279034,'-,"0.036797 unit decrease",[0.032-0.041],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,20:54114863
+rs2585442-<b>G</b>,"7 x 10-49",,0.246306,'-,"0.033609 unit increase",[0.029-0.038],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,20:54120584
+rs2762942-<b>A</b>,"8 x 10-35",,0.942083,'-,"0.053192 unit increase",[0.045-0.062],CYP24A1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,20:54172386
+rs2229742-<b>C</b>,"7 x 10-16",,0.103928,'-,"0.025738 unit decrease",[0.019-0.032],NRIP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,21:14966851
+rs2074735-<b>C</b>,"7 x 10-12",,0.064197,'-,"0.027256 unit increase",[0.019-0.035],PLA2G3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,22:31139886
+rs960596-<b>T</b>,"2 x 10-9",,0.339588,'-,"0.012414 unit increase",[0.0083-0.0165],"Y_RNA, RBX1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,22:40997516
+rs6698680-<b>G</b>,"9 x 10-10",,0.464195,'-,"0.011928 unit decrease",[0.0081-0.0157],RER1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:2398222
+rs3750296-<b>C</b>,"2 x 10-24",,0.341423,'-,"0.020818 unit decrease",[0.017-0.025],PADI1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:17233161
+rs7519574-<b>A</b>,"2 x 10-11",,0.181694,'-,"0.016991 unit increase",[0.012-0.022],C1orf94,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:34260951
+rs56044892-<b>T</b>,"3 x 10-10",,0.2107,'-,"0.015388 unit increase",[0.011-0.02],FOXO6,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:41364414
+rs2934744-<b>A</b>,"4 x 10-26",,0.643546,'-,"0.022405 unit decrease",[0.018-0.027],DOCK7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:62582374
+rs7528419-<b>G</b>,"2 x 10-16",,0.224958,'-,"0.019031 unit increase",[0.014-0.024],CELSR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:109274570
+rs3768013-<b>A</b>,"1 x 10-13",,0.369605,'-,"0.01488 unit decrease",[0.011-0.019],ARNT,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:150842935
+rs115045402-<b>A</b>,"3 x 10-55",,0.026334,'-,"0.10713 unit increase",[0.094-0.121],"SPTLC1P4, S100A11","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152057072
+rs12123821-<b>T</b>,"2 x 10-59",,0.04793,'-,"0.074472 unit increase",[0.065-0.083],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152206676
+rs201561609-<b>T</b>,"7 x 10-28",,0.986941,'-,"0.129276 unit decrease",[0.11-0.15],"HRNR, FLG-AS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152215426
+rs185433896-<b>A</b>,"2 x 10-38",,0.993156,'-,"0.245785 unit decrease",[0.21-0.28],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152276545
+rs189918701-<b>G</b>,"2 x 10-16",,0.997322,'-,"0.237546 unit decrease",[0.18-0.29],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152281676
+rs375984409-<b>G</b>,"3 x 10-38",,0.991891,'-,"0.228513 unit decrease",[0.19-0.26],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152283296
+rs144613541-<b>G</b>,"6 x 10-12",,0.290985,'-,"0.015413 unit increase",[0.011-0.02],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152298399
+rs150597413-<b>T</b>,"6 x 10-11",,0.004002,'-,"0.104852 unit increase",[0.073-0.136],"FLG-AS1, FLG","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152305146
+rs138726443-<b>A</b>,"9 x 10-15",,0.00482,'-,"0.11212 unit increase",[0.084-0.14],"FLG, FLG-AS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152307547
+rs61816761-<b>A</b>,"9 x 10-74",,0.023096,'-,"0.125479 unit increase",[0.11-0.14],"FLG, FLG-AS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152313385
+rs576242124-<b>A</b>,"3 x 10-15",,0.011317,'-,"0.114432 unit increase",[0.086-0.143],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:152418287
+rs184958517-<b>T</b>,"6 x 10-15",,0.993064,'-,"0.134888 unit decrease",[0.1-0.17],"SPRR2C, SPRR2F","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:153138836
+rs558560635-<b>G</b>,"6 x 10-16",,0.99774,'-,"0.271577 unit decrease",[0.21-0.34],"LELP1, SPRR2G","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:153175521
+rs11264360-<b>A</b>,"3 x 10-15",,0.24292,'-,"0.018008 unit increase",[0.014-0.022],FDPS,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:155314795
+rs867772-<b>G</b>,"4 x 10-11",,0.681808,'-,"0.013838 unit decrease",[0.0097-0.0179],MTARC1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:220799001
+rs10127775-<b>T</b>,"3 x 10-9",,0.604643,'-,"0.011801 unit increase",[0.0079-0.0157],GALNT2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,1:230160042
+rs12997242-<b>A</b>,"2 x 10-10",,0.437687,'-,"0.012512 unit decrease",[0.0086-0.0164],TDRD15,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,2:21158305
+rs11127048-<b>A</b>,"6 x 10-19",,0.616569,'-,"0.018107 unit increase",[0.014-0.022],"GCKR, C2orf16","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,2:27529596
+rs6724965-<b>G</b>,"1 x 10-10",,0.171608,'-,"0.016541 unit decrease",[0.011-0.022],NPAS2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,2:100823689
+rs7569755-<b>A</b>,"8 x 10-11",,0.292374,'-,"0.013923 unit increase",[0.0097-0.0181],HTR5BP,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,2:117890685
+rs1047891-<b>A</b>,"1 x 10-11",,0.316449,'-,"0.014168 unit decrease",[0.01-0.018],CPS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,2:210675783
+rs2011425-<b>G</b>,"1 x 10-37",,0.07939,'-,"0.046356 unit decrease",[0.039-0.053],"UGT1A9, UGT1A7, UGT1A4, UGT1A5, UGT1A10, UGT1A6, UGT1A8","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,2:233718962
+rs7650253-<b>A</b>,"2 x 10-10",,0.689684,'-,"0.014562 unit increase",[0.01-0.019],RHOA,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,3:49393727
+rs1972994-<b>T</b>,"8 x 10-18",,0.64702,'-,"0.017509 unit decrease",[0.014-0.021],CADM2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,3:85581992
+rs6438900-<b>G</b>,"1 x 10-9",,0.260706,'-,"0.013584 unit increase",[0.0092-0.0179],"SNX4, RNU6-232P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,3:125429443
+rs6773343-<b>T</b>,"5 x 10-9",,0.720232,'-,"0.01268 unit increase",[0.0084-0.0169],TFDP2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,3:142106756
+rs78649910-<b>A</b>,"4 x 10-9",,0.110004,'-,"0.018331 unit decrease",[0.012-0.024],DOK7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:3480486
+rs7699711-<b>T</b>,"7 x 10-49",,0.454848,'-,"0.02864 unit decrease",[0.025-0.032],UGT2B7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:69081878
+rs529640451-<b>C</b>,"2 x 10-17",,0.997488,'-,"0.232802 unit increase",[0.18-0.29],SLC4A4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71311327
+rs528776789-<b>A</b>,"4 x 10-31",,0.993104,'-,"0.177644 unit increase",[0.15-0.21],SLC4A4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71620423
+rs113938679-<b>A</b>,"6 x 10-36",,0.005873,'-,"0.183841 unit decrease",[0.16-0.21],SLC4A4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71622308
+rs564377207-<b>G</b>,"1 x 10-21",,0.995541,'-,"0.199047 unit decrease",[0.16-0.24],SLC4A4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71622808
+rs186897112-<b>G</b>,"4 x 10-13",,0.998019,'-,"0.247082 unit increase",[0.18-0.31],"GC, SLC4A4","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71662848
+rs557657187-<b>G</b>,"6 x 10-16",,0.99894,'-,"0.365446 unit increase",[0.28-0.45],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71674140
+rs145432346-<b>C</b>,"7 x 10-286",,0.825873,'-,"0.108617 unit increase",[0.1-0.11],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71709300
+rs705117-<b>T</b>,"2 x 10-36",,0.849453,'-,"0.034494 unit decrease",[0.029-0.04],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71742398
+rs11723621-<b>G</b>,"3 x 10-1689",,0.291123,'-,"0.18693 unit decrease",[0.18-0.19],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71749645
+rs560384646-<b>C</b>,"7 x 10-112",,0.023835,'-,"0.193328 unit decrease",[0.18-0.21],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71750901
+rs200641845-<b>T</b>,"7 x 10-14",,0.545188,'-,"0.017645 unit increase",[0.013-0.022],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71755178
+rs565277381-<b>T</b>,"7 x 10-11",,0.998975,'-,"0.308457 unit increase",[0.22-0.4],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71760055
+rs3775150-<b>C</b>,"4 x 10-295",,0.262221,'-,"0.090838 unit decrease",[0.086-0.096],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71775033
+rs222026-<b>T</b>,"7 x 10-68",,0.870776,'-,"0.052159 unit decrease",[0.046-0.058],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71778043
+rs190688847-<b>C</b>,"1 x 10-18",,0.997836,'-,"0.290557 unit increase",[0.23-0.36],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST010144,4:71839999
+rs4149056-<b>?</b>,"3 x 10-7",,NR,'-,"0.58 unit decrease",[0.34-0.82],SLCO1B1,"Midgestational total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement",GCST010171,12:21178615
+rs11528045-<b>?</b>,"5 x 10-7",,NR,'-,"0.53 unit increase",[0.31-0.75],"LINC02653, HTR7","Midgestational total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement",GCST010171,10:90693958
+rs6486205-<b>?</b>,"2 x 10-6",,NR,'-,"0.4 unit increase",[0.22-0.58],PDE3B,"Midgestational total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement",GCST010171,11:14859710
+rs9527875-<b>?</b>,"7 x 10-8",,NR,'-,"0.59 unit increase",[0.37-0.81],DNAJA1P1,"Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,13:58768014
+rs72650824-<b>?</b>,"7 x 10-7",,NR,'-,"1.53 unit increase",[0.94-2.12],"CXCL8, CXCL6","Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,4:73780344
+rs205761-<b>?</b>,"8 x 10-7",,NR,'-,"0.5 unit increase",[0.3-0.7],LINC00513,"Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,7:130905032
+rs2541497-<b>?</b>,"1 x 10-6",,NR,'-,"0.53 unit increase",[0.31-0.75],TEKT5,"Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,16:10680264
+rs1550598-<b>?</b>,"3 x 10-6",,NR,'-,"0.53 unit increase",[0.31-0.75],DOK6,"Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,18:69494699
+rs7837124-<b>?</b>,"3 x 10-6",,NR,'-,"1.61 unit increase",[0.94-2.28],C8orf34,"Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,8:68731929
+rs490379-<b>?</b>,"4 x 10-6",,NR,'-,"0.75 unit increase",[0.44-1.06],PKN2-AS1,"Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect)","vitamin D measurement, parental genotype effect measurement",GCST010170,1:88252216
+rs17666424-<b>?</b>,"3 x 10-6",,NR,'-,"0.59 unit increase",[0.34-0.84],"MPTX1, CADM3-AS1","Midgestational total 25-hydroxyvitamin D levels (fetal genetic effect)","fetal genotype effect measurement, vitamin D measurement",GCST010169,1:159217740
+rs2336664-<b>?</b>,"2 x 10-6",,NR,'-,"0.42 unit increase",[0.24-0.6],"STIMATE-MUSTN1, STIMATE","Midgestational total 25-hydroxyvitamin D levels (fetal genetic effect)","fetal genotype effect measurement, vitamin D measurement",GCST010169,3:52871197
+rs7015627-<b>?</b>,"2 x 10-6",,NR,'-,"0.66 unit increase",[0.39-0.93],MED30,"Midgestational total 25-hydroxyvitamin D levels (fetal genetic effect)","fetal genotype effect measurement, vitamin D measurement",GCST010169,8:117466608
+rs4588-<b>?</b>,"3 x 10-8",,NR,'-,"0.62 unit decrease",[0.40-0.84],GC,"Neonatal total 25-hydroxyvitamin D levels (fetal genetic effect)","vitamin D measurement",GCST010168,4:71752606
+rs11690195-<b>?</b>,"2 x 10-6",,NR,'-,"0.47 unit decrease",[0.27-0.67],MMADHC-DT,"Neonatal total 25-hydroxyvitamin D levels (fetal genetic effect)","vitamin D measurement",GCST010168,2:149892022
+rs2207173-<b>G</b>,"4 x 10-9",,0.29,'-,"0.13 unit decrease",[0.08-0.17],"KRT18P3, CYB5AP4","Vitamin D levels","vitamin D measurement",GCST003191,20:22824423
+rs11586313-<b>G</b>,"1 x 10-6",,0.55,'-,"0.09 unit increase",[0.05-0.13],"IVL, LINC01527","Vitamin D levels","vitamin D measurement",GCST003191,1:152917994
+rs2282679-<b>?</b>,"2 x 10-14",,0.29,'-,'-,'-,GC,"Vitamin D levels","vitamin D measurement",GCST001560,4:71742666
+rs75741381-<b>?</b>,"1 x 10-8",,NR,'-,"0.0162666 unit decrease",[0.011-0.022],"NAT16, VGF","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,7:101166177
+rs1858889-<b>?</b>,"3 x 10-11",,NR,'-,"0.0134514 unit decrease",[0.0095-0.0174],COG5,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,7:107477002
+rs804281-<b>?</b>,"1 x 10-14",,NR,'-,"0.015895 unit decrease",[0.012-0.02],GATA4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,8:11754356
+rs34726834-<b>?</b>,"2 x 10-9",,NR,'-,"0.014013 unit increase",[0.0094-0.0186],EBF2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,8:26032090
+rs1384687-<b>?</b>,"2 x 10-8",,NR,'-,"0.0168656 unit decrease",[0.011-0.023],RAB2A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,8:60613404
+rs2049867-<b>?</b>,"2 x 10-6",,NR,'-,"0.00964289 unit increase",[0.0056-0.0137],TRPS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,8:115576343
+rs12056768-<b>?</b>,"3 x 10-29",,NR,'-,"0.0231961 unit increase",[0.019-0.027],LINC00536,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,8:115976302
+rs13294734-<b>?</b>,"1 x 10-9",,NR,'-,"0.012568 unit increase",[0.0085-0.0166],"RN7SKP59, GNAQ","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,9:78095994
+rs11791258-<b>?</b>,"5 x 10-8",,NR,'-,"0.0140808 unit increase",[0.009-0.0191],ABCA1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,9:104870363
+rs9409266-<b>?</b>,"1 x 10-8",,NR,'-,"0.0167771 unit increase",[0.011-0.023],RABGAP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,9:122982763
+rs532436-<b>?</b>,"6 x 10-9",,NR,'-,"0.0151343 unit decrease",[0.01-0.02],ABO,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,9:133274414
+rs77697233-<b>?</b>,"3 x 10-8",,NR,'-,"0.0155723 unit increase",[0.01-0.021],AKR1C4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:5204162
+rs2398113-<b>?</b>,"1 x 10-8",,NR,'-,"0.0117606 unit decrease",[0.0077-0.0158],LINC02670,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:10034466
+rs12411742-<b>?</b>,"10 x 10-9",,NR,'-,"0.0116916 unit increase",[0.0077-0.0157],MAT1A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:80283026
+rs77532868-<b>?</b>,"1 x 10-8",,NR,'-,"0.0259557 unit increase",[0.017-0.035],GRID1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:86321681
+rs12775091-<b>?</b>,"3 x 10-10",,NR,'-,"0.0155618 unit increase",[0.011-0.02],KIF20B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:89764255
+rs2068888-<b>?</b>,"3 x 10-8",,NR,'-,"0.0112586 unit increase",[0.0073-0.0153],"CYP26A1, NIP7P1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:93079885
+rs2297991-<b>?</b>,"2 x 10-8",,NR,'-,"0.0127547 unit decrease",[0.0083-0.0172],GPAM,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,10:112153464
+rs181631645-<b>?</b>,"5 x 10-20",,NR,'-,"0.0456341 unit decrease",[0.036-0.055],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:14130867
+rs2597193-<b>?</b>,"4 x 10-142",,NR,'-,"0.0597824 unit increase",[0.055-0.064],COPB1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:14484416
+rs118071012-<b>?</b>,"2 x 10-18",,NR,'-,"0.0508178 unit increase",[0.039-0.062],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:14785128
+rs116970203-<b>?</b>,"1 x 10-300",,NR,'-,"0.365538 unit decrease",[0.35-0.38],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:14855172
+rs11023379-<b>?</b>,"5 x 10-226",,NR,'-,"0.0652928 unit decrease",[0.061-0.069],CALCB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:14908414
+rs10896045-<b>?</b>,"10 x 10-9",,NR,'-,"0.0127838 unit decrease",[0.0084-0.0172],OVOL1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:65788053
+rs61891388-<b>?</b>,"6 x 10-10",,NR,'-,"0.0126293 unit increase",[0.0086-0.0166],"CD248, TMEM151A","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:66312347
+rs1620013-<b>?</b>,"2 x 10-12",,NR,'-,"0.0154604 unit increase",[0.011-0.02],ACTE1P,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:71378164
+rs1894100-<b>?</b>,"1 x 10-300",,NR,'-,"0.102148 unit decrease",[0.097-0.107],ACTE1P,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:71419297
+rs1790373-<b>?</b>,"4 x 10-84",,NR,'-,"0.101924 unit decrease",[0.092-0.112],NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:71455291
+rs11233933-<b>?</b>,"1 x 10-300",,NR,'-,"0.115785 unit decrease",[0.11-0.12],NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:71499024
+rs3060-<b>?</b>,"2 x 10-14",,NR,'-,"0.027754 unit increase",[0.021-0.035],DGAT2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:75800527
+rs1149605-<b>?</b>,"1 x 10-16",,NR,'-,"0.0224664 unit increase",[0.017-0.028],"GUCY2EP, TSKU","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:76774172
+rs964184-<b>?</b>,"4 x 10-42",,NR,'-,"0.0406845 unit decrease",[0.035-0.047],ZPR1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:116778201
+rs613808-<b>?</b>,"10 x 10-29",,NR,'-,"0.0252663 unit decrease",[0.021-0.03],APOA1-AS,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:116840252
+rs2847500-<b>?</b>,"3 x 10-13",,NR,'-,"0.022548 unit decrease",[0.016-0.029],POU2F3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,11:120243712
+rs1871395-<b>?</b>,"6 x 10-13",,NR,'-,"0.0203733 unit decrease",[0.015-0.026],SLCO1B1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:21199381
+rs1396206-<b>?</b>,"2 x 10-9",,NR,'-,"0.0124677 unit increase",[0.0084-0.0165],SOX5,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:24423925
+rs7955128-<b>?</b>,"1 x 10-10",,NR,'-,"0.0130617 unit decrease",[0.0091-0.0171],"ALG10B, Y_RNA","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:38290319
+rs1038165-<b>?</b>,"2 x 10-8",,NR,'-,"0.0115149 unit decrease",[0.0075-0.0155],"IL22, MDM1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:68272160
+rs10859995-<b>?</b>,"5 x 10-100",,NR,'-,"0.0436264 unit increase",[0.04-0.048],HAL,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:95981904
+rs7308827-<b>?</b>,"9 x 10-52",,NR,'-,"0.0402783 unit decrease",[0.035-0.045],HAL,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:95988866
+rs73413596-<b>?</b>,"9 x 10-9",,NR,'-,"0.0223468 unit increase",[0.015-0.03],CUX2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:111144826
+rs11060406-<b>?</b>,"6 x 10-8",,NR,'-,"0.0302241 unit decrease",[0.019-0.041],HIP1R,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:122854570
+rs28435470-<b>?</b>,"3 x 10-8",,NR,'-,"0.0118696 unit increase",[0.0077-0.0161],FBRSL1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,12:132490887
+rs4580037-<b>?</b>,"2 x 10-9",,NR,'-,"0.0135627 unit decrease",[0.0092-0.018],LINC02335,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,13:55128511
+rs8018720-<b>?</b>,"2 x 10-38",,NR,'-,"0.0344962 unit increase",[0.029-0.04],SEC23A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,14:39086981
+rs142004400-<b>?</b>,"3 x 10-8",,NR,'-,"0.0310034 unit decrease",[0.02-0.042],CDKL1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,14:50362842
+rs2756119-<b>?</b>,"9 x 10-9",,NR,'-,"0.0121434 unit increase",[0.008-0.0163],TRMT61A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,14:103535180
+rs58038553-<b>?</b>,"6 x 10-12",,NR,'-,"0.0209304 unit increase",[0.015-0.027],ALDH1A2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,15:58282125
+rs261291-<b>?</b>,"10 x 10-35",,NR,'-,"0.0261207 unit decrease",[0.022-0.03],ALDH1A2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,15:58387979
+rs11182428-<b>T</b>,"1 x 10-10",,0.480005,'-,"0.013 unit increase",[0.0091-0.0169],"CLUHP8, RNA5SP358","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,12:38132585
+rs1038165-<b>C</b>,"2 x 10-9",,0.416651,'-,"0.012 unit decrease",[0.0081-0.0159],"IL22, MDM1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,12:68272160
+rs10859995-<b>T</b>,"9 x 10-91",,0.417366,'-,"0.04 unit increase",[0.036-0.044],HAL,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,12:95981904
+rs12372115-<b>G</b>,"2 x 10-7",,0.929281,'-,"0.02 unit decrease",[0.012-0.028],RMST,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,12:97588923
+rs73413596-<b>T</b>,"1 x 10-9",,0.926146,'-,"0.023 unit increase",[0.015-0.031],CUX2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,12:111144826
+rs8018720-<b>G</b>,"2 x 10-49",,0.176673,'-,"0.038 unit increase",[0.032-0.044],SEC23A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,14:39086981
+rs12881545-<b>G</b>,"3 x 10-7",,0.326561,'-,"0.011 unit decrease",[0.0071-0.0149],"LINC00523, DLK1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,14:100709875
+rs261291-<b>T</b>,"3 x 10-40",,0.644772,'-,"0.027 unit decrease",[0.023-0.031],ALDH1A2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,15:58387979
+rs1800588-<b>C</b>,"2 x 10-43",,0.784797,'-,"0.033 unit decrease",[0.029-0.037],"LIPC, ALDH1A2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,15:58431476
+rs55829990-<b>T</b>,"3 x 10-22",,0.655996,'-,"0.02 unit decrease",[0.016-0.024],"USP3, LINC02568","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,15:63498443
+rs62007299-<b>G</b>,"4 x 10-8",,0.287463,'-,"0.012 unit increase",[0.0081-0.0159],PEAK1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,15:77419377
+rs325384-<b>C</b>,"10 x 10-11",,0.715795,'-,"0.014 unit decrease",[0.01-0.018],MEF2A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,15:99689556
+rs77924615-<b>G</b>,"1 x 10-9",,0.806515,'-,"0.015 unit decrease",[0.0091-0.0209],PDILT,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,16:20381010
+rs17231506-<b>C</b>,"4 x 10-19",,0.676894,'-,"0.019 unit decrease",[0.015-0.023],"HERPUD1, CETP","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,16:56960616
+rs11076175-<b>A</b>,"5 x 10-20",,0.821642,'-,"0.024 unit increase",[0.018-0.03],CETP,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,16:56972466
+rs4327060-<b>C</b>,"6 x 10-8",,0.945604,'-,"0.023 unit decrease",[0.015-0.031],"KRT18P18, ZFHX3","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,16:72773539
+rs4575545-<b>G</b>,"3 x 10-13",,0.695172,'-,"0.016 unit decrease",[0.012-0.02],"MAFTRR, LINC01229","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,16:79721549
+rs11542462-<b>G</b>,"9 x 10-16",,0.865656,'-,"0.023 unit decrease",[0.017-0.029],SDR42E1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,16:82000205
+rs10454087-<b>C</b>,"2 x 10-8",,0.715178,'-,"0.012 unit decrease",[0.0081-0.0159],RETREG3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,17:42583623
+rs2952289-<b>C</b>,"8 x 10-13",,0.201968,'-,"0.018 unit decrease",[0.012-0.024],"PRKAR1A, WIPI1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,17:68468273
+rs8091117-<b>C</b>,"1 x 10-10",,0.934702,'-,"0.026 unit decrease",[0.018-0.034],DSG1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,18:31339831
+rs4121823-<b>T</b>,"1 x 10-11",,0.154667,'-,"0.019 unit increase",[0.013-0.025],"SMUG1P1, LIPG","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,18:49617853
+rs2037511-<b>G</b>,"5 x 10-11",,0.833993,'-,"0.017 unit increase",[0.011-0.023],SERPINB11,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,18:63698973
+rs142158911-<b>G</b>,"3 x 10-17",,0.885392,'-,"0.026 unit increase",[0.02-0.032],"SMARCA4, LDLR","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:11079858
+rs187429064-<b>A</b>,"5 x 10-12",,0.988734,'-,"0.065 unit increase",[0.047-0.083],TM6SF2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:19269704
+rs6966728-<b>C</b>,"5 x 10-8",,0.537368,'-,"0.011 unit decrease",[0.0071-0.0149],LINC01004,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,7:104977871
+rs2346264-<b>A</b>,"1 x 10-9",,0.217315,'-,"0.015 unit increase",[0.011-0.019],EXOC4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,7:133851598
+rs28692966-<b>G</b>,"9 x 10-11",,0.747064,'-,"0.015 unit increase",[0.011-0.019],EBF2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,8:26035403
+rs2725371-<b>A</b>,"5 x 10-6",,0.302309,'-,"0.01 unit decrease",[0.0061-0.0139],PURG,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,8:30996517
+rs4738684-<b>A</b>,"7 x 10-9",,0.334478,'-,"0.012 unit decrease",[0.0081-0.0159],"CYP7A1, UBXN2B","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,8:58480714
+rs12056768-<b>T</b>,"3 x 10-29",,0.417091,'-,"0.022 unit increase",[0.018-0.026],LINC00536,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,8:115976302
+rs13284054-<b>T</b>,"5 x 10-9",,0.882273,'-,"0.018 unit increase",[0.012-0.024],ABCA1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,9:104906792
+rs10887718-<b>C</b>,"5 x 10-9",,0.471787,'-,"0.012 unit increase",[0.0081-0.0159],MAT1A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,10:80282868
+rs77532868-<b>C</b>,"3 x 10-8",,0.945958,'-,"0.024 unit increase",[0.016-0.032],GRID1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,10:86321681
+rs4418728-<b>G</b>,"1 x 10-9",,0.548312,'-,"0.012 unit increase",[0.0081-0.0159],"CYP26A1, NIP7P1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,10:93079967
+rs116970203-<b>G</b>,"1 x 10-300",,0.972844,'-,"0.377 unit decrease",[0.37-0.39],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:14855172
+rs117576073-<b>G</b>,"3 x 10-64",,0.987265,'-,"0.148 unit decrease",[0.13-0.17],CYP2R1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:14891027
+rs12794714-<b>G</b>,"1 x 10-300",,0.578197,'-,"0.089 unit decrease",[0.085-0.093],CYP2R1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:14892029
+rs61891388-<b>T</b>,"2 x 10-9",,0.544079,'-,"0.012 unit increase",[0.0081-0.0159],"CD248, TMEM151A","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:66312347
+rs78168201-<b>C</b>,"1 x 10-26",,0.986234,'-,"0.091 unit increase",[0.073-0.109],SHANK2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:71260103
+rs1660839-<b>G</b>,"1 x 10-38",,0.751151,'-,"0.03 unit increase",[0.026-0.034],ACTE1P,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:71383186
+rs12803256-<b>A</b>,"1 x 10-300",,0.223268,'-,"0.105 unit decrease",[0.1-0.11],ACTE1P,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:71421822
+rs72997623-<b>C</b>,"6 x 10-16",,0.915338,'-,"0.029 unit increase",[0.021-0.037],DGAT2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:75777009
+rs1149605-<b>T</b>,"1 x 10-17",,0.829603,'-,"0.022 unit increase",[0.016-0.028],"GUCY2EP, TSKU","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:76774172
+rs964184-<b>G</b>,"2 x 10-50",,0.131624,'-,"0.043 unit decrease",[0.037-0.049],ZPR1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:116778201
+rs613808-<b>A</b>,"1 x 10-33",,0.280007,'-,"0.027 unit decrease",[0.023-0.031],APOA1-AS,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:116840252
+rs2847500-<b>G</b>,"1 x 10-13",,0.876497,'-,"0.022 unit decrease",[0.016-0.028],POU2F3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,11:120243712
+rs12317268-<b>A</b>,"2 x 10-14",,0.848996,'-,"0.021 unit decrease",[0.015-0.027],SLCO1B1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,12:21199607
+rs1800588-<b>?</b>,"5 x 10-35",,NR,'-,"0.0305021 unit decrease",[0.026-0.035],"LIPC, ALDH1A2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,15:58431476
+rs55829990-<b>?</b>,"2 x 10-17",,NR,'-,"0.0181927 unit decrease",[0.014-0.022],"USP3, LINC02568","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,15:63498443
+rs62007299-<b>?</b>,"3 x 10-8",,NR,'-,"0.0124205 unit increase",[0.008-0.0168],PEAK1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,15:77419377
+rs325393-<b>?</b>,"2 x 10-9",,NR,'-,"0.0136497 unit decrease",[0.0092-0.0181],MEF2A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,15:99689055
+rs1684600-<b>?</b>,"2 x 10-8",,NR,'-,"0.0125301 unit decrease",[0.0082-0.0169],"CDIP1, C16orf96","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:4544670
+rs8053548-<b>?</b>,"3 x 10-8",,NR,'-,"0.0157646 unit increase",[0.01-0.021],ZC3H7A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:11795203
+rs77924615-<b>?</b>,"4 x 10-9",,NR,'-,"0.0152475 unit decrease",[0.01-0.02],PDILT,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:20381010
+rs1558902-<b>?</b>,"2 x 10-8",,NR,'-,"0.0115207 unit increase",[0.0075-0.0156],FTO,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:53769662
+rs1800775-<b>?</b>,"9 x 10-18",,NR,'-,"0.0174191 unit decrease",[0.013-0.021],"CETP, HERPUD1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:56961324
+rs4575545-<b>?</b>,"7 x 10-12",,NR,'-,"0.0151655 unit decrease",[0.011-0.02],"MAFTRR, LINC01229","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:79721549
+rs11542462-<b>?</b>,"10 x 10-17",,NR,'-,"0.0247803 unit decrease",[0.019-0.031],SDR42E1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,16:82000205
+rs11867297-<b>?</b>,"1 x 10-10",,NR,'-,"0.0135432 unit increase",[0.0094-0.0176],WIPI1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,17:68437352
+rs61698755-<b>?</b>,"2 x 10-8",,NR,'-,"0.011465 unit increase",[0.0074-0.0155],SLC38A10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,17:81284080
+rs9946771-<b>?</b>,"9 x 10-9",,NR,'-,"0.0233992 unit decrease",[0.015-0.031],DSG1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,18:31338665
+rs77960347-<b>?</b>,"7 x 10-9",,NR,'-,"0.0525688 unit decrease",[0.035-0.07],LIPG,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,18:49583585
+rs10438978-<b>?</b>,"7 x 10-11",,NR,'-,"0.0172243 unit increase",[0.012-0.022],"LIPG, SMUG1P1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,18:49631816
+rs2037511-<b>?</b>,"9 x 10-11",,NR,'-,"0.0176624 unit increase",[0.012-0.023],SERPINB11,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,18:63698973
+rs57631352-<b>?</b>,"2 x 10-8",,NR,'-,"0.0125522 unit decrease",[0.0082-0.0169],STAP2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:4338176
+rs142158911-<b>?</b>,"4 x 10-16",,NR,'-,"0.026284 unit increase",[0.02-0.033],"SMARCA4, LDLR","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:11079858
+rs12462826-<b>?</b>,"4 x 10-10",,NR,'-,"0.0132119 unit decrease",[0.0091-0.0174],"ZNF440, ZNF439","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:11844952
+rs8107974-<b>?</b>,"1 x 10-20",,NR,'-,"0.0355672 unit increase",[0.028-0.043],SUGP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:19277691
+rs429358-<b>?</b>,"1 x 10-15",,NR,'-,"0.0232636 unit decrease",[0.018-0.029],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,"Mapping not available"
+rs7412-<b>?</b>,"6 x 10-17",,NR,'-,"0.0311298 unit increase",[0.024-0.038],APOE,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:44908822
+rs62129966-<b>?</b>,"2 x 10-108",,NR,'-,"0.0611636 unit increase",[0.056-0.067],SULT2A1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:47871693
+rs10426-<b>?</b>,"5 x 10-25",,NR,'-,"0.0255959 unit increase",[0.021-0.03],KLK10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:51014542
+rs67127431-<b>?</b>,"6 x 10-8",,NR,'-,"0.0122947 unit increase",[0.0079-0.0167],ZNF578,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:52516138
+rs35313547-<b>?</b>,"2 x 10-8",,NR,'-,"0.0156789 unit increase",[0.01-0.021],ZNF587B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:57841438
+rs6129648-<b>?</b>,"2 x 10-11",,NR,'-,"0.0140631 unit increase",[0.0099-0.0182],MAFB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:40602478
+rs6123359-<b>?</b>,"7 x 10-26",,NR,'-,"0.0358006 unit increase",[0.029-0.042],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:54098167
+rs6013892-<b>?</b>,"2 x 10-14",,NR,'-,"0.030816 unit increase",[0.023-0.039],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:54107677
+rs2585442-<b>?</b>,"4 x 10-56",,NR,'-,"0.0381893 unit increase",[0.033-0.043],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:54120584
+rs8121940-<b>?</b>,"2 x 10-65",,NR,'-,"0.0435613 unit decrease",[0.039-0.049],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:54125767
+rs2762943-<b>?</b>,"2 x 10-34",,NR,'-,"0.0482547 unit decrease",[0.041-0.056],"PFDN4, CYP24A1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:54174247
+rs1887407-<b>?</b>,"6 x 10-9",,NR,'-,"0.0244575 unit increase",[0.016-0.033],"ZBTB46, ZBTB46-AS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,20:63815216
+rs2229742-<b>?</b>,"5 x 10-14",,NR,'-,"0.0249837 unit decrease",[0.018-0.031],NRIP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,21:14966851
+rs2074735-<b>?</b>,"1 x 10-12",,NR,'-,"0.0292667 unit increase",[0.021-0.037],PLA2G3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,22:31139886
+rs138335-<b>?</b>,"2 x 10-10",,NR,'-,"0.0137663 unit increase",[0.0096-0.018],ST13,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,22:40831082
+rs5770794-<b>?</b>,"2 x 10-9",,NR,'-,"0.0133141 unit decrease",[0.009-0.0176],PPP6R2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,22:50442352
+rs1352846-<b>G</b>,"1 x 10-300",,0.29,'-,"0.2335 unit increase",[0.23-0.24],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,4:71752058
+rs12278461-<b>C</b>,"5 x 10-228",,0.21,'-,"0.1294 unit decrease",[0.12-0.14],NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:71471139
+rs62129966-<b>A</b>,"3 x 10-73",,0.16,'-,"0.0805 unit decrease",[0.072-0.089],SULT2A1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,19:47871693
+rs61147618-<b>T</b>,"3 x 10-202",,0.07,'-,"0.1987 unit increase",[0.19-0.21],"COPB1, RRAS2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:14399672
+chr4:72733096-<b>C</b>,"1 x 10-41",,0.25,'-,"0.0522 unit decrease",[0.045-0.06],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,"Mapping not available"
+rs11249526-<b>T</b>,"1 x 10-25",,0.46,'-,"0.0345 unit increase",[0.028-0.041],UGT2B7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,4:69080934
+rs10832254-<b>G</b>,"1 x 10-320",,0.37,'-,"0.132 unit increase",[0.13-0.14],"RRAS2, COPB1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:14413152
+rs8121940-<b>G</b>,"4 x 10-21",,0.2,'-,"0.0392 unit increase",[0.031-0.047],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,20:54125767
+rs261290-<b>T</b>,"1 x 10-20",,0.34,'-,"0.0323 unit decrease",[0.025-0.039],ALDH1A2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,15:58386521
+rs35980001-<b>GC</b>,"5 x 10-25",,0.21,'-,"0.0421 unit increase",[0.034-0.05],"ALDH1A2, LIPC","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,15:58430392
+rs756350040-<b>T</b>,"9 x 10-20",,0.07,'-,"0.058 unit decrease",[0.045-0.071],HAPLN4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,19:19259532
+rs2144530-<b>C</b>,"5 x 10-53",,0.18,'-,"0.0503 unit increase",[0.044-0.057],SEC23A,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,14:39083280
+rs146128209-<b>G</b>,"2 x 10-52",,0.07,'-,"0.0745 unit decrease",[0.065-0.084],PDE3B,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:14662137
+rs62129966-<b>A</b>,"1 x 10-34",,0.16,'-,"0.0415 unit increase",[0.035-0.048],SULT2A1,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,19:47871693
+rs12278461-<b>C</b>,"1 x 10-28",,0.21,'-,"0.0339 unit decrease",[0.028-0.04],NADSYN1,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:71471139
+rs41301394-<b>T</b>,"10 x 10-24",,0.28,'-,"0.028 unit increase",[0.023-0.033],POR,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,7:75983485
+rs2618515-<b>A</b>,"1 x 10-22",,0.39,'-,"0.0254 unit decrease",[0.02-0.03],SPON1,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:13991410
+rs1950039-<b>T</b>,"2 x 10-16",,0.39,'-,"0.0211 unit increase",[0.016-0.026],SPON1,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:13970612
+chr4:72733096-<b>C</b>,"7 x 10-15",,0.25,'-,"0.0229 unit increase",[0.017-0.029],'-,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,"Mapping not available"
+rs59536295-<b>T</b>,"4 x 10-14",,0.05,'-,"0.0422 unit increase",[0.031-0.053],CALCB,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:14934845
+rs261290-<b>T</b>,"3 x 10-13",,0.34,'-,"0.0193 unit decrease",[0.014-0.024],ALDH1A2,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,15:58386521
+rs72856836-<b>T</b>,"6 x 10-12",,0.06,'-,"0.036 unit increase",[0.026-0.046],CALCB,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:15029636
+rs55683806-<b>A</b>,"2 x 10-11",,0.06,'-,"0.0374 unit decrease",[0.026-0.048],CALCB,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:15016878
+rs11249526-<b>T</b>,"9 x 10-11",,0.46,'-,"0.0163 unit decrease",[0.011-0.021],UGT2B7,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,4:69080934
+rs756350040-<b>T</b>,"2 x 10-10",,0.07,'-,"0.031 unit increase",[0.022-0.04],HAPLN4,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,19:19259532
+rs903911-<b>G</b>,"5 x 10-10",,0.46,'-,"0.0157 unit decrease",[0.011-0.021],RER1,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,1:2395373
+rs12364720-<b>T</b>,"8 x 10-10",,0.05,'-,"0.0346 unit increase",[0.024-0.046],SPON1,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:14223295
+rs1827516-<b>T</b>,"2 x 10-9",,0.16,'-,"0.0207 unit increase",[0.014-0.027],LINC02545,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:13865375
+rs1030431-<b>A</b>,"8 x 10-9",,0.33,'-,"0.0155 unit decrease",[0.01-0.021],UBXN2B,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,8:58399138
+rs2739430-<b>T</b>,"3 x 10-8",,0.42,'-,"0.0141 unit decrease",[0.009-0.0192],KLK10,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,19:51013089
+rs7569755-<b>G</b>,"6 x 10-10",,0.70942,'-,"0.014 unit increase",[0.01-0.018],HTR5BP,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:117890685
+rs1047891-<b>C</b>,"1 x 10-10",,0.684179,'-,"0.014 unit decrease",[0.01-0.018],CPS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:210675783
+rs13060130-<b>C</b>,"10 x 10-7",,0.860311,'-,"0.014 unit decrease",[0.0081-0.0199],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,3:84391376
+rs6782190-<b>G</b>,"2 x 10-20",,0.352488,'-,"0.019 unit increase",[0.015-0.023],CADM2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,3:85590522
+rs9861009-<b>T</b>,"4 x 10-11",,0.272485,'-,"0.015 unit decrease",[0.011-0.019],"TFDP2, ATP1B3","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,3:141935843
+rs78649910-<b>T</b>,"6 x 10-10",,0.893821,'-,"0.02 unit decrease",[0.014-0.026],DOK7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:3480486
+rs4364259-<b>G</b>,"3 x 10-11",,0.797852,'-,"0.016 unit increase",[0.01-0.022],"FGFBP1, HPRT1P1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:15890536
+rs4616820-<b>C</b>,"5 x 10-10",,0.535046,'-,"0.012 unit decrease",[0.0081-0.0159],"REST, SPINK2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:56879315
+rs705117-<b>C</b>,"3 x 10-34",,0.1477,'-,"0.034 unit increase",[0.028-0.04],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:71742398
+rs1352846-<b>A</b>,"1 x 10-300",,0.708567,'-,"0.194 unit decrease",[0.19-0.2],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:71752058
+rs11732896-<b>G</b>,"4 x 10-13",,0.701209,'-,"0.016 unit decrease",[0.012-0.02],HSD17B11,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:87366841
+rs28364331-<b>A</b>,"2 x 10-20",,0.981914,'-,"0.068 unit increase",[0.054-0.082],ADH1A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:99280138
+rs1229984-<b>T</b>,"5 x 10-10",,0.0248886,'-,"0.039 unit increase",[0.027-0.051],ADH1B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:99318162
+rs10070734-<b>T</b>,"5 x 10-7",,0.290469,'-,"0.011 unit decrease",[0.0071-0.0149],LINC00461,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,5:88644208
+rs72834856-<b>T</b>,"5 x 10-10",,0.927936,'-,"0.024 unit decrease",[0.016-0.032],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,6:22801629
+rs78151190-<b>A</b>,"3 x 10-9",,0.871284,'-,"0.017 unit decrease",[0.011-0.023],CARMIL1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,6:25618779
+rs9476310-<b>C</b>,"4 x 10-9",,0.488637,'-,"0.012 unit decrease",[0.0081-0.0159],"RBBP4P3, GAPDHP41","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,6:60799829
+rs2248551-<b>G</b>,"7 x 10-16",,0.834778,'-,"0.021 unit decrease",[0.015-0.027],MED23,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,6:131603549
+rs10085881-<b>T</b>,"2 x 10-11",,0.717815,'-,"0.015 unit decrease",[0.011-0.019],"SP4, DNAH11","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,7:21538342
+rs7784802-<b>A</b>,"1 x 10-11",,0.639009,'-,"0.014 unit increase",[0.01-0.018],ZNF680,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,7:64555001
+rs75741381-<b>C</b>,"1 x 10-7",,0.852362,'-,"0.015 unit decrease",[0.0091-0.0209],"NAT16, VGF","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,7:101166177
+rs6671730-<b>G</b>,"8 x 10-14",,0.565714,'-,"0.015 unit decrease",[0.011-0.019],PEX10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:2407700
+rs35408430-<b>C</b>,"2 x 10-25",,0.657806,'-,"0.022 unit decrease",[0.018-0.026],PADI1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:17233700
+rs11591147-<b>G</b>,"4 x 10-10",,0.981959,'-,"0.046 unit increase",[0.032-0.06],PCSK9,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:55039974
+rs2131925-<b>G</b>,"6 x 10-27",,0.356375,'-,"0.022 unit increase",[0.018-0.026],DOCK7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:62560271
+rs7528419-<b>A</b>,"2 x 10-17",,0.775329,'-,"0.02 unit increase",[0.016-0.024],CELSR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:109274570
+rs140371183-<b>A</b>,"5 x 10-53",,0.967821,'-,"0.085 unit increase",[0.073-0.097],PUDPP2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:152125952
+rs12123821-<b>C</b>,"3 x 10-63",,0.952473,'-,"0.077 unit increase",[0.067-0.087],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:152206676
+rs1933064-<b>G</b>,"3 x 10-15",,0.53039,'-,"0.016 unit increase",[0.012-0.02],FLG-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:152329100
+rs10908419-<b>G</b>,"7 x 10-10",,0.510067,'-,"0.012 unit decrease",[0.0081-0.0159],ADAR,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:154595223
+rs76798800-<b>G</b>,"8 x 10-6",,0.733745,'-,"0.01 unit decrease",[0.0061-0.0139],DCST2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:155022502
+rs11264322-<b>G</b>,"7 x 10-7",,0.570235,'-,"0.01 unit decrease",[0.0061-0.0139],"EFNA3, Y_RNA","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:155115457
+rs10908465-<b>C</b>,"5 x 10-14",,0.732668,'-,"0.017 unit increase",[0.013-0.021],ASH1L,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:155419897
+rs867772-<b>A</b>,"2 x 10-12",,0.315487,'-,"0.015 unit increase",[0.011-0.019],MTARC1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:220799001
+rs6672758-<b>C</b>,"3 x 10-11",,0.199128,'-,"0.016 unit decrease",[0.01-0.022],GALNT2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:230167766
+rs7604788-<b>C</b>,"2 x 10-10",,0.966567,'-,"0.035 unit increase",[0.023-0.047],APOB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:20967152
+rs541041-<b>G</b>,"1 x 10-10",,0.180761,'-,"0.016 unit increase",[0.01-0.022],"TDRD15, APOB","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:21072103
+rs1260326-<b>T</b>,"4 x 10-28",,0.393435,'-,"0.022 unit decrease",[0.018-0.026],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,"Mapping not available"
+rs11127186-<b>T</b>,"2 x 10-8",,0.504205,'-,"0.011 unit increase",[0.0071-0.0149],"PLB1, RNA5SP89","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:28658541
+rs727857-<b>G</b>,"2 x 10-8",,0.388511,'-,"0.012 unit increase",[0.0081-0.0159],LINC01122,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:58754832
+rs2710651-<b>G</b>,"6 x 10-8",,0.471877,'-,"0.011 unit increase",[0.0071-0.0149],EHBP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:62939244
+rs3849374-<b>G</b>,"1 x 10-10",,0.821971,'-,"0.017 unit decrease",[0.011-0.023],NPAS2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:100826935
+rs3814995-<b>C</b>,"3 x 10-9",,0.688405,'-,"0.013 unit decrease",[0.0091-0.0169],NPHS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:35851310
+rs7412-<b>C</b>,"4 x 10-20",,0.917927,'-,"0.033 unit increase",[0.025-0.041],APOE,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:44908822
+rs212100-<b>T</b>,"1 x 10-135",,0.164001,'-,"0.066 unit increase",[0.06-0.072],SULT2A1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:47873738
+rs10426-<b>G</b>,"8 x 10-27",,0.786567,'-,"0.026 unit increase",[0.022-0.03],KLK10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:51014542
+rs8113404-<b>C</b>,"2 x 10-8",,0.695414,'-,"0.012 unit increase",[0.0081-0.0159],"ZNF808, ZNF701","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:52562326
+rs2207132-<b>G</b>,"1 x 10-11",,0.96711,'-,"0.037 unit decrease",[0.025-0.049],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,20:40513876
+rs6123359-<b>A</b>,"7 x 10-26",,0.897775,'-,"0.034 unit increase",[0.028-0.04],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,20:54098167
+rs17216707-<b>T</b>,"6 x 10-48",,0.817316,'-,"0.038 unit decrease",[0.032-0.044],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,20:54115823
+rs2585442-<b>C</b>,"9 x 10-52",,0.759346,'-,"0.035 unit increase",[0.031-0.039],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,20:54120584
+rs2762943-<b>T</b>,"4 x 10-36",,0.076929,'-,"0.046 unit decrease",[0.038-0.054],"PFDN4, CYP24A1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,20:54174247
+rs2229742-<b>G</b>,"1 x 10-14",,0.896549,'-,"0.025 unit decrease",[0.019-0.031],NRIP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,21:14966851
+rs6003456-<b>T</b>,"1 x 10-8",,0.765336,'-,"0.013 unit decrease",[0.0091-0.0169],"IGLC7, RSPH14","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,22:23013933
+rs2074735-<b>G</b>,"8 x 10-12",,0.935904,'-,"0.027 unit increase",[0.019-0.035],PLA2G3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,22:31139886
+rs2494429-<b>?</b>,"3 x 10-8",,NR,'-,"0.0148459 unit increase",[0.0096-0.0201],PEX10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:2407956
+rs35823191-<b>?</b>,"2 x 10-27",,NR,'-,"0.0232636 unit decrease",[0.019-0.027],PADI1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:17233628
+rs1343776-<b>?</b>,"2 x 10-13",,NR,'-,"0.0180762 unit increase",[0.013-0.023],"FOXO6, SCMH1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:41292046
+rs7522116-<b>?</b>,"3 x 10-11",,NR,'-,"0.0136437 unit increase",[0.0096-0.0177],FOXO6,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:41370013
+rs10789481-<b>?</b>,"4 x 10-10",,NR,'-,"0.0127926 unit increase",[0.0088-0.0168],MAST2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:45917911
+rs11207969-<b>?</b>,"7 x 10-23",,NR,'-,"0.0209396 unit increase",[0.017-0.025],USP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:62446080
+rs7528419-<b>?</b>,"8 x 10-19",,NR,'-,"0.0215389 unit increase",[0.017-0.026],CELSR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:109274570
+rs115288876-<b>?</b>,"2 x 10-56",,NR,'-,"0.0788065 unit increase",[0.069-0.089],"NBPF18P, S100A11","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:152027641
+rs12144049-<b>?</b>,"7 x 10-50",,NR,'-,"0.033555 unit increase",[0.029-0.038],"FLG-AS1, LCE5A","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:152468434
+rs61813875-<b>?</b>,"1 x 10-35",,NR,'-,"0.0821291 unit increase",[0.069-0.095],"CRCT1, LCE3E","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:152564174
+rs11264223-<b>?</b>,"4 x 10-9",,NR,'-,"0.0119615 unit decrease",[0.008-0.0159],ADAR,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:154593043
+rs76798800-<b>?</b>,"1 x 10-6",,NR,'-,"0.011124 unit decrease",[0.0066-0.0156],DCST2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:155022502
+rs10908454-<b>?</b>,"2 x 10-7",,NR,'-,"0.0106306 unit decrease",[0.0066-0.0146],"Y_RNA, EFNA3","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:155093940
+rs11264361-<b>?</b>,"8 x 10-14",,NR,'-,"0.0174875 unit increase",[0.013-0.022],"RUSC1-AS1, FDPS","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:155319754
+rs61747728-<b>?</b>,"9 x 10-9",,NR,'-,"0.0303061 unit increase",[0.02-0.041],NPHS2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:179557079
+rs2807834-<b>?</b>,"6 x 10-12",,NR,'-,"0.0150625 unit increase",[0.011-0.019],MTARC1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:220797251
+rs4846913-<b>?</b>,"2 x 10-10",,NR,'-,"0.0131835 unit decrease",[0.0091-0.0173],GALNT2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,1:230158968
+rs1042034-<b>?</b>,"1 x 10-9",,NR,'-,"0.0151254 unit increase",[0.01-0.02],APOB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:21002409
+rs562338-<b>?</b>,"1 x 10-9",,NR,'-,"0.015996 unit increase",[0.011-0.021],"APOB, TDRD15","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:21065449
+rs1260326-<b>?</b>,"2 x 10-21",,NR,'-,"0.0197194 unit decrease",[0.016-0.024],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,"Mapping not available"
+rs11127186-<b>?</b>,"9 x 10-8",,NR,'-,"0.0110334 unit increase",[0.007-0.0151],"PLB1, RNA5SP89","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:28658541
+rs35270497-<b>?</b>,"5 x 10-9",,NR,'-,"0.0156723 unit increase",[0.01-0.021],"RMDN2-AS1, RMDN2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:38032729
+rs727857-<b>?</b>,"9 x 10-9",,NR,'-,"0.0120548 unit increase",[0.0079-0.0162],LINC01122,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:58754832
+rs2710651-<b>?</b>,"1 x 10-8",,NR,'-,"0.0115892 unit increase",[0.0076-0.0156],EHBP1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:62939244
+rs7580771-<b>?</b>,"5 x 10-10",,NR,'-,"0.0165625 unit decrease",[0.011-0.022],NPAS2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:100811657
+rs7569755-<b>?</b>,"1 x 10-9",,NR,'-,"0.0136395 unit increase",[0.0092-0.0181],HTR5BP,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:117890685
+rs1047891-<b>?</b>,"8 x 10-10",,NR,'-,"0.0133984 unit decrease",[0.0091-0.0177],CPS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:210675783
+rs9847248-<b>?</b>,"4 x 10-8",,NR,'-,"0.0123077 unit increase",[0.0079-0.0167],SATB1-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:18763163
+rs1128535-<b>?</b>,"6 x 10-16",,NR,'-,"0.0164131 unit decrease",[0.012-0.02],TRAIP,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:49828959
+rs4481150-<b>?</b>,"2 x 10-11",,NR,'-,"0.0137404 unit increase",[0.0097-0.0177],ITIH3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:52803777
+rs6445969-<b>?</b>,"1 x 10-8",,NR,'-,"0.012587 unit increase",[0.0082-0.0169],"HTD2, RPP14","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:58315609
+rs7652808-<b>?</b>,"1 x 10-23",,NR,'-,"0.0212858 unit increase",[0.017-0.025],CADM2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:85554493
+rs6438900-<b>?</b>,"1 x 10-10",,NR,'-,"0.0150486 unit increase",[0.01-0.02],"SNX4, RNU6-232P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:125429443
+rs34186890-<b>?</b>,"1 x 10-11",,NR,'-,"0.0156853 unit decrease",[0.011-0.02],TFDP2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:142001870
+rs1949633-<b>?</b>,"4 x 10-8",,NR,'-,"0.0114162 unit decrease",[0.0073-0.0155],ARHGEF26-AS1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,3:154041017
+rs78649910-<b>?</b>,"8 x 10-9",,NR,'-,"0.0191377 unit decrease",[0.013-0.026],DOK7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:3480486
+rs4364259-<b>?</b>,"2 x 10-11",,NR,'-,"0.0172408 unit increase",[0.012-0.022],"FGFBP1, HPRT1P1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:15890536
+rs13108245-<b>?</b>,"5 x 10-9",,NR,'-,"0.0122246 unit decrease",[0.0081-0.0163],REST,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:56924039
+rs4337775-<b>?</b>,"2 x 10-6",,NR,'-,"0.0097364 unit increase",[0.0057-0.0137],EPHA5,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:65493859
+rs6422323-<b>?</b>,"5 x 10-51",,NR,'-,"0.03053 unit decrease",[0.027-0.035],UGT2B7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:69087362
+rs62308489-<b>?</b>,"7 x 10-21",,NR,'-,"0.0262407 unit decrease",[0.021-0.032],"UGT2B4, UGT2B24P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:69435734
+rs705117-<b>?</b>,"4 x 10-33",,NR,'-,"0.0342359 unit increase",[0.029-0.04],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:71742398
+rs3755967-<b>?</b>,"1 x 10-300",,NR,'-,"0.206767 unit decrease",[0.2-0.21],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:71743681
+rs2017905-<b>?</b>,"8 x 10-164",,NR,'-,"0.0555741 unit decrease",[0.052-0.06],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:71855628
+rs10021949-<b>?</b>,"9 x 10-144",,NR,'-,"0.0580424 unit increase",[0.054-0.062],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:71898322
+rs6834488-<b>?</b>,"2 x 10-12",,NR,'-,"0.01445 unit decrease",[0.01-0.018],"KLHL8, MIR5705","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:87257767
+rs28364331-<b>?</b>,"8 x 10-17",,NR,'-,"0.0644114 unit increase",[0.049-0.08],ADH1A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:99280138
+rs1614377-<b>?</b>,"2 x 10-9",(conditional),NR,'-,"0.0141241 unit decrease",[0.0095-0.0187],"ADH1B, ADH7","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:99358175
+rs12642639-<b>?</b>,"2 x 10-9",,NR,'-,"0.0152566 unit decrease",[0.01-0.02],"ADH1B, ADH7","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,4:99380084
+rs986649-<b>?</b>,"4 x 10-9",,NR,'-,"0.0128637 unit increase",[0.0086-0.0171],TNFAIP8,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,5:119332355
+rs7712001-<b>?</b>,"7 x 10-9",,NR,'-,"0.011939 unit increase",[0.0079-0.016],HTR4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,5:148641387
+rs72834856-<b>?</b>,"4 x 10-10",,NR,'-,"0.0246218 unit decrease",[0.017-0.032],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,6:22801629
+rs1321247-<b>?</b>,"4 x 10-11",,NR,'-,"0.0221847 unit decrease",[0.016-0.029],SCGN,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,6:25662645
+rs742493-<b>?</b>,"1 x 10-8",,NR,'-,"0.0183528 unit increase",[0.012-0.025],UNC5CL,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,6:41030428
+rs12153819-<b>?</b>,"8 x 10-9",,NR,'-,"0.0178178 unit decrease",[0.012-0.024],UBE3D,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,6:83063330
+rs2245133-<b>?</b>,"8 x 10-15",,NR,'-,"0.0212917 unit decrease",[0.016-0.027],MED23,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,6:131609952
+rs10277163-<b>?</b>,"1 x 10-9",,NR,'-,"0.0143336 unit decrease",[0.0097-0.0189],"DNAH11, SP4","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,7:21529471
+rs2595644-<b>?</b>,"5 x 10-9",,NR,'-,"0.0122625 unit decrease",[0.0082-0.0164],"POLR2J4, UBE2D4","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,7:43940941
+rs7784802-<b>?</b>,"3 x 10-10",,NR,'-,"0.0133202 unit increase",[0.0092-0.0175],ZNF680,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,7:64555001
+rs146128209-<b>G</b>,"2 x 10-55",,0.07,'-,"0.1009 unit increase",[0.088-0.113],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:14662137
+rs2618515-<b>A</b>,"2 x 10-35",,0.39,'-,"0.0422 unit decrease",[0.036-0.049],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:13991410
+rs2144530-<b>C</b>,"4 x 10-55",,0.18,'-,"0.0676 unit increase",[0.059-0.076],SEC23A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,14:39083280
+rs1827516-<b>T</b>,"1 x 10-7",,0.16,'-,"0.0237 unit decrease",[0.015-0.033],LINC02545,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:13865375
+rs12364720-<b>T</b>,"5 x 10-13",,0.05,'-,"0.0535 unit decrease",[0.039-0.068],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:14223295
+rs2739430-<b>T</b>,"9 x 10-7",,0.42,'-,"0.0165 unit decrease",[0.0098-0.0232],KLK10,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,19:51013089
+rs11826529-<b>C</b>,"2 x 10-37",,0.07,'-,"0.0815 unit decrease",[0.069-0.094],"CALCB, INSC","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:15111652
+rs59536295-<b>T</b>,"3 x 10-23",,0.05,'-,"0.0726 unit decrease",[0.058-0.087],CALCB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:14934845
+rs1950039-<b>T</b>,"1 x 10-27",,0.39,'-,"0.0368 unit increase",[0.03-0.043],SPON1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:13970612
+rs903911-<b>G</b>,"3 x 10-18",,0.46,'-,"0.0288 unit increase",[0.022-0.035],RER1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,1:2395373
+rs41301394-<b>T</b>,"5 x 10-16",,0.28,'-,"0.0297 unit decrease",[0.022-0.037],POR,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,7:75983485
+rs55683806-<b>A</b>,"1 x 10-15",,0.06,'-,"0.0583 unit decrease",[0.044-0.073],CALCB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:15016878
+rs72856836-<b>T</b>,"9 x 10-17",,0.06,'-,"0.0572 unit decrease",[0.044-0.071],CALCB,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000619,11:15029636
+rs1352846-<b>G</b>,"1 x 10-300",,0.29,'-,"0.1887 unit increase",[0.18-0.2],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,4:71752058
+rs12278461-<b>C</b>,"2 x 10-144",,0.21,'-,"0.1064 unit decrease",[0.098-0.115],NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,11:71471139
+rs62129966-<b>A</b>,"2 x 10-34",,0.16,'-,"0.0562 unit decrease",[0.047-0.065],SULT2A1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,19:47871693
+rs61147618-<b>T</b>,"5 x 10-31",,0.07,'-,"0.0785 unit increase",[0.065-0.092],"COPB1, RRAS2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,11:14399672
+chr4:72733096-<b>C</b>,"2 x 10-25",,0.25,'-,"0.0416 unit decrease",[0.034-0.049],'-,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,"Mapping not available"
+rs11249526-<b>T</b>,"2 x 10-21",,0.46,'-,"0.0324 unit increase",[0.026-0.039],UGT2B7,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,4:69080934
+rs10832254-<b>G</b>,"8 x 10-20",,0.37,'-,"0.0323 unit increase",[0.025-0.039],"RRAS2, COPB1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,11:14413152
+rs8121940-<b>G</b>,"1 x 10-16",,0.2,'-,"0.0354 unit increase",[0.027-0.044],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,20:54125767
+rs261290-<b>T</b>,"6 x 10-14",,0.34,'-,"0.0269 unit decrease",[0.02-0.034],ALDH1A2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,15:58386521
+rs35980001-<b>GC</b>,"6 x 10-14",,0.21,'-,"0.0316 unit increase",[0.023-0.04],"ALDH1A2, LIPC","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000620,15:58430392
+rs1352846-<b>G</b>,"1 x 10-297",,0.29,'-,"0.1216 unit decrease",[0.12-0.13],GC,"Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,4:71752058
+rs75774690-<b>T</b>,"3 x 10-142",,NR,'-,"0.1427 unit decrease",[0.13-0.15],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71766925
+rs7129781-<b>C</b>,"1 x 10-104",,NR,'-,"0.0974 unit decrease",[0.089-0.106],CYP2R1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14890871
+rs72632971-<b>C</b>,"1 x 10-101",,NR,'-,"0.0993 unit decrease",[0.09-0.108],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14261331
+rs77431995-<b>A</b>,"2 x 10-82",,NR,'-,"0.1169 unit decrease",[0.1-0.13],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71868751
+rs114360759-<b>A</b>,"4 x 10-77",,NR,'-,"0.1313 unit decrease",[0.12-0.15],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71816734
+rs7665177-<b>T</b>,"2 x 10-76",,NR,'-,"0.0872 unit increase",[0.078-0.096],"ADAMTS3, NPFFR2","Vitamin D levels","vitamin D measurement",GCST90019526,4:72189597
+rs116651750-<b>A</b>,"3 x 10-64",,NR,'-,"0.1288 unit decrease",[0.11-0.14],NPFFR2,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71955053
+rs11023379-<b>T</b>,"4 x 10-181",,NR,'-,"0.0702 unit decrease",[0.065-0.075],CALCB,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14908414
+rs11234027-<b>A</b>,"5 x 10-192",,NR,'-,"0.105 unit decrease",[0.098-0.112],NADSYN1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71523061
+rs117471111-<b>C</b>,"8 x 10-42",,NR,'-,"0.061 unit increase",[0.052-0.07],"SULT2A1, BSPH1","Vitamin D levels","vitamin D measurement",GCST90019526,19:47896059
+rs115288876-<b>A</b>,"3 x 10-41",,NR,'-,"0.0829 unit increase",[0.071-0.095],"NBPF18P, S100A11","Vitamin D levels","vitamin D measurement",GCST90019526,1:152027641
+rs12731336-<b>G</b>,"1 x 10-40",,NR,'-,"0.0797 unit decrease",[0.068-0.091],"LCE5A, FLG-AS1","Vitamin D levels","vitamin D measurement",GCST90019526,1:152475622
+rs77149876-<b>C</b>,"2 x 10-40",,NR,'-,"0.1974 unit decrease",[0.17-0.23],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14063584
+rs113209890-<b>T</b>,"1 x 10-45",,NR,'-,"0.0576 unit decrease",[0.05-0.066],ADAMTS3,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72370526
+rs222017-<b>T</b>,"6 x 10-44",,NR,'-,"0.0545 unit decrease",[0.047-0.062],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71769795
+rs78110496-<b>G</b>,"7 x 10-43",,NR,'-,"0.0663 unit decrease",[0.057-0.076],CALCB,"Vitamin D levels","vitamin D measurement",GCST90019526,11:15025856
+rs77317329-<b>G</b>,"2 x 10-48",,NR,'-,"0.1425 unit decrease",[0.12-0.16],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71802445
+rs34562866-<b>A</b>,"7 x 10-63",,NR,'-,"0.0465 unit increase",[0.041-0.052],NPFFR2,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71934738
+rs35887244-<b>C</b>,"9 x 10-57",,NR,'-,"0.0572 unit decrease",[0.05-0.064],SLC4A4,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71589972
+rs34382242-<b>A</b>,"7 x 10-13",,NR,'-,"0.0431 unit increase",[0.031-0.055],"INSC, CALCB","Vitamin D levels","vitamin D measurement",GCST90019526,11:15110504
+rs10832597-<b>A</b>,"8 x 10-13",,NR,'-,"0.055 unit decrease",[0.04-0.07],SOX6,"Vitamin D levels","vitamin D measurement",GCST90019526,11:16362637
+rs75158858-<b>A</b>,"3 x 10-13",,NR,'-,"0.0289 unit decrease",[0.021-0.037],SIK3,"Vitamin D levels","vitamin D measurement",GCST90019526,11:116892113
+rs74620184-<b>A</b>,"3 x 10-13",,NR,'-,"0.0433 unit decrease",[0.032-0.055],"LTA4H, HAL","Vitamin D levels","vitamin D measurement",GCST90019526,12:95997112
+rs10138869-<b>T</b>,"1 x 10-13",,NR,'-,"0.0281 unit increase",[0.021-0.036],"PNN, YTHDF2P1","Vitamin D levels","vitamin D measurement",GCST90019526,14:39211953
+rs6511720-<b>T</b>,"2 x 10-13",,NR,'-,"0.0274 unit increase",[0.02-0.035],LDLR,"Vitamin D levels","vitamin D measurement",GCST90019526,19:11091630
+rs7412-<b>T</b>,"2 x 10-13",,NR,'-,"0.0346 unit increase",[0.025-0.044],APOE,"Vitamin D levels","vitamin D measurement",GCST90019526,19:44908822
+rs8123293-<b>G</b>,"4 x 10-13",,NR,'-,"0.0275 unit increase",[0.02-0.035],"CYP24A1, BCAS1","Vitamin D levels","vitamin D measurement",GCST90019526,20:54102016
+rs2229742-<b>C</b>,"3 x 10-13",,NR,'-,"0.0294 unit decrease",[0.022-0.037],NRIP1,"Vitamin D levels","vitamin D measurement",GCST90019526,21:14966851
+rs12130219-<b>G</b>,"4 x 10-12",,NR,'-,"0.0198 unit decrease",[0.014-0.025],"FLG-AS1, PUDPP2","Vitamin D levels","vitamin D measurement",GCST90019526,1:152189630
+rs139921635-<b>T</b>,"3 x 10-12",,NR,'-,"0.0564 unit increase",[0.041-0.072],ADAMTS3,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72315920
+rs79614727-<b>T</b>,"6 x 10-12",,NR,'-,"0.0319 unit decrease",[0.023-0.041],HNRNPA1P67,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72764653
+rs4756787-<b>A</b>,"9 x 10-12",,NR,'-,"0.0253 unit decrease",[0.018-0.033],SPON1-AS1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14270831
+rs138600084-<b>T</b>,"2 x 10-19",,NR,'-,"0.0907 unit increase",[0.071-0.11],PSMA1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14610961
+rs7125171-<b>C</b>,"2 x 10-19",,NR,'-,"0.0535 unit decrease",[0.042-0.065],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71406417
+rs1715947-<b>A</b>,"3 x 10-18",,NR,'-,"0.0689 unit decrease",[0.053-0.084],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71841622
+rs74652320-<b>T</b>,"4 x 10-18",,NR,'-,"0.0653 unit decrease",[0.051-0.08],ADAMTS3,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72315847
+rs11023156-<b>G</b>,"3 x 10-18",,NR,'-,"0.0277 unit increase",[0.021-0.034],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14234062
+rs2910400-<b>T</b>,"2 x 10-18",,NR,'-,"0.0234 unit increase",[0.018-0.029],"BSPH1, SULT2A1","Vitamin D levels","vitamin D measurement",GCST90019526,19:47890785
+rs3750297-<b>A</b>,"8 x 10-17",,NR,'-,"0.0224 unit decrease",[0.017-0.028],PADI1,"Vitamin D levels","vitamin D measurement",GCST90019526,1:17233181
+rs12128071-<b>A</b>,"1 x 10-17",,NR,'-,"0.042 unit increase",[0.032-0.052],"C2CD4D, RORC","Vitamin D levels","vitamin D measurement",GCST90019526,1:151832539
+rs9050-<b>A</b>,"1 x 10-17",,NR,'-,"0.0421 unit increase",[0.032-0.052],TCHH,"Vitamin D levels","vitamin D measurement",GCST90019526,1:152106838
+rs118104761-<b>C</b>,"6 x 10-17",,NR,'-,"0.0946 unit decrease",[0.072-0.117],NADSYN1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71509936
+rs12754706-<b>G</b>,"8 x 10-16",,NR,'-,"0.0544 unit increase",[0.041-0.068],SNX27,"Vitamin D levels","vitamin D measurement",GCST90019526,1:151617730
+rs138726443-<b>A</b>,"6 x 10-16",,NR,'-,"0.1451 unit increase",[0.11-0.18],"FLG, FLG-AS1","Vitamin D levels","vitamin D measurement",GCST90019526,1:152307547
+rs13108630-<b>C</b>,"3 x 10-55",,NR,'-,"0.0779 unit increase",[0.068-0.088],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71920705
+rs12417557-<b>T</b>,"6 x 10-38",,NR,'-,"0.0606 unit increase",[0.051-0.07],PSMA1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14545992
+rs117576073-<b>T</b>,"1 x 10-38",,NR,'-,"0.1438 unit decrease",[0.12-0.17],CYP2R1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14891027
+rs61884049-<b>T</b>,"4 x 10-35",,NR,'-,"0.0669 unit increase",[0.056-0.077],COPB1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14448052
+rs114204813-<b>G</b>,"9 x 10-31",,NR,'-,"0.0958 unit decrease",[0.08-0.112],"ADAMTS3, NPFFR2","Vitamin D levels","vitamin D measurement",GCST90019526,4:72244855
+rs35245074-<b>C</b>,"7 x 10-36",,NR,'-,"0.0455 unit decrease",[0.038-0.053],SLC4A4,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71510396
+rs3755322-<b>G</b>,"7 x 10-32",,NR,'-,"0.0508 unit decrease",[0.042-0.059],"UGT1A10, UGT1A9, UGT1A6, UGT1A8, UGT1A5, UGT1A7","Vitamin D levels","vitamin D measurement",GCST90019526,2:233713141
+rs10030941-<b>G</b>,"9 x 10-36",,NR,'-,"0.0306 unit increase",[0.026-0.036],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71679815
+rs80165586-<b>T</b>,"4 x 10-36",,NR,'-,"0.0901 unit decrease",[0.076-0.104],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71412796
+rs1792325-<b>T</b>,"9 x 10-31",,NR,'-,"0.0287 unit decrease",[0.024-0.034],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71402258
+rs115790635-<b>C</b>,"7 x 10-30",,NR,'-,"0.0801 unit decrease",[0.066-0.094],SLC4A4,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71552616
+rs113137180-<b>G</b>,"2 x 10-30",,NR,'-,"0.064 unit decrease",[0.053-0.075],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14012481
+rs3135506-<b>C</b>,"7 x 10-29",,NR,'-,"0.0563 unit decrease",[0.046-0.066],APOA5,"Vitamin D levels","vitamin D measurement",GCST90019526,11:116791691
+rs12286616-<b>T</b>,"3 x 10-26",,NR,'-,"0.0581 unit decrease",[0.047-0.069],NADSYN1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71498907
+rs11729800-<b>G</b>,"9 x 10-21",,NR,'-,"0.0458 unit decrease",[0.036-0.055],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72675967
+rs200582479-<b>G</b>,"1 x 10-21",,NR,'-,"0.3158 unit decrease",[0.25-0.38],INSC,"Vitamin D levels","vitamin D measurement",GCST90019526,11:15240445
+rs61937878-<b>T</b>,"1 x 10-20",,NR,'-,"0.1454 unit increase",[0.11-0.18],HAL,"Vitamin D levels","vitamin D measurement",GCST90019526,12:95977953
+rs17216525-<b>T</b>,"5 x 10-20",,NR,'-,"0.0407 unit increase",[0.032-0.049],"PBX4, CILP2","Vitamin D levels","vitamin D measurement",GCST90019526,19:19551411
+rs61816764-<b>T</b>,"3 x 10-19",,NR,'-,"0.0469 unit increase",[0.037-0.057],FLG-AS1,"Vitamin D levels","vitamin D measurement",GCST90019526,1:152336495
+rs10777764-<b>A</b>,"1 x 10-26",,NR,'-,"0.0308 unit increase",[0.025-0.036],HAL,"Vitamin D levels","vitamin D measurement",GCST90019526,12:95977227
+rs117421906-<b>C</b>,"6 x 10-25",,NR,'-,"0.0839 unit increase",[0.068-0.1],PDE3B,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14710816
+rs61878675-<b>T</b>,"3 x 10-25",,NR,'-,"0.0648 unit increase",[0.053-0.077],CALCB,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14955915
+rs1792308-<b>T</b>,"2 x 10-24",,NR,'-,"0.0287 unit increase",[0.023-0.034],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71370014
+rs11855284-<b>C</b>,"7 x 10-23",,NR,'-,"0.0303 unit decrease",[0.024-0.036],ALDH1A2,"Vitamin D levels","vitamin D measurement",GCST90019526,15:58396988
+rs2762943-<b>G</b>,"4 x 10-23",,NR,'-,"0.0459 unit increase",[0.037-0.055],"PFDN4, CYP24A1","Vitamin D levels","vitamin D measurement",GCST90019526,20:54174247
+rs58542926-<b>T</b>,"2 x 10-22",,NR,'-,"0.0448 unit increase",[0.036-0.054],TM6SF2,"Vitamin D levels","vitamin D measurement",GCST90019526,19:19268740
+rs114112733-<b>G</b>,"1 x 10-21",,NR,'-,"0.0587 unit increase",[0.047-0.071],NPFFR2,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72030298
+rs71473824-<b>T</b>,"4 x 10-16",,NR,'-,"0.0552 unit decrease",[0.042-0.069],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71352943
+rs72954301-<b>T</b>,"6 x 10-16",,NR,'-,"0.0332 unit increase",[0.025-0.041],DHCR7,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71451812
+rs780094-<b>C</b>,"3 x 10-15",,NR,'-,"0.0199 unit increase",[0.015-0.025],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,"Mapping not available"
+rs10001501-<b>G</b>,"1 x 10-15",,NR,'-,"0.0258 unit increase",[0.02-0.032],"UGT2A3, UGT2B10","Vitamin D levels","vitamin D measurement",GCST90019526,4:68885967
+rs114795365-<b>T</b>,"1 x 10-15",,NR,'-,"0.0603 unit increase",[0.045-0.075],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71772393
+rs79634051-<b>C</b>,"2 x 10-15",,NR,'-,"0.059 unit increase",[0.044-0.074],PSMA1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14540399
+rs77486197-<b>T</b>,"5 x 10-15",,NR,'-,"0.05 unit decrease",[0.037-0.063],CALCB,"Vitamin D levels","vitamin D measurement",GCST90019526,11:15038196
+rs117714657-<b>A</b>,"8 x 10-15",,NR,'-,"0.0421 unit decrease",[0.032-0.053],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,11:15369956
+rs116869672-<b>G</b>,"5 x 10-15",,NR,'-,"0.0626 unit decrease",[0.047-0.078],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,11:15755083
+rs112255470-<b>G</b>,"2 x 10-14",,NR,'-,"0.0345 unit decrease",[0.026-0.043],RNU4ATAC9P,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72926322
+rs76820037-<b>G</b>,"2 x 10-14",,NR,'-,"0.0544 unit decrease",[0.04-0.068],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14136022
+rs16930278-<b>A</b>,"2 x 10-14",,NR,'-,"0.035 unit decrease",[0.026-0.044],PSMA1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14552006
+rs75393964-<b>G</b>,"6 x 10-14",,NR,'-,"0.0366 unit decrease",[0.027-0.046],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST90019526,11:71383506
+rs11542462-<b>A</b>,"1 x 10-14",,NR,'-,"0.0277 unit decrease",[0.021-0.035],SDR42E1,"Vitamin D levels","vitamin D measurement",GCST90019526,16:82000205
+rs2304130-<b>G</b>,"2 x 10-14",,NR,'-,"0.0328 unit increase",[0.024-0.041],ZNF101,"Vitamin D levels","vitamin D measurement",GCST90019526,19:19678719
+rs6068816-<b>T</b>,"6 x 10-14",,NR,'-,"0.0299 unit decrease",[0.022-0.038],CYP24A1,"Vitamin D levels","vitamin D measurement",GCST90019526,20:54164552
+rs75360998-<b>A</b>,"1 x 10-13",,NR,'-,"0.0676 unit increase",[0.05-0.085],PIP5K1A,"Vitamin D levels","vitamin D measurement",GCST90019526,1:151237816
+rs117688972-<b>C</b>,"3 x 10-19",,NR,'-,"0.0646 unit increase",[0.05-0.079],COPB1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14495913
+rs6659798-<b>C</b>,"2 x 10-13",,NR,'-,"0.0423 unit increase",[0.031-0.053],"LCE1B, LCE1A","Vitamin D levels","vitamin D measurement",GCST90019526,1:152823495
+rs79190329-<b>C</b>,"2 x 10-13",,NR,'-,"0.0282 unit increase",[0.021-0.036],"ADAMTS3, NPFFR2","Vitamin D levels","vitamin D measurement",GCST90019526,4:72185275
+rs2697844-<b>A</b>,"1 x 10-13",,NR,'-,"0.0187 unit increase",[0.014-0.024],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:13978694
+rs12364277-<b>G</b>,"6 x 10-13",,NR,'-,"0.0489 unit increase",[0.036-0.062],"SPON1-AS1, RRAS2","Vitamin D levels","vitamin D measurement",GCST90019526,11:14275265
+rs113255079-<b>T</b>,"2 x 10-13",,NR,'-,"0.0491 unit increase",[0.036-0.062],PDE3B,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14841541
+rs72700982-<b>C</b>,"9 x 10-16",,NR,'-,"0.0479 unit increase",[0.036-0.06],"LCE3D, LCE3E","Vitamin D levels","vitamin D measurement",GCST90019526,1:152568586
+rs7665631-<b>C</b>,"2 x 10-16",,NR,'-,"0.0289 unit decrease",[0.022-0.036],UGT2B24P,"Vitamin D levels","vitamin D measurement",GCST90019526,4:69415696
+rs17409116-<b>C</b>,"9 x 10-16",,NR,'-,"0.063 unit decrease",[0.048-0.078],PDE3B,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14769965
+rs59536295-<b>T</b>,"1 x 10-12",,NR,'-,"0.0378 unit increase",[0.027-0.048],CALCB,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14934845
+rs2266788-<b>A</b>,"4 x 10-12",,NR,'-,"0.0337 unit increase",[0.024-0.043],APOA5,"Vitamin D levels","vitamin D measurement",GCST90019526,11:116789970
+chr4:72897698-<b>C</b>,"3 x 10-11",,NR,'-,"0.1805 unit increase",[0.13-0.23],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,"Mapping not available"
+rs7113429-<b>C</b>,"2 x 10-12",,NR,'-,"0.0488 unit increase",[0.035-0.062],COPB1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14470339
+rs77037130-<b>A</b>,"2 x 10-12",,NR,'-,"0.0714 unit decrease",[0.052-0.091],COPB1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14446249
+rs17670505-<b>C</b>,"2 x 10-11",,NR,'-,"0.0361 unit increase",[0.026-0.047],"LCE1C, LCE1B","Vitamin D levels","vitamin D measurement",GCST90019526,1:152808046
+rs76803094-<b>T</b>,"1 x 10-11",,NR,'-,"0.0571 unit increase",[0.04-0.074],GC,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71755071
+rs115157626-<b>G</b>,"5 x 10-11",,NR,'-,"0.0514 unit increase",[0.036-0.067],NPFFR2,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71969061
+rs150270324-<b>C</b>,"8 x 10-11",,NR,'-,"0.0703 unit decrease",[0.049-0.091],ADAMTS3,"Vitamin D levels","vitamin D measurement",GCST90019526,4:72312458
+rs9939224-<b>G</b>,"3 x 10-11",,NR,'-,"0.0199 unit decrease",[0.014-0.026],CETP,"Vitamin D levels","vitamin D measurement",GCST90019526,16:56968820
+rs7522116-<b>T</b>,"7 x 10-10",,NR,'-,"0.0152 unit decrease",[0.01-0.02],FOXO6,"Vitamin D levels","vitamin D measurement",GCST90019526,1:41370013
+rs79777036-<b>T</b>,"3 x 10-11",,NR,'-,"0.0567 unit increase",[0.04-0.073],"SLC4A4, GC","Vitamin D levels","vitamin D measurement",GCST90019526,4:71655144
+rs117277599-<b>T</b>,"4 x 10-11",,NR,'-,"0.0499 unit increase",[0.035-0.065],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14111886
+rs116918533-<b>C</b>,"3 x 10-11",,NR,'-,"0.0356 unit decrease",[0.025-0.046],COPB1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14456894
+rs4149081-<b>A</b>,"1 x 10-11",,NR,'-,"0.0225 unit decrease",[0.016-0.029],SLCO1B1,"Vitamin D levels","vitamin D measurement",GCST90019526,12:21225087
+rs78886843-<b>T</b>,"1 x 10-11",,NR,'-,"0.0324 unit decrease",[0.023-0.042],FLG-AS1,"Vitamin D levels","vitamin D measurement",GCST90019526,1:152439852
+rs72653954-<b>C</b>,"6 x 10-10",,NR,'-,"0.0598 unit decrease",[0.041-0.079],"ADAMTS3, NPFFR2","Vitamin D levels","vitamin D measurement",GCST90019526,4:72242077
+rs34684879-<b>GT</b>,"3 x 10-10",,NR,'-,"0.0156 unit increase",[0.011-0.02],HTR4,"Vitamin D levels","vitamin D measurement",GCST90019526,5:148638045
+rs72834856-<b>G</b>,"2 x 10-10",,NR,'-,"0.0304 unit decrease",[0.021-0.04],'-,"Vitamin D levels","vitamin D measurement",GCST90019526,6:22801629
+rs34256475-<b>T</b>,"7 x 10-10",,NR,'-,"0.0166 unit increase",[0.011-0.022],"HNRNPCP7, ZNF680","Vitamin D levels","vitamin D measurement",GCST90019526,7:64510229
+rs12363618-<b>T</b>,"2 x 10-10",,NR,'-,"0.0312 unit decrease",[0.022-0.041],SPON1,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14061926
+rs2762934-<b>A</b>,"1 x 10-10",,NR,'-,"0.0203 unit decrease",[0.014-0.027],CYP24A1,"Vitamin D levels","vitamin D measurement",GCST90019526,20:54154722
+rs952275-<b>G</b>,"5 x 10-9",,NR,'-,"0.0143 unit decrease",[0.0096-0.019],APOB,"Vitamin D levels","vitamin D measurement",GCST90019526,2:20998527
+rs74669452-<b>C</b>,"2 x 10-9",,NR,'-,"0.0569 unit decrease",[0.038-0.076],"UGT1A5, UGT1A6, UGT1A7, UGT1A9, UGT1A8, UGT1A10","Vitamin D levels","vitamin D measurement",GCST90019526,2:233715252
+rs73080940-<b>C</b>,"3 x 10-9",,NR,'-,"0.0233 unit decrease",[0.016-0.031],DOK7,"Vitamin D levels","vitamin D measurement",GCST90019526,4:3480569
+rs66850362-<b>C</b>,"7 x 10-10",,NR,'-,"0.0159 unit decrease",[0.011-0.021],"PRXL2A, DYDC2","Vitamin D levels","vitamin D measurement",GCST90019526,10:80404899
+rs56219219-<b>T</b>,"2 x 10-9",,NR,'-,"0.0221 unit increase",[0.015-0.029],"HPRT1P1, FGFBP1","Vitamin D levels","vitamin D measurement",GCST90019526,4:15908424
+rs146246134-<b>T</b>,"6 x 10-10",,NR,'-,"0.1221 unit increase",[0.083-0.161],"MRPL9, OAZ3","Vitamin D levels","vitamin D measurement",GCST90019526,1:151763017
+rs1159714-<b>C</b>,"2 x 10-10",,NR,'-,"0.0239 unit decrease",[0.017-0.031],UGT2A3,"Vitamin D levels","vitamin D measurement",GCST90019526,4:68941500
+rs17763426-<b>G</b>,"1 x 10-10",,NR,'-,"0.0499 unit decrease",[0.035-0.065],SLC4A4,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71596004
+rs1048328-<b>A</b>,"2 x 10-9",,NR,'-,"0.0271 unit increase",[0.018-0.036],KLK11,"Vitamin D levels","vitamin D measurement",GCST90019526,19:51024108
+rs158528-<b>G</b>,"1 x 10-9",,NR,'-,"0.0157 unit increase",[0.011-0.021],"CYP24A1, BCAS1","Vitamin D levels","vitamin D measurement",GCST90019526,20:54105417
+rs79325920-<b>G</b>,"1 x 10-9",,NR,'-,"0.0267 unit decrease",[0.018-0.035],UGT2B7,"Vitamin D levels","vitamin D measurement",GCST90019526,4:69060688
+rs13134261-<b>C</b>,"1 x 10-9",,NR,'-,"0.0394 unit increase",[0.027-0.052],"UGT2B7, UGT2B11","Vitamin D levels","vitamin D measurement",GCST90019526,4:69153615
+rs16846575-<b>C</b>,"2 x 10-9",,NR,'-,"0.0179 unit increase",[0.012-0.024],SLC4A4,"Vitamin D levels","vitamin D measurement",GCST90019526,4:71555992
+rs1988241-<b>A</b>,"1 x 10-9",,NR,'-,"0.0433 unit increase",[0.029-0.057],"ADAMTS3, NPFFR2","Vitamin D levels","vitamin D measurement",GCST90019526,4:72227077
+rs1229984-<b>C</b>,"4 x 10-9",,NR,'-,"0.0469 unit decrease",[0.031-0.063],ADH1B,"Vitamin D levels","vitamin D measurement",GCST90019526,4:99318162
+rs17060499-<b>T</b>,"1 x 10-9",,NR,'-,"0.0194 unit decrease",[0.013-0.026],ENPP3,"Vitamin D levels","vitamin D measurement",GCST90019526,6:131648251
+rs111529171-<b>C</b>,"2 x 10-9",,NR,'-,"0.0178 unit decrease",[0.012-0.024],"DNAH11, SP4","Vitamin D levels","vitamin D measurement",GCST90019526,7:21532314
+rs11600054-<b>A</b>,"2 x 10-9",,NR,'-,"0.0706 unit increase",[0.048-0.094],PDE3B,"Vitamin D levels","vitamin D measurement",GCST90019526,11:14668965
+rs1149596-<b>T</b>,"1 x 10-9",,NR,'-,"0.0198 unit increase",[0.013-0.026],"GUCY2EP, TSKU","Vitamin D levels","vitamin D measurement",GCST90019526,11:76758049
+rs4938362-<b>A</b>,"2 x 10-9",,NR,'-,"0.0203 unit decrease",[0.014-0.027],PCSK7,"Vitamin D levels","vitamin D measurement",GCST90019526,11:117229313
+rs62011302-<b>A</b>,"2 x 10-9",,NR,'-,"0.0202 unit decrease",[0.014-0.027],USP3,"Vitamin D levels","vitamin D measurement",GCST90019526,15:63521544
+rs11642757-<b>A</b>,"4 x 10-9",,NR,'-,"0.0152 unit decrease",[0.01-0.02],"LINC01229, MAFTRR","Vitamin D levels","vitamin D measurement",GCST90019526,16:79719570
+rs71352239-<b>T</b>,"3 x 10-9",,NR,'-,"0.0164 unit decrease",[0.011-0.022],"APOC1P1, APOC1","Vitamin D levels","vitamin D measurement",GCST90019526,19:44926286
+rs4841132-<b>?</b>,"2 x 10-9",(conditional),NR,'-,"0.0216774 unit decrease",[0.015-0.029],"RNU6-526P, RNU6-1151P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,8:9326086
+rs34290760-<b>C</b>,"4 x 10-8",,0.970888,'-,"0.032 unit decrease",[0.02-0.044],"RNU6-526P, RNU6-1151P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,8:9327669
+rs804281-<b>A</b>,"2 x 10-14",,0.416395,'-,"0.015 unit decrease",[0.011-0.019],GATA4,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,8:11754356
+rs11606-<b>?</b>,"5 x 10-8",,NR,'-,"0.0113514 unit increase",[0.0073-0.0154],CNOT3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,19:54154365
+rs61147618-<b>T</b>,"1 x 10-92",,0.07,'-,"0.1018 unit decrease",[0.092-0.112],"COPB1, RRAS2","Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:14399672
+rs11826529-<b>C</b>,"9 x 10-20",,0.07,'-,"0.0441 unit increase",[0.035-0.054],"CALCB, INSC","Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:15111652
+rs35980001-<b>GC</b>,"10 x 10-10",,0.21,'-,"0.019 unit decrease",[0.013-0.025],"ALDH1A2, LIPC","Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,15:58430392
+rs8121940-<b>G</b>,"9 x 10-9",,0.2,'-,"0.0181 unit decrease",[0.012-0.024],"CYP24A1, BCAS1","Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,20:54125767
+chr7:75694345-<b>?</b>,"2 x 10-9",,NR,'-,"5.967 z score decrease",'-,'-,"Serum 25-Hydroxyvitamin D levels x season interaction","seasonality measurement, vitamin D measurement",GCST90000622,"Mapping not available"
+rs10766194-<b>?</b>,"1 x 10-98",,NR,'-,"21.08 z score decrease",'-,PDE3B,"Serum 25-Hydroxyvitamin D levels x season interaction","seasonality measurement, vitamin D measurement",GCST90000622,11:14842668
+rs112170428-<b>?</b>,"3 x 10-27",,NR,'-,"10.81 z score decrease",'-,"RRAS2, COPB1","Serum 25-Hydroxyvitamin D levels x season interaction","seasonality measurement, vitamin D measurement",GCST90000622,11:14435383
+rs28607847-<b>?</b>,"2 x 10-8",,NR,'-,"5.661 z score decrease",'-,MEGF11,"Serum 25-Hydroxyvitamin D levels x season interaction","seasonality measurement, vitamin D measurement",GCST90000622,15:65992575
+rs8022510-<b>?</b>,"3 x 10-12",,NR,'-,"6.985 z score decrease",'-,SEC23A,"Serum 25-Hydroxyvitamin D levels x season interaction","seasonality measurement, vitamin D measurement",GCST90000622,14:39062788
+rs2012736-<b>C</b>,"1 x 10-40",,0.919186,'-,"0.048 unit decrease",[0.04-0.056],"UGT1A6, UGT1A10, UGT1A7, UGT1A5, UGT1A8, UGT1A9","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,2:233713733
+rs35057908-<b>A</b>,"4 x 10-8",,0.568691,'-,"0.011 unit increase",[0.0071-0.0149],"UGT2B29P, TMPRSS11E","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,4:68506364
+rs31612-<b>T</b>,"10 x 10-8",,0.825562,'-,"0.014 unit decrease",[0.0081-0.0199],"KRT18P42, MAN2A1-DT","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,5:109660942
+rs9490317-<b>T</b>,"3 x 10-8",,0.554106,'-,"0.011 unit increase",[0.0071-0.0149],"RNU4-35P, RNU4-76P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,6:121538353
+rs1352846-<b>A</b>,"1 x 10-300",,0.708567,'-,"0.193471 unit increase",[0.19-0.2],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000614,4:71752058
+rs116970203-<b>G</b>,"1 x 10-300",(EA),0.972844,'-,"0.376873 unit increase",[0.36-0.39],PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000614,11:14855172
+rs12794714-<b>G</b>,"1 x 10-300",(EA),0.578197,'-,"0.0878964 unit increase",[0.084-0.092],CYP2R1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000614,11:14892029
+rs61816761-<b>G</b>,"3 x 10-53",,0.984074,'-,"0.122 unit increase",[0.11-0.14],"FLG, FLG-AS1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,1:152313385
+rs11606-<b>C</b>,"2 x 10-8",,0.574838,'-,"0.011 unit increase",[0.0071-0.0149],CNOT3,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000616,19:54154365
+rs3732220-<b>?</b>,"1 x 10-39",,NR,'-,"0.0478406 unit decrease",[0.041-0.055],"UGT1A10, UGT1A5, UGT1A8, UGT1A7, UGT1A9, UGT1A6","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,2:233718402
+rs9375037-<b>?</b>,"1 x 10-8",,NR,'-,"0.0117059 unit increase",[0.0077-0.0157],"RNU4-76P, RNU4-35P","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST90000618,6:121535648
+rs10832254-<b>G</b>,"1 x 10-300",,0.37,'-,'-,[0.0-0.0],"RRAS2, COPB1","Serum 25-Hydroxyvitamin D level variance","vitamin D measurement",GCST90000621,11:14413152
+rs843005-<b>T</b>,"1 x 10-12",(AA),0.42,'-,"7.1 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71750610
+rs79666294-<b>C</b>,"3 x 10-8",(AA),0.99,'-,"5.6 (z-score) increase",'-,KIF4B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,5:155047146
+rs1526692-<b>A</b>,"3 x 10-10",(Hispanic),0.69,'-,"6.3 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71713007
+rs2282679-<b>T</b>,"4 x 10-63",,0.77,'-,"16.628 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71742666
+rs7938885-<b>C</b>,"5 x 10-16",,0.63,'-,"8.125 (z-score) decrease",'-,NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,11:71458997
+rs719700-<b>T</b>,"3 x 10-8",,0.96,'-,"5.555 (z-score) increase",'-,"U6, ARID2","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,12:45635426
+rs1410656-<b>C</b>,"4 x 10-9",,0.94,'-,"5.896 (z-score) decrease",'-,HTR2A,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,13:46968386
+rs2282679-<b>T</b>,"1 x 10-6",(Hispanic),0.8,'-,"4.9 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71742666
+rs7041-<b>C</b>,"1 x 10-7",(AA),0.17,'-,"5.3 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71752617
+rs1402155-<b>G</b>,"3 x 10-6",(Hispanic),0.67,'-,"4.7 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71840191
+rs2282679-<b>T</b>,"4 x 10-62","(AA + Hispanic)",NR,'-,'-,'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71742666
+rs12800438-<b>A</b>,"1 x 10-16","(AA + Hispanic)",NR,'-,'-,'-,NADSYN1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,11:71459957
+rs10741657-<b>A</b>,"2 x 10-6","(AA + Hispanic)",NR,'-,'-,'-,"CALCB, CYP2R1","Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,11:14893332
+rs13107347-<b>C</b>,"8 x 10-10",,0.33,'-,"6.145 (z-score) increase",'-,NPFFR2,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:72109031
+rs17767445-<b>A</b>,"6 x 10-13",,0.15,'-,"7.198 (z-score) increase",'-,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005782,4:71879550
+rs964184-<b>?</b>,"7 x 10-9","(Vitamin E alpha tocopherol)",NR,'-,'-,'-,ZPR1,"Vitamin levels","vitamin measurement, alpha-tocopherol measurement",GCST009167,11:116778201
+rs58542926-<b>?</b>,"1 x 10-8","(Vitamin E alpha tocopherol)",NR,'-,'-,'-,TM6SF2,"Vitamin levels","vitamin measurement, alpha-tocopherol measurement",GCST009167,19:19268740
+rs4654932-<b>?</b>,"7 x 10-9","(Vitamin B6)",NR,'-,'-,'-,NBPF2P,"Vitamin levels","vitamin measurement, vitamin B6 measurement",GCST009167,1:21425060
+rs2282679-<b>T</b>,"1 x 10-187",,NR,'-,'-,'-,GC,"Vitamin D levels (dietary vitamin D intake interaction)","vitamin D measurement, vitamin D dietary intake measurement",GCST005366,4:71742666
+rs4944062-<b>T</b>,"2 x 10-31",,NR,'-,'-,'-,NADSYN1,"Vitamin D levels (dietary vitamin D intake interaction)","vitamin D measurement, vitamin D dietary intake measurement",GCST005366,11:71476248
+rs10741657-<b>A</b>,"2 x 10-38",,NR,'-,'-,'-,"CALCB, CYP2R1","Vitamin D levels (dietary vitamin D intake interaction)","vitamin D measurement, vitamin D dietary intake measurement",GCST005366,11:14893332
+rs17216707-<b>T</b>,"1 x 10-14",,NR,'-,'-,'-,"CYP24A1, BCAS1","Vitamin D levels (dietary vitamin D intake interaction)","vitamin D measurement, vitamin D dietary intake measurement",GCST005366,20:54115823
+rs10745742-<b>T</b>,"1 x 10-7",,NR,'-,'-,'-,AMDHD1,"Vitamin D levels (dietary vitamin D intake interaction)","vitamin D measurement, vitamin D dietary intake measurement",GCST005366,12:95964751
+rs10745742-<b>T</b>,"2 x 10-20",,NR,'-,"0.019 unit increase",[0.015-0.023],AMDHD1,"Vitamin D levels","vitamin D measurement",GCST005367,12:95964751
+rs3755967-<b>T</b>,"5 x 10-343",,NR,'-,"0.089 unit decrease",[0.084-0.094],GC,"Vitamin D levels","vitamin D measurement",GCST005367,4:71743681
+rs12785878-<b>T</b>,"4 x 10-62",,NR,'-,"0.036 unit increase",[0.032-0.04],NADSYN1,"Vitamin D levels","vitamin D measurement",GCST005367,11:71456403
+rs8018720-<b>C</b>,"1 x 10-11",,NR,'-,"0.019 unit decrease",[0.014-0.024],SEC23A,"Vitamin D levels","vitamin D measurement",GCST005367,14:39086981
+rs10741657-<b>A</b>,"2 x 10-46",,NR,'-,"0.031 unit increase",[0.027-0.035],"CALCB, CYP2R1","Vitamin D levels","vitamin D measurement",GCST005367,11:14893332
+rs17216707-<b>T</b>,"8 x 10-23",,NR,'-,"0.026 unit increase",[0.021-0.031],"CYP24A1, BCAS1","Vitamin D levels","vitamin D measurement",GCST005367,20:54115823
+rs982393-<b>?</b>,"8 x 10-8","(Plasma folate)",NR,'-,'-,'-,FIGN,"Folate pathway vitamin levels","vitamin measurement",GCST000483,2:163634019
+rs12272004-<b>A</b>,"8 x 10-10",(alpha-tocopherol),0.07,'-,"0.07 umol/L increase",[0.049-0.095],"LINC02702, BUD13","Carotenoid and tocopherol levels","tocopherol measurement",GCST000324,11:116733008
+rs10882272-<b>C</b>,"7 x 10-15",,0.35,'-,"0.03 ug/L decrease",[0.02-0.04],FFAR4,"Retinol levels","vitamin A measurement",GCST001216,10:93588425
+rs1667255-<b>C</b>,"6 x 10-14",,0.31,'-,"0.03 ug/L increase",[0.02-0.04],"B4GALT6, TTR","Retinol levels","vitamin A measurement",GCST001216,18:31607316
+rs153734-<b>T</b>,"7 x 10-6",(folate),0.84,'-,"0.29 ng/ml increase",[0.13-0.45],"PRICKLE2-AS1, PRICKLE2","Folate pathway vitamin levels","vitamin B measurement",GCST000358,3:64092333
+rs4800180-<b>?</b>,"1 x 10-6",(niacinamide),NR,'-,"0.20322624 unit increase",[0.12-0.28],OSBPL1A,"Metabolite levels","niacinamide measurement",GCST009391,18:24206524
+rs12946859-<b>?</b>,"2 x 10-6",(niacinamide),NR,'-,"0.26638705 unit decrease",[0.16-0.38],RBFOX3,"Metabolite levels","niacinamide measurement",GCST009391,17:79331700
+rs10912537-<b>?</b>,"2 x 10-6",(niacinamide),NR,'-,"0.20030956 unit decrease",[0.12-0.28],FMO2,"Metabolite levels","niacinamide measurement",GCST009391,1:171197393
+rs12633712-<b>?</b>,"5 x 10-6",(niacinamide),NR,'-,"0.16743188 unit increase",[0.095-0.239],"NAALADL2, NAALADL2-AS2","Metabolite levels","niacinamide measurement",GCST009391,3:175253727
+rs351779-<b>?</b>,"6 x 10-6",(niacinamide),NR,'-,"0.14932947 unit increase",[0.085-0.214],ZNF395,"Metabolite levels","niacinamide measurement",GCST009391,8:28346747
+rs4358672-<b>?</b>,"7 x 10-6",(niacinamide),NR,'-,"0.22758271 unit decrease",[0.13-0.33],LINC01622,"Metabolite levels","niacinamide measurement",GCST009391,6:890039
+rs964184-<b>G</b>,"6 x 10-8","(Model 1)",0.15,'-,"0.23 unit increase",[0.15-0.31],ZPR1,"Circulating phylloquinone levels","vitamin K measurement",GCST002653,11:116778201
+rs4645543-<b>T</b>,"2 x 10-7","(Model 1)",0.04,'-,"0.42 unit decrease",[0.26-0.58],'-,"Circulating phylloquinone levels","vitamin K measurement",GCST002653,8:139483999
+rs2108622-<b>T</b>,"3 x 10-7","(Model 2)",0.3,'-,"0.16 unit increase",[0.10-0.22],CYP4F2,"Circulating phylloquinone levels","vitamin K measurement",GCST002653,19:15879621
+rs4852146-<b>C</b>,"1 x 10-7","(Model 2)",0.33,'-,"0.19 unit increase",[0.11-0.27],CTNNA2,"Circulating phylloquinone levels","vitamin K measurement",GCST002653,2:79397862
+rs6862909-<b>T</b>,"1 x 10-7","(Model 2)",0.01,'-,"0.96 unit decrease",[0.61-1.31],"RNU2-49P, CDO1","Circulating phylloquinone levels","vitamin K measurement",GCST002653,5:115784737
+rs2387326-<b>?</b>,"1 x 10-6",(VitKPhylloq),NR,'-,'-,'-,"LINC01163, MKI67","Select biomarker traits","vitamin K measurement",GCST000083,10:128135192
+rs602662-<b>?</b>,"2 x 10-15","(Plasma Vitamin B12)",0.44,'-,"0.07 unit decrease",[0.050-0.090],FUT2,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000483,19:48703728
+rs1801222-<b>?</b>,"3 x 10-9","(Plasma Vitamin B12)",0.28,'-,"0.05 unit decrease",[0.030-0.070],CUBN,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000483,10:17114152
+rs526934-<b>?</b>,"2 x 10-10","(Plasma Vitamin B12)",0.27,'-,"0.05 unit decrease",[0.030-0.070],TCN1,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000483,11:59866020
+rs9473555-<b>?</b>,"5 x 10-8","(Plasma Vitamin B12)",0.35,'-,"0.04 unit decrease",[0.020-0.060],MMUT,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000483,6:49441774
+ALPL-<b>?</b>,"7 x 10-16",,NR,'-,'-,'-,'-,"Pyridoxal 5'-phosphate levels","vitamin B6 measurement",GCST009471,"Mapping not available"
+rs61295180-<b>?</b>,"6 x 10-8",,NR,'-,'-,'-,"OSBPL3, CYCS","Pyridoxal 5'-phosphate levels","vitamin B6 measurement",GCST009471,7:25037400
+ALPL-<b>?</b>,"1 x 10-8",,NR,'-,'-,'-,'-,"Plasma pyridoxal phosphate to pyridoxal ratio","vitamin B6 measurement",GCST009470,"Mapping not available"
+rs942813-<b>?</b>,"4 x 10-8",,NR,'-,'-,'-,PYROXD2,"Plasma pyridoxal phosphate to pyridoxal ratio","vitamin B6 measurement",GCST009470,10:98393851
+rs4765900-<b>?</b>,"5 x 10-8",,NR,'-,'-,'-,CACNA1C,"Pyridoxal levels","vitamin B6 measurement",GCST009469,12:2163155
+rs4654748-<b>?</b>,"4 x 10-11","(Plasma PLP)",0.48,'-,"0.1 unit decrease",[0.080-0.120],NBPF3,"Folate pathway vitamin levels","vitamin B6 measurement",GCST000483,1:21459575
+rs1256335-<b>?</b>,"1 x 10-15","(Plasma PLP)",0.21,'-,"0.14 unit decrease",[0.10-0.18],ALPL,"Folate pathway vitamin levels","vitamin B6 measurement",GCST000483,1:21563893
+rs11254363-<b>A</b>,"1 x 10-6","(vitamin B12)",0.70,'-,"21.49 pg/mL decrease",[7.71-35.27],CUBN,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000358,10:17088694
+rs602662-<b>A</b>,"3 x 10-20","(vitamin B12)",0.53,'-,"49.77 pg/ml increase",[37.09-62.45],FUT2,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000358,19:48703728
+rs526934-<b>A</b>,"2 x 10-6","(vitamin B12)",0.67,'-,"27.62 pg/mL increase",[11.65-43.59],TCN1,"Folate pathway vitamin levels","vitamin B12 measurement",GCST000358,11:59866020
+rs1772719-<b>?</b>,"2 x 10-16",,NR,'-,"0.06 unit decrease",[0.040-0.080],ALPL,"Pyridoxal 5'-phosphate levels","vitamin B6 measurement",GCST006799,1:21577881
+rs4654748-<b>C</b>,"8 x 10-18","(vitamin B6)",0.50,'-,"1.45 ng/ml decrease",[0.90-2.00],NBPF3,"Folate pathway vitamin levels","vitamin B6 measurement",GCST000358,1:21459575
+rs1801222-<b>A</b>,"2 x 10-13","(Vitamin B12)",0.316,'-,"0.218 unit decrease",[NR],CUBN,"Vitamin B levels in ischemic stroke","stroke, vitamin B12 measurement",GCST002559,10:17114152
+rs34324219-<b>A</b>,"5 x 10-11","(Vitamin B12)",0.104,'-,"0.292 unit decrease",[NR],TCN1,"Vitamin B levels in ischemic stroke","stroke, vitamin B12 measurement",GCST002559,11:59855905
+rs2287921-<b>C</b>,"9 x 10-7","(Vitamin B12)",0.471,'-,"0.14 unit increase",[NR],RASIP1,"Vitamin B levels in ischemic stroke","stroke, vitamin B12 measurement",GCST002559,19:48725015
+rs492602-<b>C</b>,"2 x 10-7","(Vitamin B12)",0.482,'-,"0.143 unit increase",[NR],FUT2,"Vitamin B levels in ischemic stroke","stroke, vitamin B12 measurement",GCST002559,19:48703160
+rs12118362-<b>A</b>,"2 x 10-7","(Vitamin B6)",0.213,'-,"0.172 unit increase",[NR],NBPF3,"Vitamin B levels in ischemic stroke","stroke, vitamin B6 measurement",GCST002559,1:21445504
+rs1697421-<b>T</b>,"7 x 10-10","(Vitamin B6)",0.471,'-,"0.173 unit increase",[NR],"NBPF3, ALPL","Vitamin B levels in ischemic stroke","stroke, vitamin B6 measurement",GCST002559,1:21496799
+rs2267739-<b>G</b>,"1 x 10-6","(Vitamin B6)",0.153,'-,"0.241 unit decrease",[NR],ADCYAP1R1,"Vitamin B levels in ischemic stroke","stroke, vitamin B6 measurement",GCST002559,7:31097283
+rs4751058-<b>A</b>,"5 x 10-6","(Age 6)",0.16,'-,"1.06 unit increase",[1.04-1.09],'-,"Vitamin D levels","vitamin D measurement",GCST002602,10:129075861
+rs12868495-<b>A</b>,"6 x 10-7","(Age 6)",0.03,'-,"1.22 unit increase",[1.13-1.32],VDAC1P12,"Vitamin D levels","vitamin D measurement",GCST002602,13:34067425
+rs4588-<b>A</b>,"5 x 10-38",,NR,'-,"3.5 ng/mL decrease",[3.0-4.1],GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005729,4:71752606
+rs117913124-<b>A</b>,"1 x 10-10",,NR,'-,"5.1 ng/mL decrease",[3.6-6.7],CYP2R1,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST005729,11:14879385
+rs1155563-<b>C</b>,"1 x 10-11",,0.2041,'-,"9.49 unit decrease",NR,GC,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST009671,4:71777771
+rs10832310-<b>G</b>,"4 x 10-11",,0.373201,'-,"7.52 unit decrease",NR,PDE3B,"Serum 25-Hydroxyvitamin D levels","vitamin D measurement",GCST009671,11:14856896
+rs6730714-<b>A</b>,"1 x 10-6","(Age 6)",0.04,'-,"1.18 unit increase",[1.10-1.26],"BCL11A, PAX3","Vitamin D levels","vitamin D measurement",GCST002602,2:222184302
+rs156299-<b>G</b>,"1 x 10-6","(Age 6)",0.43,'-,"0.95 unit increase",[0.93-0.97],"NPY, RNA5SP228","Vitamin D levels","vitamin D measurement",GCST002602,7:24185113
+rs10508196-<b>A</b>,"2 x 10-6","(Age 6)",0.11,'-,"1.08 unit increase",[1.05-1.12],"FAM155A, FAM155A-IT1","Vitamin D levels","vitamin D measurement",GCST002602,13:107827618
+rs2302190-<b>C</b>,"1 x 10-6","(Age 6)",0.2,'-,"0.94 unit increase",[0.92-0.96],MTMR4,"Vitamin D levels","vitamin D measurement",GCST002602,17:58507147
+rs12287212-<b>A</b>,"2 x 10-8","(Age 14)",0.35,'-,"0.94 unit increase",[0.92-0.96],"COPB1, RRAS2","Vitamin D levels","vitamin D measurement",GCST002602,11:14428315
+rs17467825-<b>A</b>,"4 x 10-9","(Age 6)",0.70,'-,"1.07 unit increase",[1.05-1.09],GC,"Vitamin D levels","vitamin D measurement",GCST002602,4:71739800
+rs1007392-<b>A</b>,"4 x 10-8","(Age 6)",0.59,'-,"1.06 unit increase",[1.04-1.08],PDE3B,"Vitamin D levels","vitamin D measurement",GCST002602,11:14753045
+rs1155563-<b>C</b>,"4 x 10-9","(Age 14)",0.28,'-,"0.94 unit increase",[0.92-0.96],GC,"Vitamin D levels","vitamin D measurement",GCST002602,4:71777771
+rs11023332-<b>C</b>,"2 x 10-10","(Age 14)",0.42,'-,"0.94 unit increase",[0.92-0.96],PDE3B,"Vitamin D levels","vitamin D measurement",GCST002602,11:14762564
+rs10485165-<b>?</b>,"1 x 10-6",(VitD25OH),NR,'-,'-,'-,'-,"Select biomarker traits","vitamin D measurement",GCST000083,6:88403098
+rs10507577-<b>?</b>,"3 x 10-6",(VitD25OH),NR,'-,'-,'-,ZNF646P1,"Select biomarker traits","vitamin D measurement",GCST000083,13:53393956
+rs2282679-<b>C</b>,"2 x 10-49",,0.26,'-,"0.38 unit decrease",[0.32-0.44],GC,"Vitamin D levels","vitamin D measurement",GCST000664,4:71742666
+rs3829251-<b>A</b>,"3 x 10-9",,0.19,'-,"0.18 unit decrease",[0.12-0.24],NADSYN1,"Vitamin D levels","vitamin D measurement",GCST000664,11:71483513
+rs2060793-<b>A</b>,"3 x 10-17",,0.41,'-,"0.25 unit increase",[0.15-0.35],"CYP2R1, CALCB","Vitamin D levels","vitamin D measurement",GCST000664,11:14893764
+rs117865811-<b>G</b>,"2 x 10-27",,0.013,'-,"0.35 nmol/L decrease",[0.29-0.41],SPON1,"Vitamin D levels","vitamin D measurement",GCST004726,11:14180763
+rs182244780-<b>A</b>,"7 x 10-33",,0.013,'-,"0.39 nmol/L decrease",[0.33-0.45],RRAS2,"Vitamin D levels","vitamin D measurement",GCST004726,11:14363985
+rs55665837-<b>T</b>,"8 x 10-31",,0.373,'-,"0.08 nmol/L decrease",[0.06-0.1],COPB1,"Vitamin D levels","vitamin D measurement",GCST004726,11:14473503
+rs116970203-<b>A</b>,"2 x 10-90",,0.025,'-,"0.43 nmol/L decrease",[0.39-0.47],PDE3B,"Vitamin D levels","vitamin D measurement",GCST004726,11:14855172
+rs117300835-<b>A</b>,"3 x 10-32",,0.015,'-,"0.36 nmol/L decrease",[0.3-0.42],"CALCB, INSC","Vitamin D levels","vitamin D measurement",GCST004726,11:15097429
+rs4423214-<b>T</b>,"1 x 10-40",,0.697,'-,"0.1 nmol/L increase",[0.08-0.12],NADSYN1,"Vitamin D levels","vitamin D measurement",GCST004726,11:71462208
+rs3819817-<b>T</b>,"3 x 10-10",,0.21,'-,"0.04 nmol/L increase",[0.02-0.06],HAL,"Vitamin D levels","vitamin D measurement",GCST004726,12:95984993
+rs2277458-<b>G</b>,"6 x 10-9",,0.786,'-,"0.05 nmol/L decrease",[0.03-0.07],"GEMIN2, SEC23A","Vitamin D levels","vitamin D measurement",GCST004726,14:39114277
+rs148189294-<b>A</b>,"2 x 10-28",,0.038,'-,"0.22 nmol/L decrease",[0.18-0.26],SLC4A4,"Vitamin D levels","vitamin D measurement",GCST004726,4:71575200
+rs4588-<b>T</b>,"2 x 10-263",,0.283,'-,"0.25 nmol/L decrease",[0.23-0.27],GC,"Vitamin D levels","vitamin D measurement",GCST004726,4:71752606
+rs1607741-<b>C</b>,"1 x 10-58",,0.684,'-,"0.12 nmol/L increase",[0.1-0.14],GC,"Vitamin D levels","vitamin D measurement",GCST004726,4:71853316
+rs79761689-<b>C</b>,"3 x 10-30",,0.049,'-,"0.19 nmol/L decrease",[0.15-0.23],NPFFR2,"Vitamin D levels","vitamin D measurement",GCST004726,4:72005565
+rs138485827-<b>T</b>,"2 x 10-21",,0.072,'-,"0.13 nmol/L decrease",[0.11-0.15],NPFFR2,"Vitamin D levels","vitamin D measurement",GCST004726,4:72166226
+rs78862524-<b>A</b>,"5 x 10-20",,0.053,'-,"0.16 nmol/L decrease",[0.12-0.2],ADAMTS3,"Vitamin D levels","vitamin D measurement",GCST004726,4:72305473
+rs185378533-<b>G</b>,"2 x 10-9",,0.461,'-,"0.07 nmol/L increase",[0.05-0.09],ACTE1P,"Vitamin D levels","vitamin D measurement",GCST004726,11:71422087
+rs6127099-<b>T</b>,"2 x 10-17",,0.288,'-,"0.06 nmol/L decrease",[0.04-0.08],"CYP24A1, BCAS1","Vitamin D levels","vitamin D measurement",GCST004726,20:54114863
