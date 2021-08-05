@@ -1,0 +1,6 @@
+﻿ID,Imprinted Gene,Gene,Paternal/Maternal,Variant and risk allele,P-value,P-value annotation,RAF,OR,Beta,CI,Mapped gene,Reported trait,Trait(s),Study accession,Location,Grouping
+125,DGCR6,DGCR6,Random,rs419208-<b>A</b>,6 x 10-10,,0.623018,'-,0.014473308 unit increase,[0.0099-0.0191],"DGCR6, AC007326.4",High light scatter reticulocyte count,reticulocyte count,GCST90002385,22:18909779,Blood
+126,DGCR6,DGCR6,Random,rs419208-<b>A</b>,2 x 10-9,,0.623027,'-,0.013959087 unit increase,[0.0094-0.0185],"DGCR6, AC007326.4",High light scatter reticulocyte percentage of red cells,reticulocyte measurement,GCST90002386,22:18909779,Blood
+127,DGCR6,DGCR6,Random,rs144073979-<b>?</b>,1 x 10-6,(AA),NR,'-,0.8925 unit decrease,[NR],"DGCR6, FAM230F",3-hydroxypropylmercapturic acid levels in smokers,"smoking behavior, 3-hydroxypropylmercapturic acid measurement",GCST002956,22:18899301,Metabolism
+128,DGCR6,DGCR6,Random,rs116267673-<b>C</b>,2 x 10-12,(Pro),'-,'-,0.4 unit increase,[0.28-0.52],"DGCR6, FAM230F",Plasma free amino acid levels (adjusted for twenty other PFAAs),"proline measurement, amino acid measurement",GCST007382,22:18902454,Metabolism
+129,DGCR6,DGCR6,Random,rs2080346-<b>G</b>,3 x 10-10,(Pro),0.31,'-,0.26 unit increase,[0.18-0.34],"FAM230F, DGCR6",Plasma free amino acid levels,"proline measurement, amino acid measurement",GCST007385,22:18905062,Metabolism

@@ -3777,3 +3777,1048 @@ rs2475229-<b>T</b>,9 x 10-6,,0.024,'-,3.004 unit decrease,[1.7-4.31],ABLIM1,Tast
 rs1726866-<b>A</b>,4 x 10-19,,0.426,'-,0.791 unit increase,[0.63-0.96],"MGAM, TAS2R38",Bitter taste perception (6-n-propylthiouracil) in obesity with metabolic syndrome,sensory perception of bitter taste,GCST008017,7:141972905
 rs6963959-<b>A</b>,4 x 10-7,,0.335,'-,0.509 unit increase,[0.32-0.7],WEE2-AS1,Bitter taste perception (6-n-propylthiouracil) in obesity with metabolic syndrome,sensory perception of bitter taste,GCST008017,7:141707916
 rs11765575-<b>G</b>,8 x 10-7,,0.377,'-,0.512 unit increase,[0.31-0.71],PRSS37,Bitter taste perception (6-n-propylthiouracil) in obesity with metabolic syndrome,sensory perception of bitter taste,GCST008017,7:141838168
+rs7866070-<b>?</b>,7 x 10-7,(astigmatism),NR,'-,'-,'-,PRRX2,Common traits (Other),Astigmatism,GCST000706,9:129681820
+rs577948-<b>G</b>,2 x 10-7,,0.52,1.37,'-,[1.21-1.54],MIR100HG,Myopia (pathological),pathological myopia,GCST000491,11:122159482
+rs6885224-<b>C</b>,8 x 10-6,,0.26,1.24,'-,[1.11-1.39],CTNND2,Myopia (pathological),pathological myopia,GCST000878,5:11169833
+rs1151008-<b>G</b>,1 x 10-6,,NR,'-,0.144 unit decrease,[0.085-0.203],LINC02422,Corneal astigmatism,Astigmatism,GCST002064,12:31944426
+rs11841001-<b>A</b>,4 x 10-6,,NR,'-,0.208 unit increase,[0.12-0.30],LMO7,Corneal astigmatism,Astigmatism,GCST002064,13:75674967
+rs11859036-<b>A</b>,7 x 10-6,,NR,'-,0.128 unit increase,[0.071-0.185],'-,Corneal astigmatism,Astigmatism,GCST002064,16:80271654
+rs438465-<b>C</b>,7 x 10-6,,NR,'-,0.173 unit decrease,[0.097-0.249],"WDR27, LINC02519",Corneal astigmatism,Astigmatism,GCST002064,6:169420286
+rs979976-<b>A</b>,8 x 10-6,,NR,'-,0.134 unit increase,[0.075-0.193],THSD7B,Corneal astigmatism,Astigmatism,GCST002064,2:137011132
+rs7651778-<b>C</b>,5 x 10-6,,NR,'-,0.126 unit increase,[0.071-0.181],"TIPARP-AS1, SSR3",Corneal astigmatism,Astigmatism,GCST002064,3:156618766
+rs1164064-<b>A</b>,2 x 10-6,,NR,'-,0.134 unit increase,[0.079-0.189],LINC01205,Corneal astigmatism,Astigmatism,GCST002064,3:109743553
+rs10226930-<b>C</b>,8 x 10-7,,0.07,'-,1.375 unit decrease,[NR],'-,Corneal astigmatism,Astigmatism,GCST001819,7:156044601
+rs3771395-<b>G</b>,2 x 10-7,,0.16,'-,0.082 unit decrease,[NR],VAX2,Corneal astigmatism,Astigmatism,GCST001819,2:70905884
+rs11098499-<b>C</b>,9 x 10-6,,'-,'-,0.048 unit increase,[NR],USP53,Corneal astigmatism,Astigmatism,GCST001819,4:119266456
+rs795544-<b>?</b>,1 x 10-6,,0.17,'-,0.063 unit increase,[NR],DNAH5,Corneal astigmatism,Astigmatism,GCST001819,5:13798450
+rs12445126-<b>G</b>,2 x 10-6,,0.09,'-,0.088 unit decrease,[NR],'-,Corneal astigmatism,Astigmatism,GCST001819,16:17645835
+rs9445732-<b>G</b>,2 x 10-6,,0.05,'-,1.284 unit increase,[NR],'-,Corneal astigmatism,Astigmatism,GCST001819,6:66538517
+rs11644988-<b>G</b>,2 x 10-6,,0.12,'-,0.128 unit increase,[NR],FENDRR,Corneal astigmatism,Astigmatism,GCST001819,16:86451525
+rs485842-<b>A</b>,2 x 10-6,,0.261,'-,0.055 unit increase,[NR],MAML2,Corneal astigmatism,Astigmatism,GCST001819,11:96290050
+rs4409675-<b>T</b>,2 x 10-6,,'-,'-,0.058 unit decrease,[NR],SMPDL3B,Corneal astigmatism,Astigmatism,GCST001819,1:27935898
+rs7092703-<b>C</b>,3 x 10-6,,'-,'-,0.054 unit increase,[NR],"CELF2-DT, CUX2P1",Corneal astigmatism,Astigmatism,GCST001819,10:10346232
+rs1658442-<b>A</b>,3 x 10-6,,'-,'-,0.055 unit decrease,[NR],BICC1,Corneal astigmatism,Astigmatism,GCST001819,10:58559137
+rs7147503-<b>C</b>,5 x 10-6,,'-,'-,0.051 unit increase,[NR],"LINC02285, MEG9",Corneal astigmatism,Astigmatism,GCST001819,14:101073047
+rs6764388-<b>T</b>,6 x 10-6,,'-,'-,0.046 unit increase,[NR],MAGI1,Corneal astigmatism,Astigmatism,GCST001819,3:65341207
+rs17312292-<b>C</b>,7 x 10-6,,'-,'-,0.88 unit increase,[NR],TNR,Corneal astigmatism,Astigmatism,GCST001819,1:175746470
+rs12593811-<b>T</b>,7 x 10-6,,'-,'-,0.226 unit increase,[NR],CHSY1,Corneal astigmatism,Astigmatism,GCST001819,15:101181687
+rs12676170-<b>A</b>,8 x 10-6,,'-,'-,0.054 unit decrease,[NR],TUSC3,Corneal astigmatism,Astigmatism,GCST001819,8:15339908
+rs4961511-<b>G</b>,9 x 10-6,,'-,'-,0.047 unit increase,[NR],"BNC2, RN7SL720P",Corneal astigmatism,Astigmatism,GCST001819,9:16970811
+rs1045529-<b>?</b>,7 x 10-6,,NR,'-,'-,'-,ERI1,Myopia,Myopia,GCST003997,8:9032588
+rs7162310-<b>?</b>,2 x 10-11,,NR,1.06,'-,[1.04-1.08],APH1B,Myopia,Myopia,GCST003997,15:63279035
+rs12193446-<b>?</b>,5 x 10-102,,NR,1.3003901,'-,[1.27-1.33],LAMA2,Myopia,Myopia,GCST003997,6:129498893
+rs11606250-<b>?</b>,9 x 10-66,,NR,1.183432,'-,[1.16-1.21],LRRC4C,Myopia,Myopia,GCST003997,11:40127750
+rs7744813-<b>?</b>,2 x 10-63,,NR,1.1325028,'-,[1.12-1.15],'-,Myopia,Myopia,GCST003997,Mapping not available
+rs10500355-<b>?</b>,2 x 10-63,,NR,1.1350738,'-,[1.12-1.15],'-,Myopia,Myopia,GCST003997,Mapping not available
+rs524952-<b>?</b>,4 x 10-62,,NR,1.1286682,'-,[1.11-1.14],"GJD2, LINC02252",Myopia,Myopia,GCST003997,15:34713685
+rs11658305-<b>?</b>,8 x 10-15,,NR,1.062,'-,[1.046-1.078],"Y_RNA, POLR2A",Myopia,Myopia,GCST003997,17:7526004
+rs10511652-<b>?</b>,2 x 10-14,,NR,1.058,'-,[1.043-1.073],ADAMTSL1,Myopia,Myopia,GCST003997,9:18362867
+rs5442-<b>?</b>,2 x 10-14,,NR,1.1173185,'-,[1.09-1.15],"GNB3, CDCA3",Myopia,Myopia,GCST003997,12:6845700
+rs4948523-<b>?</b>,3 x 10-14,,NR,1.0570824,'-,[1.04-1.07],BICC1,Myopia,Myopia,GCST003997,10:58579338
+rs34016308-<b>?</b>,4 x 10-14,,NR,1.0764263,'-,[1.06-1.1],CPSF2,Myopia,Myopia,GCST003997,14:92149398
+rs1064583-<b>?</b>,2 x 10-13,,NR,1.056,'-,[1.041-1.072],"NT5DC1, COL10A1",Myopia,Myopia,GCST003997,6:116125413
+rs201140091-<b>?</b>,4 x 10-13,,NR,1.068,'-,[1.049-1.087],FRMPD2,Myopia,Myopia,GCST003997,10:48200198
+rs73157695-<b>?</b>,5 x 10-13,,NR,1.059322,'-,[1.04-1.08],"PCBP3, COL6A1",Myopia,Myopia,GCST003997,21:45952033
+rs479445-<b>?</b>,6 x 10-13,,NR,1.0570824,'-,[1.04-1.07],NFIA,Myopia,Myopia,GCST003997,1:60875960
+rs297589-<b>?</b>,6 x 10-13,,NR,1.061,'-,[1.044-1.078],GPD2,Myopia,Myopia,GCST003997,2:156502238
+rs1550870-<b>?</b>,1 x 10-12,,NR,1.0526316,'-,[1.04-1.07],PTPN5,Myopia,Myopia,GCST003997,11:18729494
+rs2799081-<b>?</b>,1 x 10-12,,NR,1.0604454,'-,[1.04-1.08],"SMIM15P2, PGBD1",Myopia,Myopia,GCST003997,6:28302807
+rs826220-<b>?</b>,2 x 10-12,,NR,1.0537407,'-,[1.04-1.07],THRB,Myopia,Myopia,GCST003997,3:24227186
+rs10512441-<b>?</b>,4 x 10-12,,NR,1.065,'-,[1.046-1.084],"TMEM98, MYO1D",Myopia,Myopia,GCST003997,17:32912627
+rs7968679-<b>?</b>,4 x 10-12,,NR,1.057,'-,[1.040-1.073],PZP,Myopia,Myopia,GCST003997,12:9160708
+rs2342406-<b>?</b>,8 x 10-12,,NR,1.065,'-,[1.046-1.085],LINC01833,Myopia,Myopia,GCST003997,2:44925609
+rs71041628-<b>?</b>,1 x 10-11,,NR,1.055,'-,[1.039-1.072],GRIA4,Myopia,Myopia,GCST003997,11:105794433
+rs10892173-<b>?</b>,1 x 10-11,,NR,1.051,'-,[1.036-1.066],"FXYD2, DSCAML1",Myopia,Myopia,GCST003997,11:117801846
+rs2207136-<b>?</b>,2 x 10-11,,NR,1.051,'-,[1.036-1.066],TFAP2B,Myopia,Myopia,GCST003997,6:50842007
+rs3138141-<b>?</b>,2 x 10-51,,NR,1.146,'-,[1.126-1.167],RDH5,Myopia,Myopia,GCST003997,12:55721994
+rs10089517-<b>?</b>,6 x 10-41,,NR,1.107,'-,[1.091-1.124],'-,Myopia,Myopia,GCST003997,8:59266162
+rs1550094-<b>?</b>,9 x 10-35,,NR,1.102,'-,[1.085-1.119],PRSS56,Myopia,Myopia,GCST003997,2:232520686
+rs869422-<b>?</b>,4 x 10-31,,NR,1.1074197,'-,[1.09-1.13],ZMAT4,Myopia,Myopia,GCST003997,8:40866451
+rs2155413-<b>?</b>,2 x 10-25,,NR,1.0787487,'-,[1.06-1.09],DLG2,Myopia,Myopia,GCST003997,11:84923746
+rs9585327-<b>?</b>,9 x 10-25,,NR,1.0775862,'-,[1.06-1.09],"PCCA-DT, NDUFA12P1",Myopia,Myopia,GCST003997,13:100037100
+rs2908972-<b>?</b>,5 x 10-24,,NR,1.0787487,'-,[1.06-1.09],SHISA6,Myopia,Myopia,GCST003997,17:11503942
+rs5022942-<b>?</b>,2 x 10-23,,NR,1.0905125,'-,[1.07-1.11],BMP3,Myopia,Myopia,GCST003997,4:81038812
+rs10824518-<b>?</b>,3 x 10-22,,NR,1.0764263,'-,[1.06-1.09],KCNMA1,Myopia,Myopia,GCST003997,10:77303784
+rs11145488-<b>?</b>,7 x 10-21,,NR,1.0869565,'-,[1.07-1.11],TJP2,Myopia,Myopia,GCST003997,9:69156023
+rs17400325-<b>?</b>,1 x 10-20,,NR,1.1848341,'-,[1.14-1.23],"PDE11A-AS1, PDE11A",Myopia,Myopia,GCST003997,2:177701185
+rs61049169-<b>?</b>,3 x 10-20,,NR,1.07,'-,[1.054-1.085],RNU7-2P,Myopia,Myopia,GCST003997,2:146131140
+rs1556867-<b>?</b>,3 x 10-19,,NR,1.08,'-,[1.062-1.098],NMNAT1P2,Myopia,Myopia,GCST003997,1:164244449
+rs10887265-<b>?</b>,6 x 10-19,,NR,1.0741138,'-,[1.06-1.09],RGR,Myopia,Myopia,GCST003997,10:84255817
+rs9866391-<b>?</b>,8 x 10-19,,NR,1.069,'-,[1.053-1.084],"PXYLP1, ZBTB38",Myopia,Myopia,GCST003997,3:141357242
+rs9747347-<b>?</b>,2 x 10-18,,NR,1.074,'-,[1.057-1.092],"NPLOC4, TSPAN10",Myopia,Myopia,GCST003997,17:81639794
+rs13380104-<b>?</b>,4 x 10-18,,NR,1.066,'-,[1.051-1.082],RASGRF1,Myopia,Myopia,GCST003997,15:79086479
+rs2808510-<b>?</b>,3 x 10-17,,NR,1.065,'-,[1.049-1.081],LINC00862,Myopia,Myopia,GCST003997,1:200366947
+rs2181346-<b>?</b>,5 x 10-17,,NR,1.079,'-,[1.060-1.098],ATP5F1CP1,Myopia,Myopia,GCST003997,14:54085710
+rs56299331-<b>?</b>,1 x 10-16,,NR,1.078,'-,[1.059-1.098],TCF7L2,Myopia,Myopia,GCST003997,10:113028677
+rs34217772-<b>?</b>,2 x 10-16,,NR,1.081,'-,[1.061-1.102],LRFN5,Myopia,Myopia,GCST003997,14:41804367
+rs12965607-<b>?</b>,2 x 10-16,,NR,1.0893246,'-,[1.07-1.11],MYO5B,Myopia,Myopia,GCST003997,18:49864655
+rs1793639-<b>?</b>,1 x 10-15,,NR,1.061,'-,[1.046-1.076],NTM,Myopia,Myopia,GCST003997,11:132061637
+rs13129838-<b>?</b>,3 x 10-15,,NR,1.068,'-,[1.051-1.086],"LINC00989, OR7E94P",Myopia,Myopia,GCST003997,4:79587634
+rs17428076-<b>?</b>,3 x 10-15,,NR,1.0695187,'-,[1.05-1.09],SLC25A12,Myopia,Myopia,GCST003997,2:171987022
+rs7673984-<b>T</b>,6 x 10-9,,0.22,1.12,'-,[1.08-1.16],"PDGFRA, RPL22P13",Corneal astigmatism,Corneal astigmatism,GCST005803,4:54222594
+rs34751092-<b>A</b>,6 x 10-7,,0.28,1.09,'-,[1.05-1.13],'-,Corneal astigmatism,Corneal astigmatism,GCST005803,4:24127414
+rs630203-<b>G</b>,9 x 10-7,,0.26,1.0869565,'-,[1.05-1.14],"NDFIP1, GNPDA1",Corneal astigmatism,Corneal astigmatism,GCST005803,5:142064704
+rs75607298-<b>A</b>,2 x 10-6,,0.72,1.14,'-,[1.08-1.21],CASC11,Corneal astigmatism,Corneal astigmatism,GCST005803,8:127599251
+rs62401199-<b>T</b>,3 x 10-6,,0.14,1.15,'-,[1.09-1.22],LINC02537,Corneal astigmatism,Corneal astigmatism,GCST005803,6:43845604
+rs753992-<b>G</b>,3 x 10-6,,0.71,1.098901,'-,[1.05-1.15],MADD,Corneal astigmatism,Corneal astigmatism,GCST005803,11:47328295
+rs3214101-<b>A</b>,4 x 10-6,,0.68,1.08,'-,[1.05-1.12],ZBTB16,Corneal astigmatism,Corneal astigmatism,GCST005803,11:114138686
+rs10985068-<b>C</b>,6 x 10-6,,0.12,1.13,'-,[1.07-1.19],PHF19,Corneal astigmatism,Corneal astigmatism,GCST005803,9:120867446
+rs62128379-<b>T</b>,6 x 10-6,,0.85,1.13,'-,[1.07-1.19],"SLC35F6, KCNK3",Corneal astigmatism,Corneal astigmatism,GCST005803,2:26737187
+rs9939114-<b>G</b>,6 x 10-6,,0.95,1.8518518,'-,[1.43-2.44],NECAB2,Corneal astigmatism,Corneal astigmatism,GCST005803,16:83990367
+rs60083876-<b>A</b>,7 x 10-6,,0.95,1.31,'-,[1.17-1.48],BMPER,Corneal astigmatism,Corneal astigmatism,GCST005803,7:34189207
+rs859362-<b>T</b>,7 x 10-6,,0.19,1.1,'-,[1.05-1.15],TNR,Corneal astigmatism,Corneal astigmatism,GCST005803,1:175525954
+rs11775037-<b>A</b>,7 x 10-6,,0.2,1.1,'-,[1.05-1.14],ANGPT1,Corneal astigmatism,Corneal astigmatism,GCST005803,8:107305387
+rs7036824-<b>C</b>,9 x 10-6,,0.06,1.2048193,'-,[1.11-1.3],"Y_RNA, RNU6-829P",Corneal astigmatism,Corneal astigmatism,GCST005803,9:93387612
+rs142168171-<b>I</b>,9 x 10-6,,0.09,1.37,'-,[1.19-1.57],CALN1,Corneal astigmatism,Corneal astigmatism,GCST005803,7:71788667
+rs7278671-<b>G</b>,9 x 10-6,,0.49,1.0752687,'-,[1.04-1.11],"IGSF5, B3GALT5",Corneal astigmatism,Corneal astigmatism,GCST005803,21:39675949
+rs698047-<b>G</b>,1 x 10-9,,0.46,1.26,'-,NR,HIVEP3,High myopia,Myopia,GCST010994,1:41867932
+rs2246661-<b>C</b>,3 x 10-8,,0.215,1.26,'-,NR,NFASC,High myopia,Myopia,GCST010994,1:204974863
+rs12032649-<b>G</b>,2 x 10-11,,0.521,1.29,'-,NR,ZC3H11B,High myopia,Myopia,GCST010994,1:219605617
+rs17029206-<b>T</b>,6 x 10-9,,0.602,1.26,'-,NR,RPL23AP39,High myopia,Myopia,GCST010994,3:1739832
+rs74633073-<b>T</b>,2 x 10-8,,0.026,1.55,'-,NR,FRMD4B,High myopia,Myopia,GCST010994,3:69229747
+rs76903431-<b>A</b>,1 x 10-9,,0.042,1.69,'-,NR,LINC02418,High myopia,Myopia,GCST010994,12:130041322
+rs589135-<b>G</b>,1 x 10-11,,0.418,1.29,'-,NR,"GJD2, LINC02252",High myopia,Myopia,GCST010994,15:34709241
+rs28415942-<b>T</b>,7 x 10-10,,0.54,1.26,'-,NR,"ANKRD34C-AS1, RASGRF1",High myopia,Myopia,GCST010994,15:79092508
+rs72748160-<b>T</b>,3 x 10-10,,0.022,1.88,'-,NR,AKAP13,High myopia,Myopia,GCST010994,15:85692651
+rs6668720-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,PLCH2,Refractive error,Abnormality of refraction,GCST010002,1:2489474
+rs902356-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,RERE,Refractive error,Abnormality of refraction,GCST010002,1:8372593
+rs11121599-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,PEX14,Refractive error,Abnormality of refraction,GCST010002,1:10606678
+rs3013105-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,LRRC38,Refractive error,Abnormality of refraction,GCST010002,1:13475857
+rs10753502-<b>?</b>,1 x 10-9,,'-,'-,'-,'-,"CAMK2N1, LINC01141",Refractive error,Abnormality of refraction,GCST010002,1:20432738
+rs10158878-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,"LACTBL1, EPHB2",Refractive error,Abnormality of refraction,GCST010002,1:22932928
+rs3131703-<b>?</b>,4 x 10-10,,'-,'-,'-,'-,"MFSD2A, Y_RNA",Refractive error,Abnormality of refraction,GCST010002,1:39954009
+rs6670896-<b>?</b>,5 x 10-36,,'-,'-,'-,'-,HIVEP3,Refractive error,Abnormality of refraction,GCST010002,1:41869122
+rs673253-<b>?</b>,3 x 10-13,,'-,'-,'-,'-,PTPRF,Refractive error,Abnormality of refraction,GCST010002,1:43596483
+rs12409365-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,"LINC01738, ATP6V0E1P4",Refractive error,Abnormality of refraction,GCST010002,1:47642238
+rs72660683-<b>?</b>,7 x 10-13,,'-,'-,'-,'-,GLIS1,Refractive error,Abnormality of refraction,GCST010002,1:53726138
+rs556161-<b>?</b>,2 x 10-28,,'-,'-,'-,'-,NFIA,Refractive error,Abnormality of refraction,GCST010002,1:60859141
+rs10493817-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,PKN2-AS1,Refractive error,Abnormality of refraction,GCST010002,1:88661204
+rs12568187-<b>?</b>,1 x 10-30,,'-,'-,'-,'-,"LINC02609, BARHL2",Refractive error,Abnormality of refraction,GCST010002,1:90728134
+rs11165052-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,"ABCA4, MTCO1P21",Refractive error,Abnormality of refraction,GCST010002,1:93978504
+rs501057-<b>?</b>,7 x 10-15,,'-,'-,'-,'-,"NDUFA4P1, VAV3",Refractive error,Abnormality of refraction,GCST010002,1:107545203
+rs4839270-<b>?</b>,8 x 10-20,,'-,'-,'-,'-,SLC16A1,Refractive error,Abnormality of refraction,GCST010002,1:112934698
+rs942453-<b>?</b>,3 x 10-15,,'-,'-,'-,'-,CIART,Refractive error,Abnormality of refraction,GCST010002,1:150284852
+rs4845402-<b>?</b>,5 x 10-13,,'-,'-,'-,'-,ZBTB7B,Refractive error,Abnormality of refraction,GCST010002,1:155005453
+rs17420551-<b>?</b>,7 x 10-38,,'-,'-,'-,'-,KIRREL1,Refractive error,Abnormality of refraction,GCST010002,1:158069635
+rs1556867-<b>?</b>,9 x 10-48,,'-,'-,'-,'-,NMNAT1P2,Refractive error,Abnormality of refraction,GCST010002,1:164244449
+rs10753823-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,PRRX1,Refractive error,Abnormality of refraction,GCST010002,1:170829303
+rs505837-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,TOR1AIP1,Refractive error,Abnormality of refraction,GCST010002,1:179902577
+rs12569272-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,RGS18,Refractive error,Abnormality of refraction,GCST010002,1:192116168
+rs2808514-<b>?</b>,1 x 10-52,,'-,'-,'-,'-,LINC00862,Refractive error,Abnormality of refraction,GCST010002,1:200373953
+rs7549293-<b>?</b>,8 x 10-13,,'-,'-,'-,'-,KLHDC8A,Refractive error,Abnormality of refraction,GCST010002,1:205343152
+rs2017760-<b>?</b>,2 x 10-54,,'-,'-,'-,'-,"C4BPAP2, CD55",Refractive error,Abnormality of refraction,GCST010002,1:207282076
+rs11119421-<b>?</b>,1 x 10-13,,'-,'-,'-,'-,SYT14,Refractive error,Abnormality of refraction,GCST010002,1:210147698
+rs6700065-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,PROX1-AS1,Refractive error,Abnormality of refraction,GCST010002,1:213962317
+rs11585774-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,ESRRG,Refractive error,Abnormality of refraction,GCST010002,1:217049073
+rs7525202-<b>?</b>,1 x 10-40,,'-,'-,'-,'-,"ZC3H11B, SLC30A10",Refractive error,Abnormality of refraction,GCST010002,1:219615177
+rs6667260-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs1490276-<b>?</b>,7 x 10-10,,'-,'-,'-,'-,MTND5P18,Refractive error,Abnormality of refraction,GCST010002,1:237967542
+rs300751-<b>?</b>,6 x 10-25,,'-,'-,'-,'-,SH3YL1,Refractive error,Abnormality of refraction,GCST010002,2:209063
+rs11675358-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,LINC01250,Refractive error,Abnormality of refraction,GCST010002,2:2916025
+rs28495254-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,GACAT3,Refractive error,Abnormality of refraction,GCST010002,2:16085926
+rs1260326-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs11127261-<b>?</b>,2 x 10-20,,'-,'-,'-,'-,LBH,Refractive error,Abnormality of refraction,GCST010002,2:30252287
+rs13409142-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,BIRC6,Refractive error,Abnormality of refraction,GCST010002,2:32441069
+rs1558655-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,SLC8A1,Refractive error,Abnormality of refraction,GCST010002,2:40358882
+rs17032696-<b>?</b>,3 x 10-26,,'-,'-,'-,'-,LINC01833,Refractive error,Abnormality of refraction,GCST010002,2:44910731
+rs17817004-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,ATP6V1E2,Refractive error,Abnormality of refraction,GCST010002,2:46508284
+rs12475184-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,VN1R18P,Refractive error,Abnormality of refraction,GCST010002,2:48066445
+rs9309272-<b>?</b>,3 x 10-34,,'-,'-,'-,'-,EFEMP1,Refractive error,Abnormality of refraction,GCST010002,2:55868231
+rs359260-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,MIR4432HG,Refractive error,Abnormality of refraction,GCST010002,2:60259801
+rs11555696-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,DCTN1,Refractive error,Abnormality of refraction,GCST010002,2:74361478
+rs6547257-<b>?</b>,3 x 10-12,,'-,'-,'-,'-,CTNNA2,Refractive error,Abnormality of refraction,GCST010002,2:79691328
+rs2570495-<b>?</b>,5 x 10-15,,'-,'-,'-,'-,LINC01965,Refractive error,Abnormality of refraction,GCST010002,2:103827484
+rs7584334-<b>?</b>,6 x 10-10,,'-,'-,'-,'-,CNTNAP5,Refractive error,Abnormality of refraction,GCST010002,2:124193318
+rs61049169-<b>?</b>,5 x 10-69,,'-,'-,'-,'-,RNU7-2P,Refractive error,Abnormality of refraction,GCST010002,2:146131140
+rs12514897-<b>?</b>,6 x 10-12,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,5:53375144
+rs3936511-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,C5orf67,Refractive error,Abnormality of refraction,GCST010002,5:56564954
+rs10223052-<b>?</b>,9 x 10-9,,'-,'-,'-,'-,ZSWIM6,Refractive error,Abnormality of refraction,GCST010002,5:61504509
+rs1309551-<b>?</b>,2 x 10-16,,'-,'-,'-,'-,CWC27,Refractive error,Abnormality of refraction,GCST010002,5:64992829
+rs7730838-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,"YBX1P5, PTCD2",Refractive error,Abnormality of refraction,GCST010002,5:72412871
+rs256438-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,"THBS4-AS1, THBS4",Refractive error,Abnormality of refraction,GCST010002,5:80070426
+rs7737179-<b>?</b>,3 x 10-23,,'-,'-,'-,'-,"LINC00461, TMEM161B-AS1",Refractive error,Abnormality of refraction,GCST010002,5:88499708
+rs4242244-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,POLD2P1,Refractive error,Abnormality of refraction,GCST010002,5:93210531
+rs146172211-<b>?</b>,2 x 10-10,,'-,'-,'-,'-,MACIR,Refractive error,Abnormality of refraction,GCST010002,5:103284407
+rs13189957-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,HMGB3P16,Refractive error,Abnormality of refraction,GCST010002,5:112501294
+rs10066524-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,ZNF608,Refractive error,Abnormality of refraction,GCST010002,5:124615187
+rs6860901-<b>?</b>,9 x 10-11,,'-,'-,'-,'-,FBN2,Refractive error,Abnormality of refraction,GCST010002,5:128536057
+rs7732667-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,KIF3A,Refractive error,Abnormality of refraction,GCST010002,5:132734641
+rs6864640-<b>?</b>,2 x 10-13,,'-,'-,'-,'-,YIPF5,Refractive error,Abnormality of refraction,GCST010002,5:144161154
+rs62385438-<b>?</b>,9 x 10-18,,'-,'-,'-,'-,EBF1,Refractive error,Abnormality of refraction,GCST010002,5:159070631
+rs10042371-<b>?</b>,5 x 10-12,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,5:166518858
+rs6875105-<b>?</b>,8 x 10-9,,'-,'-,'-,'-,"LINC01863, BOD1",Refractive error,Abnormality of refraction,GCST010002,5:173627914
+rs13190379-<b>?</b>,5 x 10-16,,'-,'-,'-,'-,ARL2BPP6,Refractive error,Abnormality of refraction,GCST010002,5:175270888
+rs12186577-<b>?</b>,9 x 10-17,,'-,'-,'-,'-,ZFP2,Refractive error,Abnormality of refraction,GCST010002,5:178932988
+rs11758482-<b>?</b>,2 x 10-20,,'-,'-,'-,'-,GMDS-DT,Refractive error,Abnormality of refraction,GCST010002,6:2437997
+rs9379066-<b>?</b>,1 x 10-21,,'-,'-,'-,'-,RN7SL554P,Refractive error,Abnormality of refraction,GCST010002,6:6901623
+rs115504329-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,ADTRP,Refractive error,Abnormality of refraction,GCST010002,6:11719245
+rs4145443-<b>?</b>,6 x 10-38,,'-,'-,'-,'-,CASC15,Refractive error,Abnormality of refraction,GCST010002,6:22067945
+rs9968377-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,4:18183454
+rs11734373-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,"PPARGC1A, PDHA2",Refractive error,Abnormality of refraction,GCST010002,4:23938297
+rs6828872-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,PCDH7,Refractive error,Abnormality of refraction,GCST010002,4:30763405
+rs7691051-<b>?</b>,4 x 10-11,,'-,'-,'-,'-,LINC02506,Refractive error,Abnormality of refraction,GCST010002,4:31991619
+rs33998475-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,BEND4,Refractive error,Abnormality of refraction,GCST010002,4:42198187
+rs28526098-<b>?</b>,5 x 10-18,,'-,'-,'-,'-,PRDX4P1,Refractive error,Abnormality of refraction,GCST010002,4:44931134
+rs10030755-<b>?</b>,2 x 10-10,,'-,'-,'-,'-,ADGRL3,Refractive error,Abnormality of refraction,GCST010002,4:61978690
+rs28564890-<b>?</b>,8 x 10-9,,'-,'-,'-,'-,"GC, SLC4A4",Refractive error,Abnormality of refraction,GCST010002,4:71669788
+rs74764079-<b>?</b>,2 x 10-65,,'-,'-,'-,'-,BMP3,Refractive error,Abnormality of refraction,GCST010002,4:81031483
+rs3775228-<b>?</b>,7 x 10-12,,'-,'-,'-,'-,AFF1,Refractive error,Abnormality of refraction,GCST010002,4:87064014
+rs59473955-<b>?</b>,6 x 10-33,,'-,'-,'-,'-,FAM13A,Refractive error,Abnormality of refraction,GCST010002,4:88835931
+rs13107325-<b>?</b>,4 x 10-17,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs9790778-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,4:111208199
+rs12511880-<b>?</b>,5 x 10-18,,'-,'-,'-,'-,"MAD2L1, LINC02502",Refractive error,Abnormality of refraction,GCST010002,4:119980371
+rs34687569-<b>?</b>,5 x 10-11,,'-,'-,'-,'-,LINC02172,Refractive error,Abnormality of refraction,GCST010002,4:137576427
+rs73858679-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,RNF150,Refractive error,Abnormality of refraction,GCST010002,4:140997350
+rs6537315-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,"HHIP, ANAPC10",Refractive error,Abnormality of refraction,GCST010002,4:144803560
+rs11940147-<b>?</b>,7 x 10-12,,'-,'-,'-,'-,"RNU7-197P, LINC02430",Refractive error,Abnormality of refraction,GCST010002,4:149052926
+rs2045629-<b>?</b>,8 x 10-11,,'-,'-,'-,'-,"LINC01179, TLL1",Refractive error,Abnormality of refraction,GCST010002,4:165855899
+rs147792504-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,"SCRG1, RPL5P11",Refractive error,Abnormality of refraction,GCST010002,4:173415439
+rs35446926-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,TENM3-AS1,Refractive error,Abnormality of refraction,GCST010002,4:182114112
+rs4499830-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,CTNND2,Refractive error,Abnormality of refraction,GCST010002,5:11851935
+rs2910644-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,"C6, PLCXD3",Refractive error,Abnormality of refraction,GCST010002,5:41265762
+rs75150349-<b>?</b>,1 x 10-13,,'-,'-,'-,'-,HCN1,Refractive error,Abnormality of refraction,GCST010002,5:45491622
+rs35567312-<b>?</b>,7 x 10-10,,'-,'-,'-,'-,EMB,Refractive error,Abnormality of refraction,GCST010002,5:50331085
+rs7601475-<b>?</b>,2 x 10-10,,'-,'-,'-,'-,RNA5SP106,Refractive error,Abnormality of refraction,GCST010002,2:147653319
+rs57902545-<b>?</b>,6 x 10-11,,'-,'-,'-,'-,"ARL6IP6, UBQLN4P2",Refractive error,Abnormality of refraction,GCST010002,2:152846210
+rs192716-<b>?</b>,1 x 10-35,,'-,'-,'-,'-,GPD2,Refractive error,Abnormality of refraction,GCST010002,2:156519960
+rs10174570-<b>?</b>,8 x 10-10,,'-,'-,'-,'-,RBMS1,Refractive error,Abnormality of refraction,GCST010002,2:160448507
+rs935402-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,SCN2A,Refractive error,Abnormality of refraction,GCST010002,2:165329211
+rs17428076-<b>?</b>,2 x 10-39,,'-,'-,'-,'-,SLC25A12,Refractive error,Abnormality of refraction,GCST010002,2:171987022
+rs2573081-<b>?</b>,1 x 10-70,,'-,'-,'-,'-,PDE11A,Refractive error,Abnormality of refraction,GCST010002,2:177963780
+rs7602799-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,LINC01934,Refractive error,Abnormality of refraction,GCST010002,2:181395525
+rs73042687-<b>?</b>,8 x 10-11,,'-,'-,'-,'-,UPP2,Refractive error,Abnormality of refraction,GCST010002,2:183486506
+rs13027546-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,CREB1,Refractive error,Abnormality of refraction,GCST010002,2:207494783
+rs121908120-<b>?</b>,2 x 10-17,,'-,'-,'-,'-,WNT10A,Refractive error,Abnormality of refraction,GCST010002,2:218890289
+rs7569375-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,"MFF-DT, COL4A3",Refractive error,Abnormality of refraction,GCST010002,2:227228456
+rs1550094-<b>?</b>,1 x 10-123,,'-,'-,'-,'-,PRSS56,Refractive error,Abnormality of refraction,GCST010002,2:232520686
+rs7596847-<b>?</b>,6 x 10-16,,'-,'-,'-,'-,"TRAF3IP1, RNU6-234P",Refractive error,Abnormality of refraction,GCST010002,2:238412477
+rs795288-<b>?</b>,3 x 10-16,,'-,'-,'-,'-,SUMF1,Refractive error,Abnormality of refraction,GCST010002,3:4162771
+rs178597-<b>?</b>,6 x 10-48,,'-,'-,'-,'-,LMCD1-AS1,Refractive error,Abnormality of refraction,GCST010002,3:8155254
+rs1568072-<b>?</b>,2 x 10-13,,'-,'-,'-,'-,SLC6A1,Refractive error,Abnormality of refraction,GCST010002,3:10999920
+rs13073161-<b>?</b>,1 x 10-17,,'-,'-,'-,'-,IMPDH1P8,Refractive error,Abnormality of refraction,GCST010002,3:15966318
+rs1700943-<b>?</b>,4 x 10-34,,'-,'-,'-,'-,THRB,Refractive error,Abnormality of refraction,GCST010002,3:24189539
+rs7427073-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,"RFKP2, LINC01967",Refractive error,Abnormality of refraction,GCST010002,3:28121666
+rs4130686-<b>?</b>,3 x 10-12,,'-,'-,'-,'-,RBMS3,Refractive error,Abnormality of refraction,GCST010002,3:29402472
+rs6810039-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,SUSD5,Refractive error,Abnormality of refraction,GCST010002,3:33153498
+rs12492279-<b>?</b>,3 x 10-27,,'-,'-,'-,'-,"CTNNB1, ULK4",Refractive error,Abnormality of refraction,GCST010002,3:41247540
+rs78486117-<b>?</b>,8 x 10-9,,'-,'-,'-,'-,DOCK3,Refractive error,Abnormality of refraction,GCST010002,3:51350963
+rs14165-<b>?</b>,9 x 10-24,,'-,'-,'-,'-,"CHDH, CACNA1D",Refractive error,Abnormality of refraction,GCST010002,3:53813381
+rs1907462-<b>?</b>,2 x 10-10,,'-,'-,'-,'-,"CCDC66, ERC2",Refractive error,Abnormality of refraction,GCST010002,3:56500406
+rs7431936-<b>?</b>,5 x 10-14,,'-,'-,'-,'-,ABHD6,Refractive error,Abnormality of refraction,GCST010002,3:58278120
+rs1562523-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,FHIT,Refractive error,Abnormality of refraction,GCST010002,3:60948130
+rs35667547-<b>?</b>,5 x 10-11,,'-,'-,'-,'-,"ADAMTS9-AS1, ADAMTS9",Refractive error,Abnormality of refraction,GCST010002,3:64561801
+rs60743220-<b>?</b>,7 x 10-24,,'-,'-,'-,'-,TAFA4,Refractive error,Abnormality of refraction,GCST010002,3:68896002
+rs11928769-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,FOXP1,Refractive error,Abnormality of refraction,GCST010002,3:70935908
+rs1045960-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,PPP4R2,Refractive error,Abnormality of refraction,GCST010002,3:73068684
+rs73117594-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,"MRPS17P3, ROBO1",Refractive error,Abnormality of refraction,GCST010002,3:78544763
+rs6549043-<b>?</b>,4 x 10-18,,'-,'-,'-,'-,CADM2,Refractive error,Abnormality of refraction,GCST010002,3:85582976
+rs9824877-<b>?</b>,5 x 10-25,,'-,'-,'-,'-,ACTG1P13,Refractive error,Abnormality of refraction,GCST010002,3:99177398
+rs7619476-<b>?</b>,4 x 10-10,,'-,'-,'-,'-,CD47,Refractive error,Abnormality of refraction,GCST010002,3:108082033
+rs35867-<b>?</b>,6 x 10-16,,'-,'-,'-,'-,IGSF11,Refractive error,Abnormality of refraction,GCST010002,3:119020989
+rs2124500-<b>?</b>,5 x 10-8,,'-,'-,'-,'-,ADCY5,Refractive error,Abnormality of refraction,GCST010002,3:123374683
+rs113761591-<b>?</b>,9 x 10-21,,'-,'-,'-,'-,TPRA1,Refractive error,Abnormality of refraction,GCST010002,3:127586512
+rs10934960-<b>?</b>,5 x 10-11,,'-,'-,'-,'-,"PIK3R4, RN7SKP212",Refractive error,Abnormality of refraction,GCST010002,3:130796092
+rs3762672-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,DNAJC13,Refractive error,Abnormality of refraction,GCST010002,3:132499779
+rs6767786-<b>?</b>,1 x 10-57,,'-,'-,'-,'-,ZBTB38,Refractive error,Abnormality of refraction,GCST010002,3:141385338
+rs62273875-<b>?</b>,8 x 10-12,,'-,'-,'-,'-,LINC02032,Refractive error,Abnormality of refraction,GCST010002,3:147989673
+rs41267883-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,TSC22D2,Refractive error,Abnormality of refraction,GCST010002,3:150456871
+rs199771582-<b>?</b>,2 x 10-14,,'-,'-,'-,'-,FNDC3B,Refractive error,Abnormality of refraction,GCST010002,3:172271487
+rs9832291-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,ZMAT3,Refractive error,Abnormality of refraction,GCST010002,3:178983735
+rs1863622-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,"KNG1, HRG",Refractive error,Abnormality of refraction,GCST010002,3:186678827
+rs57829920-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,"CRMP1, EVC",Refractive error,Abnormality of refraction,GCST010002,4:5781659
+rs3756171-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,"CPZ, GPR78",Refractive error,Abnormality of refraction,GCST010002,4:8600498
+rs7793034-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,GLI3,Refractive error,Abnormality of refraction,GCST010002,7:42075917
+rs10258656-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,"C7orf65, PKD1L1",Refractive error,Abnormality of refraction,GCST010002,7:47723887
+rs12719025-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,COBL,Refractive error,Abnormality of refraction,GCST010002,7:51032493
+rs7802500-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,AUTS2,Refractive error,Abnormality of refraction,GCST010002,7:70442039
+rs2867673-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,CALN1,Refractive error,Abnormality of refraction,GCST010002,7:72287667
+rs10260177-<b>?</b>,3 x 10-17,,'-,'-,'-,'-,MAGI2,Refractive error,Abnormality of refraction,GCST010002,7:78446317
+rs6954078-<b>?</b>,1 x 10-23,,'-,'-,'-,'-,PCLO,Refractive error,Abnormality of refraction,GCST010002,7:82806562
+rs144137329-<b>?</b>,7 x 10-11,,'-,'-,'-,'-,"SEMA3A, RPL7P30",Refractive error,Abnormality of refraction,GCST010002,7:84521498
+rs7800245-<b>?</b>,2 x 10-16,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,7:86474417
+rs854089-<b>?</b>,8 x 10-13,,'-,'-,'-,'-,"DYNC1I1, PDK4",Refractive error,Abnormality of refraction,GCST010002,7:95673944
+rs2708597-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,"IFRD1, MTCYBP24",Refractive error,Abnormality of refraction,GCST010002,7:112416175
+rs2024211-<b>?</b>,6 x 10-10,,'-,'-,'-,'-,"CAV2, CAV1",Refractive error,Abnormality of refraction,GCST010002,7:116512971
+rs148101639-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,POT1,Refractive error,Abnormality of refraction,GCST010002,7:124891450
+rs17150996-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,GCC1,Refractive error,Abnormality of refraction,GCST010002,7:127534625
+rs62468101-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,CAPZA1P4,Refractive error,Abnormality of refraction,GCST010002,7:131865744
+rs1646555-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,CREB3L2,Refractive error,Abnormality of refraction,GCST010002,7:137920089
+rs58287690-<b>?</b>,1 x 10-20,,'-,'-,'-,'-,"CRYGN, WDR86-AS1",Refractive error,Abnormality of refraction,GCST010002,7:151425613
+rs12234576-<b>?</b>,2 x 10-37,,'-,'-,'-,'-,VIPR2,Refractive error,Abnormality of refraction,GCST010002,7:159135684
+rs4875839-<b>?</b>,7 x 10-10,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,8:2633045
+rs10100265-<b>?</b>,1 x 10-24,,'-,'-,'-,'-,PINX1,Refractive error,Abnormality of refraction,GCST010002,8:10775649
+rs1905014-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,DLC1,Refractive error,Abnormality of refraction,GCST010002,8:13549788
+rs11781149-<b>?</b>,2 x 10-17,,'-,'-,'-,'-,CCAR2,Refractive error,Abnormality of refraction,GCST010002,8:22615645
+rs1532276-<b>?</b>,3 x 10-16,,'-,'-,'-,'-,CLU,Refractive error,Abnormality of refraction,GCST010002,8:27608640
+rs16890057-<b>?</b>,2 x 10-81,,'-,'-,'-,'-,ZMAT4,Refractive error,Abnormality of refraction,GCST010002,8:40869063
+rs4711751-<b>?</b>,2 x 10-12,,'-,'-,'-,'-,LINC02537,Refractive error,Abnormality of refraction,GCST010002,6:43860845
+rs2076309-<b>?</b>,4 x 10-37,,'-,'-,'-,'-,TFAP2B,Refractive error,Abnormality of refraction,GCST010002,6:50821738
+rs7744813-<b>?</b>,3 x 10-205,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs171835-<b>?</b>,6 x 10-14,,'-,'-,'-,'-,"SNORA70, TENT5A",Refractive error,Abnormality of refraction,GCST010002,6:81755270
+rs1118543-<b>?</b>,2 x 10-26,,'-,'-,'-,'-,SNAP91,Refractive error,Abnormality of refraction,GCST010002,6:83670773
+rs1906252-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,"MIR2113, EIF4EBP2P3",Refractive error,Abnormality of refraction,GCST010002,6:98102413
+rs9484245-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,XPO5,Refractive error,Abnormality of refraction,GCST010002,6:99745127
+rs11153164-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,CCDC162P,Refractive error,Abnormality of refraction,GCST010002,6:109275106
+rs4947120-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,TRAF3IP2-AS1,Refractive error,Abnormality of refraction,GCST010002,6:111497841
+rs1064583-<b>?</b>,2 x 10-36,,'-,'-,'-,'-,"NT5DC1, COL10A1",Refractive error,Abnormality of refraction,GCST010002,6:116125413
+rs9372732-<b>?</b>,4 x 10-11,,'-,'-,'-,'-,CLVS2,Refractive error,Abnormality of refraction,GCST010002,6:123027002
+rs4896068-<b>?</b>,6 x 10-10,,'-,'-,'-,'-,CT69,Refractive error,Abnormality of refraction,GCST010002,6:134513400
+rs7756435-<b>?</b>,8 x 10-12,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,6:141014003
+rs9497026-<b>?</b>,6 x 10-10,,'-,'-,'-,'-,UTRN,Refractive error,Abnormality of refraction,GCST010002,6:144628887
+rs4869965-<b>?</b>,5 x 10-20,,'-,'-,'-,'-,MTHFD1L,Refractive error,Abnormality of refraction,GCST010002,6:150980105
+rs3127166-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,"OSTCP1, EZR-AS1",Refractive error,Abnormality of refraction,GCST010002,6:158827698
+rs880095-<b>?</b>,5 x 10-12,,'-,'-,'-,'-,"RN7SL366P, FUT9",Refractive error,Abnormality of refraction,GCST010002,6:163828822
+rs4721135-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,MAD1L1,Refractive error,Abnormality of refraction,GCST010002,7:1872586
+rs7786560-<b>?</b>,2 x 10-17,,'-,'-,'-,'-,C1GALT1,Refractive error,Abnormality of refraction,GCST010002,7:7212618
+rs2355125-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,THSD7A,Refractive error,Abnormality of refraction,GCST010002,7:11881179
+rs11772758-<b>?</b>,9 x 10-12,,'-,'-,'-,'-,AHR,Refractive error,Abnormality of refraction,GCST010002,7:17039530
+rs7780001-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,7:19438358
+rs2075822-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,NOD1,Refractive error,Abnormality of refraction,GCST010002,7:30451144
+rs2726052-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,EEPD1,Refractive error,Abnormality of refraction,GCST010002,7:36159561
+rs2696187-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,"POU6F2-AS2, POU6F2",Refractive error,Abnormality of refraction,GCST010002,7:39003506
+rs2501571-<b>?</b>,2 x 10-14,,'-,'-,'-,'-,ADD3,Refractive error,Abnormality of refraction,GCST010002,10:110095681
+rs56299331-<b>?</b>,9 x 10-46,,'-,'-,'-,'-,TCF7L2,Refractive error,Abnormality of refraction,GCST010002,10:113028677
+rs11196996-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,"RPL15P13, TRUB1",Refractive error,Abnormality of refraction,GCST010002,10:114934872
+rs3750847-<b>?</b>,6 x 10-23,,'-,'-,'-,'-,ARMS2,Refractive error,Abnormality of refraction,GCST010002,10:122455905
+rs1152698-<b>?</b>,8 x 10-17,,'-,'-,'-,'-,CTBP2,Refractive error,Abnormality of refraction,GCST010002,10:125118716
+rs113626448-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,PHRF1,Refractive error,Abnormality of refraction,GCST010002,11:589392
+rs10839545-<b>?</b>,4 x 10-13,,'-,'-,'-,'-,"KRTAP5-6, IFITM10",Refractive error,Abnormality of refraction,GCST010002,11:1722863
+rs12291662-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,RRAS2,Refractive error,Abnormality of refraction,GCST010002,11:14321403
+rs1550870-<b>?</b>,2 x 10-27,,'-,'-,'-,'-,PTPN5,Refractive error,Abnormality of refraction,GCST010002,11:18729494
+rs6484385-<b>?</b>,7 x 10-16,,'-,'-,'-,'-,LINC02758,Refractive error,Abnormality of refraction,GCST010002,11:28646869
+rs511217-<b>?</b>,2 x 10-49,,'-,'-,'-,'-,"LINC02755, KCNA4",Refractive error,Abnormality of refraction,GCST010002,11:30008401
+rs11606250-<b>?</b>,1 x 10-175,,'-,'-,'-,'-,LRRC4C,Refractive error,Abnormality of refraction,GCST010002,11:40127750
+rs11037404-<b>?</b>,2 x 10-24,,'-,'-,'-,'-,"API5, HNRNPKP3",Refractive error,Abnormality of refraction,GCST010002,11:43275244
+rs55681357-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,"CHST1, MIR7154",Refractive error,Abnormality of refraction,GCST010002,11:45665816
+rs7928419-<b>?</b>,2 x 10-14,,'-,'-,'-,'-,SPI1,Refractive error,Abnormality of refraction,GCST010002,11:47370563
+rs198443-<b>?</b>,2 x 10-24,,'-,'-,'-,'-,DAGLA,Refractive error,Abnormality of refraction,GCST010002,11:61738224
+rs620088-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,"KRT8P26, AP5B1",Refractive error,Abnormality of refraction,GCST010002,11:65741515
+rs2276118-<b>?</b>,3 x 10-13,,'-,'-,'-,'-,CABP2,Refractive error,Abnormality of refraction,GCST010002,11:67521123
+rs493786-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,LINC01488,Refractive error,Abnormality of refraction,GCST010002,11:69514906
+rs1278092-<b>?</b>,1 x 10-13,,'-,'-,'-,'-,FAM168A,Refractive error,Abnormality of refraction,GCST010002,11:73522810
+rs2155413-<b>?</b>,2 x 10-53,,'-,'-,'-,'-,DLG2,Refractive error,Abnormality of refraction,GCST010002,11:84923746
+rs535888-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,FAT3,Refractive error,Abnormality of refraction,GCST010002,11:92674408
+rs4753693-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,11:95560589
+rs10895869-<b>?</b>,4 x 10-39,,'-,'-,'-,'-,GRIA4,Refractive error,Abnormality of refraction,GCST010002,11:105729632
+rs2028155-<b>?</b>,4 x 10-19,,'-,'-,'-,'-,C11orf65,Refractive error,Abnormality of refraction,GCST010002,11:108396703
+rs7947524-<b>?</b>,3 x 10-34,,'-,'-,'-,'-,DSCAML1,Refractive error,Abnormality of refraction,GCST010002,11:117800376
+rs1029278-<b>?</b>,5 x 10-21,,'-,'-,'-,'-,GRAMD1B,Refractive error,Abnormality of refraction,GCST010002,11:123550694
+rs6590199-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,ST3GAL4,Refractive error,Abnormality of refraction,GCST010002,11:126365772
+rs10219187-<b>?</b>,1 x 10-17,,'-,'-,'-,'-,ARHGAP32,Refractive error,Abnormality of refraction,GCST010002,11:129233197
+rs1790165-<b>?</b>,7 x 10-29,,'-,'-,'-,'-,NTM,Refractive error,Abnormality of refraction,GCST010002,11:132059077
+rs10848650-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,"KDM5A, SLC6A13",Refractive error,Abnormality of refraction,GCST010002,12:268041
+rs6489568-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,GALNT8,Refractive error,Abnormality of refraction,GCST010002,12:4820934
+rs5442-<b>?</b>,3 x 10-62,,'-,'-,'-,'-,"GNB3, CDCA3",Refractive error,Abnormality of refraction,GCST010002,12:6845700
+rs10842971-<b>?</b>,1 x 10-40,,'-,'-,'-,'-,PZP,Refractive error,Abnormality of refraction,GCST010002,12:9150700
+rs7966177-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,"LINC02366, YBX3",Refractive error,Abnormality of refraction,GCST010002,12:10726533
+rs17834080-<b>?</b>,4 x 10-34,,'-,'-,'-,'-,GRIN2B,Refractive error,Abnormality of refraction,GCST010002,12:13886190
+rs6487108-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,PDE3A,Refractive error,Abnormality of refraction,GCST010002,12:20583828
+rs144311425-<b>?</b>,9 x 10-26,,'-,'-,'-,'-,ST8SIA1,Refractive error,Abnormality of refraction,GCST010002,12:22402094
+rs4964008-<b>?</b>,2 x 10-13,,'-,'-,'-,'-,ITPR2,Refractive error,Abnormality of refraction,GCST010002,12:26623627
+rs1489081-<b>?</b>,3 x 10-14,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,12:28910189
+rs7311970-<b>?</b>,8 x 10-10,,'-,'-,'-,'-,DENND5B-AS1,Refractive error,Abnormality of refraction,GCST010002,12:31593113
+rs11181913-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,LINC02461,Refractive error,Abnormality of refraction,GCST010002,12:43180397
+rs1468993-<b>?</b>,2 x 10-29,,'-,'-,'-,'-,ARID2,Refractive error,Abnormality of refraction,GCST010002,12:45761362
+rs11178450-<b>?</b>,5 x 10-26,,'-,'-,'-,'-,PTPRR,Refractive error,Abnormality of refraction,GCST010002,12:70840128
+rs1280632-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,"LINC02823, DCN",Refractive error,Abnormality of refraction,GCST010002,12:91228477
+rs117821803-<b>?</b>,1 x 10-19,,'-,'-,'-,'-,"LINC02410, RNU6-247P",Refractive error,Abnormality of refraction,GCST010002,12:95800808
+rs7136446-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,"LINC02456, IGF1",Refractive error,Abnormality of refraction,GCST010002,12:102444737
+rs17218455-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,TCP11L2,Refractive error,Abnormality of refraction,GCST010002,12:106322663
+rs7315286-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,"TMEM119, ISCU",Refractive error,Abnormality of refraction,GCST010002,12:108586214
+rs34217772-<b>?</b>,1 x 10-39,,'-,'-,'-,'-,LRFN5,Refractive error,Abnormality of refraction,GCST010002,14:41804367
+rs9788504-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,NIN,Refractive error,Abnormality of refraction,GCST010002,14:50803549
+rs2855530-<b>?</b>,2 x 10-59,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs928109-<b>?</b>,6 x 10-11,,'-,'-,'-,'-,OTX2,Refractive error,Abnormality of refraction,GCST010002,14:56812865
+rs1254314-<b>?</b>,2 x 10-40,,'-,'-,'-,'-,C14orf39,Refractive error,Abnormality of refraction,GCST010002,14:60429716
+rs34096978-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,GPHB5,Refractive error,Abnormality of refraction,GCST010002,14:63317663
+rs3211166-<b>?</b>,6 x 10-11,,'-,'-,'-,'-,EXD2,Refractive error,Abnormality of refraction,GCST010002,14:69236441
+rs73294488-<b>?</b>,7 x 10-25,,'-,'-,'-,'-,"NPC2, RAP1AP",Refractive error,Abnormality of refraction,GCST010002,14:74483098
+rs56284621-<b>?</b>,3 x 10-19,,'-,'-,'-,'-,TTC8,Refractive error,Abnormality of refraction,GCST010002,14:88962886
+rs12896393-<b>?</b>,4 x 10-24,,'-,'-,'-,'-,CPSF2,Refractive error,Abnormality of refraction,GCST010002,14:92159559
+rs7144361-<b>?</b>,9 x 10-11,,'-,'-,'-,'-,"TCL6, LINC02318",Refractive error,Abnormality of refraction,GCST010002,14:95636847
+rs4905998-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,"DLK1, LINC00523",Refractive error,Abnormality of refraction,GCST010002,14:100715444
+rs35337422-<b>?</b>,1 x 10-20,,'-,'-,'-,'-,"TDRD9, RD3L",Refractive error,Abnormality of refraction,GCST010002,14:103940906
+rs11161294-<b>?</b>,4 x 10-11,,'-,'-,'-,'-,LINC02248,Refractive error,Abnormality of refraction,GCST010002,15:26362258
+rs79406658-<b>?</b>,1 x 10-15,,'-,'-,'-,'-,OCA2,Refractive error,Abnormality of refraction,GCST010002,15:27742950
+rs3784589-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,TRPM1,Refractive error,Abnormality of refraction,GCST010002,15:31002511
+rs524952-<b>?</b>,2 x 10-245,,'-,'-,'-,'-,"GJD2, LINC02252",Refractive error,Abnormality of refraction,GCST010002,15:34713685
+rs35636169-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,15:36302356
+rs1058734-<b>?</b>,3 x 10-11,,'-,'-,'-,'-,RPUSD2,Refractive error,Abnormality of refraction,GCST010002,15:40569865
+rs2017765-<b>?</b>,3 x 10-24,,'-,'-,'-,'-,FBN1,Refractive error,Abnormality of refraction,GCST010002,15:48457506
+rs8042462-<b>?</b>,6 x 10-12,,'-,'-,'-,'-,SPPL2A,Refractive error,Abnormality of refraction,GCST010002,15:50753419
+rs1912409-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,NEDD4,Refractive error,Abnormality of refraction,GCST010002,15:55866297
+rs55870008-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,RORA,Refractive error,Abnormality of refraction,GCST010002,15:61197115
+rs7162310-<b>?</b>,6 x 10-36,,'-,'-,'-,'-,APH1B,Refractive error,Abnormality of refraction,GCST010002,15:63279035
+rs8042545-<b>?</b>,2 x 10-12,,'-,'-,'-,'-,"SMAD6, LINC01169",Refractive error,Abnormality of refraction,GCST010002,15:66700483
+rs1732579-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,12:115279039
+rs4766878-<b>?</b>,8 x 10-14,,'-,'-,'-,'-,KSR2,Refractive error,Abnormality of refraction,GCST010002,12:117798772
+rs11065286-<b>?</b>,8 x 10-11,,'-,'-,'-,'-,SPPL3,Refractive error,Abnormality of refraction,GCST010002,12:120833931
+rs7307053-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,"ZNF664, RFLNA",Refractive error,Abnormality of refraction,GCST010002,12:124009993
+rs12308700-<b>?</b>,1 x 10-13,,'-,'-,'-,'-,RIMBP2,Refractive error,Abnormality of refraction,GCST010002,12:130673019
+rs905224-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,ZNF891,Refractive error,Abnormality of refraction,GCST010002,12:133107735
+rs587289-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,LATS2,Refractive error,Abnormality of refraction,GCST010002,13:21022044
+rs34961350-<b>?</b>,4 x 10-32,,'-,'-,'-,'-,FLT1,Refractive error,Abnormality of refraction,GCST010002,13:28417765
+rs4769824-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,"KATNAL1, LINC00427",Refractive error,Abnormality of refraction,GCST010002,13:30309202
+rs353-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,FRY,Refractive error,Abnormality of refraction,GCST010002,13:31880212
+rs45502300-<b>?</b>,2 x 10-23,,'-,'-,'-,'-,NBEA,Refractive error,Abnormality of refraction,GCST010002,13:35672375
+rs9526001-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,"LINC00407, LINC00330",Refractive error,Abnormality of refraction,GCST010002,13:44764970
+rs9535263-<b>?</b>,1 x 10-36,,'-,'-,'-,'-,RCBTB1,Refractive error,Abnormality of refraction,GCST010002,13:49563227
+rs9526736-<b>?</b>,9 x 10-9,,'-,'-,'-,'-,FAM124A,Refractive error,Abnormality of refraction,GCST010002,13:51225361
+rs36080062-<b>?</b>,7 x 10-13,,'-,'-,'-,'-,PCDH9,Refractive error,Abnormality of refraction,GCST010002,13:67152698
+rs75012440-<b>?</b>,6 x 10-10,,'-,'-,'-,'-,KLF12,Refractive error,Abnormality of refraction,GCST010002,13:74057103
+rs4052505-<b>?</b>,8 x 10-20,,'-,'-,'-,'-,"LINC01080, LINC00382",Refractive error,Abnormality of refraction,GCST010002,13:79938352
+rs9547035-<b>?</b>,7 x 10-32,,'-,'-,'-,'-,LINC00375,Refractive error,Abnormality of refraction,GCST010002,13:84999361
+rs1328371-<b>?</b>,4 x 10-23,,'-,'-,'-,'-,GPC6,Refractive error,Abnormality of refraction,GCST010002,13:93260532
+rs9562057-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,HS6ST3,Refractive error,Abnormality of refraction,GCST010002,13:96245602
+rs724154-<b>?</b>,2 x 10-76,,'-,'-,'-,'-,"NDUFA12P1, LINC00554",Refractive error,Abnormality of refraction,GCST010002,13:100021362
+rs9521975-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,ANKRD10,Refractive error,Abnormality of refraction,GCST010002,13:110887578
+rs4981370-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,RPGRIP1,Refractive error,Abnormality of refraction,GCST010002,14:21311336
+rs34354104-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,GMPR2,Refractive error,Abnormality of refraction,GCST010002,14:24238273
+rs12883788-<b>?</b>,2 x 10-33,,'-,'-,'-,'-,AKAP6,Refractive error,Abnormality of refraction,GCST010002,14:32834334
+rs75452709-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,"GTPBP3, PLVAP",Refractive error,Abnormality of refraction,GCST010002,19:17344644
+rs2074302-<b>?</b>,4 x 10-29,,'-,'-,'-,'-,TM6SF2,Refractive error,Abnormality of refraction,GCST010002,19:19270919
+rs73035723-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,TSHZ3,Refractive error,Abnormality of refraction,GCST010002,19:31288790
+rs807479-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,PROSER3,Refractive error,Abnormality of refraction,GCST010002,19:35762416
+rs57654288-<b>?</b>,7 x 10-9,,'-,'-,'-,'-,"ZNF571, ZNF540",Refractive error,Abnormality of refraction,GCST010002,19:37587870
+rs429358-<b>?</b>,3 x 10-17,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs75601727-<b>?</b>,1 x 10-27,,'-,'-,'-,'-,"CABP5, ELSPBP1",Refractive error,Abnormality of refraction,GCST010002,19:48028549
+rs11087326-<b>?</b>,1 x 10-12,,'-,'-,'-,'-,STK35,Refractive error,Abnormality of refraction,GCST010002,20:2147038
+rs41281858-<b>?</b>,6 x 10-11,,'-,'-,'-,'-,SLC4A11,Refractive error,Abnormality of refraction,GCST010002,20:3228437
+rs7272323-<b>?</b>,9 x 10-11,,'-,'-,'-,'-,"PRNT, RASSF2",Refractive error,Abnormality of refraction,GCST010002,20:4776045
+rs235770-<b>?</b>,4 x 10-31,,'-,'-,'-,'-,BMP2,Refractive error,Abnormality of refraction,GCST010002,20:6781118
+rs6136407-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,SEC23B,Refractive error,Abnormality of refraction,GCST010002,20:18549211
+rs6137371-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,"NKX2-2, GSTM3P1",Refractive error,Abnormality of refraction,GCST010002,20:21504609
+rs6050351-<b>?</b>,5 x 10-8,,'-,'-,'-,'-,"VSX1, ENTPD6",Refractive error,Abnormality of refraction,GCST010002,20:25137635
+rs2378078-<b>?</b>,5 x 10-19,,'-,'-,'-,'-,"ASIP, RPS2P1",Refractive error,Abnormality of refraction,GCST010002,20:34126922
+rs6120993-<b>?</b>,2 x 10-20,,'-,'-,'-,'-,FER1L4,Refractive error,Abnormality of refraction,GCST010002,20:35597239
+rs6102322-<b>?</b>,7 x 10-10,,'-,'-,'-,'-,ZHX3,Refractive error,Abnormality of refraction,GCST010002,20:41244128
+rs8121964-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,"LINC01728, RNU6-639P",Refractive error,Abnormality of refraction,GCST010002,20:43861117
+rs6099283-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,RNU6-929P,Refractive error,Abnormality of refraction,GCST010002,20:56800805
+rs6070941-<b>?</b>,2 x 10-10,,'-,'-,'-,'-,PHACTR3,Refractive error,Abnormality of refraction,GCST010002,20:59779333
+rs2259858-<b>?</b>,1 x 10-14,,'-,'-,'-,'-,ZGPAT,Refractive error,Abnormality of refraction,GCST010002,20:63715107
+rs2229741-<b>?</b>,1 x 10-29,,'-,'-,'-,'-,NRIP1,Refractive error,Abnormality of refraction,GCST010002,21:14967968
+rs117123217-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,"GRIK1, BACH1",Refractive error,Abnormality of refraction,GCST010002,21:29538307
+rs74848904-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,RUNX1,Refractive error,Abnormality of refraction,GCST010002,21:35239944
+rs2212597-<b>?</b>,5 x 10-11,,'-,'-,'-,'-,ERG,Refractive error,Abnormality of refraction,GCST010002,21:38611480
+rs246073-<b>?</b>,2 x 10-14,,'-,'-,'-,'-,"PCDHAC1, PCDHA5, PCDHA10, PCDHA9, PCDHA11, PCDHA3, PCDHA13, PCDHA12, PCDHA8, PCDHA2, PCDHA7, PCDHA1, PCDHA4, PCDHA6",Refractive error,Abnormality of refraction,GCST010002,5:140937786
+rs1150687-<b>?</b>,4 x 10-34,,'-,'-,'-,'-,"TOB2P1, ZNF192P2",Refractive error,Abnormality of refraction,GCST010002,6:28194691
+rs7634084-<b>?</b>,4 x 10-14,,'-,'-,'-,'-,MON1A,Refractive error,Abnormality of refraction,GCST010002,3:49912401
+rs6946168-<b>?</b>,3 x 10-16,,'-,'-,'-,'-,"ZKSCAN1, AZGP1P1",Refractive error,Abnormality of refraction,GCST010002,7:100000663
+rs3138142-<b>?</b>,6 x 10-174,,'-,'-,'-,'-,RDH5,Refractive error,Abnormality of refraction,GCST010002,12:55721801
+rs61991628-<b>A</b>,2 x 10-8,,0.874,'-,0.0608 unit increase,[0.04-0.082],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,14:41476239
+rs534311-<b>T</b>,2 x 10-8,,0.2578,'-,0.0452 unit increase,[0.029-0.061],KCNA4,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,11:30015235
+rs145283874-<b>T</b>,3 x 10-8,,0.1019,'-,0.0629 unit decrease,[0.041-0.085],"OR2J4P, OR2J2",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:29176755
+rs826222-<b>T</b>,3 x 10-8,,0.6042,'-,0.0395 unit increase,[0.025-0.054],THRB,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,3:24225804
+16:67885110:GTGCG-<b>?</b>,3 x 10-8,,0.033,'-,0.1149 unit decrease,[0.074-0.156],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+7:85738582:TTA_T-<b>?</b>,4 x 10-8,,0.1448,'-,0.0639 unit increase,[0.041-0.087],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs36042294-<b>C</b>,4 x 10-8,,0.8318,'-,0.0603 unit increase,[0.039-0.082],"GPR89P, RSL24D1P1",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:27752933
+rs35909544-<b>A</b>,4 x 10-8,,0.1042,'-,0.0625 unit decrease,[0.04-0.085],"RPL10P2, MIR3143",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:27195677
+rs714832-<b>A</b>,4 x 10-8,,0.3481,'-,0.0402 unit increase,[0.026-0.055],NOG,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:56660896
+rs79504986-<b>A</b>,5 x 10-8,,0.0126,'-,0.167 unit decrease,[0.11-0.23],CFAP299,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,4:80810763
+rs79501380-<b>A</b>,5 x 10-8,,0.0162,'-,0.2733 unit increase,[0.18-0.37],"TRAV16, TRAV17",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,14:21992048
+rs12193446-<b>A</b>,4 x 10-84,,0.9063,'-,19.431 z score decrease,[NR],LAMA2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:129498893
+rs524952-<b>A</b>,2 x 10-65,,0.4748,'-,17.075 z score decrease,[NR],"GJD2, LINC02252",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,15:34713685
+rs7744813-<b>A</b>,5 x 10-48,,0.5905,'-,14.555 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs11602008-<b>A</b>,2 x 10-44,,0.822,'-,13.978 z score increase,[NR],LRRC4C,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:40127755
+rs3138141-<b>A</b>,2 x 10-43,,0.214,'-,13.803 z score increase,[NR],RDH5,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:55721994
+rs10500355-<b>A</b>,6 x 10-43,,0.3543,'-,13.732 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs72621438-<b>C</b>,2 x 10-39,,0.6415,'-,13.137 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:59266021
+rs1550094-<b>A</b>,4 x 10-37,,0.7005,'-,12.738 z score increase,[NR],PRSS56,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:232520686
+rs2908972-<b>A</b>,9 x 10-29,,0.4146,'-,11.125 z score decrease,[NR],SHISA6,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:11503942
+rs7829127-<b>A</b>,1 x 10-27,,0.7917,'-,10.911 z score decrease,[NR],ZMAT4,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:40868875
+rs6495367-<b>A</b>,2 x 10-24,,0.4075,'-,10.202 z score decrease,[NR],RASGRF1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,15:79083005
+rs11145465-<b>A</b>,1 x 10-21,,0.2122,'-,9.546 z score decrease,[NR],TJP2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,9:69151677
+rs1649068-<b>A</b>,4 x 10-21,,0.4747,'-,9.439 z score decrease,[NR],BICC1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:58545104
+rs7692381-<b>A</b>,6 x 10-21,,0.7625,'-,9.398 z score increase,[NR],"CFAP299, BMP3",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,4:80981895
+rs36024104-<b>A</b>,1 x 10-19,,0.8227,'-,9.09 z score increase,[NR],LRFN5,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,14:41825790
+rs56075542-<b>T</b>,2 x 10-19,,0.5523,'-,8.994 z score decrease,[NR],RNU7-2P,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:146124847
+rs7895108-<b>T</b>,8 x 10-19,,0.3513,'-,8.866 z score decrease,[NR],KCNMA1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:77301700
+rs7456039-<b>C</b>,1 x 10-18,,0.1829,'-,8.817 z score increase,[NR],"OR7E136P, UNC93B2",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,7:6862079
+rs7624084-<b>T</b>,1 x 10-18,,0.5676,'-,8.811 z score decrease,[NR],ZBTB38,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:141374443
+rs1556867-<b>T</b>,1 x 10-18,,0.2641,'-,8.806 z score decrease,[NR],NMNAT1P2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:164244449
+rs62070229-<b>A</b>,1 x 10-17,,0.8065,'-,8.578 z score increase,[NR],"TMEM98, MYO1D",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:32900575
+rs2855530-<b>C</b>,1 x 10-17,,0.5067,'-,8.575 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs7662551-<b>A</b>,1 x 10-17,,0.7232,'-,8.53 z score increase,[NR],LINC00989,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,4:79616484
+rs9517964-<b>T</b>,4 x 10-17,,0.589,'-,8.423 z score increase,[NR],PCCA-DT,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,13:100065579
+rs1954761-<b>T</b>,5 x 10-17,,0.371,'-,8.397 z score decrease,[NR],GRIA4,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:105726159
+rs745480-<b>C</b>,9 x 10-17,,0.5109,'-,8.314 z score increase,[NR],"LRIT2, RGR",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:84226798
+rs2573081-<b>C</b>,2 x 10-16,,0.5235,'-,8.212 z score increase,[NR],PDE11A,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:177963780
+rs17428076-<b>C</b>,3 x 10-16,,0.768,'-,8.183 z score decrease,[NR],SLC25A12,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:171987022
+rs12667032-<b>A</b>,1 x 10-15,,0.1522,'-,7.994 z score increase,[NR],DPP6,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,7:154614871
+rs2225986-<b>A</b>,2 x 10-15,,0.3812,'-,7.963 z score decrease,[NR],LINC00862,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:200342782
+rs1207782-<b>T</b>,2 x 10-15,,0.5768,'-,7.915 z score decrease,[NR],CASC15,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:22059738
+rs72826094-<b>A</b>,3 x 10-15,,0.7991,'-,7.883 z score increase,[NR],TCF7L2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:113041729
+rs297593-<b>T</b>,5 x 10-15,,0.2856,'-,7.816 z score decrease,[NR],GPD2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:156507231
+rs5442-<b>A</b>,5 x 10-15,,0.0683,'-,7.815 z score decrease,[NR],"GNB3, CDCA3",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:6845700
+rs10880855-<b>T</b>,7 x 10-15,,0.5068,'-,7.778 z score decrease,[NR],ARID2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:45751072
+rs2155413-<b>A</b>,9 x 10-15,,0.4823,'-,7.755 z score decrease,[NR],DLG2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:84923746
+rs12405776-<b>T</b>,1 x 10-14,,0.2195,'-,7.746 z score increase,[NR],PLD5,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:242268255
+rs2150458-<b>A</b>,1 x 10-14,,0.4546,'-,7.735 z score increase,[NR],"PCBP3, COL6A1",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,21:45957382
+rs12898755-<b>A</b>,5 x 10-14,,0.2453,'-,7.533 z score increase,[NR],APH1B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,15:63282442
+rs8075280-<b>A</b>,9 x 10-9,,0.4211,'-,5.754 z score increase,[NR],"POLR2A, Y_RNA",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:7531502
+rs9680365-<b>A</b>,9 x 10-9,,0.04,'-,5.751 z score decrease,[NR],"GRIK1, BACH1",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,21:29556411
+rs931302-<b>T</b>,9 x 10-9,,0.3094,'-,5.746 z score decrease,[NR],SUMF1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:4168930
+rs7971334-<b>T</b>,1 x 10-8,,0.3065,'-,5.724 z score decrease,[NR],PDE3A,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:20567773
+rs1532278-<b>T</b>,1 x 10-8,,0.3837,'-,5.688 z score decrease,[NR],CLU,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:27608798
+rs9547035-<b>T</b>,1 x 10-8,,0.716,'-,5.687 z score increase,[NR],LINC00375,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,13:84999361
+rs4260345-<b>T</b>,2 x 10-8,,0.6208,'-,5.662 z score increase,[NR],THRB,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:24215207
+rs9416017-<b>T</b>,2 x 10-8,,0.4034,'-,5.655 z score decrease,[NR],DNAJB12,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:72340521
+rs4894529-<b>A</b>,2 x 10-8,,0.4833,'-,5.646 z score increase,[NR],FNDC3B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:172241894
+11:30281122:D-<b>C</b>,2 x 10-8,,0.7441,'-,5.591 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs10104039-<b>T</b>,2 x 10-8,,0.3975,'-,5.582 z score decrease,[NR],"BIN3, EGR3",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:22680871
+rs1994840-<b>A</b>,3 x 10-8,,0.747,'-,5.566 z score increase,[NR],CFAP299,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,4:80786372
+11:128787963:D-<b>A</b>,3 x 10-8,,0.6903,'-,5.545 z score increase,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs4795364-<b>A</b>,3 x 10-8,,0.744,'-,5.532 z score increase,[NR],MED1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:39420293
+rs7737179-<b>A</b>,3 x 10-8,,0.2542,'-,5.527 z score decrease,[NR],"LINC00461, TMEM161B-AS1",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,5:88499708
+rs2116093-<b>C</b>,3 x 10-8,,0.4303,'-,5.527 z score increase,[NR],PINX1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:10755789
+rs1358684-<b>T</b>,4 x 10-8,,0.7086,'-,5.512 z score increase,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,7:86474086
+rs1983554-<b>A</b>,4 x 10-8,,0.3611,'-,5.51 z score decrease,[NR],MEI1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,22:41798557
+rs7449443-<b>T</b>,4 x 10-8,,0.5968,'-,5.51 z score decrease,[NR],ARL2BPP6,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,5:175293890
+rs10122788-<b>A</b>,4 x 10-8,,0.5603,'-,5.491 z score increase,[NR],MVB12B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,9:126444553
+rs28658452-<b>A</b>,4 x 10-8,,0.9147,'-,5.49 z score decrease,[NR],GACAT3,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:16093946
+rs7941828-<b>T</b>,4 x 10-8,,0.3396,'-,5.483 z score increase,[NR],MPPED2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:30408784
+rs4237284-<b>A</b>,4 x 10-8,,0.6024,'-,5.476 z score decrease,[NR],LRMDA,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:76055089
+rs807037-<b>C</b>,5 x 10-8,,0.6532,'-,5.466 z score decrease,[NR],KAZALD1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:101064592
+rs7107014-<b>A</b>,5 x 10-8,,0.4973,'-,5.459 z score increase,[NR],"API5, HNRNPKP3",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:43286261
+rs1555075-<b>T</b>,5 x 10-10,,0.3145,'-,6.215 z score increase,[NR],RALY,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,20:34022595
+rs11802995-<b>A</b>,6 x 10-10,,0.7592,'-,6.203 z score increase,[NR],KIRREL1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:158083234
+rs4764038-<b>T</b>,6 x 10-10,,0.2543,'-,6.196 z score decrease,[NR],GRIN2B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:13909703
+rs7337610-<b>T</b>,8 x 10-10,,0.391,'-,6.144 z score decrease,[NR],FLT1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,13:28388529
+rs2229742-<b>C</b>,9 x 10-10,,0.1047,'-,6.121 z score decrease,[NR],NRIP1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,21:14966851
+rs478304-<b>T</b>,1 x 10-9,,0.5173,'-,6.099 z score increase,[NR],"KRT8P26, RNASEH2C",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:65726789
+rs2303635-<b>C</b>,1 x 10-9,,0.975,'-,6.088 z score decrease,[NR],AMOTL2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:134367514
+rs117735470-<b>A</b>,1 x 10-9,,0.0894,'-,6.07 z score decrease,[NR],"ST8SIA1, C2CD5",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:22439719
+rs4808962-<b>A</b>,1 x 10-9,,0.8296,'-,6.056 z score increase,[NR],GATAD2A,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,19:19468748
+rs10458138-<b>A</b>,1 x 10-9,,0.2377,'-,6.049 z score decrease,[NR],GMDS-DT,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:2429509
+rs144370238-<b>T</b>,1 x 10-9,,0.011,'-,6.046 z score decrease,[NR],SSR1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:7317250
+rs10760673-<b>A</b>,2 x 10-9,,0.2274,'-,5.986 z score decrease,[NR],TGFBR1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,9:99116340
+17:56619441:I-<b>CA</b>,3 x 10-9,,0.2504,'-,5.954 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs6420484-<b>A</b>,3 x 10-9,,0.3554,'-,5.943 z score decrease,[NR],"TSPAN10, NPLOC4",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:81645371
+rs79266634-<b>C</b>,3 x 10-9,,0.0926,'-,5.932 z score decrease,[NR],RBFOX1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,16:7259046
+rs235770-<b>T</b>,3 x 10-9,,0.3717,'-,5.926 z score decrease,[NR],BMP2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,20:6781118
+8:121622778:D-<b>G</b>,4 x 10-9,,0.5647,'-,5.9 z score increase,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs9606967-<b>C</b>,4 x 10-9,,0.2061,'-,5.866 z score decrease,[NR],"FBXO7, SYN3",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,22:32503529
+rs11210537-<b>A</b>,6 x 10-9,,0.3393,'-,5.824 z score increase,[NR],HIVEP3,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:41880052
+rs1237670-<b>A</b>,6 x 10-9,,0.7753,'-,5.815 z score increase,[NR],LINC01357,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:112875793
+rs34539187-<b>C</b>,6 x 10-9,,0.88,'-,5.808 z score decrease,[NR],FBN1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,15:48464339
+rs11952819-<b>T</b>,7 x 10-9,,0.2763,'-,5.795 z score decrease,[NR],ZNF366,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,5:72484206
+rs4805962-<b>T</b>,8 x 10-9,,0.8066,'-,5.773 z score decrease,[NR],"RPS4XP23, RN7SL150P",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,19:33941325
+rs17032696-<b>A</b>,8 x 10-9,,0.7718,'-,5.766 z score decrease,[NR],LINC01833,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:44910731
+rs2745953-<b>A</b>,8 x 10-9,,0.7128,'-,5.759 z score increase,[NR],CD34,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:207889628
+rs7789096-<b>A</b>,5 x 10-8,,0.6315,'-,5.455 z score increase,[NR],PIP5K1P2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,7:159300658
+rs11202704-<b>T</b>,1 x 10-8,,0.7262,'-,0.0454 unit decrease,[0.03-0.061],RNLS,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,10:88295142
+rs13217285-<b>T</b>,1 x 10-8,,0.1023,'-,0.0647 unit decrease,[0.042-0.087],LINC00240,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:27032066
+rs10824518-<b>A</b>,3 x 10-16,,0.3531,'-,0.0597 unit decrease,[0.045-0.074],KCNMA1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,10:77303784
+rs7624084-<b>T</b>,7 x 10-16,,0.5679,'-,0.0573 unit decrease,[0.043-0.071],ZBTB38,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,3:141374443
+rs72890842-<b>T</b>,7 x 10-16,,0.7629,'-,0.0673 unit decrease,[0.051-0.084],"SLC25A12, HAT1",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:171978369
+rs9513696-<b>A</b>,2 x 10-15,,0.4444,'-,0.0558 unit decrease,[0.042-0.07],"NDUFA12P1, PCCA-DT",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,13:100040748
+rs629631-<b>T</b>,2 x 10-15,,0.1295,'-,0.1346 unit increase,[0.1-0.17],PRTN3,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,19:846041
+rs57382675-<b>A</b>,3 x 10-15,,0.76,'-,0.0641 unit increase,[0.048-0.08],LINC01307,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,1:164238976
+15:79372468:A_ATG-<b>?</b>,3 x 10-15,,0.3878,'-,0.063 unit decrease,[0.047-0.079],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs11145461-<b>T</b>,3 x 10-15,,0.21,'-,0.0668 unit decrease,[0.05-0.083],TJP2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,9:69151203
+rs11872104-<b>A</b>,8 x 10-15,,0.7921,'-,0.0848 unit decrease,[0.063-0.106],"ANKRD20A5P, CYP4F35P",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,18:14265826
+rs2738265-<b>C</b>,1 x 10-13,,0.4351,'-,0.0525 unit increase,[0.039-0.066],BMP4,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,14:53955681
+rs10887265-<b>C</b>,2 x 10-13,,0.3235,'-,0.0568 unit decrease,[0.042-0.072],RGR,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,10:84255817
+rs4141671-<b>T</b>,3 x 10-13,,0.5241,'-,0.0515 unit increase,[0.038-0.065],BICC1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,10:58578993
+rs3213636-<b>A</b>,5 x 10-13,,0.2465,'-,0.1054 unit increase,[0.077-0.134],"TBC1D3B, RN7SL301P",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:36147750
+rs62075723-<b>A</b>,6 x 10-13,,0.6304,'-,0.0568 unit increase,[0.041-0.072],"TSPAN10, NPLOC4",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:81644300
+rs3745548-<b>T</b>,9 x 10-13,,0.0147,'-,0.4723 unit increase,[0.34-0.6],INSR,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,19:7152692
+rs5442-<b>A</b>,9 x 10-13,,0.0662,'-,0.0977 unit decrease,[0.071-0.125],"GNB3, CDCA3",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,12:6845700
+rs2303635-<b>C</b>,1 x 10-12,,0.9926,'-,0.8739 unit decrease,[0.63-1.12],AMOTL2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,3:134367514
+rs1790165-<b>A</b>,2 x 10-12,,0.423,'-,0.0504 unit increase,[0.036-0.065],NTM,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,11:132059077
+rs2162488-<b>T</b>,3 x 10-12,,0.8239,'-,0.1078 unit decrease,[0.078-0.138],"IGKV2D-18, IGKV6D-41",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:90067545
+rs56299331-<b>T</b>,3 x 10-12,,0.2027,'-,0.0608 unit decrease,[0.044-0.078],TCF7L2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,10:113028677
+rs7662551-<b>A</b>,3 x 10-12,,0.7478,'-,0.056 unit increase,[0.04-0.072],LINC00989,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,4:79616484
+rs8132840-<b>A</b>,4 x 10-12,,0.5722,'-,0.0502 unit decrease,[0.036-0.064],PCBP3,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,21:45906833
+rs7253703-<b>A</b>,4 x 10-12,,0.9869,'-,0.512 unit decrease,[0.37-0.66],"KLF2-DT, AP1M1",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,19:16265899
+rs12193446-<b>A</b>,4 x 10-86,,0.9058,'-,0.2514 unit decrease,[0.23-0.28],LAMA2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:129498893
+rs148844282-<b>T</b>,9 x 10-83,,0.4846,'-,0.1976 unit decrease,[0.18-0.22],IL3RA,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,X:1353610
+rs11602008-<b>A</b>,5 x 10-49,,0.8294,'-,0.1349 unit increase,[0.12-0.15],LRRC4C,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,11:40127755
+rs524952-<b>A</b>,5 x 10-45,,0.4719,'-,0.099 unit decrease,[0.085-0.113],"GJD2, LINC02252",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,15:34713685
+rs17648524-<b>C</b>,3 x 10-42,,0.3664,'-,0.0986 unit decrease,[0.084-0.113],RBFOX1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:7409682
+rs3138141-<b>A</b>,4 x 10-42,,0.2244,'-,0.1201 unit increase,[0.1-0.14],RDH5,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,12:55721994
+rs7744813-<b>A</b>,7 x 10-38,,0.5927,'-,0.0928 unit decrease,[0.079-0.107],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs72621438-<b>C</b>,2 x 10-30,,0.6443,'-,0.0851 unit decrease,[0.071-0.1],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,8:59266021
+rs7456039-<b>C</b>,5 x 10-30,,0.2005,'-,0.202 unit increase,[0.17-0.24],"OR7E136P, UNC93B2",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,7:6862079
+rs1550094-<b>A</b>,6 x 10-30,,0.6934,'-,0.0861 unit increase,[0.071-0.101],PRSS56,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:232520686
+rs2272774-<b>T</b>,4 x 10-28,,0.9919,'-,1.801 unit decrease,[1.48-2.12],"C8orf44-SGK3, SGK3",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,8:66847065
+22:23069851:A_ATG-<b>?</b>,1 x 10-27,,0.0467,'-,0.3615 unit increase,[0.3-0.43],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs12667032-<b>A</b>,1 x 10-26,,0.0137,'-,0.9345 unit increase,[0.76-1.11],DPP6,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,7:154614871
+rs7829127-<b>A</b>,8 x 10-26,,0.7844,'-,0.0915 unit decrease,[0.074-0.109],ZMAT4,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,8:40868875
+rs12998513-<b>A</b>,2 x 10-25,,0.955,'-,0.4513 unit decrease,[0.37-0.54],LINC01237,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:241937348
+rs28488643-<b>T</b>,2 x 10-24,,0.9895,'-,1.3391 unit decrease,[1.08-1.6],TRIM25,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:56880732
+rs12405776-<b>T</b>,4 x 10-24,,0.0709,'-,0.2263 unit increase,[0.18-0.27],PLD5,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,1:242268255
+rs7067005-<b>T</b>,2 x 10-22,,0.0154,'-,0.884 unit increase,[0.71-1.06],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,X:140232304
+rs7286621-<b>A</b>,1 x 10-20,,0.9927,'-,1.7808 unit decrease,[1.41-2.16],"IGLV11-55, IGLV10-54",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,22:22214238
+rs5022942-<b>A</b>,3 x 10-19,,0.2304,'-,0.0743 unit decrease,[0.058-0.091],BMP3,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,4:81038812
+rs61049169-<b>A</b>,8 x 10-19,,0.4401,'-,0.0629 unit increase,[0.049-0.077],RNU7-2P,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:146131140
+rs2908972-<b>A</b>,8 x 10-19,,0.4029,'-,0.0637 unit decrease,[0.05-0.078],SHISA6,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:11503942
+rs17400325-<b>T</b>,8 x 10-17,,0.9555,'-,0.1383 unit increase,[0.11-0.17],"PDE11A-AS1, PDE11A",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:177701185
+rs36024104-<b>A</b>,8 x 10-17,,0.8258,'-,0.0761 unit increase,[0.058-0.094],LRFN5,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,14:41825790
+rs2155413-<b>A</b>,2 x 10-16,,0.4677,'-,0.0576 unit decrease,[0.044-0.071],DLG2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,11:84923746
+rs114374770-<b>A</b>,4 x 10-12,,0.8562,'-,0.0765 unit increase,[0.055-0.098],"RPSAP2, NOP56P1",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:28735854
+rs7754960-<b>C</b>,4 x 10-12,,0.2451,'-,0.0559 unit decrease,[0.04-0.072],ZSCAN12,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:28379168
+rs62067167-<b>T</b>,4 x 10-12,,0.1957,'-,0.0632 unit decrease,[0.045-0.081],"MYO1D, TMEM98",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:32924693
+rs77676437-<b>T</b>,5 x 10-12,,0.2019,'-,0.0616 unit increase,[0.044-0.079],ANTXR2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,4:79922639
+rs4805962-<b>T</b>,6 x 10-12,,0.8276,'-,0.0884 unit decrease,[0.063-0.113],"RPS4XP23, RN7SL150P",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,19:33941325
+rs715315-<b>T</b>,6 x 10-12,,0.4941,'-,0.0486 unit increase,[0.035-0.063],DSCAML1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,11:117786059
+rs10919908-<b>A</b>,7 x 10-12,,0.3655,'-,0.0507 unit decrease,[0.036-0.065],LINC00862,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,1:200346404
+rs57391541-<b>T</b>,8 x 10-12,,0.7319,'-,0.0809 unit decrease,[0.058-0.104],"IGHVII-53-1, IGHV3-53",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,14:106598586
+rs12965607-<b>T</b>,8 x 10-12,,0.8539,'-,0.0678 unit increase,[0.048-0.087],MYO5B,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,18:49864655
+rs6602906-<b>A</b>,8 x 10-12,,0.3553,'-,0.0843 unit increase,[0.06-0.108],GAS6,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,13:113862549
+rs28613963-<b>T</b>,2 x 10-11,,0.909,'-,0.1783 unit decrease,[0.13-0.23],"TRBV6-7, TRBV5-5",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,7:142486150
+rs7968679-<b>A</b>,2 x 10-11,,0.6975,'-,0.0513 unit increase,[0.036-0.066],PZP,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,12:9160708
+rs12883788-<b>T</b>,4 x 10-11,,0.4319,'-,0.0491 unit increase,[0.035-0.064],AKAP6,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,14:32834334
+rs80124906-<b>A</b>,5 x 10-11,,0.0083,'-,0.6211 unit increase,[0.44-0.81],CDH13,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:82660617
+rs1064583-<b>A</b>,7 x 10-11,,0.612,'-,0.0467 unit increase,[0.033-0.061],"NT5DC1, COL10A1",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:116125413
+rs12001208-<b>T</b>,7 x 10-11,,0.6604,'-,0.0528 unit increase,[0.037-0.069],"KLF9, TRPM3",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,9:70453836
+rs7275394-<b>A</b>,8 x 10-11,,0.0231,'-,0.2892 unit increase,[0.2-0.38],TIAM1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,21:31403794
+14:92594579:C_CA-<b>?</b>,8 x 10-11,,0.1773,'-,0.064 unit increase,[0.045-0.083],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs2823141-<b>A</b>,9 x 10-11,,0.4078,'-,0.046 unit decrease,[0.032-0.06],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,21:15207485
+rs479445-<b>A</b>,9 x 10-11,,0.3264,'-,0.0481 unit decrease,[0.034-0.063],NFIA,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,1:60875960
+rs873693-<b>A</b>,2 x 10-10,,0.2823,'-,0.0841 unit increase,[0.058-0.11],PKD1L2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:81176110
+rs297587-<b>A</b>,2 x 10-10,,0.2862,'-,0.0497 unit decrease,[0.034-0.065],GPD2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,2:156499948
+rs4768672-<b>T</b>,2 x 10-10,,0.3113,'-,0.0478 unit decrease,[0.033-0.063],SCAF11,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,12:45996266
+rs7333969-<b>T</b>,2 x 10-10,,0.6836,'-,0.0481 unit decrease,[0.033-0.063],RCBTB1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,13:49549181
+rs7028032-<b>T</b>,3 x 10-10,,0.412,'-,0.045 unit increase,[0.031-0.059],ADAMTSL1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,9:18362603
+rs73451523-<b>A</b>,4 x 10-10,,0.9812,'-,0.2714 unit decrease,[0.19-0.36],PDHA1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,X:19253943
+11:105665158:GGT_G-<b>?</b>,5 x 10-10,,0.618,'-,0.0477 unit increase,[0.033-0.063],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs12898755-<b>A</b>,6 x 10-10,,0.2177,'-,0.0533 unit increase,[0.036-0.07],APH1B,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,15:63282442
+rs62236760-<b>A</b>,6 x 10-10,,0.293,'-,0.0473 unit decrease,[0.032-0.062],LMCD1-AS1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,3:8156896
+rs80253120-<b>T</b>,8 x 10-10,,0.6261,'-,0.0525 unit increase,[0.036-0.069],"CDRT15, COX10",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,17:14235190
+rs11913426-<b>A</b>,8 x 10-10,,0.977,'-,0.2963 unit decrease,[0.2-0.39],"IGLVVII-41-1, IGLV1-41",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,22:22399150
+rs139292688-<b>T</b>,9 x 10-10,,0.2373,'-,0.064 unit increase,[0.044-0.084],HYDIN,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:70871737
+rs232660-<b>A</b>,1 x 10-9,,0.9521,'-,0.147 unit decrease,[0.1-0.194],LINC01428,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,20:7110965
+rs10910076-<b>A</b>,1 x 10-9,,0.9927,'-,0.648 unit decrease,[0.44-0.86],PLCH2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,1:2448840
+rs4785742-<b>T</b>,2 x 10-9,,0.2856,'-,0.0512 unit decrease,[0.035-0.068],"TUBB3, DEF8",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:89939153
+rs11101263-<b>T</b>,2 x 10-9,,0.2672,'-,0.047 unit decrease,[0.032-0.062],FRMPD2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,10:48206138
+rs334354-<b>A</b>,3 x 10-9,,0.1988,'-,0.0515 unit decrease,[0.034-0.069],TGFBR1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,9:99146633
+rs411535-<b>A</b>,3 x 10-9,,0.611,'-,0.0429 unit decrease,[0.029-0.057],CASC15,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:22060811
+13:85599496:GA_G-<b>?</b>,4 x 10-9,,0.2839,'-,0.0464 unit decrease,[0.031-0.062],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,Mapping not available
+rs17274750-<b>A</b>,5 x 10-9,,0.9063,'-,0.07 unit increase,[0.047-0.093],NRIP1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,21:14981488
+rs9508026-<b>T</b>,5 x 10-9,,0.2993,'-,0.0451 unit decrease,[0.03-0.06],FLT1,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,13:28410263
+rs77409432-<b>A</b>,6 x 10-9,,0.0185,'-,0.2585 unit increase,[0.17-0.35],CIITA,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:10921462
+rs10011267-<b>T</b>,8 x 10-9,,0.2432,'-,0.0481 unit increase,[0.032-0.064],FAM13A,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,4:88838583
+rs9972635-<b>T</b>,8 x 10-9,,0.9392,'-,0.0842 unit increase,[0.056-0.113],CARMIL2,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,16:67648677
+rs6875688-<b>T</b>,8 x 10-9,,0.1112,'-,0.0952 unit increase,[0.063-0.128],ZDHHC11,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,5:818364
+rs77016368-<b>A</b>,1 x 10-8,,0.0057,'-,0.5618 unit increase,[0.37-0.75],GRM7,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,3:6814497
+rs114827547-<b>A</b>,1 x 10-8,,0.7816,'-,0.0474 unit increase,[0.031-0.064],"OR5V1, DDX6P1",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,6:29338573
+rs1549426-<b>T</b>,2 x 10-8,,0.487,'-,0.0396 unit decrease,[0.026-0.053],"A2MP1, SNORA75",Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,12:9282648
+rs1344035-<b>T</b>,2 x 10-8,,0.5332,'-,0.0343 unit increase,[0.022-0.046],RAC1P4,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,X:137418604
+rs837335-<b>C</b>,2 x 10-8,,0.5164,'-,0.04 unit increase,[0.026-0.054],PCCA,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,13:100527943
+rs192021326-<b>T</b>,2 x 10-107,,0.1918,'-,0.1687 unit decrease,[0.15-0.18],'-,Myopia (age of diagnosis),"age at onset, Myopia",GCST006290,X:16426
+rs9681162-<b>T</b>,2 x 10-11,,0.6799,'-,6.699 z score increase,[NR],LMCD1-AS1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:8153047
+rs11589487-<b>A</b>,3 x 10-11,,0.4451,'-,6.665 z score increase,[NR],NFIA,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:60876557
+rs1454776-<b>T</b>,3 x 10-11,,0.4939,'-,6.65 z score increase,[NR],IMPDH1P8,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:15967537
+rs2166181-<b>A</b>,3 x 10-11,,0.519,'-,6.642 z score increase,[NR],RASGEF1B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,4:81501173
+rs10187371-<b>T</b>,5 x 10-11,,0.1862,'-,6.561 z score decrease,[NR],ZEB2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:144468803
+rs4687586-<b>C</b>,6 x 10-11,,0.6905,'-,6.547 z score decrease,[NR],CACNA1D,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,3:53803944
+rs11160044-<b>A</b>,7 x 10-11,,0.2086,'-,6.531 z score increase,[NR],NDUFB1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,14:92116311
+rs1064583-<b>A</b>,7 x 10-11,,0.6162,'-,6.523 z score increase,[NR],"NT5DC1, COL10A1",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:116125413
+rs2753462-<b>C</b>,8 x 10-11,,0.2955,'-,6.494 z score decrease,[NR],"LINC02322, C14orf39",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,14:60383985
+rs41393947-<b>A</b>,1 x 10-10,,0.132,'-,6.42 z score decrease,[NR],"EFEMP1, PNPT1",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:55784382
+rs6753137-<b>T</b>,2 x 10-10,,0.4556,'-,6.39 z score decrease,[NR],"LINC01865, ALKAL2",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:301051
+rs1969091-<b>A</b>,2 x 10-10,,0.2921,'-,6.365 z score increase,[NR],MEX3B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,15:82034434
+rs35337422-<b>A</b>,2 x 10-10,,0.8552,'-,6.347 z score increase,[NR],"TDRD9, RD3L",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,14:103940906
+rs116226959-<b>A</b>,3 x 10-10,,0.2183,'-,6.327 z score decrease,[NR],ZBED9,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:28579175
+rs837323-<b>T</b>,3 x 10-10,,0.5115,'-,6.318 z score increase,[NR],PCCA,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,13:100523410
+rs11654644-<b>T</b>,3 x 10-10,,0.2101,'-,6.316 z score decrease,[NR],"B4GALNT2, GNGT2",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:49186113
+rs17382981-<b>T</b>,3 x 10-10,,0.4172,'-,6.314 z score decrease,[NR],"NIP7P1, XRCC6P1",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:93193501
+rs1359543-<b>A</b>,3 x 10-10,,0.5794,'-,6.301 z score decrease,[NR],RCBTB1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,13:49585029
+rs28891973-<b>A</b>,4 x 10-10,,0.4246,'-,6.27 z score increase,[NR],"TRAM1, RN7SL203P",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:70507832
+rs3213636-<b>A</b>,4 x 10-10,,0.2385,'-,6.262 z score increase,[NR],"TBC1D3B, RN7SL301P",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:36147750
+rs9516194-<b>A</b>,4 x 10-10,,0.4901,'-,6.245 z score increase,[NR],GPC6,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,13:93207245
+rs12883788-<b>T</b>,4 x 10-10,,0.425,'-,6.244 z score increase,[NR],AKAP6,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,14:32834334
+rs9388766-<b>T</b>,5 x 10-10,,0.298,'-,6.234 z score increase,[NR],L3MBTL3,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:130033710
+rs17125093-<b>A</b>,5 x 10-10,,0.2163,'-,6.232 z score decrease,[NR],TTC8,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,14:88962604
+rs60884546-<b>A</b>,5 x 10-10,,0.025,'-,6.226 z score decrease,[NR],VIPR2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,7:159081907
+rs7122817-<b>A</b>,6 x 10-14,,0.5072,'-,7.514 z score increase,[NR],DSCAML1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:117786964
+rs11178469-<b>T</b>,1 x 10-13,,0.7524,'-,7.403 z score decrease,[NR],PTPRR,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:70881357
+rs10511652-<b>A</b>,2 x 10-13,,0.416,'-,7.355 z score increase,[NR],ADAMTSL1,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,9:18362867
+rs11101263-<b>T</b>,2 x 10-13,,0.2582,'-,7.329 z score decrease,[NR],FRMPD2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:48206138
+rs11118367-<b>T</b>,3 x 10-13,,0.4824,'-,7.288 z score decrease,[NR],"ZC3H11B, SLC30A10",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:219616879
+rs1858001-<b>C</b>,3 x 10-13,,0.6761,'-,7.276 z score increase,[NR],"C4BPAP2, CD55",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,1:207314659
+rs9395623-<b>A</b>,4 x 10-13,,0.3149,'-,7.25 z score increase,[NR],"TFAP2D, TFAP2B",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:50789986
+rs284816-<b>A</b>,6 x 10-13,,0.1632,'-,7.212 z score decrease,[NR],ST18,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:52449585
+rs4793501-<b>T</b>,6 x 10-13,,0.5748,'-,7.212 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:70722593
+rs12965607-<b>T</b>,2 x 10-12,,0.8573,'-,7.073 z score increase,[NR],MYO5B,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,18:49864655
+rs7747-<b>T</b>,2 x 10-12,,0.2022,'-,7.031 z score increase,[NR],ANTXR2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,4:79905908
+rs12451582-<b>A</b>,2 x 10-12,,0.3687,'-,7.02 z score increase,[NR],NOG,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:56657282
+rs80253120-<b>T</b>,3 x 10-12,,0.6259,'-,6.966 z score increase,[NR],"CDRT15, COX10",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,17:14235190
+22:23069851:I-<b>ATG</b>,4 x 10-12,,0.0835,'-,6.954 z score increase,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,Mapping not available
+rs7968679-<b>A</b>,4 x 10-12,,0.7004,'-,6.95 z score increase,[NR],PZP,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,12:9160708
+rs11202736-<b>A</b>,5 x 10-12,,0.7168,'-,6.919 z score decrease,[NR],RNLS,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,10:88382446
+rs11088317-<b>T</b>,5 x 10-12,,0.2871,'-,6.895 z score decrease,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,21:15201802
+rs10853531-<b>A</b>,6 x 10-12,,0.1996,'-,6.882 z score increase,[NR],SLC14A2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,18:45244484
+rs72655575-<b>A</b>,7 x 10-12,,0.2013,'-,6.867 z score increase,[NR],'-,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,8:59643950
+rs12998513-<b>A</b>,7 x 10-12,,0.8802,'-,6.855 z score decrease,[NR],LINC01237,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,2:241937348
+rs1790165-<b>A</b>,7 x 10-12,,0.4113,'-,6.854 z score increase,[NR],NTM,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:132059077
+rs7042950-<b>A</b>,1 x 10-11,,0.7323,'-,6.797 z score increase,[NR],RORB,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,9:74534921
+rs511217-<b>A</b>,1 x 10-11,,0.738,'-,6.793 z score decrease,[NR],"LINC02755, KCNA4",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,11:30008401
+rs1150687-<b>T</b>,1 x 10-11,,0.6192,'-,6.784 z score increase,[NR],"TOB2P1, ZNF192P2",Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,6:28194691
+rs56055503-<b>A</b>,2 x 10-11,,0.7513,'-,6.719 z score decrease,[NR],DYNLRB2,Spherical equivalent or myopia (age of diagnosis),"age at onset, Myopia, refractive error measurement",GCST006291,16:80498797
+rs7823896-<b>?</b>,3 x 10-6,,0.16,'-,'-,[NR],"NUDCD1, TRHR",Myopia (pathological),pathological myopia,GCST001712,8:109205037
+rs999556-<b>?</b>,1 x 10-15,,0.2722,'-,'-,[NR],"TNIP1, ANXA6",Myopia (pathological),pathological myopia,GCST001712,5:151094113
+rs7849581-<b>?</b>,9 x 10-7,,0.012,'-,'-,[NR],PTPRD,Myopia (pathological),pathological myopia,GCST001712,9:9924724
+rs872863-<b>?</b>,2 x 10-11,,0.082,'-,'-,[NR],DENND1A,Myopia (pathological),pathological myopia,GCST001712,9:123392075
+rs7031748-<b>?</b>,8 x 10-6,,0.134,'-,'-,[NR],ABCA1,Myopia (pathological),pathological myopia,GCST001712,9:104828991
+rs1472750-<b>?</b>,5 x 10-9,,0.075,'-,'-,[NR],PPIAP39,Myopia (pathological),pathological myopia,GCST001712,10:113475355
+rs4737395-<b>?</b>,5 x 10-9,,0.1,'-,'-,[NR],TMEM68,Myopia (pathological),pathological myopia,GCST001712,8:55686989
+rs7939886-<b>?</b>,2 x 10-7,,0.906,'-,'-,[NR],"OR5M2P, OR5M3",Myopia (pathological),pathological myopia,GCST001712,11:56474785
+rs6472235-<b>?</b>,1 x 10-7,,0.617,'-,'-,[NR],PDE7A-DT,Myopia (pathological),pathological myopia,GCST001712,8:65909795
+rs665440-<b>?</b>,2 x 10-8,,0.073,'-,'-,[NR],FLI1,Myopia (pathological),pathological myopia,GCST001712,11:128712662
+rs16872571-<b>?</b>,2 x 10-10,,0.519,'-,'-,[NR],"CLNK, LINC02498",Myopia (pathological),pathological myopia,GCST001712,4:10725229
+rs4683505-<b>?</b>,4 x 10-7,,0.033,'-,'-,[NR],CLSTN2,Myopia (pathological),pathological myopia,GCST001712,3:140528335
+rs13201929-<b>?</b>,3 x 10-6,,0.121,'-,'-,[NR],"ROS1, VGLL2",Myopia (pathological),pathological myopia,GCST001712,6:117284828
+rs7634528-<b>?</b>,1 x 10-6,,0.044,'-,'-,[NR],RNU6-1120P,Myopia (pathological),pathological myopia,GCST001712,3:178048676
+rs1668357-<b>?</b>,4 x 10-8,,0.82,'-,'-,[NR],SFRP4,Myopia (pathological),pathological myopia,GCST001712,7:37964804
+rs13172324-<b>?</b>,3 x 10-10,,0.093,'-,'-,[NR],"LINC02123, LINC02142",Myopia (pathological),pathological myopia,GCST001712,5:7368732
+rs6841898-<b>?</b>,3 x 10-26,,0.021,'-,'-,[NR],DHX15,Myopia (pathological),pathological myopia,GCST001712,4:24576474
+rs17103138-<b>?</b>,2 x 10-7,,0.086,'-,'-,[NR],TACC2,Myopia (pathological),pathological myopia,GCST001712,10:122153815
+rs12032643-<b>?</b>,1 x 10-9,,0.896,'-,'-,[NR],"PGBD2, ZNF692",Myopia (pathological),pathological myopia,GCST001712,1:248874237
+rs931317-<b>?</b>,3 x 10-6,,0.786,'-,'-,[NR],FHIT,Myopia (pathological),pathological myopia,GCST001712,3:59943125
+rs6968355-<b>?</b>,2 x 10-7,,0.174,'-,'-,[NR],SRPK2,Myopia (pathological),pathological myopia,GCST001712,7:105117803
+rs11223996-<b>?</b>,7 x 10-7,,0.143,'-,'-,[NR],LINC02714,Myopia (pathological),pathological myopia,GCST001712,11:134756993
+rs1045529-<b>?</b>,3 x 10-6,,0.528,'-,'-,[NR],ERI1,Myopia (pathological),pathological myopia,GCST001712,8:9032588
+rs17788937-<b>?</b>,4 x 10-15,,0.786,'-,'-,[NR],NAV3,Myopia (pathological),pathological myopia,GCST001712,12:77505730
+rs16862782-<b>?</b>,5 x 10-7,,0.815,'-,'-,[NR],LINC01991,Myopia (pathological),pathological myopia,GCST001712,3:187970102
+rs7323755-<b>?</b>,2 x 10-13,,0.041,'-,'-,[NR],"TPT1, GTF2F2",Myopia (pathological),pathological myopia,GCST001712,13:45326132
+rs12038826-<b>?</b>,7 x 10-6,,0.071,'-,'-,[NR],CAPN9,Myopia (pathological),pathological myopia,GCST001712,1:230787205
+rs10758892-<b>?</b>,9 x 10-6,,0.059,'-,'-,[NR],DMAC1,Myopia (pathological),pathological myopia,GCST001712,9:7734250
+rs9505270-<b>?</b>,4 x 10-7,,0.261,'-,'-,[NR],BMP6,Myopia (pathological),pathological myopia,GCST001712,6:7743430
+rs4149311-<b>?</b>,9 x 10-6,,0.134,'-,'-,[NR],ABCA1,Myopia (pathological),pathological myopia,GCST001712,9:104826496
+rs7077335-<b>?</b>,2 x 10-12,,0.011,'-,'-,[NR],LINC02649,Myopia (pathological),pathological myopia,GCST001712,10:6273831
+rs804280-<b>?</b>,4 x 10-6,,0.406,'-,'-,[NR],GATA4,Myopia (pathological),pathological myopia,GCST001712,8:11755189
+rs569688-<b>?</b>,4 x 10-7,,0.197,'-,'-,[NR],SLC2A13P1,Myopia (pathological),pathological myopia,GCST001712,8:60049262
+rs12803066-<b>?</b>,4 x 10-6,,0.518,'-,'-,[NR],CNTN5,Myopia (pathological),pathological myopia,GCST001712,11:100172688
+rs12216812-<b>?</b>,3 x 10-9,,0.088,'-,'-,[NR],UBE2HP1,Myopia (pathological),pathological myopia,GCST001712,8:81239512
+rs1944866-<b>?</b>,2 x 10-6,,0.871,'-,'-,[NR],LINC02706,Myopia (pathological),pathological myopia,GCST001712,11:134612572
+rs12525668-<b>?</b>,8 x 10-11,,0.07,'-,'-,[NR],"SCML4, SOBP",Myopia (pathological),pathological myopia,GCST001712,6:107696467
+rs4839680-<b>?</b>,1 x 10-15,,0.033,'-,'-,[NR],RNA5SP144,Myopia (pathological),pathological myopia,GCST001712,3:144183185
+rs1302019-<b>?</b>,2 x 10-23,,0.022,'-,'-,[NR],SAMD5,Myopia (pathological),pathological myopia,GCST001712,6:147650438
+rs1656966-<b>?</b>,4 x 10-21,,0.137,'-,'-,[NR],"PSMD10P2, KNG1",Myopia (pathological),pathological myopia,GCST001712,3:186748463
+rs1229542-<b>?</b>,2 x 10-6,,0.864,'-,'-,[NR],"ASNS, TAC1",Myopia (pathological),pathological myopia,GCST001712,7:97793614
+rs10053502-<b>?</b>,1 x 10-16,,0.759,'-,'-,[NR],LINC00603,Myopia (pathological),pathological myopia,GCST001712,5:39979070
+rs11723530-<b>?</b>,4 x 10-6,,0.489,'-,'-,[NR],LINC02275,Myopia (pathological),pathological myopia,GCST001712,4:169959732
+rs6857559-<b>?</b>,3 x 10-21,,0.62,'-,'-,[NR],LINC02434,Myopia (pathological),pathological myopia,GCST001712,4:188199757
+rs7428796-<b>?</b>,2 x 10-18,,0.617,'-,'-,[NR],RNU6-1129P,Myopia (pathological),pathological myopia,GCST001712,3:86206522
+rs10274279-<b>?</b>,4 x 10-11,,0.123,'-,'-,[NR],PTPRN2,Myopia (pathological),pathological myopia,GCST001712,7:157594749
+rs1057510-<b>?</b>,6 x 10-6,,0.154,'-,'-,[NR],CHD4,Myopia (pathological),pathological myopia,GCST001712,12:6574121
+rs656319-<b>?</b>,3 x 10-6,,0.549,'-,'-,[NR],"MIR124-1HG, MSRA",Myopia (pathological),pathological myopia,GCST001712,8:9956901
+rs10747502-<b>?</b>,1 x 10-9,,0.08,'-,'-,[NR],PLPPR5,Myopia (pathological),pathological myopia,GCST001712,1:99058491
+rs11838472-<b>?</b>,3 x 10-17,,0.031,'-,'-,[NR],"RNU6-66P, RNU4-10P",Myopia (pathological),pathological myopia,GCST001712,13:73167012
+rs11618212-<b>?</b>,5 x 10-12,,0.213,'-,'-,[NR],DAOA-AS1,Myopia (pathological),pathological myopia,GCST001712,13:105444463
+rs1559777-<b>?</b>,1 x 10-6,,0.2,'-,'-,[NR],POLR2M,Myopia (pathological),pathological myopia,GCST001712,15:57788419
+rs8039584-<b>?</b>,5 x 10-8,,0.044,'-,'-,[NR],PML,Myopia (pathological),pathological myopia,GCST001712,15:74013625
+rs17822114-<b>?</b>,3 x 10-18,,0.034,'-,'-,[NR],GNPATP,Myopia (pathological),pathological myopia,GCST001712,16:60699699
+rs8050940-<b>?</b>,1 x 10-26,,0.02,'-,'-,[NR],CDH8,Myopia (pathological),pathological myopia,GCST001712,16:62066307
+rs923375-<b>?</b>,4 x 10-16,,0.188,'-,'-,[NR],"SPATA22, ASPA",Myopia (pathological),pathological myopia,GCST001712,17:3489774
+rs4792192-<b>?</b>,3 x 10-6,,0.115,'-,'-,[NR],DNAH9,Myopia (pathological),pathological myopia,GCST001712,17:11900144
+rs17826255-<b>?</b>,8 x 10-9,,0.067,'-,'-,[NR],"RNF135, MIR4733HG",Myopia (pathological),pathological myopia,GCST001712,17:31006498
+rs7215564-<b>?</b>,2 x 10-6,,0.1,'-,'-,[NR],RPTOR,Myopia (pathological),pathological myopia,GCST001712,17:80763487
+rs3786800-<b>?</b>,3 x 10-12,,0.803,'-,'-,[NR],ZNF536,Myopia (pathological),pathological myopia,GCST001712,19:30499793
+rs4142248-<b>?</b>,3 x 10-15,,0.058,'-,'-,[NR],ZNF285,Myopia (pathological),pathological myopia,GCST001712,19:44384114
+rs9984974-<b>?</b>,2 x 10-6,,0.14,'-,'-,[NR],"CHAF1B, CLDN14",Myopia (pathological),pathological myopia,GCST001712,21:36437079
+rs2267138-<b>?</b>,3 x 10-6,,0.131,'-,'-,[NR],"AP1B1, RFPL4AP6",Myopia (pathological),pathological myopia,GCST001712,22:29397652
+rs10946507-<b>G</b>,2 x 10-9,,NR,1.0752687,'-,[1.05-1.1],CASC15,Refractive astigmatism,Astigmatism,GCST007158,6:22100138
+rs10177414-<b>T</b>,1 x 10-6,,NR,1.0615711,'-,[1.04-1.09],MFF,Refractive astigmatism,Astigmatism,GCST007158,2:227346754
+rs11244084-<b>C</b>,2 x 10-6,,NR,1.1135857,'-,[1.06-1.17],"SURF6, LCN1P2",Refractive astigmatism,Astigmatism,GCST007158,9:133324174
+rs73430835-<b>T</b>,2 x 10-6,,NR,1.2870014,'-,[1.13-1.49],DOCK4,Refractive astigmatism,Astigmatism,GCST007158,7:111988366
+rs2026781-<b>C</b>,3 x 10-6,,NR,1.067,'-,[1.040-1.094],"JAKMIP3, BNIP3",Refractive astigmatism,Astigmatism,GCST007158,10:132027535
+rs12051285-<b>G</b>,5 x 10-6,,NR,1.057,'-,[1.034-1.081],RBFOX1,Refractive astigmatism,Astigmatism,GCST007158,16:7410114
+rs192526513-<b>A</b>,6 x 10-6,,NR,1.245,'-,[1.150-1.340],"PURB, MYO1G",Refractive astigmatism,Astigmatism,GCST007158,7:44949811
+rs151198248-<b>T</b>,6 x 10-6,,NR,1.335,'-,[1.210-1.460],"RNU6-639P, GTSF1L",Refractive astigmatism,Astigmatism,GCST007158,20:43760385
+rs114330092-<b>G</b>,3 x 10-6,,NR,1.1547344,'-,[1.08-1.24],ADAMTS2,Refractive astigmatism,Astigmatism,GCST007158,5:179234922
+rs76638496-<b>G</b>,6 x 10-6,,NR,1.2062726,'-,[1.1-1.34],"LINC02235, LINC02839",Refractive astigmatism,Astigmatism,GCST007158,8:82005614
+rs116771750-<b>C</b>,2 x 10-7,,NR,'-,0.046 dioptres decrease,[0.028-0.064],"LYPLAL1-AS1, ZC3H11B",Refractive astigmatism,Astigmatism,GCST007160,1:219525708
+rs10177414-<b>C</b>,6 x 10-8,,NR,'-,0.018 dioptres decrease,[0.012-0.024],MFF,Refractive astigmatism,Astigmatism,GCST007160,2:227346754
+rs12196123-<b>T</b>,1 x 10-11,,NR,'-,0.022 dioptres decrease,[0.016-0.028],CASC15,Refractive astigmatism,Astigmatism,GCST007160,6:22082034
+rs11244084-<b>T</b>,2 x 10-7,,NR,'-,0.032 dioptres increase,[0.02-0.044],"SURF6, LCN1P2",Refractive astigmatism,Astigmatism,GCST007160,9:133324174
+rs115732928-<b>A</b>,1 x 10-6,,0.952,'-,0.033 dioptres decrease,[0.019-0.047],PROX1-AS1,Refractive astigmatism,Astigmatism,GCST007160,1:213980745
+rs10494951-<b>G</b>,2 x 10-6,,0.806,'-,0.018 dioptres increase,[0.01-0.026],"LINC02608, PPP2R5A",Refractive astigmatism,Astigmatism,GCST007160,1:212255917
+rs77008212-<b>A</b>,5 x 10-7,,0.913,'-,0.026 dioptres decrease,[0.016-0.036],TRAF3IP1,Refractive astigmatism,Astigmatism,GCST007160,2:238398472
+rs77909168-<b>C</b>,3 x 10-6,,0.985,'-,0.056 dioptres decrease,[0.032-0.08],AFF3,Refractive astigmatism,Astigmatism,GCST007160,2:99939404
+rs6434068-<b>G</b>,7 x 10-6,,0.428,'-,0.013 dioptres increase,[0.0071-0.0189],FMNL2,Refractive astigmatism,Astigmatism,GCST007160,2:152501027
+rs55939894-<b>A</b>,9 x 10-6,,0.813,'-,0.016 dioptres decrease,[0.0082-0.0238],LMCD1-AS1,Refractive astigmatism,Astigmatism,GCST007160,3:7921601
+rs6535231-<b>G</b>,3 x 10-6,,0.041,'-,0.034 dioptres increase,[0.02-0.048],BMP3,Refractive astigmatism,Astigmatism,GCST007160,4:81030757
+rs891933-<b>C</b>,7 x 10-6,,0.537,'-,0.013 dioptres increase,[0.0071-0.0189],TENM2,Refractive astigmatism,Astigmatism,GCST007160,5:168164397
+rs57717978-<b>C</b>,2 x 10-6,,0.88,'-,0.021 dioptres decrease,[0.013-0.029],LINC00574,Refractive astigmatism,Astigmatism,GCST007160,6:169867877
+rs117812342-<b>A</b>,9 x 10-6,,0.976,'-,0.042 dioptres decrease,[0.024-0.06],"OSTM1-AS1, OSTM1",Refractive astigmatism,Astigmatism,GCST007160,6:108152242
+rs17172445-<b>G</b>,1 x 10-6,,0.973,'-,0.043 dioptres decrease,[0.025-0.061],EGFR,Refractive astigmatism,Astigmatism,GCST007160,7:55121522
+rs10435539-<b>G</b>,6 x 10-7,,0.795,'-,0.018 dioptres increase,[0.01-0.026],"EIF3E, AURKBP1",Refractive astigmatism,Astigmatism,GCST007160,8:108155322
+rs56288719-<b>T</b>,3 x 10-6,,0.962,'-,0.036 dioptres decrease,[0.02-0.052],LINC01414,Refractive astigmatism,Astigmatism,GCST007160,8:63912836
+rs12547340-<b>G</b>,4 x 10-6,,0.79,'-,0.016 dioptres increase,[0.0082-0.0238],DLGAP2,Refractive astigmatism,Astigmatism,GCST007160,8:1199028
+rs34314196-<b>T</b>,8 x 10-6,,0.874,'-,0.019 dioptres decrease,[0.011-0.027],'-,Refractive astigmatism,Astigmatism,GCST007160,8:41141335
+rs141720143-<b>A</b>,2 x 10-6,,0.987,'-,0.06 dioptres decrease,[0.035-0.085],MPDZ,Refractive astigmatism,Astigmatism,GCST007160,9:13237187
+rs116945318-<b>A</b>,8 x 10-6,,0.985,'-,0.055 dioptres decrease,[0.031-0.079],"H3P30, KHSRPP1",Refractive astigmatism,Astigmatism,GCST007160,9:21638724
+rs117949737-<b>G</b>,8 x 10-6,,0.974,'-,0.04 dioptres increase,[0.022-0.058],CPM,Refractive astigmatism,Astigmatism,GCST007160,12:68905686
+rs974420-<b>G</b>,8 x 10-6,,0.621,'-,0.013 dioptres increase,[0.0071-0.0189],"GPC5, GPC5-IT1",Refractive astigmatism,Astigmatism,GCST007160,13:92500205
+rs513910-<b>T</b>,9 x 10-6,,0.726,'-,0.014 dioptres increase,[0.0081-0.0199],'-,Refractive astigmatism,Astigmatism,GCST007160,13:68521690
+rs1129038-<b>C</b>,2 x 10-11,,0.215,'-,0.023 dioptres decrease,[0.015-0.031],HERC2,Refractive astigmatism,Astigmatism,GCST007160,15:28111713
+rs192290664-<b>A</b>,4 x 10-6,,0.978,'-,0.046 dioptres decrease,[0.026-0.066],CDH13,Refractive astigmatism,Astigmatism,GCST007160,16:82765839
+rs149069109-<b>C</b>,5 x 10-6,,0.977,'-,0.044 dioptres decrease,[0.024-0.064],'-,Refractive astigmatism,Astigmatism,GCST007160,16:48938457
+rs34635363-<b>G</b>,2 x 10-9,,0.641,'-,0.018 dioptres decrease,[0.012-0.024],NPLOC4,Refractive astigmatism,Astigmatism,GCST007160,17:81582224
+rs75819168-<b>C</b>,9 x 10-6,,0.984,'-,0.051 dioptres decrease,[0.029-0.073],ALDH3A1,Refractive astigmatism,Astigmatism,GCST007160,17:19747806
+rs8104928-<b>A</b>,8 x 10-6,,0.972,'-,0.039 dioptres decrease,[0.021-0.057],CEACAM4,Refractive astigmatism,Astigmatism,GCST007160,19:41623910
+rs6029691-<b>C</b>,3 x 10-7,,0.688,'-,0.016 dioptres decrease,[0.01-0.022],CHD6,Refractive astigmatism,Astigmatism,GCST007160,20:41465724
+rs79999086-<b>T</b>,1 x 10-6,,0.98,'-,0.051 dioptres decrease,[0.029-0.073],"RSPO4, PSMF1",Refractive astigmatism,Astigmatism,GCST007160,20:1077583
+rs141045115-<b>G</b>,6 x 10-7,,0.971,'-,0.043 dioptres decrease,[0.025-0.061],'-,Refractive astigmatism,Astigmatism,GCST007160,21:41015177
+rs139743-<b>A</b>,4 x 10-7,,0.582,'-,0.015 dioptres decrease,[0.0091-0.0209],SGSM1,Refractive astigmatism,Astigmatism,GCST007160,22:24903462
+rs12473604-<b>G</b>,2 x 10-6,,0.775,'-,0.016 dioptres decrease,[0.01-0.022],"NMUR1, RPL21P35",Corneal astigmatism,Corneal astigmatism,GCST007159,2:231537182
+rs1579050-<b>A</b>,3 x 10-7,,0.425,'-,0.015 dioptres increase,[0.0091-0.0209],FMNL2,Corneal astigmatism,Corneal astigmatism,GCST007159,2:152508013
+rs62169220-<b>A</b>,6 x 10-6,,0.85,'-,0.018 dioptres decrease,[0.01-0.026],ZEB2,Corneal astigmatism,Corneal astigmatism,GCST007159,2:144467504
+rs6741982-<b>A</b>,9 x 10-6,,0.961,'-,0.033 dioptres decrease,[0.019-0.047],MTCO1P43,Corneal astigmatism,Corneal astigmatism,GCST007159,2:117035653
+rs1353386-<b>A</b>,1 x 10-6,,0.148,'-,0.019 dioptres increase,[0.011-0.027],"BMP3, CFAP299",Corneal astigmatism,Corneal astigmatism,GCST007159,4:81025926
+rs4864857-<b>T</b>,1 x 10-6,,0.784,'-,0.017 dioptres decrease,[0.011-0.023],"RPL22P13, PDGFRA",Corneal astigmatism,Corneal astigmatism,GCST007159,4:54223647
+rs6536686-<b>C</b>,9 x 10-6,,0.192,'-,0.016 dioptres decrease,[0.0082-0.0238],'-,Corneal astigmatism,Corneal astigmatism,GCST007159,4:162810346
+rs830557-<b>C</b>,7 x 10-6,,0.529,'-,0.013 dioptres increase,[0.0071-0.0189],PIK3R1,Corneal astigmatism,Corneal astigmatism,GCST007159,5:68312915
+rs196052-<b>T</b>,8 x 10-11,,0.622,'-,0.019 dioptres increase,[0.013-0.025],CASC15,Corneal astigmatism,Corneal astigmatism,GCST007159,6:22056971
+rs10279904-<b>C</b>,2 x 10-6,,0.987,'-,0.058 dioptres decrease,[0.056-0.06],"NPM1P18, AOAH",Corneal astigmatism,Corneal astigmatism,GCST007159,7:36766982
+rs117023057-<b>G</b>,3 x 10-6,,0.984,'-,0.054 dioptres decrease,[0.03-0.078],VIPR2,Corneal astigmatism,Corneal astigmatism,GCST007159,7:159030810
+rs149846728-<b>G</b>,5 x 10-6,,0.949,'-,0.03 dioptres increase,[0.018-0.042],KCNU1,Corneal astigmatism,Corneal astigmatism,GCST007159,8:36912861
+rs10993820-<b>A</b>,4 x 10-7,,0.791,'-,0.018 dioptres decrease,[0.012-0.024],VAV2,Corneal astigmatism,Corneal astigmatism,GCST007159,9:133842608
+rs12551905-<b>T</b>,5 x 10-6,,0.985,'-,0.054 dioptres decrease,[0.03-0.078],DMAC1,Corneal astigmatism,Corneal astigmatism,GCST007159,9:7760772
+rs138016380-<b>C</b>,2 x 10-6,,0.976,'-,0.044 dioptres decrease,[0.026-0.062],PARD3,Corneal astigmatism,Corneal astigmatism,GCST007159,10:34160538
+rs2445565-<b>G</b>,4 x 10-6,,0.47,'-,0.013 dioptres decrease,[0.0071-0.0189],TMEM135,Corneal astigmatism,Corneal astigmatism,GCST007159,11:87092152
+rs35313216-<b>G</b>,2 x 10-6,,0.928,'-,0.026 dioptres increase,[0.016-0.036],MRPL11,Corneal astigmatism,Corneal astigmatism,GCST007159,11:66456724
+rs7931326-<b>C</b>,1 x 10-6,,0.935,'-,0.028 dioptres decrease,[0.016-0.04],ADAMTS8,Corneal astigmatism,Corneal astigmatism,GCST007159,11:130406452
+rs112947941-<b>A</b>,1 x 10-6,,0.931,'-,0.028 dioptres increase,[0.016-0.04],"SPSB2, LRRC23",Corneal astigmatism,Corneal astigmatism,GCST007159,12:6888644
+rs61935843-<b>C</b>,1 x 10-7,,0.918,'-,0.028 dioptres increase,[0.018-0.038],MED13L,Corneal astigmatism,Corneal astigmatism,GCST007159,12:116179952
+rs9517490-<b>T</b>,7 x 10-7,,0.3,'-,0.015 dioptres increase,[0.0091-0.0209],DOCK9,Corneal astigmatism,Corneal astigmatism,GCST007159,13:98932051
+rs56274409-<b>A</b>,7 x 10-6,,0.944,'-,0.028 dioptres decrease,[0.016-0.04],BDKRB2,Corneal astigmatism,Corneal astigmatism,GCST007159,14:96224491
+rs1129038-<b>C</b>,1 x 10-15,,0.215,'-,0.028 dioptres decrease,[0.022-0.034],HERC2,Corneal astigmatism,Corneal astigmatism,GCST007159,15:28111713
+rs11639295-<b>C</b>,3 x 10-6,,0.706,'-,0.015 dioptres increase,[0.0091-0.0209],SMAD3,Corneal astigmatism,Corneal astigmatism,GCST007159,15:67168419
+rs16971637-<b>A</b>,3 x 10-6,,0.959,'-,0.033 dioptres decrease,[0.019-0.047],"SYT17, ITPRIPL2",Corneal astigmatism,Corneal astigmatism,GCST007159,16:19143966
+rs1623169-<b>T</b>,4 x 10-7,,NR,1.088,'-,[1.056-1.121],FLI1,Corneal astigmatism,Corneal astigmatism,GCST007157,11:128714425
+rs6434068-<b>C</b>,6 x 10-7,,NR,1.063,'-,[1.039-1.088],FMNL2,Corneal astigmatism,Corneal astigmatism,GCST007157,2:152501027
+rs11639295-<b>T</b>,9 x 10-7,,NR,1.069,'-,[1.042-1.095],SMAD3,Corneal astigmatism,Corneal astigmatism,GCST007157,15:67168419
+rs2763272-<b>C</b>,1 x 10-6,,NR,1.0729614,'-,[1.04-1.11],SMOC2,Corneal astigmatism,Corneal astigmatism,GCST007157,6:168431411
+rs115822495-<b>T</b>,4 x 10-6,,NR,1.343,'-,[1.219-1.468],"TTBK1, DTNBP1",Corneal astigmatism,Corneal astigmatism,GCST007157,6:15681477
+rs10223780-<b>G</b>,4 x 10-6,,NR,1.059,'-,[1.035-1.083],KHDRBS2,Corneal astigmatism,Corneal astigmatism,GCST007157,6:62155120
+rs72629670-<b>A</b>,4 x 10-10,,NR,1.081081,'-,[1.05-1.11],ZC3H11B,Corneal astigmatism,Corneal astigmatism,GCST007157,1:219594789
+rs62075722-<b>G</b>,8 x 10-9,,NR,1.075,'-,[1.051-1.100],"NPLOC4, TSPAN10",Corneal astigmatism,Corneal astigmatism,GCST007157,17:81644245
+rs12913832-<b>A</b>,3 x 10-8,,NR,1.0869565,'-,[1.05-1.12],HERC2,Corneal astigmatism,Corneal astigmatism,GCST007157,15:28120472
+rs11238956-<b>T</b>,3 x 10-7,,NR,1.0672358,'-,[1.04-1.1],LINC02881,Corneal astigmatism,Corneal astigmatism,GCST007157,10:44254406
+rs142566675-<b>A</b>,2 x 10-6,,NR,'-,0.077 dioptres increase,[0.046-0.108],KRT8P18,Corneal astigmatism,Corneal astigmatism,GCST007159,3:35207029
+rs75380963-<b>T</b>,2 x 10-6,,NR,'-,0.079 dioptres increase,[0.046-0.112],SOX2-OT,Corneal astigmatism,Corneal astigmatism,GCST007159,3:181836511
+rs11955682-<b>T</b>,3 x 10-6,,NR,'-,0.047 dioptres increase,[0.027-0.067],CTNND2,Corneal astigmatism,Corneal astigmatism,GCST007159,5:11416186
+rs115822495-<b>T</b>,3 x 10-6,,NR,'-,0.072 dioptres decrease,[0.043-0.101],"TTBK1, DTNBP1",Corneal astigmatism,Corneal astigmatism,GCST007159,6:15681477
+rs12032649-<b>T</b>,5 x 10-14,,0.614,'-,0.022 dioptres decrease,[0.016-0.028],ZC3H11B,Corneal astigmatism,Corneal astigmatism,GCST007159,1:219605617
+rs62075722-<b>A</b>,2 x 10-13,,0.358,'-,0.022 dioptres increase,[0.016-0.028],"NPLOC4, TSPAN10",Corneal astigmatism,Corneal astigmatism,GCST007159,17:81644245
+rs11084579-<b>G</b>,2 x 10-6,,0.666,'-,0.014 dioptres increase,[0.0081-0.0199],TSHZ3,Corneal astigmatism,Corneal astigmatism,GCST007159,19:31311817
+rs189798-<b>?</b>,6 x 10-7,,0.658,1.92,'-,[NR],"PPP1R3B, ERI1",Myopia (pathological),pathological myopia,GCST001712,8:9133067
+rs1585471-<b>?</b>,2 x 10-6,,0.5,1.15,'-,[1.09-1.22],'-,Myopia (pathological),pathological myopia,GCST001044,4:111781479
+rs10034228-<b>?</b>,8 x 10-13,,0.5,1.23,'-,[1.16-1.32],'-,Myopia (pathological),pathological myopia,GCST001044,4:111690594
+rs12193446-<b>?</b>,2 x 10-7,,'-,'-,'-,'-,LAMA2,Hyperopia,Hypermetropia,GCST002617,6:129498893
+rs10089517-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,'-,Hyperopia,Hypermetropia,GCST002617,8:59266162
+rs1347190-<b>?</b>,7 x 10-6,,'-,'-,'-,'-,LINC00554,Hyperopia,Hypermetropia,GCST002617,13:99995845
+rs11073060-<b>?</b>,9 x 10-11,,'-,'-,'-,'-,"LINC02252, GJD2",Hyperopia,Hypermetropia,GCST002617,15:34697650
+rs17648524-<b>?</b>,5 x 10-7,,'-,'-,'-,'-,RBFOX1,Hyperopia,Hypermetropia,GCST002617,16:7409682
+rs7744813-<b>?</b>,3 x 10-11,,0.579,1.2091986,'-,[1.14-1.28],'-,High myopia,Myopia,GCST009962,Mapping not available
+rs6469937-<b>A</b>,2 x 10-9,,0.764,1.27,'-,[NR],SNTB1,Myopia (severe),pathological myopia,GCST002117,8:120598198
+rs13382811-<b>T</b>,6 x 10-10,,0.275,1.26,'-,[NR],ZEB2,Myopia (severe),pathological myopia,GCST002117,2:144466053
+"rs4455882-<b>G</b>, rs4395927-<b>T</b>, rs7839488-<b>A</b>",4 x 10-10,,0.235,1.3,'-,[1.2-1.41],SNTB1; No mapped genes; No mapped genes,Myopia (pathological),pathological myopia,GCST001881,8:120571043
+"rs4455882-<b>A</b>, rs4395927-<b>C</b>, rs7839488-<b>G</b>",8 x 10-12,,0.728,1.31,'-,[1.22-1.42],SNTB1; No mapped genes; No mapped genes,Myopia (pathological),pathological myopia,GCST001881,8:120571043
+rs248471-<b>G</b>,2 x 10-6,,0.277,1.19,'-,[1.11-1.28],PCDH1,Myopia (pathological),pathological myopia,GCST001881,5:141809602
+rs2730260-<b>C</b>,9 x 10-14,,0.238,1.33,'-,[1.23-1.44],VIPR2,Myopia (pathological),pathological myopia,GCST001881,7:159054238
+rs4455882-<b>A</b>,2 x 10-11,,0.765,1.32,'-,[1.22-1.43],'-,Myopia (pathological),pathological myopia,GCST001881,Mapping not available
+rs4557020-<b>T</b>,3 x 10-7,,0.37,'-,0.12 mm decrease,[0.081-0.159],SPTBN1,Myopia (pathological),pathological myopia,GCST001561,2:54491044
+rs282544-<b>C</b>,4 x 10-6,,0.35,'-,0.1 mm decrease,[0.061-0.139],PARP8,Myopia (pathological),pathological myopia,GCST001561,5:50730631
+rs1137-<b>C</b>,4 x 10-6,,0.16,'-,0.12 mm increase,[0.061-0.179],"RPS28P5, SEMA4F",Myopia (pathological),pathological myopia,GCST001561,2:74712049
+rs4373767-<b>C</b>,3 x 10-10,,0.3,'-,0.16 mm decrease,[0.12-0.20],"DDX39AP1, SNORD36",Myopia (pathological),pathological myopia,GCST001561,13:22719894
+rs10189905-<b>?</b>,6 x 10-7,,NR,1.32,'-,[1.18-1.46],'-,Corneal astigmatism,Astigmatism,GCST001339,2:198814386
+rs6758183-<b>A</b>,3 x 10-6,,NR,1.39,'-,[1.21-1.57],'-,Corneal astigmatism,Astigmatism,GCST001339,2:226136270
+rs17084051-<b>A</b>,2 x 10-6,,0.23,1.21,'-,[1.13-1.29],RPL22P13,Corneal astigmatism,Astigmatism,GCST001339,4:54221414
+rs7677751-<b>T</b>,8 x 10-9,,0.22,1.26,'-,[1.18-1.34],PDGFRA,Corneal astigmatism,Astigmatism,GCST001339,4:54258293
+rs6792584-<b>G</b>,5 x 10-6,,NR,1.24,'-,[1.14-1.34],'-,Corneal astigmatism,Astigmatism,GCST001339,Mapping not available
+rs2270676-<b>G</b>,5 x 10-6,,NR,1.29,'-,[1.17-1.41],KCNE3,Corneal astigmatism,Astigmatism,GCST001339,11:74457366
+rs9318086-<b>A</b>,2 x 10-16,,0.44,1.32,'-,[1.19-1.46],MIPEP,Myopia (pathological),pathological myopia,GCST001088,13:23858328
+rs570124667-<b>A</b>,1 x 10-8,,0.547,1.176379,'-,[1.113429-1.242889],"RNU7-2P, RPL17P12",High myopia,Myopia,GCST009962,2:146172201
+rs7584946-<b>?</b>,2 x 10-8,,0.429,1.1653097,'-,[1.1-1.23],PDE11A,High myopia,Myopia,GCST009962,2:177796398
+rs2573210-<b>G</b>,4 x 10-16,,0.193,1.304012,'-,[1.217811-1.396314],"ECEL1, PRSS56",High myopia,Myopia,GCST009962,2:232520315
+rs773929421-<b>?</b>,4 x 10-8,,0.551,1.170423,'-,[1.11-1.24],MRPS31P1,High myopia,Myopia,GCST009962,3:41157641
+rs12193446-<b>A</b>,7 x 10-23,,0.899,1.718953,'-,[1.569216-1.882978],LAMA2,High myopia,Myopia,GCST009962,6:129498893
+rs72621438-<b>C</b>,2 x 10-8,,0.642,1.175917,'-,[1.111137-1.244475],'-,High myopia,Myopia,GCST009962,8:59266021
+rs4517452-<b>?</b>,4 x 10-11,,0.362,1.2108135,'-,[1.14-1.28],"LINC00858, RGR",High myopia,Myopia,GCST009962,10:84261268
+rs55899248-<b>?</b>,2 x 10-9,,0.22,1.2120184,'-,[1.13-1.29],TCF7L2,High myopia,Myopia,GCST009962,10:113013849
+rs11602008-<b>?</b>,1 x 10-14,,0.162,1.3049839,'-,[1.21-1.41],LRRC4C,High myopia,Myopia,GCST009962,11:40127755
+rs3138142-<b>C</b>,7 x 10-12,,0.752,1.258091,'-,[1.181259-1.339921],RDH5,High myopia,Myopia,GCST009962,12:55721801
+rs5442-<b>?</b>,1 x 10-8,,0.067,1.3186176,'-,[1.18-1.47],"GNB3, CDCA3",High myopia,Myopia,GCST009962,12:6845700
+rs547932535-<b>?</b>,3 x 10-8,,0.302,1.1796292,'-,[1.11-1.25],'-,High myopia,Myopia,GCST009962,14:54206015
+rs524952-<b>?</b>,1 x 10-24,,0.483,1.3275276,'-,[1.26-1.4],"GJD2, LINC02252",High myopia,Myopia,GCST009962,15:34713685
+rs1007365-<b>?</b>,1 x 10-9,,0.42,1.1828623,'-,[1.12-1.25],RASGRF1,High myopia,Myopia,GCST009962,15:79087150
+rs7184522-<b>?</b>,5 x 10-12,,0.359,1.2093332,'-,[1.14-1.28],RBFOX1,High myopia,Myopia,GCST009962,16:7410698
+rs562698611-<b>G</b>,2 x 10-13,,0.358,1.228684,'-,[1.161475-1.299783],PDE6G,High myopia,Myopia,GCST009962,17:81661449
+rs1371951-<b>?</b>,7 x 10-25,,'-,'-,'-,'-,"ALKAL1, ST18",Refractive error,Abnormality of refraction,GCST010002,8:52473258
+rs61334940-<b>?</b>,1 x 10-19,,'-,'-,'-,'-,"MOS, PLAG1",Refractive error,Abnormality of refraction,GCST010002,8:56160011
+rs72621438-<b>?</b>,1 x 10-153,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,8:59266021
+rs1425598-<b>?</b>,4 x 10-10,,'-,'-,'-,'-,LINC01414,Refractive error,Abnormality of refraction,GCST010002,8:63840889
+rs4738094-<b>?</b>,1 x 10-26,,'-,'-,'-,'-,"TRAM1, RN7SL203P",Refractive error,Abnormality of refraction,GCST010002,8:70511509
+rs10112386-<b>?</b>,8 x 10-12,,'-,'-,'-,'-,"RDH10-AS1, STAU2-AS1",Refractive error,Abnormality of refraction,GCST010002,8:73368917
+rs9650252-<b>?</b>,2 x 10-13,,'-,'-,'-,'-,MIR2052HG,Refractive error,Abnormality of refraction,GCST010002,8:74819495
+rs6995342-<b>?</b>,4 x 10-18,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,8:78039514
+rs13268738-<b>?</b>,1 x 10-14,,'-,'-,'-,'-,"UBE2Q2P10, CNGB3",Refractive error,Abnormality of refraction,GCST010002,8:86661483
+rs7816934-<b>?</b>,1 x 10-10,,'-,'-,'-,'-,MMP16,Refractive error,Abnormality of refraction,GCST010002,8:88300162
+rs2575725-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,SDC2,Refractive error,Abnormality of refraction,GCST010002,8:96598612
+rs4133395-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,ANGPT1,Refractive error,Abnormality of refraction,GCST010002,8:107302743
+rs6988919-<b>?</b>,3 x 10-27,,'-,'-,'-,'-,SNTB1,Refractive error,Abnormality of refraction,GCST010002,8:120618500
+rs1158569-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,ASAP1,Refractive error,Abnormality of refraction,GCST010002,8:130318766
+rs1865249-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,"SLC45A4, DENND3",Refractive error,Abnormality of refraction,GCST010002,8:141205883
+rs7048915-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,GLIS3,Refractive error,Abnormality of refraction,GCST010002,9:4206388
+rs62538956-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,TYRP1,Refractive error,Abnormality of refraction,GCST010002,9:12679244
+rs1340044-<b>?</b>,4 x 10-51,,'-,'-,'-,'-,ADAMTSL1,Refractive error,Abnormality of refraction,GCST010002,9:18362107
+rs7855188-<b>?</b>,1 x 10-13,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,9:20032155
+rs1823289-<b>?</b>,1 x 10-9,,'-,'-,'-,'-,LINC01239,Refractive error,Abnormality of refraction,GCST010002,9:22792514
+rs855719-<b>?</b>,4 x 10-13,,'-,'-,'-,'-,"UBE2R2, UBE2R2-AS1",Refractive error,Abnormality of refraction,GCST010002,9:33817619
+rs11145461-<b>?</b>,3 x 10-39,,'-,'-,'-,'-,TJP2,Refractive error,Abnormality of refraction,GCST010002,9:69151203
+rs7042950-<b>?</b>,6 x 10-36,,'-,'-,'-,'-,RORB,Refractive error,Abnormality of refraction,GCST010002,9:74534921
+rs1961952-<b>?</b>,6 x 10-10,,'-,'-,'-,'-,"GKAP1, UBQLN1",Refractive error,Abnormality of refraction,GCST010002,9:83710891
+rs7849438-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,SEMA4D,Refractive error,Abnormality of refraction,GCST010002,9:89423229
+rs13301794-<b>?</b>,5 x 10-8,,'-,'-,'-,'-,TDRD7,Refractive error,Abnormality of refraction,GCST010002,9:97430719
+rs1571590-<b>?</b>,7 x 10-25,,'-,'-,'-,'-,TGFBR1,Refractive error,Abnormality of refraction,GCST010002,9:99121526
+rs3764523-<b>?</b>,1 x 10-15,,'-,'-,'-,'-,ZNF462,Refractive error,Abnormality of refraction,GCST010002,9:107002934
+rs10980037-<b>?</b>,4 x 10-9,,'-,'-,'-,'-,PALM2AKAP2,Refractive error,Abnormality of refraction,GCST010002,9:109781744
+rs41305473-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,RGS3,Refractive error,Abnormality of refraction,GCST010002,9:113583838
+rs2072438-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,PHF19,Refractive error,Abnormality of refraction,GCST010002,9:120889023
+rs10122788-<b>?</b>,1 x 10-13,,'-,'-,'-,'-,MVB12B,Refractive error,Abnormality of refraction,GCST010002,9:126444553
+rs943423-<b>?</b>,5 x 10-12,,'-,'-,'-,'-,COL5A1,Refractive error,Abnormality of refraction,GCST010002,9:134545337
+rs11103381-<b>?</b>,1 x 10-14,,'-,'-,'-,'-,"QSOX2, LHX3",Refractive error,Abnormality of refraction,GCST010002,9:136205927
+rs12762379-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,NEBL,Refractive error,Abnormality of refraction,GCST010002,10:21270955
+rs10829282-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,LINC02680,Refractive error,Abnormality of refraction,GCST010002,10:27584096
+rs3739996-<b>?</b>,4 x 10-19,,'-,'-,'-,'-,JCAD,Refractive error,Abnormality of refraction,GCST010002,10:30027943
+rs10793568-<b>?</b>,1 x 10-14,,'-,'-,'-,'-,"TMEM72, TMEM72-AS1",Refractive error,Abnormality of refraction,GCST010002,10:44919761
+rs56036047-<b>?</b>,2 x 10-49,,'-,'-,'-,'-,FRMPD2,Refractive error,Abnormality of refraction,GCST010002,10:48196970
+rs2842083-<b>?</b>,2 x 10-44,,'-,'-,'-,'-,BICC1,Refractive error,Abnormality of refraction,GCST010002,10:58569470
+rs1599166-<b>?</b>,3 x 10-18,,'-,'-,'-,'-,ANK3,Refractive error,Abnormality of refraction,GCST010002,10:60403971
+rs4262652-<b>?</b>,2 x 10-17,,'-,'-,'-,'-,MICU1,Refractive error,Abnormality of refraction,GCST010002,10:72368095
+rs7073435-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,AP3M1,Refractive error,Abnormality of refraction,GCST010002,10:74126754
+rs7895108-<b>?</b>,3 x 10-69,,'-,'-,'-,'-,KCNMA1,Refractive error,Abnormality of refraction,GCST010002,10:77301700
+rs4517452-<b>?</b>,1 x 10-70,,'-,'-,'-,'-,"LINC00858, RGR",Refractive error,Abnormality of refraction,GCST010002,10:84261268
+rs10887652-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,"LDB3, BMPR1A",Refractive error,Abnormality of refraction,GCST010002,10:86751480
+rs3781196-<b>?</b>,5 x 10-32,,'-,'-,'-,'-,RNLS,Refractive error,Abnormality of refraction,GCST010002,10:88282397
+rs4933627-<b>?</b>,2 x 10-8,,'-,'-,'-,'-,"RNU6-740P, LINC00502",Refractive error,Abnormality of refraction,GCST010002,10:90952495
+rs12778014-<b>?</b>,3 x 10-23,,'-,'-,'-,'-,"XRCC6P1, NIP7P1",Refractive error,Abnormality of refraction,GCST010002,10:93190516
+rs807037-<b>?</b>,3 x 10-22,,'-,'-,'-,'-,KAZALD1,Refractive error,Abnormality of refraction,GCST010002,10:101064592
+rs7277023-<b>?</b>,5 x 10-8,,'-,'-,'-,'-,DSCAM,Refractive error,Abnormality of refraction,GCST010002,21:40543432
+rs11700909-<b>?</b>,3 x 10-10,,'-,'-,'-,'-,"RRP1B, PDXK",Refractive error,Abnormality of refraction,GCST010002,21:43698820
+rs73157695-<b>?</b>,2 x 10-36,,'-,'-,'-,'-,"PCBP3, COL6A1",Refractive error,Abnormality of refraction,GCST010002,21:45952033
+rs9608575-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,RNU6-1066P,Refractive error,Abnormality of refraction,GCST010002,22:27090760
+rs2097352-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,"MTMR3, ASCC2",Refractive error,Abnormality of refraction,GCST010002,22:29840455
+rs9606973-<b>?</b>,6 x 10-13,,'-,'-,'-,'-,"SYN3, FBXO7",Refractive error,Abnormality of refraction,GCST010002,22:32504540
+rs13056506-<b>?</b>,2 x 10-13,,'-,'-,'-,'-,PLA2G6,Refractive error,Abnormality of refraction,GCST010002,22:38184910
+rs73175083-<b>?</b>,1 x 10-26,,'-,'-,'-,'-,"LINC00899, WNT7B",Refractive error,Abnormality of refraction,GCST010002,22:45987732
+rs34437079-<b>?</b>,2 x 10-18,,'-,'-,'-,'-,FAM9B,Refractive error,Abnormality of refraction,GCST010002,X:9334620
+rs113369180-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,RBBP7,Refractive error,Abnormality of refraction,GCST010002,X:16869874
+rs17313971-<b>?</b>,3 x 10-20,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,X:20597131
+rs6629562-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,PDCL2P1,Refractive error,Abnormality of refraction,GCST010002,X:23199178
+rs10218285-<b>?</b>,4 x 10-14,,'-,'-,'-,'-,RPS11P7,Refractive error,Abnormality of refraction,GCST010002,X:39892464
+rs6610546-<b>?</b>,5 x 10-9,,'-,'-,'-,'-,DDX3X,Refractive error,Abnormality of refraction,GCST010002,X:41343020
+rs113119541-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,"GLOD5, RNU6-1056P",Refractive error,Abnormality of refraction,GCST010002,X:48736743
+chrX:58552140-<b>?</b>,7 x 10-9,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs7880414-<b>?</b>,3 x 10-16,,'-,'-,'-,'-,"NUTF2P7, RPS23P8",Refractive error,Abnormality of refraction,GCST010002,X:70984291
+rs73231003-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,HMGN5,Refractive error,Abnormality of refraction,GCST010002,X:81080394
+chrX:129012182-<b>?</b>,4 x 10-10,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,Mapping not available
+rs4829885-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,"ZIC3, RAC1P4",Refractive error,Abnormality of refraction,GCST010002,X:137490117
+rs4828621-<b>?</b>,6 x 10-11,,'-,'-,'-,'-,MAMLD1,Refractive error,Abnormality of refraction,GCST010002,X:150376412
+rs180874045-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,TKTL1,Refractive error,Abnormality of refraction,GCST010002,X:154299930
+rs28588430-<b>?</b>,2 x 10-18,,'-,'-,'-,'-,LOXL1,Refractive error,Abnormality of refraction,GCST010002,15:73931089
+rs4886850-<b>?</b>,1 x 10-9,,'-,'-,'-,'-,PEAK1,Refractive error,Abnormality of refraction,GCST010002,15:77111818
+rs1961579-<b>?</b>,8 x 10-84,,'-,'-,'-,'-,RASGRF1,Refractive error,Abnormality of refraction,GCST010002,15:79088174
+rs8039459-<b>?</b>,3 x 10-27,,'-,'-,'-,'-,MEX3B,Refractive error,Abnormality of refraction,GCST010002,15:82028085
+rs12440698-<b>?</b>,5 x 10-8,,'-,'-,'-,'-,ADAMTS7P4,Refractive error,Abnormality of refraction,GCST010002,15:85282675
+rs4502168-<b>?</b>,6 x 10-12,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,15:93200975
+rs10520789-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,LINC00924,Refractive error,Abnormality of refraction,GCST010002,15:95598638
+rs2654980-<b>?</b>,4 x 10-8,,'-,'-,'-,'-,IGF1R,Refractive error,Abnormality of refraction,GCST010002,15:98961614
+rs710902-<b>?</b>,6 x 10-18,,'-,'-,'-,'-,UBE2I,Refractive error,Abnormality of refraction,GCST010002,16:1326509
+rs17648524-<b>?</b>,1 x 10-180,,'-,'-,'-,'-,RBFOX1,Refractive error,Abnormality of refraction,GCST010002,16:7409682
+rs1868289-<b>?</b>,1 x 10-17,,'-,'-,'-,'-,GRIN2A,Refractive error,Abnormality of refraction,GCST010002,16:10121956
+rs2606558-<b>?</b>,9 x 10-10,,'-,'-,'-,'-,SMG1,Refractive error,Abnormality of refraction,GCST010002,16:18809869
+rs497523-<b>?</b>,3 x 10-9,,'-,'-,'-,'-,SGF29,Refractive error,Abnormality of refraction,GCST010002,16:28566610
+rs62026817-<b>?</b>,7 x 10-10,,'-,'-,'-,'-,"MMP2, MMP2-AS1",Refractive error,Abnormality of refraction,GCST010002,16:55459020
+rs28533147-<b>?</b>,4 x 10-10,,'-,'-,'-,'-,ZFHX3,Refractive error,Abnormality of refraction,GCST010002,16:73161950
+rs13339407-<b>?</b>,9 x 10-10,,'-,'-,'-,'-,WWOX,Refractive error,Abnormality of refraction,GCST010002,16:78122398
+rs4635359-<b>?</b>,2 x 10-28,,'-,'-,'-,'-,DYNLRB2,Refractive error,Abnormality of refraction,GCST010002,16:80503863
+rs1054521-<b>?</b>,6 x 10-9,,'-,'-,'-,'-,MAP1LC3B,Refractive error,Abnormality of refraction,GCST010002,16:87403114
+rs9892466-<b>?</b>,6 x 10-14,,'-,'-,'-,'-,ZZEF1,Refractive error,Abnormality of refraction,GCST010002,17:4066233
+rs9217-<b>?</b>,3 x 10-22,,'-,'-,'-,'-,ZBTB4,Refractive error,Abnormality of refraction,GCST010002,17:7459769
+rs2908972-<b>?</b>,4 x 10-84,,'-,'-,'-,'-,SHISA6,Refractive error,Abnormality of refraction,GCST010002,17:11503942
+rs115152181-<b>?</b>,4 x 10-27,,'-,'-,'-,'-,"COX10, CDRT15",Refractive error,Abnormality of refraction,GCST010002,17:14232808
+rs62070229-<b>?</b>,7 x 10-44,,'-,'-,'-,'-,"TMEM98, MYO1D",Refractive error,Abnormality of refraction,GCST010002,17:32900575
+rs35497503-<b>?</b>,1 x 10-24,,'-,'-,'-,'-,CDK12,Refractive error,Abnormality of refraction,GCST010002,17:39464374
+rs76324150-<b>?</b>,8 x 10-16,,'-,'-,'-,'-,"MAPT, MAPT-IT1",Refractive error,Abnormality of refraction,GCST010002,17:45895867
+rs7222840-<b>?</b>,1 x 10-44,,'-,'-,'-,'-,GNGT2,Refractive error,Abnormality of refraction,GCST010002,17:49203553
+rs8075811-<b>?</b>,7 x 10-42,,'-,'-,'-,'-,NOG,Refractive error,Abnormality of refraction,GCST010002,17:56657946
+rs3785837-<b>?</b>,3 x 10-21,,'-,'-,'-,'-,BCAS3,Refractive error,Abnormality of refraction,GCST010002,17:61391581
+rs1991401-<b>?</b>,2 x 10-13,,'-,'-,'-,'-,DDX5,Refractive error,Abnormality of refraction,GCST010002,17:64506317
+rs9895291-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,AXIN2,Refractive error,Abnormality of refraction,GCST010002,17:65554679
+rs62084693-<b>?</b>,7 x 10-12,,'-,'-,'-,'-,KPNA2,Refractive error,Abnormality of refraction,GCST010002,17:68039994
+rs4793501-<b>?</b>,3 x 10-24,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,17:70722593
+rs448203-<b>?</b>,4 x 10-14,,'-,'-,'-,'-,SEPTIN9,Refractive error,Abnormality of refraction,GCST010002,17:77498983
+rs9747347-<b>?</b>,2 x 10-50,,'-,'-,'-,'-,"NPLOC4, TSPAN10",Refractive error,Abnormality of refraction,GCST010002,17:81639794
+rs11659457-<b>?</b>,4 x 10-14,,'-,'-,'-,'-,"RNU6-349P, RPL6P27",Refractive error,Abnormality of refraction,GCST010002,18:6461152
+rs11564403-<b>?</b>,2 x 10-15,,'-,'-,'-,'-,CDH2,Refractive error,Abnormality of refraction,GCST010002,18:28082839
+rs1427039-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,RPL12P40,Refractive error,Abnormality of refraction,GCST010002,18:37767136
+rs10163854-<b>?</b>,6 x 10-12,,'-,'-,'-,'-,KC6,Refractive error,Abnormality of refraction,GCST010002,18:41582560
+rs16978339-<b>?</b>,3 x 10-36,,'-,'-,'-,'-,SLC14A2,Refractive error,Abnormality of refraction,GCST010002,18:45306271
+rs12965607-<b>?</b>,4 x 10-60,,'-,'-,'-,'-,MYO5B,Refractive error,Abnormality of refraction,GCST010002,18:49864655
+rs41396445-<b>?</b>,4 x 10-12,,'-,'-,'-,'-,TCF4,Refractive error,Abnormality of refraction,GCST010002,18:55574906
+rs9646588-<b>?</b>,9 x 10-12,,'-,'-,'-,'-,'-,Refractive error,Abnormality of refraction,GCST010002,18:65323331
+rs734559-<b>?</b>,2 x 10-14,,'-,'-,'-,'-,CNDP2,Refractive error,Abnormality of refraction,GCST010002,18:74512344
+rs72973714-<b>?</b>,3 x 10-8,,'-,'-,'-,'-,ZNF516,Refractive error,Abnormality of refraction,GCST010002,18:76364065
+rs8096658-<b>?</b>,5 x 10-10,,'-,'-,'-,'-,NFATC1,Refractive error,Abnormality of refraction,GCST010002,18:79396537
+rs123698-<b>?</b>,1 x 10-11,,'-,'-,'-,'-,PTBP1,Refractive error,Abnormality of refraction,GCST010002,19:807442
+rs75488612-<b>?</b>,2 x 10-9,,'-,'-,'-,'-,PIAS4,Refractive error,Abnormality of refraction,GCST010002,19:4037324
+rs10416763-<b>?</b>,4 x 10-16,,'-,'-,'-,'-,"CERS4, FBN3",Refractive error,Abnormality of refraction,GCST010002,19:8167850
+rs113628353-<b>?</b>,2 x 10-11,,'-,'-,'-,'-,NFIX,Refractive error,Abnormality of refraction,GCST010002,19:13090792
+rs939658-<b>G</b>,2 x 10-9,,0.52,'-,0.15 diopter decrease,[0.10-0.20],ANKRD34C-AS1,Refractive error,Abnormality of refraction,GCST000794,15:79159527
+rs634990-<b>C</b>,2 x 10-14,,0.47,'-,0.23 diopter increase,[0.228-0.232],"GJD2, LINC02252",Refractive error,Abnormality of refraction,GCST000795,15:34713872
+rs6519240-<b>?</b>,2 x 10-27,,'-,'-,'-,'-,"RBX1, Y_RNA",Refractive error,Abnormality of refraction,GCST010002,22:41020553
+rs255049-<b>?</b>,2 x 10-14,,'-,'-,'-,'-,DPEP3,Refractive error,Abnormality of refraction,GCST010002,16:67979568
+rs1401327-<b>A</b>,3 x 10-7,,0.113,1.139,'-,[1.084-1.198],RPL7P13,Refractive astigmatism,Astigmatism,GCST002685,2:49820345
+rs6892230-<b>A</b>,2 x 10-6,,0.016,1.236,'-,[1.133-1.349],NLN,Refractive astigmatism,Astigmatism,GCST002685,5:65843936
+rs12212674-<b>A</b>,1 x 10-6,,0.134,1.086,'-,[1.050-1.123],CASC15,Refractive astigmatism,Astigmatism,GCST002685,6:22086845
+rs7823467-<b>T</b>,3 x 10-7,,0.388,1.085,'-,[1.052-1.120],TOX,Refractive astigmatism,Astigmatism,GCST002685,8:59166175
+rs1944146-<b>A</b>,3 x 10-6,,0.524,1.08,'-,[1.046-1.115],"LINC02551, PPP1R10P1",Refractive astigmatism,Astigmatism,GCST002685,11:130820267
+rs1401327-<b>A</b>,4 x 10-8,"(EA, 25 years or older)",0.113,1.157,'-,[1.098-1.218],RPL7P13,Refractive astigmatism,Astigmatism,GCST002685,2:49820345
+rs12638075-<b>C</b>,5 x 10-6,"(EA, 25 years or older)",0.014,1.376,'-,[1.200-1.577],TRIM42,Refractive astigmatism,Astigmatism,GCST002685,3:140703546
+rs2309717-<b>A</b>,1 x 10-6,"(EA, 25 years or older)",0.089,1.143,'-,[1.083-1.206],ABLIM2,Refractive astigmatism,Astigmatism,GCST002685,4:28248616
+rs12212674-<b>A</b>,1 x 10-6,"(EA, 25 years or older)",0.496,1.099,'-,[1.058-1.142],CASC15,Refractive astigmatism,Astigmatism,GCST002685,6:22086845
+rs4799964-<b>G</b>,1 x 10-6,"(EA, 25 years or older)",0.02,1.267,'-,[1.152-1.394],'-,Refractive astigmatism,Astigmatism,GCST002685,18:30405513
+rs6688613-<b>T</b>,3 x 10-6,"(EA, less than 25 years)",0.24,1.309,'-,[1.170-1.465],MAEL,Refractive astigmatism,Astigmatism,GCST002685,1:166982632
+rs1366200-<b>G</b>,1 x 10-6,"(EA, less than 25 years)",0.312,1.308,'-,[1.174-1.457],LVRN,Refractive astigmatism,Astigmatism,GCST002685,5:115986122
+rs17712049-<b>C</b>,4 x 10-6,"(EA, less than 25 years)",0.875,1.569,'-,[1.295-1.902],ABCA13,Refractive astigmatism,Astigmatism,GCST002685,7:48226598
+rs13257518-<b>A</b>,2 x 10-6,"(EA, less than 25 years)",0.177,1.37,'-,[1.202-1.561],NRG1,Refractive astigmatism,Astigmatism,GCST002685,8:32778056
+rs7534824-<b>A</b>,9 x 10-7,"(Asian, 25 years or older)",0.967,2.304,'-,[1.651-3.214],S1PR1,Refractive astigmatism,Astigmatism,GCST002685,1:101155890
+rs10496034-<b>C</b>,2 x 10-6,"(Asian, 25 years or older)",0.17,1.216,'-,[1.122-1.318],EML6,Refractive astigmatism,Astigmatism,GCST002685,2:54917798
+rs428445-<b>T</b>,2 x 10-6,"(Asian, 25 years or older)",0.713,1.314,'-,[1.175-1.470],"RTF2, CASS4",Refractive astigmatism,Astigmatism,GCST002685,20:56461491
+rs12193446-<b>?</b>,9 x 10-6,,'-,'-,'-,'-,LAMA2,Myopia,Myopia,GCST002615,6:129498893
+rs10113215-<b>?</b>,1 x 10-8,,'-,'-,'-,'-,'-,Myopia,Myopia,GCST002615,8:59219635
+rs1370156-<b>?</b>,2 x 10-7,,'-,'-,'-,'-,"GJD2, LINC02252",Myopia,Myopia,GCST002615,15:34692682
+rs4581716-<b>?</b>,2 x 10-6,,'-,'-,'-,'-,RBFOX1,Myopia,Myopia,GCST002615,16:7408134
+rs10500355-<b>?</b>,4 x 10-9,,0.3721,'-,0.111 unit decrease,[0.074-0.147],'-,Refractive error,Abnormality of refraction,GCST001898,Mapping not available
+rs2969180-<b>A</b>,7 x 10-11,,0.36,'-,0.101 unit decrease,[0.072-0.13],SHISA6,Refractive error,Abnormality of refraction,GCST001858,17:11504584
+rs1656404-<b>A</b>,8 x 10-11,,0.21,'-,0.153 unit decrease,[0.11-0.20],"PRSS56, ECEL1",Refractive error,Abnormality of refraction,GCST001858,2:232515231
+rs7084402-<b>G</b>,2 x 10-13,,0.48,'-,0.108 unit decrease,[0.079-0.137],BICC1,Refractive error,Abnormality of refraction,GCST001858,10:58505644
+rs2184971-<b>G</b>,2 x 10-8,,0.44,'-,0.085 unit increase,[0.056-0.114],PCCA,Refractive error,Abnormality of refraction,GCST001858,13:100165838
+rs12229663-<b>G</b>,5 x 10-9,,0.27,'-,0.099 unit increase,[0.066-0.132],PTPRR,Refractive error,Abnormality of refraction,GCST001858,12:70856216
+rs235770-<b>T</b>,2 x 10-8,,0.39,'-,0.089 unit decrease,[0.058-0.12],BMP2,Refractive error,Abnormality of refraction,GCST001858,20:6781118
+rs7837791-<b>T</b>,4 x 10-12,,0.49,'-,0.106 unit increase,[0.077-0.135],'-,Refractive error,Abnormality of refraction,GCST001858,8:59266527
+rs4793501-<b>C</b>,3 x 10-8,,0.42,'-,0.08 unit increase,[0.053-0.107],'-,Refractive error,Abnormality of refraction,GCST001858,17:70722593
+rs1881492-<b>T</b>,5 x 10-11,,0.22,'-,0.139 unit decrease,[0.098-0.18],CHRNG,Refractive error,Abnormality of refraction,GCST001858,2:232542288
+rs14165-<b>A</b>,2 x 10-8,,0.32,'-,0.096 unit increase,[0.063-0.129],"CHDH, CACNA1D",Refractive error,Abnormality of refraction,GCST001858,3:53813381
+rs1960445-<b>C</b>,1 x 10-6,,0.017,'-,0.114 unit decrease,[0.067-0.161],"CFAP299, BMP3",Refractive error,Abnormality of refraction,GCST001858,4:81009660
+rs12205363-<b>C</b>,2 x 10-12,,0.1,'-,0.235 unit increase,[0.17-0.3],LAMA2,Refractive error,Abnormality of refraction,GCST001858,6:129513484
+rs7829127-<b>G</b>,4 x 10-10,,0.25,'-,0.116 unit increase,[0.081-0.151],ZMAT4,Refractive error,Abnormality of refraction,GCST001858,8:40868875
+rs7042950-<b>G</b>,4 x 10-8,,0.24,'-,0.096 unit decrease,[0.061-0.131],RORB,Refractive error,Abnormality of refraction,GCST001858,9:74534921
+rs10882165-<b>T</b>,1 x 10-11,,0.42,'-,0.107 unit decrease,[0.076-0.138],"NIP7P1, XRCC6P1",Refractive error,Abnormality of refraction,GCST001858,10:93164567
+rs11601239-<b>C</b>,6 x 10-9,,0.46,'-,0.095 unit decrease,[0.064-0.126],GRIA4,Refractive error,Abnormality of refraction,GCST001858,11:105685872
+rs3138144-<b>C</b>,4 x 10-12,,0.48,'-,0.119 unit increase,[0.086-0.152],RDH5,Refractive error,Abnormality of refraction,GCST001858,12:55720985
+rs524952-<b>A</b>,1 x 10-15,,0.48,'-,0.158 unit decrease,[0.12-0.2],"GJD2, LINC02252",Refractive error,Abnormality of refraction,GCST001858,15:34713685
+rs4778879-<b>G</b>,4 x 10-11,,0.44,'-,0.102 unit decrease,[0.073-0.131],RASGRF1,Refractive error,Abnormality of refraction,GCST001858,15:79080533
+rs17183295-<b>T</b>,1 x 10-10,,0.23,'-,0.131 unit decrease,[0.092-0.17],MYO1D,Refractive error,Abnormality of refraction,GCST001858,17:32751254
+rs12971120-<b>G</b>,2 x 10-7,,0.23,'-,0.099 unit increase,[0.062-0.136],CNDP2,Refractive error,Abnormality of refraction,GCST001858,18:74506788
+rs9307551-<b>A</b>,1 x 10-8,,0.25,'-,0.099 unit decrease,[0.066-0.132],LINC00989,Refractive error,Abnormality of refraction,GCST001858,4:79609517
+rs7744813-<b>C</b>,4 x 10-9,,0.41,'-,0.112 unit increase,[0.075-0.149],'-,Refractive error,Abnormality of refraction,GCST001858,Mapping not available
+rs11145465-<b>A</b>,7 x 10-9,,0.25,'-,0.124 unit decrease,[0.083-0.165],TJP2,Refractive error,Abnormality of refraction,GCST001858,9:69151677
+rs1254319-<b>A</b>,1 x 10-8,,0.32,'-,0.088 unit decrease,[0.059-0.117],C14orf39,Refractive error,Abnormality of refraction,GCST001858,14:60437039
+rs17648524-<b>C</b>,6 x 10-10,,0.36,'-,0.118 unit decrease,[0.081-0.155],RBFOX1,Refractive error,Abnormality of refraction,GCST001858,16:7409682
